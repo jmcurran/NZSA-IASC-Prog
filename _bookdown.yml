@@ -1,6 +1,6 @@
-book_filename: "IBSAR-Programme"
+book_filename: "NZSA-IASC-Programme"
 chapter_name: " "
-repo: https://github.com/jmcurran/ISBAR-Prog
+repo: https://github.com/jmcurran/NZSA-IASC-Prog
 output_dir: docs
 rmd_files: ["index.Rmd", "00-Programme.Rmd", "01-Monday.Rmd", "02-Tuesday.Rmd", "03-Wednesday.Rmd", "04-Thursday.Rmd", "05-Posters.Rmd",]
 clean: [packages.bib, bookdown.bbl]
