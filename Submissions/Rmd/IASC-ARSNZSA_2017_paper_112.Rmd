@@ -1,0 +1,31 @@
+<span>**Analysis of Official Microdata Using Secure Statistical
+Computation System** </span>
+
+Kiyomi SHIRAKAWA$^1$, Koji CHIDA$^2$, Satoshi TAKAHASHI$^2$, Satoshi
+TANAKA$^2$, Ryo KIKUCHI$^2$ and Dai IKARASHI$^2$
+
+$^1 \;$ National Statistics Center, Japan / Hitotsubashi University
+
+$^2 \;$ NTT Secure Platform Laboratories
+
+<span>**Abstract**</span>. We introduce some important functions on a
+secure computation system and empirically evaluate them using the
+statistical computing software R. The secure computation is a
+cryptographic technology that enables us to operate data while keeping
+the data encrypted. Due to the remarkable aspect, we can construct a
+secure on-line analytical system to protect against unauthorized access,
+computer virus and internal fraud. Moreover, the function of secure
+computation has a benefit for privacy.
+
+So far, we developed a secure computation system that runs R as a
+front-end application. In this research, we focus on the analysis of
+official microdata using our secure computation system. By employing the
+R script language to secure computation, we can potentially make new
+functions for the analysis of official microdata on our secure
+computation system. We show some examples of functions on the system
+using the R script language. A demonstration experiment to verify the
+practicality and scalability of the system in the field of official
+statistics is also in our scope.
+
+<span>**Keywords**</span>. Secure Computation, Security, Privacy, Big
+Data, Official Statistics, R

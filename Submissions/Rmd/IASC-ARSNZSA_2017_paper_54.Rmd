@@ -1,0 +1,48 @@
+**Statistical Disclosure Control with R:\
+Traditional Methods and\
+**
+
+Synthetic Data
+
+Matthias Templ$^1$
+
+$^1 \;$ Institute for Data Analysis and Process Design, Zurich
+University of Applied Sciences, Winterthur, CH-8404, Switzerland
+
+<span>**Abstract**</span>. The demand for and volume of data from
+surveys, registers or other sources containing sensible information on
+persons or enterprises have increased significantly over the last
+several years. At the same time, privacy protection principles and
+regulations have imposed restrictions on the access and use of
+individual data. Proper and secure microdata dissemination calls for the
+application of statistical disclosure control methods to the data before
+release. Traditional approaches to (micro)data anonymization, including
+data perturbation methods, disclosure risk methods, data utility and
+methods for simulating synthetic data have been made available in R.
+After introducing the audience to the R packages sdcMicro and simPop,
+the presentation will focus on new developments and research for
+generating close-to-reality synthetic data sets using specific
+model-based approaches. The resulting data can work as a proxy of
+real-world data and they are useful for training purposes, agent-based
+and/or microsimulation experiments, remote execution as well as they can
+be provided as public-use files. The strength and weakness of the
+methods are highlighted and an (brief) application to the Euorpean
+Statistics of Income and Living Condition Survey is given.
+
+<span>**Keywords**</span>. Statistical Disclosure Control,
+Anonymization, Disclosure Risk, Synthetic Data
+
+References {#references .unnumbered}
+----------
+
+Templ, M. (2017). *Statistical Disclosure Control for Microdata. Methods
+and Applications in R*, Springer International Publishing.
+doi:10.1007/978-3-319-50272-4
+
+Templ, M., Kowarik, A., Meindl, B. (2015). Statistical Disclosure
+Control for Micro-Data Using the R Package sdcMicro. *Journal of
+Statistical Software*, 67(4), 1-36. doi:10.18637/jss.v067.i04
+
+Templ, M., Kowarik, A., Meindl, B., Dupriez, O. (2017). Simulation of
+Synthetic Complex Data: The R Package simPop. *Journal of Statistical
+Software*, 79(10), 1-38. doi:10.18637/jss.v079.i10

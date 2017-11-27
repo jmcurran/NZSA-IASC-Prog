@@ -1,0 +1,87 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Computation of influence functions for robust statistics}
+
+
+\vspace{1.0cm}
+
+Maheswaran Rohan 
+
+\begin{description}
+
+\item  Department of Biostatistics and Epidemiology,
+Auckland University of Technology, Auckland, New Zealand.
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+
+Robust statistics are often computed when outliers are present. One of the diagnostics tools for assessing the robustness of estimation is the influence function, which measures the impact on a statistic of adding new data to or removing existing data from the data set. It is also useful for computing the standard error of the statistic.
+
+The computation of influence function for closed form estimates is relatively easy in comparison to that for non-closed form estimates.  However, robust statistics are often not in closed form and are computed using iterative algorithms. Obtaining the analytical form of the empirical influence functions of robust statistics for multiple parameters is rare in the current literature and not easy.  
+
+In this talk, I use matrix algebra including matrix derivation to show how influence functions for robust statistics can be obtained analytically, particularly in M-estimators with multiple of parameter vectors.
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Keywords M-estimators, One-step influence function, Jacobian matrix 
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+
+\end{document}
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+**Abstract:** The raw meteorological data need to be cleaned since they
+are from the diverse sources such as ASOS(Automated Synoptic Observing
+System) and AWS(Automatic Weather Station). The meteorological data in
+South Korea is observed from about 100 ASOS and 500 AWS. In order to
+produce the high qualified meteorological data, several data quality
+control algorithms are applied. In this study, cluster analysis for
+almost 600 meteorological sites is applied depending on their climatic
+characteristics. After clustering, we propose the several threshold
+algorithms in the given cluster. The proposed threshold values for data
+quality control algorithms will be adequate to Korea climate condition
+by cluster and month. Thresholds of QC algorithms, which are step test,
+persistence test and climate range test, are determined. Through these
+algorithms and threshold, the qualified meteorological data can be
+produced for the improved forecast accuracy.\
+\
+**Key Words:** meteorological data quality control, threshold values,
+cluster analysis, step test, persistence test, climate range test.

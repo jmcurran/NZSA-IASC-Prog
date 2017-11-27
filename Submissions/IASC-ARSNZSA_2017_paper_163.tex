@@ -1,0 +1,83 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\textheight 680pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Spline-based Drift Models for High Temperature Operating Life Tests}
+
+
+\vspace{1.0cm}
+
+Vera Hofer$^1$ and Thomas Nowak$^1$
+
+\begin{description}
+
+\item $^1 \;$ Institute of Statistics and Operations Research, University of Graz, Graz, Austria
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+
+Since the proper operation of semiconductor devices is of crucial importance for the reliability of a vast range of products, issues concerning quality control are of central relevance to manufacturers. This quality control task is concerned with high temperature operating life tests, where devices are exposed to high temperatures, pressures or humidity, which causes the devices to age artificially fast.
+
+Based on measurements of a random sample of devices, the aim of this work is to compute tolerance limits, such that all subsequent measurements during the stress test stay within their predefined specification limits with a given high probability. These tolerance limits can then be used by automated test equipment for the quality control of devices directly from the production line without their prior exposure to stress test conditions.
+
+In this study, we model the drift behavior of electrical parameters using linear and cubic hermite splines, which are assumed to resemble the true, yet unobserved drift behavior. These spline models allow for the computation of probabilities for an electrical parameter to stay or leave its specification limits at a given point in time. While a very restrictive choice of the tolerance limits might achieve a high level of reliability, the resulting yield loss might get unnecessarily high. Therefore, we formulate an optimization problem that maximizes the probability for initial measurements to be within the tolerance limits (in order to minimize the resulting yield loss) and where the reliability requirement is formulated as a constraint. A derivative-free search algorithm is proposed for this optimization problem, which is then used to test the performance and validity of the model. 
+
+\vskip 2mm
+
+\noindent {\bf Acknowledgment}
+
+This work was supported by the ECSEL Joint Undertaking under grant agreement No. 662133 - PowerBase. This Joint Undertaking receives support from the European Union's Horizon 2020 research and innovation programme and Austria, Belgium, Germany, Italy, Netherlands, Norway, Slovakia, Spain and United Kingdom.
+\vskip 2mm
+
+\noindent {\bf Keywords}. quality control, tolerance limits, splines, reliability engineering
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\end{document}
+
+
+
+
+

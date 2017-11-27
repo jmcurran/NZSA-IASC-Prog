@@ -1,0 +1,100 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Lattice Polytope Samplers}
+
+
+\vspace{1.0cm}
+
+Martin L.~Hazelton$^1$
+
+\begin{description}
+
+\item $^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston North 4410, New Zealand
+
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Statistical inverse problems occur when we wish to learn about some random process that is
+observed only indirectly. Inference in such situations typically involves sampling possible values
+for the latent variables of interest conditional on the indirect observations. This talk is concerned
+with inverse problems for count data, for which the latent variables are constrained to lie on the
+integer lattice within a convex polytope (a bounded multidimensional polyhedron). An illustrative
+example arises in transport engineering where we observe vehicle counts entering or leaving each
+zone of the network, then want to sample possible interzonal patterns of traffic flow consistent with
+those entry/exit counts. Other problems with this structure arise when conducting exact inference
+for contingency tables, and when analysing capture-recapture data in ecology.
+
+In principle such sampling can be conducted using Markov chain Monte Carlo methods through a
+random walk on the lattice polytope, but it is challenging to design algorithms for doing so that are
+both computationally efficient and have guaranteed theoretical properties. The seminal work of 
+Diaconis and Sturmfels (1998) on Markov bases addresses some of the theoretical issues, but has 
+significant practical limitations. In this talk I shall discuss some preliminary findings based on 
+a more geometric approach to sampler design.
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+lattice bases, Markov bases, MCMC, statistical linear inverse problem
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item
+Diaconis, P., and Sturmfels, B. (1998). Algebraic algorithms for sampling from conditional distributions.
+\textit{The Annals of Statistics} {\bf 26}, 363-397.
+\end{description}
+
+\end{document}
+
+
+
+
+

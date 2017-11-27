@@ -1,0 +1,45 @@
+<span>**Clustering of research subject based on stochastic block
+model**</span>
+
+Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
+Junji Nakano $^1$
+
+$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
+
+$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
+Taipei 11529, Taiwan
+
+<span>**Abstract**</span>. In this paper, we propose a new clustering
+method to measure influence of papers in all areas of science. To see
+structure of entire relationship we apply stochastic block model (SBM)
+on big scale citation network data. SBM generates a matrix which divides
+several blocks which represent relationship among research fields. We
+show this matrix can be used to visual exploratory analysis. When lists
+of papers are mapped this matrix we can get useful information by varied
+locations in visually. Elastic Map is used as dimension reduction method
+to calculate scalar value onto onto the corresponding principal points
+of each papers. We demonstrate that this projection score is can be used
+to evaluate divergence impact of papers across all field. To illustrate
+one application of our method, we analyze 450k+ articles published
+between 1981 and 2016 Web of Science data. In this beta version of our
+system, Edward, probabilistic programming language is used for
+estimation of SBM parameters and calculation of divergence score of
+papers.
+
+<span>**Keywords**</span>. Institutional Research, Stochastic Block
+Model, Elastic Map
+
+References {#references .unnumbered}
+----------
+
+Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
+stochastic block structures. *Journal of the American Statistical
+Association*, 96, 1077–1087.
+
+Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds
+and their Practical Applications. *Computing*, 75(4), 359–379.
+
+Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
+(2016). Edward: A library for probabilistic modeling, inference, and
+criticism. *arXiv preprint arXiv:1610.09787*.

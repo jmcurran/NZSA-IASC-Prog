@@ -1,0 +1,108 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Symbolic data analytical approach to unauthorized-access logs}
+
+\vspace{1.0cm}
+
+Hiroyuki MINAMI and Masahiro MIZUTA
+
+\begin{description}
+
+\item Information Initiative Center, Hokkaido University, Sapporo 060-0811
+  JAPAN
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. We have been annoyed by tons of unwilling
+accesses in many Internet applications including SSH (Secure SHell) known
+as a typical remote access tool and E-mail delivery protocols.
+An attacked server put a report according to the configuration and the log
+files have grown day by day.
+
+Bad accesses might be caused by computer virus and so-called {\em zombie},
+a hi-jacked computer. We assume that the actions would have their
+own trends. For example, we sometimes find that a few attacks come
+simultaneously from only 1 site, however, we also find several attacks
+from a set of the sites within 1 minute or 1 day. The IP-Addresses might
+be variable, however, within the assigned range. It suggests that the
+victimizer is just one but gets an IP-Address allocation so many times.
+
+To analyze the log files and give an interpretation to them, we introduce
+Symbolic Data Analysis (SDA) to adopt its main idea {\em concept}.
+If we configure an appropriate {\em concept} whose elements ({\em
+  individuals} in SDA) are IP-Address, port-numbers and attack time span,
+we can reveal some relationship between {\em concepts} and classify them
+into perspective. The results would give us some useful information to
+protect our Internet environment.
+
+We discuss how we get them and the interpretation appropriately through
+some practical examples.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Invalid network access, Firewall, Massive Data Analysis
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item
+Collins, M. (2014). \textit{Network Security Through Data Analysis}. O'Reilly.
+
+\item
+Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
+logs by Internet Firewall. \textit {Proceedings of 2016 International
+  Conference for JSCS 30th Anniversary in Seattle}.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

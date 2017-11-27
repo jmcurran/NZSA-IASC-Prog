@@ -1,0 +1,38 @@
+<span>**Geographically Weighted Principal Component Analysis for
+Spatio-temporal Statistical Dataset**</span>
+
+Narumasa Tsutsumida$^1$, Paul Harris$^2$, and Alexis Comber$^3$,
+
+$^1 \;$ Graduate School of Global Environmental Studies, Kyoto
+University, Sakyo, Kyoto 6068501, JAPAN
+
+$^2 \;$ Sustainable Agricultural Sciences, Rothamsted Research, North
+Wyke, Okehampton, Devon, EX20 2SB, UK
+
+$^3 \;$ School of Geography, University of Leeds, Leeds LS2 9JT, UK
+
+<span>**Abstract**</span>. Spatio-temporal statistical datasets are
+becoming widely available for social, ecomonic, and environmental
+researches, however it is often difficult to summarize it and undermine
+hidden spatial/temporal patterns due to its complexity. Geographically
+weighted principal component analysis (GWPCA), which uses a moving
+window or kernel and applies localized PCAs over geographical scape, may
+be worth to do it, while to optimize kernel bandwidth size and to
+determine the number of component to retain (NCR) were the most concern
+(Tsutsumida et al (2017)). In this research we determine both of them
+together simultaneously so as to minimize leave-one-out residual
+coefficient of variation of GWPCA with changing bandwidth size and NCR.
+As a case study we use annual goat population statistics across 341
+administrative units in Mongolia in 1990-2012, and show spatiotemporal
+variations in data, especially influenced by natural disasters.
+
+<span>**Keywords**</span>. Geographically weighted model,
+Spatio-temporal data, Parameter optimization
+
+References {#references .unnumbered}
+----------
+
+Tsutsumida N., P. Harris, , A. Comber. 2017. The Application of a
+Geographically Weighted Principal Component Analysis for Exploring
+Twenty-three Years of Goat Population Change across Mongolia. *Annals of
+the American Association of Geographers*, **107(5)**, 1060–1074.

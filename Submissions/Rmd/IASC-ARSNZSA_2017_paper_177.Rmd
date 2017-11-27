@@ -1,0 +1,20 @@
+This paper describes an implementation of mobile learning initiative in
+Bioinformatics Training & Education Center (BITEC) for medical doctors
+supported from Ministry of Welfare and Public Health Korea. This project
+was initiated by Dept. of Bioinformatics & Statistics KNOU and Dept. of
+Medical Informatics of SNU Medical College for training medical doctors.
+The high penetration rates of mobile phone subscriptions and the rapid
+growing of handheld users show that it is viable for making inroads
+towards the usage of mobile devices as an alternative learning mode for
+distance learning. The mobile learning initiative is aimed to encourage
+learning and interactions in distance learning communities aiming to
+bridge the transactional distances faced by the learners and adopt
+mobility as the key tool in Bioinformatics courses delivery. The BITEC
+m-Learning initiative focuses on introducing Bioinformatics using
+handheld devices to be made easily accessible through the use of mobile
+devices for ODL Bioinformatics learners who are very busy medical
+doctors in ubiquitous learning environment. The m-Learning approach is
+considered as a learning alternative to support distance learners mainly
+working doctors and medical researchers in Korea. This research paper
+discusses the implementation of the mobile e-Book approach which has
+better affordable, accessible and flexible educational media.

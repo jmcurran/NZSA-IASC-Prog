@@ -1,0 +1,43 @@
+<span>**Regression with random effects for analysing correlated survival
+data: application to disease recurrences**</span>
+
+Richard Tawiah$^1$, Suzanne Chambers$^1$ and Shu-Kay Ng$^1$
+
+$^1 \;$ Menzies Health Institute Queensland, Griffith University, QLD,
+Australia
+
+<span>**Abstract**</span>. Correlated failure time data arise in many
+biomedical studies, due to multiple occurrences of the same disease in
+an individual patient. To account for this correlation phenomenon, we
+formulate a random effect (frailty) survival model with an
+autoregressive (AR) covariance structure and adopt the generalized
+linear mixed model (GLMM) methodology for estimation of regression and
+variance component parameters. A more general case of the problem is
+also considered via a multilevel random effect approach where the
+correlation of survival times is induced by a hierarchical clustering
+structure, such as the appearances of repeated failures in patients from
+the same hospital in a multicentre clinical trial setting. Our modelling
+problem is used to investigate prognostic and treatment effects on
+disease relapses in two data sets, (1) tumour recurrences in bladder
+cancer patients and (2) recurrent infections in children with chronic
+granulomatous disease (CGD). Using the first data set, the effect of
+treatment thiotepa was found to be insignificant but demonstrated an
+effect in reducing tumour recurrences with adjusted hazard ratio (AHR)
+of 0.58 (95% CI: 0.29-1.16, p=0.124). The initial number of tumours
+(AHR: 1.26, 95% CI: 1.08-1.47, p=0.004) had significant positive effect
+but the effect of the size of the largest initial tumour was
+insignificant. In the case of the CGD data, treatment gamma interferon
+showed a significant decreasing effect (AHR: 0.27, 95% CI: 0.13-0.56,
+p$<$0.001) on the incidence of recurrent infections. In addition, age
+effect was significant (AHR: 0.90, 95% CI: 0.81-1.0, p=0.042). Pattern
+of inheritance, height, weight, sex, use of corticosteroids and
+prophylactic antibiotics did not exhibit significant association with
+recurrent infections. The appropriateness of our modelling methodology
+is investigated in a simulation study. The simulation results show that
+parameters are satisfactorily estimated in the special case where AR
+random effect is merely used. However, in the multilevel context bias in
+the variance parameter of random hospital effect increases as the true
+magnitude of variation in hospital effects increases.
+
+<span>**Keywords**</span>. Frailty model, random effect, correlated
+survival times, recurrent event, GLMM, bladder cancer, CGD

@@ -1,0 +1,16 @@
+<span>**Promoting your R package**</span>
+
+Hadley Wickham$^1$
+
+$^1 \;$ RStudio, Houston TX, USA.
+
+<span>**Abstract**</span>.
+
+Your new statistical or data science tool is much more likely to be used
+if you provide it in a convenient form, like an R package. But how do
+people find out that your R package exists? I’ll provide a comprehensive
+overview of the options, including creating excellent documentation
+(with roxygen2) and vignettes (with rmarkdown), creating a package
+website (with pkgdown), and promoting your work on social media.
+
+<span>**R packages, websites**</span>.

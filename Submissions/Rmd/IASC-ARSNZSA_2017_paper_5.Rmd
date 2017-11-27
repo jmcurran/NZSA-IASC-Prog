@@ -1,0 +1,37 @@
+<span>**Transfer Regression and Predictive Distributions**</span>
+
+Shigetoshi Hosaka$^1$ and Jinfang Wang$^2$
+
+$^1 \;$ Hosaka Clinic of Internal Medicine, Tokyo, Japan
+
+$^2 \;$ Department of Mathematics and Informatics, Graduate School of
+Science, Chiba University, Japan
+
+<span>**Abstract**</span>. We introduce the *transfer regression*, a
+method for constructing prior distributions for parameters defining
+generalized linear models (GLM). The transfer regressions are based
+frequency tables, usually obtained by categorizing the continuous
+variables. So obtained prior information are transferred to the
+parameters defining the second stage GLM based on detailed data. at the
+second stage based on more detailed data. We illustrate these ideas by
+showing how to compute posterior predictive probabilities of contracting
+diabetes based on HbA1c data obtained from comprehensive medical
+examinations.
+
+<span>**Keywords**</span>. Bayesian generalized linear models, Markov
+chain Monte Carlo methods, posterior predictive distributions
+
+References {#references .unnumbered}
+----------
+
+Andrew D. Martin, Kevin M. Quinn and Jong Hee Park (2011). MCMCpack:
+Markov Chain Monte Carlo in R, *Journal of Statistical Software*,
+**42**, 1–21.
+
+Kass, R. E. and Wasserman, L. (1996). The Selection of Prior
+Distributions by Formal Rules, *Journal of the American Statistical
+Association*, **91**, 1343–1370.
+
+Wang, J. and Hosaka, S. (2017). Cell regression and reference prior,
+Symposium on “*Statistical Modelling and Computational Algorithms*", at
+Nagoya University, Febuary 18–19, 2017.

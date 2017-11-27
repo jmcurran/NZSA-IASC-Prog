@@ -1,0 +1,26 @@
+Epidemiologists often wish to determine the population impact of an
+intervention to remove or reduce a risk factor. Population attributable
+type measures, such as the population attributable risk (PAR) and
+population attributable fraction (PAF), provide a means of assessing
+this impact, in a way that is accessible for a non-statistical audience.
+To apply these concepts to epidemiological data, the calculation of
+estimates and confidence intervals for these measures should take into
+account the study design (cross-sectional, case-control, survey) and any
+sources of uncertainty (such as measurement error in exposure to the
+risk factor).\
+We provide methods to produce estimates and Bayesian credible intervals
+for the PAR and PAF from common epidemiological study types and assess
+the Frequentist properties. The model is then extended by incorporating
+uncertainty due to the use of imperfect diagnostic tests for disease or
+exposure. The resulting model can be non-identifiable, causing
+convergence problems for common MCMC samplers, such as Gibbs and
+Metropolis-Hastings. An alternative importance sampling method performs
+much better for these non-identifiable models and can be used to explore
+the limiting posterior distribution. The data used to estimate these
+population attributable measures may include multiple risk factors in
+addition to the one being considered for removal. Uncertainty regarding
+the distribution of these risk factors in the population affects the
+inference for PAR and PAF. To allow for this we propose a methodology
+involving the Bayesian bootstrap. We also extend the analysis to allow
+for complex survey designs with unequal weights, stratification and
+clustering.

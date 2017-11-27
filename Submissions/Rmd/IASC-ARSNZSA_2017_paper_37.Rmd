@@ -1,0 +1,58 @@
+<span>**Bayesian curve fitting for discontinuous function using
+overcomplete representation with multiple kernels**</span>
+
+Youngseon Lee$^1$, Shuhei Mano$^2$ and Jaeyong Lee$^1$
+
+$^1 \;$ Department of Statistics, College of Natural Science, Seoul
+National University, 56-1 Mountain, Sillim-dong, Gwanak-gu, Seoul, Korea
+
+$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+<span>**Abstract**</span>. We propose a new Bayesian methodology for
+estimating discontinuous functions. In this model, the estimated
+function is expressed by the overcomplete representation with multiple
+kernels. Therefore, the complex shape of functions can be expressed by
+the much smaller number of parameters due to the nature of the
+sparseness. It does not need any assumptions about the location of
+discontinuities, the smoothness of the function, the number of features.
+The form of the function taking all of these into account is determined
+naturally by the random Levy measure. Simulation data and real data
+analysis show that this model is suitable for fitting discontinuous
+functions. We also proved theoretical properties about the support of
+the function space having jumps in this paper.
+
+<span>**Keywords**</span>. Bayesian, nonparametric regression,
+discontinuous curve fitting, overcomplete, multiple kernel, Levy random
+field
+
+References {#references .unnumbered}
+----------
+
+Chu, J. H., Clyde, M. A., and Liang, F. (2009). Bayesian function
+estimation using continuous wavelet dictionaries, *Statistica Sinica*,
+1419–1438
+
+Clyde, M. A., and Wolpert, R. L. (2007). Nonparametric function
+estimation using overcomplete dictionaries, *Bayesian Statistics*,
+**8**, 91–114.
+
+Green, Peter J. (1995). Reversible jump Markov chain Monte Carlo
+computation and Bayesian model determination, *Biometrika*, **82(4)**,
+711–732.
+
+Khinchine, Alexander Ya and L<span>é</span>vy, Paul (1936). Sur les lois
+stables, *CR Acad. Sci. Paris*, **202**, 374–376.
+
+M<span>ü</span>ller, P., and Quintana, F. A. (2004). Nonparametric
+Bayesian data analysis, *Statistical science*, 95–110
+
+Pillai, N. S., Wu, Q., Liang, F., Mukherjee, S., and Wolpert, R. L.
+(2007). Characterizing the function space for Bayesian kernel models,
+*Journal of Machine Learning Research*, **8**, 1769–1797.
+
+Qiu, Peihua (2011). *Jump Regression Analysis*. Springer.
+
+Wolpert, R. L., Clyde, M. A., and Tu, C. (2011). Stochastic expansions
+using continuous dictionaries: L<span>é</span>vy adaptive regression
+kernels, The *Annals of Statistics*, 1916–1962.

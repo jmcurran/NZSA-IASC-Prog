@@ -1,0 +1,32 @@
+<span>**Fluctuation Reduction of Value-at-Risk Estimation and its
+Applications**</span>
+
+Shih-Feng Huang
+
+Department of Applied Mathematics, National University of Kaohsiung,
+Kaohsiung, 81148, Taiwan
+
+<span>**Abstract**</span>. Value-at-Risk (VaR) is a fundamental tool for
+risk management and is also associated with the capital requirements of
+banks. Banks need to adjust their capital levels for satisfying the
+Basel Capital Accord. On the other hand, managements do not like to
+change the capital levels too often. To achieve a balance, this study
+proposes an approach to reduce the fluctuation of VaR estimation. The
+first step is to fit a time series model to the underlying asset returns
+and obtain the conventional VaR process. A new VaR (NVaR) estimation of
+the conventional VaR process is then determined by applying change-point
+detection algorithms and a proposed combination scheme. The capital
+levels computed from the NVaR process are capable of satisfying the
+Basel Accord and reducing the fluctuation of capital levels
+simultaneously. To apply the proposed method to the calculation of
+future capital requirements, an innovative approach for NVaR prediction
+is also proposed by incorporating the concept of CUSUM control charts.
+The return processes of 30 companies on the list of S$\&$P 500 from 2005
+to 2016 are employed for our empirical investigation. Numerical results
+indicate that the proposed NVaR prediction is capable of satisfying the
+Basel Accord and reducing the fluctuation of capital requirements
+simultaneously by using a comparable average amount of capital
+requirements to the conventional VaR estimator.
+
+<span>**Keywords**</span>. Capital requirement, change point detection,
+CUSUM control chart, fluctuation reduction, Value-at-Risk

@@ -1,0 +1,26 @@
+<span>**Correlated Defaults with a Distance to Default**</span>
+
+Cheng-Der Fuh $^1$ and Chu-Lan Michael Kao$^2$
+
+$^1 \;$ Graduate Institute of Statistics, National Central University,
+Taoyuan City 32001, Taiwan
+
+$^2 \;$ Institute of Statistics, National Chiao-Tung University, Hsinchu
+30010, Taiwan
+
+<span>**Abstract**</span>. To study the feature of default clustering in
+credit risk management, this paper evaluates joint default probabilities
+and default correlation for multiple firms through the classical default
+barrier structure form model. Under the commonly used factor model, by
+making use of a developed renewal theory, we provide a closed form
+approximation for the joint default probability, default correlation and
+expected default time, both for a specific firm as well as the first to
+default among a group of firms. Moreover, based on the approximated
+default correlation and expected default time, we propose a multi-name
+Distance-to-Default, which can be used to explain the feature of
+corporate default clustering: contagion and co-movement. Numerical
+studies for evaluating a multi-name Distance-to-Default are given to
+illustrate our model.
+
+<span>**Keywords**</span>. Correlated defaults, factor model, distance
+to default, renewal theory

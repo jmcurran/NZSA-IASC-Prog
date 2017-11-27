@@ -1,0 +1,30 @@
+\documentclass[12pt,twoside,a4paper]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage[]{color}
+\usepackage{graphicx}
+\usepackage[top=1in, bottom=1.25in, left=1.25in, right=1.25in]{geometry}
+
+\pagestyle{plain}
+
+
+
+
+\begin{document}
+
+
+In livestock, a primary goal is the identification of individuals' breeding values - a measure of their genetic worth. This identification can be used to aid with selective breeding, but is non trivial due to how large data can be.
+
+Measured traits are typically modelled as being caused by both breeding values and also environmental fixed effects. An efficient method for fitting this model was developed by Henderson (1984), based upon generalized least squares. This method could be applied to data where the pedigree - how each animal was related to one another - was fully known.
+
+Improvements in technology have allowed the genetic information of an animal to be directly measured. These measurements can be taken very early in life, with the goal of informing selective breeding faster and more efficiently. Meuwissen (2001) adapted the standard model to incorporate genetic data, and additionally developed multiple fitting methods for this model.
+
+Modern datasets are frequently only partially genotyped. The methods of Meuwissen cannot be used for these data, as they are only applicable to populations in which every individual is gentoyped. Modern fitting approaches aim to make use of the available genetic information without requiring all individuals be genotyped.
+
+These approaches tend to either impute or average over missing genotype data, which can affect the overall accuracy of breeding value estimation. We are developing an alternative which instead incorporates missing data within the model, rather than having to adapt fitting approaches to accommodate it.
+
+Preliminary results suggest that approaching fitting is this way can lead to improved accuracy of estimation in certain situations.
+
+\end{document}          

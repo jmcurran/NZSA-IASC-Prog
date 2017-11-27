@@ -1,0 +1,134 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Model-based clustering for multivariate categorical data with
+ dimension reduction}
+
+
+\vspace{1.0cm}
+
+Michio Yamamoto$^1$
+
+\begin{description}
+
+\item $^1 \;$ Graduate School of Environmental and Life Science, Okayama
+						University,
+Okayama, Japan
+
+% \item $^2 \;$ Center for Applied Research in Computer Science,
+% Applied Research Laboratory, Anyville, AB 12345, USA
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. A novel model-based clustering procedure for
+multivariate categorical data is proposed. The proposed model assumes
+that each response probability has a low-dimensional representation of
+the cluster structure, which is constructed by weights for categorical
+variables and scores for cluster representatives. For the visualization
+of the cluster structure, we define low-dimensional scores for
+individuals as convex combinations of scores for cluster
+representatives, which may be interpretable in a similar manner to the
+archetypal analysis developed by Cutler and Breiman (1994). Because the
+proposed model has the so-called rotational indeterminacy, it is needed
+to conduct rotation methods after parameter estimation to obtain
+interpretable results. Instead of this two-step approach, we develop a
+penalized likelihood procedure that imposes a sparsity-inducing penalty
+on the weights for categorical variables. To optimize the proposed
+penalized likelihood criterion, we develop an expectation-maximization
+(EM) algorithm with gradient projection and coordinate descent. It is
+shown that there is trade-off relation between the convergence rate of
+the algorithm and the cluster recovery.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.  clustering, categorical data, dimension
+reduction, EM algorithm, sparse estimation
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+ \item Cutler, A., Breiman, L. (1994). Archetypal
+						 analysis. \textit{Technometrics}, \textbf{36}, 338--347.
+
+ \item Yamamoto, M., Hayashi, K. (2015). Clustering of multivariate
+						 binary data with dimension reduction via
+						 $L_{1}$-regularized likelihood
+						 maximization. \textit{Pattern Recognition}, \textbf{48},
+						 3959--3968.
+
+% \item
+% Barnett, J.A., Payne, R.W. and Yarrow, D. (1990).
+% \textit{Yeasts: Characteristics and identification: Second Edition.}
+% Cambridge: Cambridge University Press.
+
+% \item
+% (ed.) Barnett, V., Payne, R. and Steiner, R. (1995).
+% \textit{Agricultural Sustainability: Economic, Environmental and
+% Statistical Considerations}. Chichester: Wiley.
+
+% \item
+% Payne, R.W. (1997).
+% \textit{Algorithm AS314 Inversion of matrices Statistics},
+% \textbf{46}, 295--298.
+
+% \item
+% Payne, R.W. and Welham, S.J. (1990).
+% A comparison of algorithms for combination of information in generally
+% balanced designs.
+% In: \textit{COMPSTAT90 Proceedings in Computational Statistics}, 297--302.
+% Heidelberg: Physica-Verlag.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

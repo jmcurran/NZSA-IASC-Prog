@@ -1,0 +1,25 @@
+<span>**A Study of the Influence of Articles in the Large-Scale Citation
+Network**</span>
+
+Frederick K. H. Phoa and Livia Lin Hsuan Chang\
+<span>*Institute of Statistical Science, Academia Sinica, Taipei 115,
+Taiwan.*</span>\
+
+> <span>**Abstract:**</span> Nowadays there are many research metrics at
+> the author-, article-, journal-levels, like the impact factors and
+> many others. However, none of them possess a universally meaningful
+> interpretation on the research influence at all levels, not mentioning
+> that many are subject-biased and consider neighboring relations only.
+> In this work, we introduce a new network-based research metric called
+> the network influence. It utilizes all information in the whole
+> network and it is universal to any levels. Due to its statistical
+> origin, this metric is computationally efficient and statistically
+> interpretable even if one applies it to a large-scale network. This
+> work demonstrates the analysis of networks via network influence using
+> a large-scale citation database called the Web of Science. By just
+> considering the articles among statistics community in 2005-2014, the
+> network influence of all articles are calculated and compared,
+> resulting in a top-ten important articles that are slightly different
+> from the list via impact factors. This metric can be easily extended
+> to author citation network and many similar networks embedded in the
+> Web of Science.

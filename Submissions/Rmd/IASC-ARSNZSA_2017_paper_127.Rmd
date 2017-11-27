@@ -1,0 +1,33 @@
+Abstract: Missing data in Randomised Control Trials is usually
+unavoidable, but can present considerable issues to analysis in an
+Intention-to-Treat (ITT) setting. Multiple imputation is often regarded
+as the most appropriate method of handling missing data when compared
+with simpler methods such as complete case analysis and mean/mode
+imputation. However, in practice it can often be tricky to implement
+when working with large longitudinal datasets. The Sodium Lowering in
+Dialysate (SOLID) trial is a randomised control trial seeking to improve
+cardiovascular and other outcomes by lowering the dialysate
+concentration of sodium of patients on home haemodialysis. The trial
+contains 99 participants and over 30 primary and secondary outcomes.
+Missing data from various sources are present at baseline and at
+follow-up time points. Attempting to multiply impute a large number of
+outcomes, each measured at up to 4 follow-up times, proved to be a
+challenging task in this study. Several attempts to obtain sensible
+imputations were made but many of these failed due to the presence of
+highly correlated outcomes which were often missing together. This
+presentation discusses the approach taken to overcome this problem,
+which involved defining sets of outcomes to impute in various rounds,
+preventing sets of similar (highly correlated, missing together)
+outcomes being imputed in the same round. Once a round of imputation was
+completed, the next set of outcomes to be imputed was matched onto the
+completed dataset. This process is repeated until the full ITT dataset
+contains no missing values in any outcomes. We call this "stepped
+imputation". Theory from mixed models was also applied to seek measures
+associated with the missingness mechanism, with the potential to include
+them in the final model to further reduce any possible bias resulting
+from missing data. Results from a simulation to test the validity of
+"stepped imputation" will be presented. In this simulation, an attempt
+is made to generate data related in a similar way to the outcomes in the
+SOLID trial. Results from the "gold standard" analysis with no missing
+data, and the complete case analysis is compared to the stepped
+imputation method.

@@ -1,0 +1,97 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Simultaneous test for mean vectors and covariance matrices 
+in high-dimensional settings}
+
+
+\vspace{1.0cm}
+
+Takahiro Nishiyama$^1$ and Masashi Hyodo$^2$
+
+\begin{description}
+
+\item $^1 \;$ Department of Business Administration, Senshu University, 
+2-1-1, Higashimita, Tama-ku, Kawasaki-shi, Kanagawa 214-8580, Japan
+
+\item $^2 \;$ Department of Mathematical Sciences, Graduate School of Engineering, 
+Osaka Prefecture University, 
+1-1 Gakuen-cho, Naka-ku, Sakai, Osaka 599-8531, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+\renewcommand{\vec}[1]{\mbox{\boldmath ${#1}$}}
+
+Let $\vec{X}_{g1}$, $\vec{X}_{g2}$, $\ldots$, $\vec{X}_{gn_g}$ be 
+i.i.d. random samples of size $n_{g}$ from a $p$-dimensional 
+population $\Pi_g$ ($g \in \{1, 2\}$) with ${\rm E}(\vec{X}_{gi})=\vec{\mu}_g$ 
+and ${\rm var}(\vec{X}_{gi})=\Sigma_g$ ($i \in \{1, \ldots ,n_g\}$). 
+In this talk, our primary interest is to test following hypothesis 
+when $p > \min\{n_1-1, n_2-1 \}$: 
+\begin{eqnarray*}
+H_0 : \vec{\mu}_1 = \vec{\mu}_1,~ \Sigma_1 = \Sigma_2 \quad 
+\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.
+\end{eqnarray*}
+
+For this problem, we discuss an $L^2$-norm-based test for simultaneous 
+testing of mean vectors and covariance matrices among two non-normal populations. 
+To construct a test procedure, we propose a test statistic based on both unbiased 
+estimator of differences mean vectors proposed by Chen and Qin (2010) 
+and covariance matrices proposed by Li and Chen (2012). 
+Also, we derive an asymptotic distribution of this test statistic 
+and investigate the asymptotic sizes and powers of the proposed test. 
+Finally, we study the finite sample and dimension performance 
+of this test via Monte Carlo simulations.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Asymptotic distribution, High-dimensional data analysis, Testing hypothesis 
+
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Chen, S.X. and Qin, Y.L. (2010). 
+A two-sample test for high dimensional data with applications to
+gene-set testing. 
+\textit{Ann. Statist.},
+\textbf{38}, 808--835. 
+
+\item
+Li, J and Chen, S.X. (2012). 
+Two sample tests for high-dimensional covariance matrices. 
+\textit{Ann. Statist.},
+\textbf{40}, 908--940. 
+
+\end{description}
+
+\end{document}
+
+
+
+
+

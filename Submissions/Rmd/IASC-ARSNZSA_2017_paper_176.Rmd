@@ -1,0 +1,30 @@
+<span>**Bayesian semiparametric hierarchical models for longitudinal
+data analysis with application to dose-response studies**</span>
+
+Taeryon Choi
+
+Department of Statistics, Korea University, South Korea
+
+<span>**Abstract**</span>. In this work, we propose semiparametric
+Bayesian hierarchical additive mixed effects models for analyzing either
+longitudinal data or clustered data with applications to dose-response
+studies. In the semiparametric mixed effects model structure, we
+estimate nonparametric smoothing functions of continuous covariates by
+using a spectral representation of Gaussian processes and the
+subject-specific random effects by using Dirichlet process mixtures. In
+this framework, we develop semiparametric mixed effects models that
+include normal regression and quantile regressions with or without shape
+restrictions. In addition, we deal with the Bayesian nonparametric
+measurement error models, or errors-in-variable regression models, using
+Fourier series and Dirchlet process mixtures, in which the true
+covariate is not observable, but the surrogate of the true covariate, is
+only observed. The proposed methodology is compared with other existing
+approaches to additive mixed models in simulation studies and benchmark
+data examples. More importantly, we consider a real data application for
+dose-response analysis, in which measurement errors and shape
+constraints in the regression functions need to be incorporated with
+inter-study variability.
+
+<span>**Keywords**</span>. Cadmium toxicity, Cosine series,
+Dose-response study, Hierarchical Model, Measurement errors, Shape
+restriction

@@ -1,0 +1,102 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf A Unified Regularized Group PLS Algorithm
+Scalable to Big Data}
+
+
+\vspace{1.0cm}
+
+Pierre Lafaye de Micheaux$^1$ and Benoit  Liquet$^{2,3}$ and Matthew Sutton $^2$
+
+\begin{description}
+
+\item $^1 \;$ School of Mathematics and Statistics, UNSW Sydney, Australia
+
+\item $^2 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
+
+\item $^3 \;$ Laboratory of Mathematics and its Applications, University of Pau et Pays de L'Adour, UMR CNRS 5142, France
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Partial Least Squares (PLS) methods have been heavily exploited to analyse the association between two blocs of data. These powerful approaches can be applied to data sets where the number of variables is greater than the number of observations and in presence of high collinearity between variables. Different sparse versions of PLS have been developed to integrate multiple data sets while simultaneously selecting the contributing variables. Sparse modelling is a key factor in obtaining better estimators and identifying associations between multiple data sets. The cornerstone of the sparsity version of PLS methods is the link between the SVD of a matrix (constructed from deflated versions of the original matrices of data) and least squares minimisation in linear regression. We present here an accurate description of the most popular PLS methods, alongside their mathematical proofs. A unified algorithm is proposed to perform all four types of PLS including their regularised versions. Various approaches to decrease the computation time are offered, and we show how the whole procedure can be scalable to big data sets.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Big data, High dimensional data, Lasso Penalties, Partial Least Squares, Sparsity, SVD
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\vspace{-0.5cm}
+\subsection*{References}
+
+\begin{description}
+{\footnotesize
+\item Lafaye de Micheaux, P., Liquet, B. \& Sutton, M. (2017), \textit{A Unified Parallel Algorithm for
+Regularized Group PLS Scalable to Big Data}, ArXiv e-prints .
+\vspace{-0.2cm}
+
+\item Liquet, B., Lafaye de Micheaux, P., Hejblum, B. \& Thiebaut, R. (2016), \textit{Group and
+sparse group partial least square approaches applied in genomics context}, Bioinformatics
+32, 35-42.
+}
+
+\end{description}
+
+\end{document}
+
+
+
+
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

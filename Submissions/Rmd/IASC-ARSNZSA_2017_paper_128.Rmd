@@ -1,0 +1,39 @@
+<span>**Author Name Identification for Evaluating Research Performance
+of Institutes**</span>
+
+Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
+
+$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
+Kasumigaoka, Fukuoka 813-8529, Japan
+
+$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
+
+<span>**Abstract**</span>. In this paper, we propose a new framework to
+extract a complete list of the articles written by researchers who
+belong to a specific research or educational institute from an academic
+document database such as Web of Science and Scopus. In this framework,
+it is necessary to perform author name identification because the query
+for the database is based on the author’s name to extract documents
+written before the author comming to the current institute. The
+framework is based on the latent dirichlet allocation (LDA), which is a
+kind of topic modeling, and some techniques and indices such as synonym
+retrieval and inverse document frequency (IDF) are used for enhancing
+the framework.
+
+<span>**Keywords**</span>. Institutional Research, Topic Modeling,
+Latent Dirichlet Allocation
+
+References {#references .unnumbered}
+----------
+
+Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
+disambiguation based on approximate structure equivalence of cognitive
+maps. *Scientometrics*, 84(3), 763–784.
+
+Strotmann,A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
+for collaboration network analysis and visualization. *Proc. American
+Society for Information Science and Technology*, 46(1), 1–20.
+
+Soler,J.M. (2007). Separating the articles of authors with the same
+name. *Scientometrics*, 72(2), 281–290.

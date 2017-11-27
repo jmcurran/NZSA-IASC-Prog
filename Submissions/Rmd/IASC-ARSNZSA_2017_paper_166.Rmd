@@ -1,0 +1,44 @@
+<span>**Cross covariance estimation for integration of multi-omics
+data**</span>
+
+Johan Lim$^1$, Hiromi Koh$^2$, and Hyungwon Choi$^{2}$
+
+$^1 \;$ Department of Statistics, Seoul National University, Seoul,
+Korea
+
+$^2 \;$ School of Public Health, National University of Singapore
+
+<span>**Abstract**</span>. In integrative analysis of multiple types of
+-omics data, it is often of interest to infer associations between two
+different types of molecules. The prevailing analysis methods depend on
+ensemble of brute-force pairwise univariate association tests between
+the two types, best exemplified by expression quantitative loci (eQTL)
+mapping. In a nutshell, this problem can be generally framed as a sparse
+cross-covariance matrix. In this work, we propose a two-stage estimator
+of cross covariance matrix ${\mathbf{\Sigma_{XY}}}$ between $p$-vector
+${\mathbf{X}}$ and $q$-vector ${\mathbf{Y}}$, assuming that the two
+variables have regulatory relationships and that we know a group
+structure in the variables in ${\mathbf{X}}$. We first decompose the
+covariance matrix of ${\mathbf{X}}$, ${\mathbf{\Sigma_{XX}}}$, into
+systematic covariance consistent with the functional group information
+${\mathbf{\Sigma_{XX}}}^{(G)}$ and the residual covariance not explained
+by the group information ${\mathbf{\Sigma_{XX}}}^{(R)}$. Following this
+decomposition, we estimate the cross covariance matrix by multi-response
+group lasso, yielding
+${\mathbf{\Sigma_{XY}}}= {\mathbf{\Sigma_{XX}}}{\mathbf{B}}_{(p \times q)} = ({\mathbf{\Sigma_{XX}}}^{(G)} + {\mathbf{\Sigma_{XX}}}^{(R)}) {\mathbf{B}}_{(p \times q)}$.
+As a result of this decomposition, ${\mathbf{\Sigma_{XY}}}$ can also be
+expressed as the sum of a systematic term and a residual term, breaking
+down the cross-covariance into a fraction attributable to pathway-level
+regulation and the rest. We applied the method to epigenetic regulation
+analysis of mRNA expression by DNA methylation in the The Cancer Genome
+Atlas invasive breast cancer cohort.
+
+<span>**Keywords**</span>. Cross covariance matrix, data integration.
+
+References {#references .unnumbered}
+----------
+
+Simon, N., Friedman, J. and Hastie, T. (2013). *A Blockwise Descent
+Algorithm for Group-penalized Multiresponse and Multinomial Regression*
+
+Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.

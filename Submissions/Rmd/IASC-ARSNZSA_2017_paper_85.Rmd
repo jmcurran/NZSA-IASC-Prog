@@ -1,0 +1,69 @@
+Traumatic Brain Injury (TBI) is a major cause of death and disability.
+While moderate and severe forms of TBI develop the most significant
+impairments even mild TBI may be followed by persisting post-concussion
+symptoms, neurocognitive problems and mental health disorders such as
+anxiety. Cognitive impairments can impact on all areas of an
+individual's work, home and social life and are important to understand
+and predict overall recovery. These outcomes may be in part be
+determined by genetic variants that influence the molecular and
+physiological response of the brain to damage, as well as determining
+pre-injury reserve and vulnerability to co-morbidities.
+
+A number of studies have examined the relationship between genetic
+variants and outcomes following TBI. Most have examined groups with
+moderate to severe injury and are limited by small sample sizes,
+selection biases, failed to correct for ethnic factors, and have
+evaluated outcomes at various time points, making comparison between
+studies difficult.
+
+Using the population-based study of TBI in NZ (BIONIC) we analysed the
+association between cognitive outcomes with 18 genetic markers
+(SNPs-single nucleotide polymorphisms) from 12 genes previously studied
+in relation with TBI; FAAH, GAD1, WWC1, CHMR2, ANKK1, BDNF, NGB, BCL2,
+APOE, S100B, HMOX1 and COMT in a sample of 183 European and 76 Maori
+adults. We used the CNS-Vital Signs (computerised neurocognitive test
+battery) to provide 11 measures of cognitive functioning, memory and
+attention collected at baseline, 1-, 6-, 12- and 48 months post-injury.
+
+ANCOVA models were used to identify the association between time, SNP
+(modelled as major, heterozygous and minor alleles) and SNP by time
+effect for each CNS-Vital Signs outcome. Statistically significant
+findings were observed in both European and Maori samples for being
+associated with the same CNS-Vital Signs outcome for rs8191992 (CHMR2),
+rs4680 (rs4680), rs2071746 (HMOX1) and rs17071145 (WWC1).
+
+A linear mixed effects model was utilised to analyse each individual's
+natural cognitive recovery trajectory over time. The individuals' age,
+gender, whether or not this was their first TBI, the severity level of
+the mild TBI (low, medium or high) and SNP were all included in the
+model as covariates.
+
+Regression analyses identified the following SNPs to be statistically
+associated with several CNS-Vital Signs outcomes; rs8191992 (CHMR2) was
+shown to be associated with attention, neurocognition, composite memory,
+executive functioning as well as processing and psychomotor speed in
+Europeans.
+
+Whilst rs3798178 (GAD1) was associated with two domains of attention,
+neurocognition and three domains of memory (composite, visual and
+working) in Maori. We found rs3791879 was associated with increased
+attention and neurocognition in our European sample.
+
+Furthermore, the minor alleles of rs11604671 (ANKK1) were associated
+with poorer cognitive recovery (compared to those with homozygous major
+alleles) for two domains of attention, executive functioning, processing
+speed, social acuity and working memory over time in Maori. We found
+rs11604671 was associated with reduced executive functioning and
+processing speed in our European sample
+
+Unlike other genetic studies on TBI patients, our study investigated
+several different genetic variants in a larger ethnically diverse
+population sample of individuals with primarily mild TBI. Although our
+findings agreed with previous literature for genetic associations for
+cognitive recovery post-injury, for the first time, we were able to
+identify ethnic differences in specific genetic markers determining
+specific cognitive outcomes in European and Maori people with TBI.
+Further large TBI population based cohort studies are warranted to
+replicate these genetic associations, both locally and globally in order
+to better understand the differences underlying an individual's outcome
+trajectory and inform more effective treatment strategies.

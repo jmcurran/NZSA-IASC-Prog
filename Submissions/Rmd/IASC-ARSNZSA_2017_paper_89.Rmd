@@ -1,0 +1,33 @@
+<span>**Interactive visualization of aggregated symbolic data**</span>
+
+Yoshikazu YAMAMOTO$^1$ , Junji NAKANO$^2$ and Nobuo SHIMIZU$^2$
+
+$^1 \;$ Tokushima Bunri University, 1314-1 Shido, Sanuki-city, Kagawa
+769-2193, Japan
+
+$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+<span>**Abstract**</span>. When we have new “big data”, the first step
+may be to visualize them. For visualizing continuous multivariate data,
+interactive parallel coordinate plot is known to be appropriate.
+However, the number of data is huge and some variables are categorical,
+a simple parallel coordinate plot is not available. We propose to divide
+big data into rather small groups and summarize them as aggregated
+symbolic data (ASD), and visualize them by triangular arranged parallel
+coordinate plots.
+
+We have developed a statistical graphics software for this purpose. Our
+software equips interactive operations such as selection and linked
+highlighting, and is written by Java, R, and big data processing
+technologies such as Apache Hadoop and Apache Spark.
+
+Aggregated symbolic data is a set of descriptive statistics calculated
+by up to second order moments of variables in each group. We also
+propose further summarization of ASD to describe characteristics of each
+variable and a pair of variables for visualizing the difference among
+ASDs. Real example data are visualized by our software and interpreted
+intuitively.
+
+<span>**Keywords**</span>. Apache Hadoop, Apache Spark, Parallel
+coordinate plot, Symbolic data analysis.

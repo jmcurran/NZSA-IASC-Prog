@@ -1,0 +1,28 @@
+<span>**A package for multiple precision floating-point computation on
+R**</span>
+
+Ei-ji NAKAMA$^1$ and Junji NAKANO$^2$
+
+$^1 \;$ COM-ONE Ltd., 2-5-1 Asahidai, Nomi-city, Ishikawa 923-1211,
+Japan
+
+$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+<span>**Abstract**</span>. As recent requirements for numerical
+computation performed by R become larger and more complicated, errors
+from floating-point arithmetic become problematic. In R, double
+precision floating-point arithmetic is usually performed, but it may not
+be adequate or precise for some situations. To avoid and detect errors
+of double precision floating-point arithmetic, multiple precision
+arithmetic is useful. Several multiple precision arithmetic packages
+exist on R, but their abilities are limited. Therefore we provide
+another multiple precision arithmetic package Rmpenv, which can handle
+multiple precision arithmetic for real and complex numbers, matrix
+product and inversion, etc. We also provide a syntactic sugar to make
+easy the multiple precision computation on R. We utilize a free and open
+source MPACK library for multiple precision arithmetic and linear
+algebra computation.
+
+<span>**Keywords**</span>. Double precision, floating-point arithmetic,
+MPACK

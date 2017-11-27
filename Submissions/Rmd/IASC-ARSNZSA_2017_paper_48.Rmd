@@ -1,0 +1,39 @@
+<span>**Selecting Generalised Linear Models Under Inequality
+Constraints**</span>
+
+Daniel Gerhard
+
+School of Mathematics & Statistics, University of Canterbury,
+Christchurch, NZ
+
+<span>**Abstract**</span>. Model selection by information criteria can
+be used to identify a single best model or for inference based on
+weighted support from a set of competing models, incorporating model
+selection uncertainty into parameter estimates and estimates of
+precision. Anraku (1999) proposed a modified version of the well known
+Akaike information criterion, selecting models in the one-way analysis
+of variance models when the population means are subject to monotone
+trends. A generalization of this order-restricted information criterion
+was proposed by Kuiper et al. (2011), allowing a restriction of
+population means by a mixture of linear equality and inequality
+constraints.
+
+An extension to this approach is presented, applying the generalized
+order-restricted information criterion to model selection from a set of
+generalized linear models. The class of models can comprise linear
+equality or inequality constraints of population parameters assuming a
+distribution of the exponential family for the response. The methodology
+is illustrated using the open source environment R with the add-on
+package `goric`.
+
+<span>**Keywords**</span>. Model selection, Order-restriction, GLM
+
+References {#references .unnumbered}
+----------
+
+Anraku, K. (1999). An information criterion for parameters under a
+simple order restriction. *Biometrika*, **86**, 141–152.
+
+Kuiper, R.M., Hoijtink, H., Silvapulle, M.J. (2011). An Akaike-type
+information criterion for model selection under inequality constraints.
+*Biometrika*, **98**, 495–501.

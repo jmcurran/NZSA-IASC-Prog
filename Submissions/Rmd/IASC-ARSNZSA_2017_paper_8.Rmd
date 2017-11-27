@@ -1,0 +1,39 @@
+<span>**Lattice Polytope Samplers**</span>
+
+Martin L. Hazelton$^1$
+
+$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
+North 4410, New Zealand
+
+<span>**Abstract**</span>. Statistical inverse problems occur when we
+wish to learn about some random process that is observed only
+indirectly. Inference in such situations typically involves sampling
+possible values for the latent variables of interest conditional on the
+indirect observations. This talk is concerned with inverse problems for
+count data, for which the latent variables are constrained to lie on the
+integer lattice within a convex polytope (a bounded multidimensional
+polyhedron). An illustrative example arises in transport engineering
+where we observe vehicle counts entering or leaving each zone of the
+network, then want to sample possible interzonal patterns of traffic
+flow consistent with those entry/exit counts. Other problems with this
+structure arise when conducting exact inference for contingency tables,
+and when analysing capture-recapture data in ecology.
+
+In principle such sampling can be conducted using Markov chain Monte
+Carlo methods through a random walk on the lattice polytope, but it is
+challenging to design algorithms for doing so that are both
+computationally efficient and have guaranteed theoretical properties.
+The seminal work of Diaconis and Sturmfels (1998) on Markov bases
+addresses some of the theoretical issues, but has significant practical
+limitations. In this talk I shall discuss some preliminary findings
+based on a more geometric approach to sampler design.
+
+<span>**Keywords**</span>. lattice bases, Markov bases, MCMC,
+statistical linear inverse problem
+
+References {#references .unnumbered}
+----------
+
+Diaconis, P., and Sturmfels, B. (1998). Algebraic algorithms for
+sampling from conditional distributions. *The Annals of Statistics*
+<span>**26**</span>, 363-397.

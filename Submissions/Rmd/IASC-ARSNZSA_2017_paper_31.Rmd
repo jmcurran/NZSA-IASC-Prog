@@ -1,0 +1,31 @@
+<span>**Vector Generalized Linear Time Series Models**</span>
+
+Victor Miranda$^1$ and Thomas Yee$^1$
+
+$^1 \;$ Department of Statistics, University of Auckland, Auckland, NZ.
+
+<span>**Abstract**</span>. Since the introduction of the ARMA class in
+the early 1970s many time series (TS) extensions have been proposed,
+e.g., vector ARMA and GARCH-type models for heteroscedasticity. The
+result has been a plethora of models having pockets of substructure but
+little overriding framework. In this talk we propose a class of TS
+models called Vector Generalized Linear Time Series Models (VGLTSM),
+which can be thought of as multivariate generalized linear models
+directed towards time series data. The crucial VGLM ideas are constraint
+matrices, vector responses and covariate-specific linear predictors, and
+estimation by iteratively reweighted least squares and Fisher scoring.
+The only addition to the VGLM framework is a log-likelihood that depends
+on past values. We show how several popular sub-classes of TS models are
+accommodated as special cases of VGLMs, as well as new work that
+broadens TS modelling even more. Algorithmic details of its
+implementation in , and properties such as stationarity, parameters
+depending on covariates, expected information matrices and cointegrated
+TS are surveyed.
+
+<span>**Keywords**</span>. VGLM, time series, Fisher scoring.
+
+References {#references .unnumbered}
+----------
+
+Yee, T. W. (2015) *Vector Generalized Linear and Additive Models: With
+an Implementation in R.* New York, USA: Springer.

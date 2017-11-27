@@ -1,0 +1,23 @@
+<span>**Ranking Potential Shoplifters in Real Time**</span>
+
+Barry McDonald
+
+Institute of Natural and Mathematical Sciences, Massey University,
+Albany, Auckland, NZ
+
+<span>**Abstract**</span>. A company with a focus on retail crime
+prevention brought to MINZ (Mathematics in Industry in New Zealand) the
+task of “<span>*Who is most likely to offend in my store, now*</span>”.
+The company supplied an anonymised set of data on incidents and
+offenders. The task, for the statisticians and mathematicians involved,
+was to try to find ways to use the data to nominate, say, the top ten
+likely offenders for any particular store and any particular time, using
+up-to-the-minute information (real time). The problem was analogous to
+finding a regression model when every row of data has response
+identically 1 (an incident), and for many places and times there is no
+data. This talk will describe how the problem was tackled.
+
+6 mm
+
+<span>**Keywords**</span>. Retail crime, ranking, ZINB, regression, real
+time

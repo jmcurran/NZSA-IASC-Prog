@@ -1,0 +1,94 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf BIG-SIR a Sliced Inverse Regression approach formassive data}
+
+
+\vspace{0.4cm}
+
+Benoit  Liquet$^{1,2}$ and Jerome Saracco $^3$
+
+\begin{description}
+\vspace{-0.2cm}
+\item $^1 \;$ Laboratory of Mathematics and its Applications, University of Pau et Pays de L'Adour, UMR CNRS 5142, France
+
+\vspace{-0.2cm}
+\item $^2 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
+\vspace{-0.2cm}
+
+\item $^3 \;$ University of  Bordeaux, Talence, France
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{-0.1cm}
+
+\noindent {\bf Abstract}. 
+In a massive data setting, we  focus on a  semiparametric regression model involving a real dependent variable $Y$ and a $p$-dimensional covariable $X$. This model includes a dimension reduction of X via an index $X'\beta$. The Effective Dimension Reduction (EDR) direction $\beta$ cannot be directly estimated by the Sliced Inverse Regression (SIR) method due to the large volume of the data. To deal with the main challenges of analysing massive datasets which are the storage and computational efficiency, we propose a new SIR estimator of the EDR direction by following the ``divide and conquer'' strategy. The data is divided into subsets.  EDR directions are estimated in each subset which is a small dataset. The recombination step is based on the  optimisation of a criterion which assesses the proximity between the EDR directions of each subset.  Computations are run in parallel with no communication among them.  The consistency of our estimator is established and its asymptotic distribution is given. Extensions to multiple indices models, $q$-dimensional response variable and/or SIR$_{\alpha}$-based methods are also discussed. A simulation study using our \texttt{edrGraphicalTools} R package shows that our approach enables us to reduce the computation time and conquer the memory constraint problem posed by massive datasets. A combination of \texttt{foreach} and \texttt{bigmemory} R packages are exploited to offer efficiency of execution in both speed and memory. Results are visualised using the bin-summarise-smooth approach through the \texttt{bigvis} R package. Finally, we illustrate our proposed approach on a massive airline data set.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+High performance computing, Effective Dimension Reduction (EDR), Parallel programming, R software, Sliced Inverse Regression (SIR).
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\vspace{-0.5cm}
+\subsection*{References}
+
+\begin{description}
+{\footnotesize
+\item Liquet, B.,  \& Saracco, J. (2016), \textit{BIG-SIR a Sliced Inverse Regression Approach for Massive Data}, Statistics and Its Interface. Vol 9, 509-520.}
+
+%\vspace{-0.6cm}
+
+%\item Coudret, R., Liquet, B. and Saracco, J. (2017). \textit{edrGraphicalTools: Provides Tools for Dimension eduction Methods. R package version 2.2.}}
+
+\end{description}
+
+\end{document}
+
+
+
+
+

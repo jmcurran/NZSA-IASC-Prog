@@ -1,0 +1,29 @@
+<span>**Bayesian continuous space-time model of Burglaries**</span>
+
+Chaitanya Joshi$^1$ and Paul T. Brown $^1$ and Stephen Joe $^1$ and Dean
+Searle $^2$
+
+$^1 \;$ Department of Mathematics and Statistics, University of Waikato,
+Hamilton.
+
+$^2 \;$ NZ Police, Waikato DHQ, Hamilton.
+
+<span>**Abstract**</span>. Building a predictive model of crime with
+good predictive accuracy has a great value in enabling efficient use of
+policing resources and reduction in crime. Building such models is not
+straightforward though due to the dynamic nature of the crime process.
+The crime not only evolves over both space and time, but is also related
+to several complex socio-economic factors, not all of which can be
+measured directly and accurately. The last decade or more has seen a
+surge in the effort to model crime more accurately. Many of the models
+developed so far have failed to capture the crime with a great degree of
+accuracy. The main reasons could be that all these models discretise the
+space using grid cells and that they are spatial, not spatio-temporal.
+We fit a log Gaussian Cox process model using the INLA-SPDE approach.
+This not only allows us to capture crime as a process continuous in both
+space and time, but also allows us to include socio-economic factors as
+well as the ’near repeat’ phenomenon. In this talk, we will discuss the
+model building process and the accuracy achieved.
+
+<span>**Keywords**</span>. Bayesian spatio-temporal model, INLA-SPDE,
+predicting crime

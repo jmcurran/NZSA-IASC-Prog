@@ -1,0 +1,42 @@
+<span>**Innovative Bayesian Estimation in the von-Mises
+Distribution**</span>
+
+Yuta Kamiya$^1$ , Toshinari Kamakura$^2$ and Takemi Yanagimoto$^3$
+
+$^1 \;$ Graduate School of Industrial and Systems Engineering, Chuo
+University, Japan
+
+$^2 \;$ Department of Industrial and Systems Engineering, Chuo
+University, Japan
+
+$^3 \;$ Institute of Statistical Mathematics, Japan
+
+<span>**Abstract**</span>. In spite of recent growing interest in
+applying the von-Mises distribution to circular data in various
+scientific fields, researches on the parameter estimation are
+surprisingly sparse. The standard estimators are the MLE and the maximum
+marginal likelihood estimator (Schou 1978). Although Bayesian estimators
+are promising, it looks that they have not been fully developed. We
+propose the posterior mean of the canonical parameter, instead of the
+mean parameter, under the reference prior. This estimator satisfies an
+optimality property, and performs favorably for wide ranges of true
+parameters. Extensive simulation studies yield that the risks of the
+proposed estimator are significantly small, compared with the existing
+estimators. An interesting finding is that the estimating function for
+the dispersion parameter behaves reasonably. Notable advantages of the
+present approach are its straightforward extensions to various
+procedures, including Bayesian estimator under an informative prior
+based on the reference prior. The proposed estimator is examined by
+applying to practical datasets.
+
+<span>**Keywords**</span>. von-Mises distribution, bayesian estimation,
+canonical parameter
+
+References {#references .unnumbered}
+----------
+
+Fisher, Nicholas I. <span>*Statistical analysis of circular
+data.*</span> Cambridge University Press, 1995.
+
+Schou, Geert. “Estimation of the concentration parameter in von
+Mises–Fisher distributions.” Biometrika 65.2 (1978): 369-377.

@@ -1,0 +1,32 @@
+Rolling survival extrapolation algorithm for estimating life years lost among subjects 
+exposed to long-term air pollution 
+
+Jing-Shiang Hwang and Tsuey-Hwa Hu
+Institute of Statistical Science, Academia Sinica, Taiwan
+
+Measure of expected years of life lost (EYLL) of a cohort of subjects living with 
+specific conditions would be useful for quantifying and thereby comparing the 
+societal burden of different conditions. One promising approach of estimating EYLL is 
+based on relative survival between the index cohort and an age- and sex-matched 
+reference population generated from vital statistics to extrapolate survival function 
+of the index cohort. The EYLL is then estimated by computing the area between the 
+survival curve of the reference population and extrapolated survival curve of the 
+index cohort. In this talk, we will introduce our newly developed method called 
+rolling survival extrapolation algorithm which consists of two major stages. First, we 
+apply logit transformation to the relative survival so that the transformed curve 
+beyond follow-up would approximate to a nearly straight line. Second, similar to the 
+rolling forecast process for predicting the future over a set period of time, we take 
+advantage of the accurate short-term extrapolation of restricted cubic splines models 
+to guide the transformed relative survival forward step-by-step using the model 
+updated data. There are some studies that provide general evidence for long-term 
+associations of air pollution with hospital admissions and death of various causes. 
+We have found no published epidemiological studies on the effects of long-term air 
+pollution exposure and life years lost. With the proposed method, we estimate EYLL 
+from long-term exposure to air pollution among Taiwanese adult population at rural 
+township and city district levels. The results show that elderly people living in a 
+worse local air pollution for decades long had more expected years of life lost after 
+adjusting social economic status.
+
+Keywords: Life expectancy, expected years of life lost, air pollution health effects, 
+particulate matter
+

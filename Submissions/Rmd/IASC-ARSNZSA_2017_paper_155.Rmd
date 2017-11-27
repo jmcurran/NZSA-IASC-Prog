@@ -1,0 +1,31 @@
+<span>**A Computational Tool for Detecting Copy Number Variations from
+Whole Genome and Targeted Exome Sequencing**</span>
+
+Yu-Chung Wei$^1$ and Guan-Hua Huang$^2$
+
+$^1 \;$ Department of Statistics, Feng Chia University, Taichung 40724,
+TAIWAN
+
+$^2 \;$ Institute of Statistics, National Chiao Tung University, Hsinchu
+30010, TAIWAN
+
+<span>**Abstract**</span>. Copy number variations (CNVs) are genomic
+structural mutations with abnormal gene fragment copies. Current CNV
+detection algorithms for next generation sequencing (NGS) are developed
+for specific genome targets, including whole genome sequencing and
+targeted exome sequencing based on the differently data types and
+corresponding assumptions. Many whole genome tools assume the continuity
+of search space and reads uniform coverage across the genome. However,
+these assumptions break down in the exome capture because of
+discontinuous segments and exome specific functional biases. In order to
+develop a method adapting to both data types, we specify the large
+unconsidered genomic fragments as gaps to preserve the truly location
+information. A Bayesian hierarchical model was built and an efficient
+reversible jump Markov chain Monte Carlo inference algorithm was
+utilized to incorporate the gap information. The performance of gap
+settings for the Bayesian procedure was evaluated and compared with
+competing approaches using both simulations and real data.
+
+<span>**Keywords**</span>. Bayesian inference, Bioinformatics, copy
+number variation, next generation sequencing, reversible jump Markov
+chain Monte Carlo

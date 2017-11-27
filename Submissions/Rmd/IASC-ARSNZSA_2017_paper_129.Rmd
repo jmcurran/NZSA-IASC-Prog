@@ -1,0 +1,42 @@
+<span>**Separation of symmetry for square contingency tables with
+ordinal categories**</span>
+
+Kouji Tahata$^1$
+
+$^1 \;$ Department of Information Sciences, Tokyo University of Science,
+2641 Yamazaki, Noda-shi, Chiba-ken, 2788510, JAPAN
+
+<span>**Abstract**</span>. Symmetry and asymmetry models are used to
+analyze a <span>*square*</span> contingency table with ordinal
+categories. Caussinus (1966) pointed out that the symmetry model, which
+indicates the structure of symmetry for cell probabilities, could be
+separated into the structure of symmetry for odds-ratios and that of
+symmetry for marginal distributions. This result provides the reason for
+poor fit of the symmetry model when it occurs for a real dataset. Also,
+other separations of the symmetry model have been given. For example,
+Kateri and Agresti (2007), and Saigusa et al. (2015). In this paper, we
+consider the separation of symmetry by using the generalized asymmetry
+models. A theorem which the likelihood ratio statistic for testing
+goodness of fit of the symmetry model is asymptotically equivalent to
+the sum of those for testing the generalized asymmetry model and the
+moment equality model under some conditions is given. A simulation study
+is presented.
+
+<span>**Keywords**</span>. $f$-divergence, moment equality,
+orthogonality, quasi-symmetry
+
+References {#references .unnumbered}
+----------
+
+Caussinus, H. (1966). Contribution à l’analyse statistique des tableaux
+de corrélation. <span>*Ann. Fac. Sci. Univ. Toulouse*</span>
+<span>**29**</span>, 77–182.
+
+Kateri, M. and Agresti, A. (2007). A class of ordinal quasi-symmetry
+models for square contingency tables. <span>*Statist. Probab.
+Lett.*</span> <span>**77**</span>, 598–603.
+
+Saigusa, Y., Tahata, K. and Tomizawa, S. (2015). Orthogonal
+decomposition of symmetry model using the ordinal quasi-symmetry model
+based on $f$-divergence for square contingency tables. <span>*Statist.
+Probab. Lett.*</span> <span>**101**</span>, 33–37.

@@ -1,0 +1,36 @@
+<span>**Robust Principal Expectile Component Analysis**</span>
+
+Liang-Ching Lin$^{*1}$, Ray Bing Chen$^1$, Mong-Na Lo Huang$^2$ and
+Meihui Guo$^2$
+
+$^1  \;$ Department of Statistics, National Cheng Kung University,
+Tainan, Taiwan
+
+$^2 \;$ Department of Applied Mathematics, National Sun Yat-sen
+University, Kaohsiung, Taiwan
+
+<span>**Abstract**</span>. Principal component analysis (PCA) is widely
+used in dimensionality reduction for high-dimensional data. It
+identifies principal components by sequentially maximizing the component
+score variance around the mean. However, in many applications, one is
+interested in capturing the tail variations of the data rather than
+variation around the center. To capture the tail characteristics, Tran
+et al. (2016), based on an asymmetric $L_2$ norm, proposed principle
+expectile components (PECs). In this study, we introduce a new method
+called Huber-type principal expectile component (HPEC) using an
+asymmetric Huber norm to produce robust PECs. The statistical properties
+of HPECs are derived, and a derivative free optimization approach,
+particle swarm optimization (PSO), is used to find HPECs. As a
+demonstration, HPEC is applied to real and simulated data with
+encouraging results.
+
+<span>**Keywords**</span>. asymmetric norm, expectile, Huber’s
+criterion, particle swarm optimization, principle component
+
+References {#references .unnumbered}
+----------
+
+Tran, N. M., Burdejová, P., Osipenko, M. and Hárdle, W. K. (2016).
+*Principal Component Analysis in an Asymmetric Norm.* SFB 649 Discussion
+Paper 2016-040, Sonderforschungsbereich 649, Humboldt Universitát zu
+Berlin, Germany.

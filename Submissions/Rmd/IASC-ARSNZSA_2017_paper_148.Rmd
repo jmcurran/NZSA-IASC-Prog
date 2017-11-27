@@ -1,0 +1,40 @@
+<span>**LSMM: A statistical approach to integrating functional
+annotations with genome-wide association studies**</span>
+
+Jingsi Ming$^1$, Mingwei Dai$^{2,5}$, Mingxuan Cai$^1$, Xiang Wan$^3$,
+Jin Liu$^4$ and Can Yang$^5$
+
+$^1 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
+Kong
+
+$^2 \;$ School of Mathematics and Statistics, Xi’an Jiaotong University,
+Xi’an, China
+
+$^3 \;$ Department of Computer Science, Hong Kong Baptist University,
+Hong Kong
+
+$^4 \;$ Centre for Quantitative Medicine, Duke-NUS Medical School,
+Singapore
+
+$^5 \;$ Department of Mathematics, The Hong Kong University of Science
+and Technology, Hong Kong
+
+<span>**Abstract**</span>. Thousands of risk variants underlying complex
+phenotypes have been identified in genome-wide association studies
+(GWAS). However, there are two major challenges towards fully
+characterizing the biological basis of complex diseases. First, many
+complex traits are suggested to be highly polygenic, whereas a large
+proportion of risk variants with small effects remains unknown. Second,
+the functional roles of the majority of GWAS hits in the non-coding
+region is largely unclear. In this paper, we propose a latent sparse
+mixed model (LSMM) to address the challenges by integrating functional
+annotations with summary statistics from GWAS. An efficient variational
+expectation-maximization (EM) algorithm is developed. We conducted
+comprehensive simulation studies and then applied it to 30 GWAS of
+complex phenotypes integrating 9 genic annotation categories and 127
+tissue-specific functional annotations from the Roadmap project. The
+results demonstrate that LSMM is not only able to increase the
+statistical power to identify risk variants, but also provide a deeper
+understanding of genetic architecture of complex traits by detecting
+relevant functional annotations. <span>**Keywords**</span>. GWAS,
+functional annotations, variational inference

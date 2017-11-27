@@ -1,0 +1,38 @@
+<span>**Adjusted adaptive index model for binary response**</span>
+
+Ke Wan$^1$, Kensuke Tanioka$^1$, Kun Yan$^2$ and Toshio Shimokawa$^1$
+
+$^1 \;$ School of Medicine, Wakayama-Medical University, Japan
+
+$^2 \;$ College of Traffic & Transportation, Southwest Jiaotong
+University, China
+
+<span>**Abstract**</span>.
+
+In questionnaire surveys, multiple regression analysis is usually used
+to evaluate influence factors. In addition to that, data mining methods
+such as Classification and Regression Trees (Breiman et al., 1984) are
+also used. In the research for tourism studies, it is difficult to
+contribute the policies for landscape or buildings from the results. In
+this paper, we call these factors “ uncontrollable exploratory
+variables". On the other hands, the polices for amounts of garbages or
+inhabitant consciousness can be contributed from the results. We call
+these factors “controllable exploratory variables". The purpose of this
+report is grading for each subject which is conducted based on
+controllable exploratory variables with adjusting the effects of
+uncontrollable exploratory variables. Concretely, we modified the AIM
+method (Tian and Tibshirani, 2010) and conduct gradings based on the sum
+of the production rules for controllable exploratory variables with
+adjusting the effects of uncontrollable exploratory variables.
+
+<span>**Keywords**</span>. logistic regression, production rule, grading
+
+References {#references .unnumbered}
+----------
+
+Breiman, L., Friedman, J.H., Olshen, R.A. and Stone, C.J. (1984).
+*Classification and Regression Trees*. Wadsworth.
+
+Tian, L., and Tibshirani, R. (2011). *Adaptive index models for
+marker-based risk stratification.* Biostatistics, <span>**12**</span>,
+68–86.

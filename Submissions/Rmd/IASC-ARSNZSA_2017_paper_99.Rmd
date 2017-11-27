@@ -1,0 +1,29 @@
+<span>**SSREM: A Summary-Statistics-based Random Effect Model to
+Estimating heritability, co-heritability and effect sizes in GWAS data
+analysis**</span>
+
+Can Yang$^1$ and Jin Liu$^{*2}$
+
+$^1 \;$ Department of Mathematics, Hong Kong University of Science and
+Technology, Hong Kong.
+
+$^{*2} \;$ Center for Quantitative Medicine, Duke-NUS Medical School,
+Singapore
+
+<span>**Abstract**</span>. Most existing methods for GWAS data analysis
+require individual-level genotype data as their input. However, it is
+often not easy to get access to individual-level data, due to many
+practical issues, such as privacy protection and disagreement on
+data-sharing among multiple research groups. In this talk, we introduce
+SSREM, a Summary-Statistics-based approach to estimating heritability,
+co-heritability and effect sizes in GWAS data analysis. This is achieved
+by Bayesian analysis with the standard random-effect prior and a
+summary-statistics-based likelihood function. We have implemented a
+parallel Gibbs sampling strategy, which allows us to handle
+genome-wide-scale datasets. Our analysis results suggest that
+summary-statistics-based analysis can achieve comparable performance to
+individual-level data analysis.
+
+<span>**Keywords**</span>. Summary statistics; Genome-wide association
+study; Probabilistic model; Gibbs sampling; Heritability;
+Co-heritability.

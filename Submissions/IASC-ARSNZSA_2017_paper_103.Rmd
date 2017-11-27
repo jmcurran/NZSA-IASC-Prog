@@ -1,0 +1,41 @@
+<span>**Comparison of Exact and Approximate Testing Procedures in
+Clinical Trials with Multiple Binary Endpoints**</span>
+
+Takuma Ishihara$^1$ and Kouji Yamamoto$^1$
+
+$^1 \;$ Department of Medical Statistics Osaka City University Graduate
+School of Medicine, Japan
+
+<span>**Abstract**</span>.
+
+In confirmatory clinical trials, the efficacy of a test treatment are
+sometimes assessed by using multiple primary endpoints. We consider a
+trial in which the efficacy of a test treatment is confirmed only when
+it is superior to control for at least one of the endpoints and not
+clinically inferior for the remaining endpoints. Nakazuru et al. (2014)
+proposed a testing procedure that is applicable to the above case when
+endpoints are continuous variables. In this presentation, firstly, we
+propose a testing procedure in the case that all of the endpoints are
+binary.
+
+Westfall and Troendle (2008) proposed multivariate permutation tests.
+Using this methods, we also propose an exact multiple testing procedure.
+
+Finally, we compare an exact and approximate testing procedures proposed
+above. The performance of the proposed procedures was examined through
+Monte Carlo simulations.
+
+<span>**Keywords**</span>. Clinical trial; Multivariate Bernoulli
+distribution; Non-inferiority; Superiority.
+
+References {#references .unnumbered}
+----------
+
+:   Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
+    procedure of one-sided test in clinical trials with
+    multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
+
+:   Westfall PH and Troendle JF. (2008). Multiple testing with
+    minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
+
+

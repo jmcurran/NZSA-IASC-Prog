@@ -1,0 +1,33 @@
+<span>**Measure of Departure from Marginal Average Point-Symmetry for
+Two-Way Contingency Tables with Ordered Categories**</span>
+
+Kiyotaka Iki$^1$
+
+$^1 \;$ Department of Information Sciences, Faculty of Science and
+Technology,\
+Tokyo University of Science, Japan
+
+<span>**Abstract**</span>. For the analysis of two-way contingency
+tables with ordered categories, Yamamoto, Tahata, Suzuki and Tomizawa
+(2011) considered a measure to represent the degree of departure from
+marginal point-symmetry. The maximum value of the measure cannot
+distinguish two kinds of marginal complete asymmetry with respect to the
+midpoint. The present article proposes a measure which can distinguish
+two kinds of marginal asymmetry with respect to the midpoint. It also
+gives large-sample confidence interval for the proposed measure.
+
+<span>**Keywords**</span>. Asymmetry, marginal proportional
+point-symmetry, marginal point-symmetry, measure, model, ordered
+category
+
+References {#references .unnumbered}
+----------
+
+Tomizawa, S. (1985). *Biometrical Journal*, <span>**27**</span>,
+895–905.
+
+Wall, K.D. and Lienert, G.A. (1976). *Biometrical Journal*,
+<span>**18**</span>, 259–264.
+
+Yamamoto, K., Tahata, K., Suzuki, M. and Tomizawa, S. (2011).
+*Statistica*, <span>**71**</span>, 367–380.

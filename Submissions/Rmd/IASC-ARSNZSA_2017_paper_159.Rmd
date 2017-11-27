@@ -1,0 +1,39 @@
+<span>**Structure of Members in the Organization to Induce Innovation:
+Quantitatively Analyze the Capability of the Organization**</span>
+
+Yuji Mizukami$^1$ and Junji Nakano$^2$
+
+$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
+Japan
+
+$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+<span>**Abstract**</span>. Innovation is the act of creating new value
+by using “new connection”, “new point of view”, “new way of thinking”,
+“new usage method” (Schumpeter 1912). In recent years, the promotion of
+the Innovation has been strongly encouraged. In the field of research,
+attempts are also being made to create new value through connection
+between those fields. Moreover, along with the move to promote
+integration among these research fields, research is being conducted to
+grasp and promote the degree of them. In this research, for the purpose
+of providing indices for measuring the degree of them, we show indices
+quantitatively indicating the degree of fusion in different fields and
+the distance between the fields. Also, we have try to present indices
+for grasping the whole image based on the random graph.
+
+<span>**Keywords**</span>. Research Metrix, Institute Research,
+Co-author analysis
+
+References {#references .unnumbered}
+----------
+
+Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
+Keyton, J. and Börner, K. (2011). *Approaches to understanding and
+measuring interdisciplinary scientific research: A review of the
+literature, Journal of Informetrics*. Vol. 5, No. 1, pp. 14-26.
+
+Mizukami, Y., Mizutani, Y., Honda, K., Suzuki, S., Nakano, J. (2017).
+*An International Research Comparative Study of the Degree of
+Cooperation between disciplines within mathematics and mathematical
+sciences, Behaviormetrika*, **1**, 19 pages, On-line.

@@ -1,0 +1,23 @@
+<span>**Testing for genetic associations in arbitrarily structured
+populations**</span>
+
+Minsun Song$^1$
+
+$^1 \;$ Department of Statistics, Sookmyung Women’s University, Seoul,
+04310, Korea
+
+<span>**Abstract**</span>.We present a new statistical test of
+association between a trait and genetic markers, which we theoretically
+and practically prove to be robust to arbitrarily complex population
+structure. The statistical test involves a set of parameters that can be
+directly estimated from large-scale genotyping data, such as those
+measured in genome-wide associations studies. We also derive a new set
+of methodologies, called a genotype-conditional association test, shown
+to provide accurate association tests in populations with complex
+structures, manifested in both the genetic and non-genetic contributions
+to the trait. We demonstrate the proposed method on a large simulation
+study and on the real data. Our proposed framework provides a
+substantially different approach to the problem from existing methods.
+
+<span>**Keywords**</span>. Genome-wide association studies, Latent
+variable, Population structure

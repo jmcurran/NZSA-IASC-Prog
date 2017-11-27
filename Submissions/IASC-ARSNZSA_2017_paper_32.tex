@@ -1,0 +1,95 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+%\pagestyle{myheadings} 
+%\pagenumbering{arabic}
+%\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+\newcommand{\pkg}[1]{{\bf #1}}
+\usepackage{natbib}
+\setlength{\bibsep}{0.0pt}
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf gridSVG: Then and Now}
+
+\vspace{.1in}
+Paul Murrell $^1$
+\begin{description}
+\item $^1 $ Department of Statistics, The University of Auckland,
+Auckland, New Zealand
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+%\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+The \pkg{gridSVG} package\cite{RJ-2014-013}
+ was first developed in 2003 to experiment
+with features of the SVG format
+that were not available through a normal R graphics device\cite{R}, 
+such as hyperlinks and animation.  A number of different 
+R packages\cite{rsvgtipsdevice,cairo,svglite,svgannotation}
+have been developed since then to allow the generation of SVG output from
+R, but \pkg{gridSVG} has remained unique in its focus on generating 
+structured and labelled SVG output.  The reason for that was to 
+maximise support for
+customisation and reuse, particularly unforseen reuse, of the SVG
+output.  Unfortunately, there were two major problems:  killer examples of
+customisation and reuse failed to materialise;  and the production of SVG with 
+\pkg{gridSVG} was painfully slow.  In brief, \pkg{gridSVG} was
+a (sluggish) solution waiting for a problem.  This talk charts some
+of the developments over time that have seen \pkg{gridSVG}'s
+patient wait for relevance ultimately rewarded and its 
+desperate need for speed finally satisfied.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+R, statistical graphics, SVG, accessibility
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\renewcommand{\section}[2]{}%
+\bibliographystyle{plain}
+\bibliography{murrell}
+
+
+\end{document}
+
+
+
+
+

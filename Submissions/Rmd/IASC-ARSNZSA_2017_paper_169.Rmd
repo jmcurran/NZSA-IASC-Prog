@@ -1,0 +1,31 @@
+<span>**Clustering of curves on a spatial domain using a Bayesian
+partitioning model**</span>
+
+Zhen Zhang$^1$, Chae Young Lim$^2$, Tapabrata Maiti$^3$ and Seiji
+Kato$^4$
+
+$^1 \;$ Dow AgroSciences. Indianapolis, IN, USA.
+
+$^2 \;$ Seoul National University, Seoul, KOREA
+
+$^3 \;$ Michigan State University, East Lansing, MI, USA.
+
+$^4 \;$ NASA Langley Research Center, Hampton, VA, USA.
+
+<span>**Abstract**</span>. We propose a Bayesian hierarchical model for
+spatial clustering of the high-dimensional functional data based on the
+effects of functional covariates. We couple the functional mixed-effects
+model with a generalized spatial partitioning method for: (1)
+identifying subregions for the high-dimensional spatio-functional data;
+(2) improving the computational feasibility via parallel computing over
+subregions or multi-level partitions; and (3) addressing the
+near-boundary ambiguity in model-based spatial clustering techniques.
+The proposed model extends the existing spatial clustering techniques to
+produce spatially contiguous partitions for spatio-functional data. The
+model successfully captured the regional effects of the atmospheric and
+cloud properties on the spectral radiance measurements. This elaborates
+the importance of considering spatially contiguous partitions for
+identifying regional effects and small-scale variability.
+
+<span>**Keywords**</span>. spatial clustering, Bayesian wavelets,
+Voronoi tessellation, functional covariates

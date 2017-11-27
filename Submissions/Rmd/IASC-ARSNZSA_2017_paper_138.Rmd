@@ -1,0 +1,40 @@
+<span>**Including covariate estimation error when predicting species
+distributions: a simulation exercise using Template Model
+Builder**</span>
+
+Andrea Havron$^1$ and Russell Millar$^1$
+
+$^1 \;$ Department of Statistics, University of Auckland, Auckland,
+1010, NZ
+
+<span>**Abstract**</span>. Ecological managers often require knowledge
+about species distributions across a spatial region in order to
+facilitate best management practices. Statistical models are frequently
+used to infer relationships between species observations (eg. presence,
+abundance, biomass, etc.) and environmental covariates in order to
+predict values at unobserved locations. Issues remain for situations
+where covariate information is not available for a predictive location.
+In these cases, spatial maps of covariates are often generated using
+tools such as kriging; however, the uncertainties from this statistical
+estimation are not carried through to the final species distribution
+map. New advances in spatial modelling using the automated
+differentiation software, Template Model Builder, allow both the spatial
+process of the environmental covariates and the observations to be
+modelled simultaneously by maximizing the marginal likelihood of the
+fixed effects with a Laplace approximation after integrating out the
+random spatial effects. This method allows for the uncertainty of the
+covariate estimation process to be included in the standard errors of
+final predictions as well as any derived quantities, such as total
+biomass for a spatial region. We intend to demonstrate this method and
+compare our predictions to those from a model where regional covariate
+information is supplied from a kriging model.
+
+<span>**Keywords**</span>. spatial model, predicting covariates,
+Template Model Builder
+
+References {#references .unnumbered}
+----------
+
+Kristensen, K.,Nielsen, A., Berg, C.W., Skuag, H. and Bell, B. (2015).
+TMB: Automatic Differentiation and Laplace Approximation. In: *Journal
+of Statistical Software*,**70**, 1–21.

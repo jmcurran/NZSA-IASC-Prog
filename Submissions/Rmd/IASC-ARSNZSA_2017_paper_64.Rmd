@@ -1,0 +1,42 @@
+<span>**Performance of Bayesian Credible Interval for Binomial
+Proportion using Logit Transformation**</span>
+
+Toru Ogura$^1$ and Takemi Yanagimoto$^2$
+
+$^1 \;$ Clinical Research Support Center, Mie University Hospital,
+2-174, Edobashi, Tsu, Mie, Japan
+
+$^2 \;$ Institute of Statistical Mathematics, 10-3, Midori-cho,
+Tachikawa, Tokyo, Japan
+
+<span>**Abstract**</span>. The confidence or the credible interval of
+the binomial proportion $p$ is one of most widely employed statistical
+analysis methods, and a variety of methods have been proposed. The
+Bayesian credible interval attracts recent researches’ attentions. One
+of the promising methods is the highest posterior density (HPD)
+interval, which implies the shortest possible interval enclosing
+$100(1-\alpha)$% of the probability density function. The HPD interval
+is often used because it is narrow compared to other credible intervals.
+However, the HPD interval has some drawbacks when the binomial
+proportion is a small. To dissolve them, we calculate first a credible
+interval by the HPD interval of the logit transformed parameter,
+$\theta=\log\{p/(1-p)\}$, instead of $p$. Note that $\theta$ and $p$ are
+the canonical and the mean parameters of the binomial distribution in
+the exponential family, respectively. Writing the HPD interval of
+$\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible
+interval of $p$ as
+$(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
+It is explored in depth, and numerical comparison studies are conducted
+to confirm its favorable performance, especially when the observed
+number is small, such as 0 or 1. Practical datasets are analyzed to
+examine the potential usefulness for applications in medical fields.
+
+<span>**Keywords**</span>. Bayesian credible interval, binomial
+proportion, highest posterior density interval, logit transformation,
+zero count
+
+References {#references .unnumbered}
+----------
+
+Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
+Measures of Effect Size*. Florida: Chapman and Hall/CRC.

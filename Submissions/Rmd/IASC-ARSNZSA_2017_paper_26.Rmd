@@ -1,0 +1,40 @@
+<span>**Adaptive Model Averaging in High-Dimensional Linear
+Regression**</span>
+
+Wei-Cheng Hsiao$^1$, Ching-Kang Ing$^2$, and Tzu-Chang Forrest Cheng$^3$
+
+$^1 \;$ Institute of Statistics, National Tsing-Hua University, Hsinchu
+30013, Taiwan
+
+$^2 \;$ Institute of Statistics, National Tsing-Hua University, Hsinchu
+30013, Taiwan
+
+$^3 \;$ Department of Economics, National Central University, Taoyuan
+32001, Taiwan
+
+<span>**Abstract**</span>. This paper aims to propose a data-adaptive
+model averaging estimation in the high-dimensional framework. To this
+end, We first consider the orthogonal greedy algorithm (OGA) proposed by
+Ing and Lai (2011) to construct a set of nested models. The
+high-dimensional model averaging criteria (HDMMA) suggested by Ing
+(2016) is considered upon the OGA nested models, while the penalty term
+is unknown and needed to be estimated. We then use the cross-validation
+to select the optimal penalty. This method of penalty selection is shown
+to be optimally adaptive to a wide class of data generating processes.
+Furthermore, the resultant HDMMA estimator based on the selected penalty
+is shown to be asymptotic rate efficient. Finally, numerical studies in
+this paper are expected to shed some light on the choice of data
+splitting ratio for the cross-validation.
+
+<span>**Keywords**</span>. Adaptive penalty, Cross-validation, High
+dimension, Model averaging, Greedy algorithm
+
+References {#references .unnumbered}
+----------
+
+Ing, C.-K. and Lai, T. L. (2011). A stepwise regression method and
+consistent model selection for high-dimensional sparse linear models.
+*Statist. Sinica*, **21**, 1473–1513.
+
+Ing, C.-K. (2016). Model averaging in high-dimensional regressions.
+*Unpublished Technical Report*.

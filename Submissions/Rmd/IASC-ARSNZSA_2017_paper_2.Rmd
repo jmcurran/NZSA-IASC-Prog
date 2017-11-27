@@ -1,0 +1,38 @@
+Title: Area level deprivation is independently associated with body mass
+index: Analysis of NZ Health Surveys
+
+Author: Andrew Adiguna Halim Arindam Basu Ray Kirk
+
+Abstract: Obesity is a growing public health problem in New Zealand but
+the trends of its determinants are unclear. We obtained the
+confidentialised unit record files (CURF) of the New Zealand Health
+Surveys (NZHS) from the Statistics New Zealand, containing multiple sets
+of anonymised individual level data from 2002/03 to 2014/15. We assessed
+the association between deprivation quintile and compliance with the
+dietary guideline, and the prevalence of overweight/obesity. For adults,
+we converted Body Mass Index (BMI) variable into tertiles. Then we
+regressed the BMI tertiles on deprivation level, ethnicity, age, sex,
+physical activity, education, smoking status, fruit guideline, vegetable
+guideline, and household income variables using stepwise ordinal
+logistic regression with complex survey design. We regressed the BMI
+categories on deprivation level, ethnicity, age, sex, household income,
+education, fruit guideline, vegetable guideline, soft drink consumption,
+and fast food consumption in the child data. We found that people living
+in the highest deprivation quintile were more likely to be in the higher
+BMI tertile in adults and BMI category in children compared with those
+living in the lowest deprivation quintile after adjusting for other
+confounding variables. For adults and children the ORs (95% CI) were
+1.349 (95% CI: 1.240-1.468, p&lt;0.001) and 1.803 (95% CI: 1.531-2.125,
+p&lt;0.001) respectively. In contrast, the ORs (95% CI) for meeting the
+fruit and vegetable guidelines in adults were 0.968 (95% CI:
+0.933-1.005, p: 0.088) and 1.029 (95%CI: 0.988-1.072, p: 0.172)
+respectively. The ORs (95% CI) for meeting the fruit and vegetable
+guidelines in children were 0.931 (95% CI: 0.843-1.029, p: 0.164) and
+0.994 (95% CI: 0.908-1.088, p: 0.893) respectively. These results
+suggest that deprivation independently influences BMI, and the effect of
+meeting dietary guidelines are confounded by deprivation.
+
+Keywords: obesity, BMI, dietary guideline, deprivation, r statistics,
+proportional odds regression, survey complex design.
+
+Contact Details: Andrew Adiguna Halim aha164@uclive.ac.nz 0211412636

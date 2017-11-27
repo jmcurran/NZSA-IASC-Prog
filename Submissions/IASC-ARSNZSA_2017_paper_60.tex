@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Robustness of Temperature Reconstruction for Past 500 Years}
+
+
+\vspace{1.0cm}
+
+Yu Yang$^1$, Matthew Schofield$^1$, Richard Barker$^1$
+
+\begin{description}
+
+\item $^{1} \;$ Department of Mathematics and Statistics, University of Otago, 
+P. O. Box 56 Dunedin 9016, New Zealand
+
+%\item $^2 \;$ Center for Applied Research in Computer Science,
+%Applied Research Laboratory, Anyville, AB 12345, USA
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. Temperature reconstruction is vital to studies of climate change. Instrumental records are only available back to 19th century, too short to describe changes that occur over hundreds or thousands of years. Fortunately, nature environmental clues (such as tree rings, pollens and ice cores) can be pieced together to reconstruct unrecorded temperatures. We use tree-ring width to study summer temperature in Northern Sweden for past 500 years. Previous work has shown the predictions to be sensitive to model assumptions. We gain a new insight into this problem by attempting to separately estimate aspects of the process that are robustly estimated.  One of these are the years in which the climate is colder or warmer than recent observations.  We implement this by considering hidden Markov models on the partially observed temperature series.
+The model is fitted using Hamiltonian Monte Carlo in Stan.
+
+%  investigating on implicit relationship between each year's temperature, which is unveiled by a robust estimator regardless of model assumptions. Bayesian hierarchical modelling strategies are adopted to cope with missing data and individualized response. We manage to obtain the robust estimator under the structure of a hidden Markov model. Hamiltonian Monte Carlo is implemented as our sampling method by modelling language STAN.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+temperature reconstruction, robust estimator, hidden Markov model, Bayesian analysis
+%Keywords for index, separated by commas, without full-stop at end
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item
+Schofield, M. R., Barker, R. J., Gelman, A., Cook, E. R., and Briffa, K. R. (2016). A model-based approach to climate reconstruction using tree-ring data. \textit{Journal of the American Statistical Association}, 111(513), 93-106.
+%\item
+%Briffa, K. R., Jones, P. D., Bartholin, T. S., Eckstein, D., Schweingruber, F. H., Karlen, W., Zetterberg, P., and Eronen, M. (1992). Fennoscandian summers from AD 500: temperature changes on short and long timescales. \textit{Climate dynamics}, 7(3), 111-119.
+\end{description}
+
+\end{document}
+
+
+
+
+

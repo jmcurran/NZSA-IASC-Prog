@@ -1,0 +1,32 @@
+<span>**Nonparametric causal inference by the kernel method**</span>
+
+Yuchi Matsuoka$^1$ and Etsuo Hamada$^1$
+
+$^1 \;$ Graduate School of Engineering Science, Osaka University,\
+1-3 Machikaneyama-cho, Toyonaka, Osaka, Japan
+
+<span>**Abstract**</span>. Rubin causal model is a statistical model to
+estimate the effect of a treatment on the outcome based on the framework
+of potential outcomes. To estimate a causal effect based on Rubin causal
+model, propensity score plays a central role. In particular, matching
+and weighting methods like Inverse Probability Weighted Estimator (IPWE)
+and Doubly-Robust estimator based on the estimated propensity score are
+widely used. Despite its popularity, it was pointed out that model
+misspecification of the propensity score can result in substantial bias
+of the resulting estimators of a causal effect and potential outcomes.
+It is possible to estimate propensity score in nonparametric ways or
+machine learning methods to avoid model misspecification. However, it
+doesn’t work well in most situations due to following reasons: 1) Curse
+of dimensionality. 2) They only aim at an accuracy of classification and
+don’t optimize the covariate balancing. To overcome the problems above,
+we propose a new estimator of propensity score using kernel mean
+embeddings of conditional distributions. Although our proposal is
+completely nonparametric, our estimator has a dimensionality-independent
+rate of convergence. Using kernel measures of conditional independence
+for model selection, our estimator can also correct the bias that arises
+from the imbalance of covariates. In numerical simulations, we confirm
+that our method can reduce the bias in misspecified settings. We also
+describe several asymptotic properties of our estimator.
+
+<span>**Keywords**</span>. Rubin causal model, Propensity score, Kernel
+method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion

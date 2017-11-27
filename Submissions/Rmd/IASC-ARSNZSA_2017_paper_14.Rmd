@@ -1,0 +1,38 @@
+<span>**Bayesign optimum warranty length under Type-II unified hybrid
+censoring scheme**</span>
+
+Tanmay Sen$^1$, Biswabrata Pradhan$^2$, Yogesh Mani Tripathi$^{1}$ and
+Ritwik Bhattacharya$^{3}$
+
+$^1 \;$ Department of Mathematics, Indian Institute of Technology, Patna
+801106, India
+
+$^2 \;$ SQC and OR Unit, Indian Statistical Institute, 203 B.T. Road,
+Kolkata 700108, India
+
+$^3 \;$ Centro de Investigacionen Matematicas (CIMAT), Monterrey, Mexico
+
+<span>**Abstract**</span>.This work considers determination of optimum
+warranty length under Type-II unified hybrid censoring scheme. Consumers
+are willing to purchase a highly reliable product with certain cost
+constraint. To assure the product reliability and also to remain
+profitable, the manufacturer provides warranties on product lifetime.
+Moreover, censoredlifetime data are available in practice, to assess the
+reliability of the product. Therefore, determination of an appropriate
+warranty length based on censored lifetime data is an important issue to
+the manufacturer. It is assumed that the lifetime follows a lognormal
+distribution. We consider a combine free replacement and pro-rata
+warranty policy (FRW/PRW). The life test is conducted under Type-II
+unified hybrid censoring scheme. The warranty length is obtained by
+maximizing an expected utility function.The expectation is taken with
+respect to the posterior predictive model for time to failure given the
+available data obtained under Type-II unified hybrid censoring scheme. A
+real data set is analyzed to illustrate the proposed methodology. We
+propose a non-linear prorate warranty policy and compare them with
+linear warranty policy. It is observed that non-linear prorate warranty
+policy give larger warranty length with maximum profit
+
+<span>**Keywords**</span>. Lognormal distribution, FRW/PRW policies,
+Optimum warranty length, MH algorithm
+
+Email- sentanmay518@gmail.com, Mob- 918084526317

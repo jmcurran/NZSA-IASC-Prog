@@ -1,0 +1,44 @@
+<span>**A Unified Regularized Group PLS Algorithm Scalable to Big
+Data**</span>
+
+Pierre Lafaye de Micheaux$^1$ and Benoit Liquet$^{2,3}$ and Matthew
+Sutton $^2$
+
+$^1 \;$ School of Mathematics and Statistics, UNSW Sydney, Australia
+
+$^2 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
+
+$^3 \;$ Laboratory of Mathematics and its Applications, University of
+Pau et Pays de L’Adour, UMR CNRS 5142, France
+
+<span>**Abstract**</span>. Partial Least Squares (PLS) methods have been
+heavily exploited to analyse the association between two blocs of data.
+These powerful approaches can be applied to data sets where the number
+of variables is greater than the number of observations and in presence
+of high collinearity between variables. Different sparse versions of PLS
+have been developed to integrate multiple data sets while simultaneously
+selecting the contributing variables. Sparse modelling is a key factor
+in obtaining better estimators and identifying associations between
+multiple data sets. The cornerstone of the sparsity version of PLS
+methods is the link between the SVD of a matrix (constructed from
+deflated versions of the original matrices of data) and least squares
+minimisation in linear regression. We present here an accurate
+description of the most popular PLS methods, alongside their
+mathematical proofs. A unified algorithm is proposed to perform all four
+types of PLS including their regularised versions. Various approaches to
+decrease the computation time are offered, and we show how the whole
+procedure can be scalable to big data sets.
+
+<span>**Keywords**</span>. Big data, High dimensional data, Lasso
+Penalties, Partial Least Squares, Sparsity, SVD
+
+References {#references .unnumbered}
+----------
+
+Lafaye de Micheaux, P., Liquet, B. & Sutton, M. (2017), *A Unified
+Parallel Algorithm for Regularized Group PLS Scalable to Big Data*,
+ArXiv e-prints .
+
+Liquet, B., Lafaye de Micheaux, P., Hejblum, B. & Thiebaut, R. (2016),
+*Group and sparse group partial least square approaches applied in
+genomics context*, Bioinformatics 32, 35-42.

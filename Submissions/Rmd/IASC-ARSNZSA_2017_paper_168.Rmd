@@ -1,0 +1,27 @@
+<span>**Selecting the number of principal components**</span>
+
+Yunjin Choi$^1$
+
+$^1 \;$ Department of Statistics and Applied Probability, National
+University of Singapore, 129801, Singapore
+
+<span>**Abstract**</span>. Principal Component Analysis (PCA) is one of
+the most popular methods in multivariate data analysis, which can be
+applied to covariance matrices. Despite the popularity of the method,
+there is no widely adopted standard approach to select the number of
+principal components to retain. To address this issue, we propose a
+novel method utilizing the hypothesis testing framework and test whether
+the currently selected principal components capture all the
+statistically significant signals in the given data set. While existing
+hypothesis testing approaches do not enjoy the exact type 1 error
+property and lose power under some scenarios, the proposed method
+provides an exact type 1 error control along with decent size of power
+in detecting signals. Central to our work is the post-selection
+inference framework which facilitates valid inference after data-driven
+model selection; the proposed hypothesis testing method provides exact
+type 1 error controls by conditioning on the selection event which leads
+to the inference. We also introduce a possible extension of the proposed
+method for high-dimensional data.
+
+<span>**Keywords**</span>. Principal component analysis, post-selection
+inference, hypothesis testing

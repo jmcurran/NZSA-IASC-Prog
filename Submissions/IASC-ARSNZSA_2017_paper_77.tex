@@ -1,0 +1,90 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings}
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Real-time transit network modelling for improved
+arrival time predictions}
+
+
+\vspace{1.0cm}
+
+Tom Elliott and Thomas Lumley
+
+\begin{description}
+
+\item Department of Statistics, University of Auckland,
+Auckland, New Zealand
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. %
+The growing availability of GPS tracking devices means that %
+public transport passengers can now check on the real-time location %
+of their bus from their mobile phone, %
+helping them to decide when to leave home, %
+and once at the stop, how long until the bus arrives. %
+A side effect of this technology is that %
+statistical models using vehicle location data %
+to predict arrival times have taken a ``back seat'' %
+in preference for methods that are simpler and faster, %
+but less robust. %
+Auckland Transport, who operate our local public transport network, %
+demonstrate this: %
+the estimated arrival time (ETA) of a bus at a stop is simply %
+the time until scheduled arrival, %
+plus the delay at the bus' most recently visited stop. %
+The most evident problem with this approach is that %
+intermediate stops, traffic lights, and road congestion---%
+all of which affect ETAs---are not considered. %
+We have been developing a modelling framework consisting of %
+(1) a vehicle state model to infer parameters, such as speed, %
+from a sequence of GPS positions; %
+(2) a transit network model that uses information from the vehicle model %
+to estimate traffic conditions along roads in the network; %
+and (3) a predictive model combining vehicle and transit network %
+states to predict arrival times. %
+Since multimodality is common---%
+for example a bus may or may not stop at a bus stop or traffic lights---%
+we are using a particle filter to estimate vehicle state, %
+which makes no assumptions about the shape of the distribution, %
+and allows for a more intuitive likelihood function. %
+While this provides a very flexible framework, %
+it is also a computationally intensive one, %
+so computational demands need to be considered %
+to ensure it will be viable as a real-time application %
+for providing passengers with improved, and hopefully reliable, %
+arrival time information.
+
+
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+transit, real-time, particle filter
+
+
+
+\end{document}

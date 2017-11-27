@@ -1,0 +1,34 @@
+High dimensional covariance estimation and graphical models is a
+contemporary topic in statistics and machine learning having widespread
+applications. The problem is notoriously difficult in high dimensions as
+the traditional estimate is not even positive definite. An important
+line of research in this regard is to shrink the extreme spectrum of the
+covariance matrix estimators. A separate line of research in the
+literature has considered sparse inverse covariance estimation which in
+turn gives rise to graphical models. In practice, however, a sparse
+covariance or inverse covariance matrix which is simultaneously
+well-conditioned and at the same time computationally tractable is
+desired. There has been little research at the confluence of these three
+topics. In this paper we consider imposing a condition number constraint
+to various types of losses used in covariance and inverse covariance
+matrix estimation. This extends the approach by Won, Lim, Kim, and
+Rajaratnam (2013) on multivariate Gaussian log likelihood. When the loss
+function can be decomposed as a sum of an orthogonally invariant
+function of the estimate and its inner product with a function of the
+sample covariance matrix, we show that a solution path algorithm can be
+derived, involving a series of ordinary differential equations. The path
+algorithm is at- tractive because it provides the entire family of
+estimates for all possible values of the condition number bound, at the
+same computational cost of a single estimate with a fixed upper bound.
+An important finding is that the proximal operator for the condition
+number constraint, which turns out to be very useful in regularizing
+loss functions that are not orthogonally invariant and may yield
+non-positive-definite estimates, can be efficiently computed by this
+path algorithm. As a concrete illustration of its practical importance,
+we develop an operator-splitting algorithm that imposes a guarantee of
+well-conditioning as well as positive definiteness to recently proposed
+convex pseudo-likelihood based graphical model selection methods (Zhang
+and Zou, 2014; Khare, Oh, and Rajaratnam, 2015).
+
+This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
+Rajaratnam (UC Davis).

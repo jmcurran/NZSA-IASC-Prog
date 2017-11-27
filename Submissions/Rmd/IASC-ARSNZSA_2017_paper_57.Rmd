@@ -1,0 +1,41 @@
+<span> **Improvement of Computation for Nonlinear Multivariate
+Methods**</span>
+
+Masahiro Kuroda$^1$, Yuichi Mori$^1$, and Masaya Iizuka$^2$
+
+$^1 \;$ Department of Management, Okayama University of Science,
+Okayama, 700-0001, JAPAN
+
+$^2 \;$ Admission Center, Okayama University, Okayama 700-8530, JAPAN
+
+<span>**Abstract**</span>. Nonlinear multivariate methods (NL-MM) using
+optimal scaling as a quantification technique can analyze any data
+including quantitative and qualitative variables. The alternating least
+squares (ALS) algorithm is the most popular iterative algorithm in
+NL-MM. While the algorithm has a stable convergence property, it
+requires many iterations and a large computational cost, especially for
+a large data set involving many qualitative variables, because its
+convergence is linear. It is therefore important to improve the speed of
+computation when NL-MM with the ALS algorithm is applied. Kuroda and his
+co-workers tried to accelerate the convergence of the ALS algorithm
+using the vector $\varepsilon$ (v$\varepsilon$) accelerator. In this
+talk, the v$\varepsilon$ acceleration for the ALS algorithm is
+implemented in NL-MM, e.g., nonlinear principal component analysis and
+nonlinear factor analysis, and the performances are demonstrated in
+numerical experiments.
+
+<span>**Keywords**</span>. Alternating least squares algorithm, Optimal
+scaling, Acceleration of convergence
+
+References {#references .unnumbered}
+----------
+
+Gifi, A. (1990). *Nonlinear multivariate analysis*. Wiley.
+
+Kuroda, M., Mori, Y., Iizuka, M. and Sakakihara, M. (2011). Acceleration
+of the alternating least squares algorithm for principal components
+analysis. *Computational Statistics and Data Analysis*, **55**, 143–153.
+
+Mori, Y., Kuroda, M. and Makino, N. (2016). *Nonlinear principal
+component analysis and its Applications*. JSS Research Series in
+Statistics, Springer.

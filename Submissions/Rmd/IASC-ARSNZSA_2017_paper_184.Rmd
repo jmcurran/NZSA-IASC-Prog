@@ -1,0 +1,22 @@
+<span>**Inverse Regression for Multivariate Functional Data**</span>
+
+Ci-Ren Jiang$^1$ and Lu-Hung Chen$^2$
+
+$^1 \;$ Institute of Statistical Science, Academia Sinica, Taipei,
+Taiwan
+
+$^2 \;$ Institute of Statistics, National Chung Hsing University,
+Taichung, Taiwan
+
+<span>**Abstract**</span>. Inverse regression is an appearing dimension
+reduction method for regression models with multivariate covariates.
+Recently, it has been extended to the cases with functional or
+longitudinal covariates. However, the extensions focus on one
+functional/longitudinal covariate only. In this work, we extend
+functional inverse regression to the cases with multivariate functional
+covariates. The asymptotical properties of the proposed estimators are
+investigated. Simulation studies and data analysis are also provided to
+demonstrate the performance of our method.
+
+<span>**Keywords**</span>. Multidimensional/Multivariate Functional Data
+Analysis, Inverse Regression, Parallel Computing, Smoothing

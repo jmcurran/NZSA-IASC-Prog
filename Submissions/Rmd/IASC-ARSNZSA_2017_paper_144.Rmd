@@ -1,0 +1,21 @@
+<span>**Spatial scan statistics for matched case-control data**</span>
+
+Inkyung Jung$^1$
+
+$^1 \;$ Department of Biostatistics and Medical Informatics, Yonsei
+University College of Medicine, Seoul, Korea
+
+<span>**Abstract**</span>. Spatial scan statistics are widely used for
+cluster detection analysis in geographical disease surveillance. While
+the method has been developed for various types of data such as binary,
+count and continuous data, spatial scan statistics for matched
+case-control data, which often arise in spatial epidemiology, have not
+been considered yet. In this paper, we propose two spatial scan
+statistics for matched case-control data. The proposed test statistics
+properly consider the correlations between matched pairs. We evaluate
+statistical power and cluster detection accuracy of the proposed methods
+through simulations comparing with the Bernoulli-based method. We
+illustrate the methods with the use of a real data example.
+
+<span>**Keywords**</span>. Spatial epidemiology, cluster detection,
+SaTScan, McNemar test, conditional logistic regression

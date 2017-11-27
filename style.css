@@ -1,0 +1,93 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+table {
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.open, .confclose {
+  border-width: 1px;
+  border-style: solid;
+  background-color: #ef2bef;
+  text-align: center;
+  font-weight: bold;
+}
+
+.contributed {
+  border-left: solid black 1px;
+  border-right: solid black 1px;
+  background-color: #ccccff;
+  text-align: left;
+  font-weight: bold;
+  font-style: italic;
+  vertical-align: top;
+}
+
+.keynote {
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  background-color: #ed2d2d;
+  text-align: center;
+  font-weight: bold;
+  vertical-align: top;
+}
+
+.mealbreak {
+  border-width: 1px;
+  border-style: solid;
+  background-color: #ffd966;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.poster {
+  border-width: 1px;
+  border-style: solid;
+  background-color: #cfe2f3;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.sessionheader, .housekeeping, .day {
+  border-width: 1px;
+  border-style: solid;
+  font-weight: bold;
+  text-align: center;
+}
+
+.time {
+  width: 70px;
+  border-right: solid black;
+  background-color: #cccccc;
+  text-align: right;
+  vertical-align: top;
+}
+
+.welcome {
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  background-color: #99cc00;
+  text-align: center;
+  font-weight: bold;
+}

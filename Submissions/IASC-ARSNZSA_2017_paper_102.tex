@@ -1,0 +1,96 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Regression with random effects for analysing correlated survival data: application to disease recurrences}
+
+%\vspace{1.0cm}
+\vspace{0.5cm}
+
+Richard Tawiah$^1$, Suzanne Chambers$^1$ and Shu-Kay Ng$^1$
+
+\begin{description}
+%\item $^1 \;$ School of Medicine and Menzies Health Institute Queensland, Griffith University, Nathan, QLD 4111, Australia
+
+\item $^1 \;$ Menzies Health Institute Queensland, Griffith University, QLD, Australia
+
+%\item $^2 \;$ Center for Applied Research in Computer Science,
+%Applied Research Laboratory, Anyville, AB 12345, USA
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+%\vspace{0.75cm}
+\vspace{0.15cm}
+
+\noindent {\bf Abstract}. Correlated failure time data arise in many biomedical studies, due to multiple occurrences of the same disease in an individual patient. To account for this correlation phenomenon, we formulate a random effect (frailty) survival model with an autoregressive (AR) covariance structure and adopt the generalized linear mixed model (GLMM) methodology for estimation of regression and variance component parameters. A more general case of the problem is also considered via a multilevel random effect approach where the correlation of survival times is induced by a hierarchical clustering structure, such as the appearances of repeated failures in patients from the same hospital in a multicentre clinical trial setting. Our modelling problem is used to investigate prognostic and treatment effects on disease relapses in two data sets, (1) tumour recurrences in bladder cancer patients and (2) recurrent infections in children with chronic granulomatous disease (CGD). Using the first data set, the effect of treatment thiotepa was found to be insignificant but demonstrated an effect in reducing tumour recurrences with adjusted hazard ratio (AHR) of 0.58 (95\% CI: 0.29-1.16, p=0.124). The initial number of tumours (AHR: 1.26, 95\% CI: 1.08-1.47, p=0.004) had significant positive effect but the effect of the size of the largest initial tumour was insignificant. In the case of the CGD data, treatment gamma interferon showed a significant decreasing effect (AHR: 0.27, 95\% CI: 0.13-0.56, p$<$0.001) on the incidence of recurrent infections. In addition, age effect was significant (AHR: 0.90,  95\% CI: 0.81-1.0, p=0.042). Pattern of inheritance, height, weight, sex, use of corticosteroids and prophylactic antibiotics did not exhibit significant association with recurrent infections. The appropriateness of our modelling methodology is investigated in a simulation study. The simulation results show that parameters are satisfactorily estimated in the special case where AR random effect is merely used. However, in the multilevel context bias in the variance parameter of random hospital effect increases as the true magnitude of variation in hospital effects increases. 
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Frailty model, random effect, correlated survival times, recurrent event, GLMM, bladder cancer, CGD   
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+%\subsection*{References}
+
+%\begin{description}
+
+%\item
+%Barnett, J.A., Payne, R.W. and Yarrow, D. (1990).
+%\textit{Yeasts: Characteristics and identification: Second Edition.}
+%Cambridge: Cambridge University Press.
+
+%\item
+%(ed.) Barnett, V., Payne, R. and Steiner, R. (1995).
+%\textit{Agricultural Sustainability: Economic, Environmental and
+%Statistical Considerations}. Chichester: Wiley.
+
+
+
+%\end{description}
+
+\end{document}
+
+
+
+
+

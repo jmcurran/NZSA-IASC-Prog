@@ -1,0 +1,33 @@
+<span>**Penalized Vector Generalized Additive Models**</span>
+
+T. W. Yee$^1$ and C. Somchit$^2$ and C. J. Wild$^1$
+
+$^1 \;$ Department of Statistics, University of Auckland, New Zealand
+
+$^2 \;$ Phayao University, Thailand
+
+<span>**Abstract**</span>. Over the last two decades generalized
+additive models (GAMs) have become an indispensible tool for modern data
+analysis and regression. First-generation GAMs as developed by Hastie
+and Tibshirani are based on backfitting (e.g., the `gam` R package).
+Second-generation GAMs have automatic smoothing parameter selection
+(e.g., the `mgcv` package by Simon Wood) and are based on, e.g.,
+P-splines. Until recently, these two implementations were largely
+confined to the exponential family. However, since the 1990s, the vector
+generalized linear and additive model (VGLM/VGAM) classes were developed
+by Yee and coworkers, and these are a much larger class of models.
+First-generation VGAMs were based on vector splines and vector
+backfitting. This talk will describe 2nd-generation VGAMs using
+O-splines and P-splines. We illustrate them by examples, to show that
+automatic smoothing parameter selection based on optimizing a predictive
+quantity such as generalized cross validation can be very useful. The
+speaker’s `VGAM` package implementation will be described.
+
+<span>**Keywords**</span>. Automatic smoothing parameter selection,
+O-splines, P-splines, Vector generalized additive models, VGAM R package
+
+References {#references .unnumbered}
+----------
+
+Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
+an Implementation in R*. New York, USA: Springer.

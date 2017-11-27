@@ -1,0 +1,42 @@
+Including questions about sexual health in the annual Health Survey for
+England (HSE) provides opportunities for regular measurement of key
+public health indicators, augmenting Britain's decennial National Survey
+of Sexual Attitudes and Lifestyles (Natsal). However, contextual and
+methodological differences may limit comparability of the findings. For
+instance both surveys used self-completion for administering sexual
+behaviour questions but this was via computer-assisted self-interview
+(CASI) in Natsal-3 and a pen-and-paper questionnaire in HSE 2010. We
+examine the extent of these differences between HSE 2010 and Natsal-3
+(undertaken 2010-2012) and investigate their impact on parameter
+estimates. For inclusion to this study, we restricted participants to
+men and women in the 2010 HSE (n = 2,782 men and 3,588 women) and
+Natsal-3 (n = 4,882 men and 6,869 women) aged 16-69 years and resident
+in England. We compared their demographic characteristics, the amount of
+non-response to, and estimates from, sexual health questions. We used
+complex survey analysis to take into account stratification, clustering,
+and weighting of the data in each survey. Logistic regression was used
+to measure the extent to which sexual health estimates differ in HSE
+2010 relative to Natsal-3, with multivariable models to adjust for
+significant demographic confounders. Additionally, investigated
+age-group interactions to see if differences between the surveys varied
+by age. The surveys achieved similar response rates, both around 60%,
+and demographic profiles largely consistent with the census, although
+HSE participants tended to be less educated, and reported worse general
+health, than Natsal-3 participants. Item non-response to the sexual
+health questions was typically higher in HSE 2010 (range: 9-18%)
+relative to Natsal-3 (all &lt;5%). Reported age at 1st intercourse was
+comparable in the two surveys: medians of 17 (men) and 16 (women) aged
+16-24. However, for some sensitive questions there were lower levels of
+reporting in HSE2010 than in Natsal-3: while the proportion reporting
+same-sex in the last 5 years was similar (2-3%), reporting of ever
+having same-sex was lower in HSE2010 for men (2% vs 5% in Natsal-3).
+Similarly, the mean number of opposite-sex partners reported in HSE2010
+was a little lower than in Natsal-3, particularly for men: 9.5 vs 12.7,
+respectively; (5.4 vs 6.5 for women, respectively). Men were also
+slightly less likely to report STI diagnoses in HSE2010 vs Natsal-3:
+8.0% vs 13.2%, respectively. While a relatively high response to sexual
+health questions in HSE 2010 demonstrates the feasibility of asking such
+questions in a general health survey, differences with Natsal-3 do
+exist. These are likely due to the HSE's context as a general health
+survey and methodological limitations such as its current use of
+pen-and-paper questionnaires.

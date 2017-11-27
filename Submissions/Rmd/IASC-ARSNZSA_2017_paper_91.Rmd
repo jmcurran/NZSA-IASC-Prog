@@ -1,0 +1,27 @@
+Abstracts:
+
+The New Zealand rugby community is aware of safety issues within the
+junior game and has applied weight limits for each tackle grade to
+minimize injury risk. However, for heavier children this can create an
+uncomfortable situation as they may no longer be playing with their peer
+group. The study evaluated almost 13,000 observations from junior rugby
+players across three seasons (2015-2017) using data supplied by
+Wellington Rugby. To protect privacy, the data was structured so that an
+individual could not be readily identified but could be tracked across
+seasons to determine churn. As data for several consecutive seasons was
+available, we could determine the likelihood of a junior player
+returning the following season and isolate the drivers of this
+behaviour. Applying a logistic regression and repeated measures analysis
+the study determined if children who are over the specified weight limit
+for their age group are more likely to leave the game. Furthermore,
+assuming the importance of playing with peers, the study identified the
+impact of age in relation to the date-of-birth cut-off of January 1st.
+This is of interest given that a child playing above their age-weight
+grade could be competing against individuals three school years above
+them. The study primarily focuses on determining the optimal age-weight
+bands while the secondary focus is on determining the likelihood of a
+junior Wellington rugby player returning the following season and
+isolating the drivers of this behaviour.
+
+Key words:Logistic regression, repeated measures, player retention,
+optimization

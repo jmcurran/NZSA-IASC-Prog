@@ -1,0 +1,89 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Joint Analysis of Individual Level Genotype Data and Summary Statistics by Leveraging Pleiotropy}
+
+
+\vspace{1.0cm}
+
+Mingwei Dai$^1$, Can Yang$^2$ and Jin Liu$^3$
+
+\begin{description}
+
+\item $^1 \;$ School of Mathematics and Statistics, Xi'an Jiaotong University, Xi'an, China
+
+\item $^2 \;$ Department of Mathematics, Hong Kong University of Science and Technology, Hong Kong
+
+\item $^3 \;$ Centre of Quantitative Medicine, Duke-NUS Medical School, Singapore
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Results from Genome-wide association studies (GWAS) suggest that a complex phenotype is often affected by many variants with small effects, known as ``polygenicity''. Tens of thousands of samples are often required to ensure statistical power of identifying these variants with small effects. However, it is often the case that a research group can only get approval for the access to individual-level genotype data with a limited sample size (e.g., a few hundreds or thousands). Meanwhile, pleiotropy is a pervasive phenomenon in genetics whereby a DNA variant influences multiple traits, and summary statistics for genetically related traits (e.g., autoimmune diseases or  psychiatric disorders)  are becoming publicly available. The sample sizes associated with the summary statistics data sets are usually quite large. How to make the most efficient use of existing abundant data resources largely remains an open problem.
+
+In this study, we propose a statistical approach, LEP, to increasing statistical power of identifying risk variants and improving accuracy of risk prediction by integrating individual level genotype data and summary statistics by \underline{LE}veraging \underline{P}leiotropy. An efficient algorithm based on variational inference is developed to handle the genome-wide analysis. Through comprehensive simulation studies, we demonstrated the advantages of LEP over the methods which take either individual-level data or summary statistics data as input. We applied LEP to perform integrative analysis of several auto-immune diseases from WTCCC and summary statistics from other studies. LEP was able to significantly increase the statistical power of identifying risk variants and improve the risk prediction accuracy by jointly analyzing autoimmune diseases.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+GWAS, pleiotropy, polygenicity, summary statistics, variational inference
+
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Solovieff N, Cotsapas C, Lee P H, et al. (2013)
+Pleiotropy in complex traits: challenges and strategies
+In: \textit{Nature reviews. Genetics} 14(7): 483.
+
+\item
+Carbonetto P, Stephens M. (2012)
+Scalable variational inference for Bayesian variable selection in regression, and its accuracy in genetic association studies
+In: \textit{Bayesian analysis} 7(1): 73-108.
+
+
+\item
+Chung D, Yang C, Li C, et al. (2014).
+GPA: a statistical approach to prioritizing GWAS results by integrating pleiotropy and annotation
+In: \textit{PLoS genetics}
+
+
+\item
+Dai M, Ming J, Cai M, et al.  (2017).
+IGESS: a statistical approach to integrating individual-level genotype data and summary statistics in genome-wide association studies.
+In: \textit{Bioinformatics}
+
+
+
+\end{description}
+
+\end{document}
+
+
+
+
+

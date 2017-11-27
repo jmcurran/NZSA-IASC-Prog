@@ -1,0 +1,40 @@
+<span>**Relationships between linguistic characteristics and the use of
+Māori loanwords in New Zealand English.**</span>
+
+Steven Miller$^1$ and Andreea Calude$^2$
+
+$^1 \;$ Department of Mathematics and Statistics, University of Waikato,
+Hamilton, New Zealand
+
+$^2 \;$ General and Applied Linguistics Programme, University of
+Waikato, Hamilton, New Zealand
+
+<span>**Abstract**</span>. We present the initial results from a project
+looking at the linguistic and socio-linguistic characteristics that
+affect the prevalence of Māori loanwords in the use of New Zealand
+English, and describe the paths we see this research taking in the next
+few years.
+
+Loanwords are words that originate in one language (the donor language)
+and enter into, and are productively used within another language (the
+host language). For our initial research, we were particularly
+interested in the use of Māori loanwords in spoken New Zealand English,
+as found within the Wellington Corpus of Spoken New Zealand English.
+
+We used generalised linear mixed effects models to determine if there
+were significant relationships between the linguistic characteristics of
+the loanwords used / words replaced, demographic features of the
+speakers, and the ethnicity of the audiences.
+
+We found that linguistic characteristics of the loanwords and their
+English counterparts affect the probability of using the loanword for
+both Pākehā and Māori speakers, there was a difference in the
+probability of using a loanword between the sexes for Māori speakers
+only, and Māori speakers moderated the use of loanwords in conversations
+depending on the ethnicity of their audience.
+
+We will briefly describe the next phase of the research that will use
+network modelling to characterise the use of Māori loanwords in written
+media.
+
+<span>**Keywords**</span>. Linguistics, loanwords, Māori, GLMM

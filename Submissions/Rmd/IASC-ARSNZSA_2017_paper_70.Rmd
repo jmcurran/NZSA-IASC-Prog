@@ -1,0 +1,39 @@
+<span>**Visual support for imbalanced classification**</span>
+
+Adalbert F.X. Wilhelm$^1$
+
+$^1 \;$ Department of Psychology and Methods, Jacobs University, Bremen,
+Germany
+
+<span>**Abstract**</span>. Visualisation techniques are widely used to
+successfully enhance the knowledge discovery in data base processes and
+a broad spectrum of visualisation approaches for classification problems
+exist. A core aim of applying visual techniques in the data analysis
+process is to ease the interaction between algorithms and the user. In
+general, there are three main stages in the analysis process, namely
+algorithm selection, model construction, and model evaluation, that can
+be enhanced by the use of appropriate visualisation techniques. In
+particular, context knowledge of the data owner is considered to be of
+vital importance and often provides a substantial input to improve
+modelling results. For this purpose, visual displays provide an
+important means of communication between content expert and data
+analyst. Many real life classification problems are characterised by the
+class imbalance between the various categories of the response variable,
+e.g. credit risk scoring, fraud detection, concession cases or military
+conflicts. These imbalances pose a particular challenge to visualisation
+that go beyond the mere question of image resolution.
+
+In this talk we investigate how visualisation needs and can be adapted
+to support the further analysis of class-imbalanced data. Looking at
+continuous and categorical predictors we evaluate the visual
+comparability of graphical representations for imbalanced data at all
+three stages of the analysis process. Using the large tool kit of **R**
+graphics, we provide a taxonomy of the effect of class-imbalance on the
+visual displays for data exploration. Displays of model quality and
+model comparisons are evaluated with a focus on predictive models
+derived from ensemble methods. Here, a specific emphasis is put at the
+interplay between graphical representations and applying data level
+methods and algorithmic level methods to handle class imbalances.
+
+<span>**Keywords**</span>. cost-sensitive learning, ensemble methods,
+over/under-sampling

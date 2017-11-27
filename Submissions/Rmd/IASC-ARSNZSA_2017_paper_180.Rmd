@@ -1,0 +1,39 @@
+<span>**Meta-analytic Principal Component Analysis in Integrative Omics
+Application**</span>
+
+SungHwan Kim$^1$ and George C. Tseng$^2$
+
+$^1 \;$ Department of Statistics, Keimyung Univerisity, Deagu 42601,
+South Korea
+
+$^2 \;$ Department of Biostatistics, University of Pittsburgh,
+Pittsburgh 15213, USA
+
+<span>**Abstract**</span>. With the prevalent usage of microarray and
+massively parallel sequencing, numerous high-throughput omics datasets
+have become available in the public domain. Integrating abundant
+information among omics datasets is critical to elucidate biological
+mechanisms. Due to the high- dimensional nature of the data, methods
+such as principal component analysis (PCA) have been widely applied,
+aiming at effective dimension reduction and exploratory visualization.
+In this paper, we combine multiple omics datasets of identical or
+similar biological hypothesis and introduce two variations of
+meta-analytic framework of PCA, namely MetaPCA. Regularization is
+further incorporated to facilitate sparse feature selection in MetaPCA.
+We apply MetaPCA and sparse MetaPCA to simulations, three transcriptomic
+meta-analysis studies in yeast cell cycle, prostate cancer, mouse
+metabolism, and a TCGA pan-cancer methylation study. The result shows
+improved accuracy, robustness and exploratory visualization of the
+proposed framework.
+
+<span>**Keywords**</span>. principal component analysis, meta-analysis,
+omics data
+
+References {#references .unnumbered}
+----------
+
+Flury (1984) *Common principal components in k groups.* Journal of the
+American Statistical Association, 79, 892–898.
+
+Krzanowski (1979) *Between-groups comparison of principal components.*
+Journal of the American Statistical Association, 74, 703–707

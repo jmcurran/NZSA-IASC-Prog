@@ -1,0 +1,104 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Adjusting for Linkage Bias in the Analysis of Record-Linked Data
+}
+
+
+\vspace{1.0cm}
+
+Patrick Graham$^1$ 
+
+\begin{description}
+
+\item $^1 \;$ Statistical Methods, Stats NZ,
+Christchurch, New Zealand
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. Data formed from record-linkage of two or more datasets are an increasingly important source of data for public health and social science research.  For example, a study cohort may be linked to administrative data in order to add outcome or covariate information to data collected directly from study participants.  However, regardless of the linkage method, it is often the case that not all records are linked.  Further, linkage rates usually vary with characteristics of analytical interest and this differential linkage can bias analyses restricted just to linked records.  While linked records have full outcome and covariate information, unlinked records exhibit “block-missingness” whereby the values for the entire block of variables contained in the file that is linked to are missing for unlinked records. Similar missing data structures occur in other contexts, including panel studies when participants decline participation in one or more study waves.  In this paper, I consider the problem of adjusting for linkage bias from both Bayesian and frequentist perspectives. A basic distinction is whether analysis is based on all available data or just the linked cases. The Bayesian perspective leads to the former option and to Gibbs sampling and multiple imputation as reasonable methods. Basing analysis only on the linked cases seems to require a frequentist perspective and leads to inverse probability of linkage weighting and conditional maximum likelihood as reasonable approaches.  The implications of the assumption of ignorable linkage also differ somewhat between the approaches. A simulation investigation confirms that, assuming ignorable linkage given observed data, multiple imputation, conditional maximum likelihood and inverse probability of linkage weighting all succeed in adjusting for linkage bias and achieve nominal interval coverage rates. Conditional maximum likelihood is slightly more efficient than inverse probability of linkage weighting and that multiple imputation can be more efficient than conditional maximum likelihood. Extensions to the case of non-ignorable linkage are also considered.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Record linkage, Missing data, Bayesian inference, Gibbs sampler, Multiple imputation 
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+%\subsection*{References}
+
+%\begin{description}
+
+%\item
+%Barnett, J.A., Payne, R.W. and Yarrow, D. (1990).
+%\textit{Yeasts: Characteristics and identification: Second Edition.}
+%Cambridge: Cambridge University Press.
+
+%\item
+%(ed.) Barnett, V., Payne, R. and Steiner, R. (1995).
+%\textit{Agricultural Sustainability: Economic, Environmental and
+%Statistical Considerations}. Chichester: Wiley.
+
+%\item
+%Payne, R.W. (1997).
+%\textit{Algorithm AS314 Inversion of matrices Statistics},
+%\textbf{46}, 295--298.
+
+%\item
+%Payne, R.W. and Welham, S.J. (1990).
+%A comparison of algorithms for combination of information in generally
+%balanced designs.
+%In: \textit{COMPSTAT90 Proceedings in Computational Statistics}, 297--302.
+%Heidelberg: Physica-Verlag.
+
+%\end{description}
+
+\end{document}
+
+
+
+
+

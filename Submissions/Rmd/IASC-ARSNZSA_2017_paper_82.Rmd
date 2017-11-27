@@ -1,0 +1,39 @@
+<span>**A Computational Efficient Algorithm for Star-Shape Change-Curve
+Detection in Random Fields with Heavy-Tailed Distribution**</span>
+
+Tsung-Lin Cheng$^1$ and Jheng-Ting Wang$^2$
+
+$^1 \;$ Department of Mathematics and Graduate Institute of Statistic
+and Information, National Changhua University of Education, Changhua
+City, Taiwan, Republic of China
+
+$^2 \;$ Department of Mathematics, National Changhua University of
+Education, Changhua City, Taiwan, Republic of China
+
+<span>**Abstract**</span>. One of the difficulties in detecting the
+change boundary in a random field is the implementation, especially when
+the random disturbances have heavy-tailed distributions. Thank to the
+gearing of the digital technology, a huge amount of image data can be
+easily obtained and analyzed. So far, in the case of star-shape
+boundaries (e.g. circular or elliptical), some well-known methods which
+deal with random fields in Cartesian coordinate cannot be directly
+applied. In particular, among the existed approaches, none is
+computationally efficient in detecting a change boundary in a random
+field. Based on Cheng’s work (\[1\]), we propose a modified
+computationally efficient method to detect the star-shaped change
+boundaries in a polar coordinated random field with heavy-tailed
+distribution.
+
+<span>**Keywords**</span>. change-curve detection, heavy-tailed random
+fields
+
+References {#references .unnumbered}
+----------
+
+1
+
+:   <span>*Cheng, Tsung-Lin.*</span> (2009). An efficient algorithm for
+    estimating a change-point. <span>*Stat. Probab. Lett.*</span>,
+    <span>**79**</span>, 559-565.
+
+

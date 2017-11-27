@@ -1,0 +1,40 @@
+<span>**A simple method for grouping patients based on historical
+doses**</span>
+
+ShengLi Tzeng$^1$
+
+$^1 \;$ Department of Public Health, China Medical University, Taichung,
+40402, Taiwan
+
+<span>**Abstract**</span>
+
+Monitoring dose patterns over time helps physicians and patients learn
+more about metabolic change, disease evolution, etc. One way to turn
+such longitudinal data into clinically useful information is through
+cluster analysis, which aims to separate the “profiles of doses” among
+patients into homogeneous subgroups. Different doses patterns reflect
+heterogeneity in patients’ characteristics and effectiveness of therapy.
+However, not all patients were prescribed at regular time points, and
+missing values seems ubiquitous if one aligns records at distinct time
+points. Moreover, a few outliers may heavily influence the estimation
+for within and/or between variations of clusters, making the distinction
+among clusters blurred. In this study, a simple method based on a novel
+pairwise dissimilarity is proposed, which also serves as a screen tool
+to detect potential outliers. We use smoothing splines, handling data
+observed either at regular or irregular time points, and measure the
+dissimilarity between patients based on pairwise varying curve estimates
+with commutation of smoothing parameters. It takes into account the
+estimation uncertainty and is not strongly affected by outliers. The
+effectiveness of our proposal is shown by simulations comparing it to
+other dissimilarity measures and by a real application to methadone
+dosage maintenance levels.
+
+<span>**Keywords**</span>. Clustering, longitudinal data, smoothing
+splines, outliers
+
+References {#references .unnumbered}
+----------
+
+Lin, Chien-Ju, Christian Hennig, and Chieh-Liang Huang. (2016).
+Clustering and a dissimilarity measure for methadone dosage time series.
+In *Analysis of Large and Complex Data*, 31-41. Springer, Switzerland.

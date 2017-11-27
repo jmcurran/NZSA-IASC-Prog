@@ -1,0 +1,46 @@
+<span>**Symbolic data analytical approach to unauthorized-access
+logs**</span>
+
+Hiroyuki MINAMI and Masahiro MIZUTA
+
+Information Initiative Center, Hokkaido University, Sapporo 060-0811
+JAPAN
+
+<span>**Abstract**</span>. We have been annoyed by tons of unwilling
+accesses in many Internet applications including SSH (Secure SHell)
+known as a typical remote access tool and E-mail delivery protocols. An
+attacked server put a report according to the configuration and the log
+files have grown day by day.
+
+Bad accesses might be caused by computer virus and so-called
+<span>*zombie*</span>, a hi-jacked computer. We assume that the actions
+would have their own trends. For example, we sometimes find that a few
+attacks come simultaneously from only 1 site, however, we also find
+several attacks from a set of the sites within 1 minute or 1 day. The
+IP-Addresses might be variable, however, within the assigned range. It
+suggests that the victimizer is just one but gets an IP-Address
+allocation so many times.
+
+To analyze the log files and give an interpretation to them, we
+introduce Symbolic Data Analysis (SDA) to adopt its main idea
+<span>*concept*</span>. If we configure an appropriate
+<span>*concept*</span> whose elements (<span> *individuals*</span> in
+SDA) are IP-Address, port-numbers and attack time span, we can reveal
+some relationship between <span>*concepts*</span> and classify them into
+perspective. The results would give us some useful information to
+protect our Internet environment.
+
+We discuss how we get them and the interpretation appropriately through
+some practical examples.
+
+<span>**Keywords**</span>. Invalid network access, Firewall, Massive
+Data Analysis
+
+References {#references .unnumbered}
+----------
+
+Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
+
+Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
+logs by Internet Firewall. *Proceedings of 2016 International Conference
+for JSCS 30th Anniversary in Seattle*.

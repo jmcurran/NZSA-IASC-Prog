@@ -1,0 +1,22 @@
+Modelling the distribution of lifetime using compound time-homogenous Poisson process
+
+Kien Trung Tran
+Victoria University of Wellington
+
+
+Modelling the distribution of lifetime has traditionally been done by constructing a deterministic function for the survival function and/or force of mortality. This paper outlines previous research and presents the author's initial attempts to model the force of mortality and remaining lifetime using time-homogenous compound Poisson processes. 
+
+The paper presents two models. In model 1, the force of mortality of an individual is modelled as a random sum of i.i.d random variables (i.e. a compound Poisson process). In model 2, each individual is assumed to have an initial normally distributed innate lifetime, and their remaining life is a shifted compound Poisson process. In other words, we assume that there are random events coming at a constant rate modifying either the force of mortality or remaining lifetime of individuals. Simulations in R are then run to find the optimized parameters and the empirical survival function, force of mortality and distribution of lifetime are then constructed. Finally, these outputs are compared existing models and actual demographic data.
+
+It turns out that for model 1, it is very difficult to model the force of mortality using a time-homogenous compound Poisson process without introducing additional complications such as the inclusion of event times. For model 2, however, if we allow the events to be a Cauchy random variable, then we can model the survival function of New Zealand population much better than several existing well-known specifications such as Weibull. 
+
+Keyword: Distribution of lifetime, force of mortality, survival function, time-homogenous compound Poisson process, innate lifetime, R simulation
+
+References
+
+Khmaladze, E (2013). Statistical methods with application to demography and life insurance. CRC Press.
+
+Weibull, W (1939). A statistical theory of the strength of materials. Generalstabens litografiska anstalts frlag, 1st edition.
+
+Gompertz, B (1825). On the Nature of the Function Expressive of the Law of Human Mortality, and on a New Mode of Determining the Value of Life. Philosophical Transactions of the Royal Society of London, 115, 513-583. 
+

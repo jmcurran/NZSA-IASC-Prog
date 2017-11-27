@@ -1,0 +1,10 @@
+Estimation of a Semiparametric Spatiotemporal Models with Mixed
+Frequency
+
+Vladimir A. Malabanan, Erniel B. Barrios, Joseph Ryan G. Lansangan
+School of Statistics, University of the Philippines Diliman Abstract
+
+      A semiparametric spatiotemporal model is postulated with data measured at varying frequency. The model optimizes utilization of information from variables measured at higher frequency by estimating its nonparametric effect on the response through the backfitting algorithm. Simulation studies support the optimality of the model over simple generalized additive model with aggregation of high frequency data. The method is then used in analyzing the spatiotemporal dynamics of corn yield based on some remotely-sensed data as covariates.
+
+Keywords: spatiotemporal model, semiparametric model, backfitting, mixed
+frequency

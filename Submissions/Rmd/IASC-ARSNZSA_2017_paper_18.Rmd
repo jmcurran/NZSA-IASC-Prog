@@ -1,0 +1,34 @@
+<span>**Test for Genomic Imprinting Effects on the X Chromosome**</span>
+
+Wing Kam Fung$^1$
+
+$^1 \;$ Department of Statistics and Actuarial Science, The University
+of Hong Kong, Hong Kong
+
+<span>**Abstract**</span>. Genomic imprinting is an epigenetic
+phenomenon that the expression of an allele copy depends on its parental
+origin. This mechanism has been found to play an important role in many
+diseases. Methods for detecting imprinting effects have been developed
+primarily for autosomal markers. However, no method is available in the
+literature to test for imprinting effects on the X chromosome.
+Therefore, it is necessary to suggest methods for detecting such
+imprinting effects. In this talk, the parental-asymmetry test on X the
+chromosome (XPAT) is first developed to test for imprinting for
+qualitative traits in the presence of association, based on family trios
+each with both parents and their affected daughter. Then, we propose
+1-XPAT to tackle parent-daughter pairs, each with one parent and his/her
+affected daughter. By simultaneously considering family trios and
+parent-daughter pairs, C-XPAT is constructed to test for imprinting.
+Further, we extend the proposed methods to accommodate complete (with
+both parents) and incomplete (with one parent) nuclear families having
+multiple daughters of which at least one is affected. Simulations are
+conducted to assess the performance of the proposed methods under
+different settings. Simulation results demonstrate that the proposed
+methods control the size well, irrespective of the inbreeding
+coefficient in females being zero or nonzero. By incorporating
+incomplete nuclear families, C-XPAT is more powerful than XPAT using
+only complete nuclear families. For practical use, these proposed
+methods are applied to analyze the rheumatoid arthritis data.
+
+<span>**Keywords**</span>. Imprinting effects, X chromosome, qualitative
+traits, nuclear family

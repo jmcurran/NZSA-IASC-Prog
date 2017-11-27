@@ -1,0 +1,93 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+ {\LARGE\bf Local Canonical Correlation Analysis for Multimodal Labeled Data}
+
+
+\vspace{1.0cm}
+
+Seigo Mizutani$^1$ and Hiroshi Yadohisa$^2$
+
+\begin{description}
+
+\item $^1 \;$ Graduate School of Culture and Information Science, Doshisha University, Kyoto, JAPAN			
+\item	$^2 \;$ Faculty of Culture and Information Science, Doshisha University, Kyoto, JAPAN	
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}
+
+In supervised learning, canonical correlation analysis (CCA) is widely used for dimension reduction problems. When using dimension reduction methods, researchers should always aim to preserve the data structure in a low dimensional space. However, if the obtained data are assumed to be multimodal labeled data, that is, each cluster can be subdivided into several latent clusters, CCA is rarely able to preserve the data structure in a low dimensional space. 
+
+In this study, we propose local CCA (LCCA) for multimodal labeled data. This method is based on local Fisher discriminant analysis (LFDA) (Sugiyama, 2007). We do not employ the same local covariance matrix of the explanatory variables as under LFDA, which uses a local between-group variance matrix and a local within-group variance matrix. Instead, in our proposed method, we use a covariance matrix of the explanatory variables as well as a weighted affinity matrix. The usefulness of LCCA in data visualization and clustering is then demonstrated by simulation studies.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}. Supervised learning, Dimension reduction, Local Fisher discriminant analysis (LFDA), Weighted affinity matrix
+
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+\begin{description}
+\item[] Sugiyama, M. (2007).
+Dimensionality reduction of multimodal labeled data by local Fisher discriminant analysis. \textit{Journal of Machine Learning Research}, \textbf{8}, 1027-1061.
+		   
+\iffalse
+\item
+Hastie, T. and Buja, A. and Tibshirani, R. (1995) Penalized discriminant analysis.\texttit{The Annals of Statistics}, 73-102.
+
+\item
+Hotelling, H. (1936). Relations between two sets of variates. \textit{Biometrika}, \textbf{28}, 321-377.
+\fi
+\end{description}
+
+\end{document}
+
+
+
+
+

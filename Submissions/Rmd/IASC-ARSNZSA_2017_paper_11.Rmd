@@ -1,0 +1,18 @@
+Presenting Flexi: A Statistical Program for Fitting Variance Models
+Martin Upsdell, AgResearch, Ruakura Research Centre, Hamilton, New
+Zealand Abstract Flexi is a statistical program designed to fit variance
+based models. In this talk I will explore the advantages and
+disadvantages of the variance based model compared to the more commonly
+adopted mean based approach. Several examples will be given where the
+properties of variance based models provide a clearer understanding of
+the data. To illustrate the differences in the approach to the data I
+will compare Television and Progressive Graphics File methods of
+transferring a picture. The Television builds up the global picture from
+individual pixels describing a local area of the picture, whereas the
+Progressive Graphics File proceeds from the global value of the median
+colour of the whole picture to the local value of each individual pixel
+by successive refinements. This gives a coarse blocky picture at the
+start which refines into a detailed picture at the end. Mean based
+models are like television pictures whereas variance based models are
+like Progressive Graphics File pictures. The advantages and
+disadvantages of the two methods will be discussed.

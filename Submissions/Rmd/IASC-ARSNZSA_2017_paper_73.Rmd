@@ -1,0 +1,46 @@
+<span>**Two stage approach\
+to data-driven subgroup identification in clinical trials**</span>
+
+Toshio Shimokawa$^1$ and Kensuke Tanioka$^1$
+
+$^1 \;$ School of Medicine, Wakayama-Medical University, Japan
+
+<span>**Abstract**</span>. A personalized medicine have been improved
+through the statistic analysis of Big data such as registry data. In
+these researches, subgroup identification analysis have been focused on.
+The purpose of the analysis is detecting subgroup such that the efficacy
+of the medical treatment is effective based on predictive factors for
+the treatment.
+
+Foster et al., (2011) proposed the subgroup identification method based
+on two stage approach, called Virtual Twins (VT) method. In the first
+stage of VT, the difference of treatment effect between treatment group
+and control group is estimated by Random Forest. In the second stage,
+responders are identified by using CART, where the estimated these
+differences are set as the predictor variables.
+
+However, the prediction accuracy of RandomForest tends to be lower than
+that of Boosting. Therefore, generalized boosted model (Ridgeway, 2006)
+is adopted in the first step. In addition to that, the number of rules
+tend to be large in the second step when CART is used. In this paper, we
+adopt a priori algorithm as the same way of SIDES(Lipkovich et al.,
+2011).
+
+<span>**Keywords**</span>. A priori algorithm, boosting, personalized
+medicine
+
+References {#references .unnumbered}
+----------
+
+Forster, J.C., Taylor, J.M.G and Ruberg, S.J. (2011). *Subgroup
+identification from randomized clinical trial data.* Stat.Med,
+<span>**30**</span>, 2867-2880.
+
+Lipkovich, I., Dmitrienko, A., Denne, J. and Enas, G. (2011). *Subgroup
+identification based on differential effect search-recursive
+partitioning method for establishing response to treatment in patient
+subpopulations*. Stat.Med, <span>**30**</span>, 2601-2880.
+
+Ridgeway, G. (2006).Gbm: Generalized boosted regression models. R
+package version 1.5-7. Available at
+`http://www.i-pensieri.com/gregr/gbm.shtml.`

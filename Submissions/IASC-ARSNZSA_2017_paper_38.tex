@@ -1,0 +1,110 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Variable Selection Algorithms}
+
+
+\vspace{1.0cm}
+
+Fangyao Li$^1$, Christopher M. Triggs$^1$,  Bogdan Dumitrescu$^2$, Ciprian Doru Giurc\u{a}neanu$^1$
+
+\begin{description}
+
+\item $^1 \;$ Department of Statistics, University of Auckland, Auckland 1142, New Zealand
+
+\item $^2 \;$ Department of Automatic Control and Computers, University Politehnica of Bucharest, 
+ 060042 Bucharest, Romania
+
+
+\end{description}
+
+
+
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. The matching pursuit algorithm (MPA) is an efficient solution for high dimensional variable selection (B\"{u}hlmann and van de Geer, 2011). 
+There is, however, no widely accepted stopping rule for MPA. (Li et al., 2017) have given novel stopping rules based on information theoretic criteria (ITC). All of 
+these ITC are based on the degrees of freedom (df) of the hat matrix which maps the data vector to its estimate. We derive some properties of the hat matrix when MPA 
+is used. These allow us to give an upper bound on the possible increase in df between successive MPA iterations. A simulation study with data generated from different
+ models compares the mean integrated square error of the different ITC and cross validation (Sancetta, 2016). 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Matching pursuit algorithm, degrees of freedom, hat matrix
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+A.Sancetta (2016).
+\textit{Greedy algorithms for prediction}.
+Bernoulli, vol. 22, pp. 1227 - 1277.
+
+\item
+P.B\"{u}hlmann and S.van de Geer (2011).
+\textit{Statistics for high-dimensional data. Methods, theory and applications}. 
+Springer Science \& Business Media.
+
+\item
+F.Li, C.Triggs, B.Dumitrescu, and C.D.Giurc\u{a}neanu (2017).
+\textit{On the number of iterations for the matching pursuit algorithm} .
+Proceedings of the 25th European Signal Processing Conference (EUSIPCO), pp. 191 - 195.
+(to appear)
+
+
+\end{description}
+
+
+
+\end{document}
+
+
+
+
+

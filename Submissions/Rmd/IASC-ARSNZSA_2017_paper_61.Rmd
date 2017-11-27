@@ -1,0 +1,22 @@
+<span>**Estimation of animal density from acoustic detections**</span>
+
+Ben C. Stevenson$^1$ and David L. Borchers$^2$
+
+$^1 \;$ Department of Statistics, University of Auckland, New Zealand
+
+$^2 \;$ School of Mathematics and Statistics, University of St Andrews,
+United Kingdom
+
+<span>**Abstract**</span>. Estimating the density of animal populations
+is of central importance in ecology, with practical applications that
+affect decision making in the fields of wildlife management,
+conservation, and beyond. For species that vocalise, surveys using
+acoustic detectors such as microphones, hydrophones, or human observers
+can be vastly cheaper than traditional surveys that physically capture
+or visually detect animals. In this talk I describe a spatial
+capture-recapture approach to estimate animal density from acoustic
+surveys and present a software implementation in the R package `ascr`,
+with examples applied to populations of frogs, gibbons, and whales.
+
+<span>**Keywords**</span>. Ecological statistics, mark-recapture, point
+process

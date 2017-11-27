@@ -1,0 +1,12 @@
+In this paper we propose a bi-level variable selection approach, Bivas,
+for linear regression under the Bayesian framework. This model assumes
+that each variable is assigned to a pre-specified group where only a
+subset of the groups truly contribute to the response variable. Besides,
+within the active groups, there are only a small number of variables are
+important. A hierarchical formulation is adopted to mimic this pattern,
+where the spike-slab prior is put on both individual variable level and
+group level. A computationally efficient algorithm is developed using
+variational inference. Both simulation studies and real examples are
+analyzed, through which we illustrate the advantages of our method for
+both variable selection and parameter estimation under certain
+conditions.

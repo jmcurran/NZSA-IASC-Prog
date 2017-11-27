@@ -1,0 +1,8 @@
+
+Analysis of a brief telephone intervention for problem gambling and examining the impact on co-existing depression?
+Nick Garrett, Maria Bellringer, Max Abbott
+
+This study investigated the outcomes of a brief telephone intervention for problem gambling. A total of 150 callers were recruited and followed for 36 months. After giving consent, participants received a baseline assessment followed by a manualised version of the helpline's standard care. Eight-six percent of participants were re-assessed at three months, 79% at six months, 66% at 12 months, and 40% at 36 months.  There was no evidence of major differential attrition consequently no adjustments were made to the data.
+Depression is found to often be associated with problem gambling behaviour, and analysis was undertaken to examine the impact of a brief telephone intervention for problem gambling on rates of depression using logistic regression. At baseline depression was found to be associated with gender, problem gambling risk (PGSI), and deprivation (NZiDep). A multiple variable model found that PGSI and mental health medication best explained depression at baseline. A repeated measures logistic regression utilising all 36 months of data found that PGSI, NZiDep, and mental health medication were the best variables to explain the change over time.
+Conclusion was that the intervention's impact on problem gambling behaviour also changed depression rates, however deprivation and mental health medication also contributed.
+

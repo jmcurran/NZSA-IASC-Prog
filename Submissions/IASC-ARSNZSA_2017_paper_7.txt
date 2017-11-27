@@ -1,0 +1,13 @@
+SPECIFICATION OF GARCH MODEL UNDER ASYMMETRIC ERROR INNOVATIONS
+Oyebimpe E.  Adeniji 1  , Olarenwaju I. Shittu2 ,  and Adesola K. Adepoju3
+Department of Statistics, University of Ibadan, Oyo State, Nigeria
+ emmanuel4444real@yahoo.com oi.shittu@gmail.com, kazeemadepoju2@gmail.com 
+
+
+ABSTRACT
+
+An empirical analysis of the mean return and conditional variance of Nigeria Stock Exchange (NSE) index is performed using various error innovations in GARCH models. Conventional GARCH model which assumed normal error term failed to capture volatility clustering, leptokurtosis and leverage effect as a result of zero skewness and kurtosis respectively. We re-modify  error distributions of GARCH (p,q) model inference using some thick-tailed distributions. Method of Quasi-Maximum Likelihood Estimation (MLE) was used in parameter estimation. The robust model that explained the NSE index is determined by loglikelihood and model selection Criteria.  Our result shows that GARCH model with fat-tailed densities improves overall estimation for measuring conditional variance.  The GARCH model using Beta-Skewed-t distribution is the most successful for forecasting NSE index.
+
+Keywords: GARCH , Nigeria stock index , Maximum Lilkelihood Estimation (MLE) and Beta Skewed -t distributions.
+
+

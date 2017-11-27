@@ -1,0 +1,90 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Imputation of the 2016 Economic Census for Business Activity in Japan}
+
+
+\vspace{1.0cm}
+
+Kazumi WADA$^1$, Hiroe TSUBAKI$^2$, Yukako TOKO$^1$ and \\ Hidemine SEKINO$^3$
+
+\begin{description}
+
+\item $^1 \;$ National Statistics Center, Japan
+
+\item $^2 \;$ National Statistics Center, Japan / The Institute of Statistical Mathematics
+
+\item $^3 \;$ The Statistics Bureau, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. \\
+R has been used in the field of official statistics in Japan for over ten years.  This presentation takes up the case of the 2016 Economic Census for Business Activity.  The Census aims to identify the structure of establishments and enterprises in all industries on a national and regional level, and to obtain basic information to conduct various statistical surveys by investigating the economic activity of these establishments and enterprises.  The major corporate accounting items, such as sales, expenses and salaries, surveyed by the census require imputation to avoid bias.  Although ratio imputation is a leading candidate, it is well known that the ratio estimator is very sensitive to outliers; therefore, we need to take appropriate measures for this problem. \\
+\\
+Ratio imputation is a special case of regression imputation; however, the conventional ratio estimator has a heteroscedastic error term, which is the obstacle of robustification by means of M-estimation.  New robust ratio estimators are developed by segregating the homoscedastic error term with no relation to the auxiliary variable from the original error.  The computation of the estimators are made by modifying iterative reweighted least squares (IRLS) algorithm, since it is easy to calculate and fast to converge.  The proposed robustified ratio estimator broadens the conventional definition of the ratio estimator with regards to the variance of the error term in addition to effectively alleviating the influence of outliers.  The application of the robust estimator is expected to contribute to the accuracy of the Census results. \\
+\\
+An random number simulation to confirm the characteristics of these estimators, deciding imputation domains by CART (classification and regression tree), model selection and preparing necessary rates by domain for the census data processing are conducted within the R programming environment. \\
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+GNU R, Outlier, Iteratively reweighted least squares, Ratio estimator, Official statistics
+
+
+\vskip 5mm
+
+\noindent {\bf Acknowledgement}. \\
+This work was supported by JSPS KAKENHI Grant Number JP16H02013.
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+%\end{description}
+
+\end{document}
+
+
+
+
+

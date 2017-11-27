@@ -1,0 +1,131 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Analysis of Spatial Data with a 
+Gaussian Mixture Markov Random Field Model
+}  
+%{\LARGE\bf Example of a ISI-IASC-ARS/NZSA Paper
+%with Title in Large Boldface Type}
+
+
+\vspace{1.0cm}
+
+Wataru Sakamoto
+%First Author$^1$ and Second Author$^2$
+
+\begin{description}
+
+\item Graduate School of Environmental and Life Science, Okayama University, 700-8530, Japan
+%\item $^1 \;$ Department of Computer Science, State University,
+%Anyville, AB 12345, USA
+
+%\item $^2 \;$ Center for Applied Research in Computer Science,
+%Applied Research Laboratory, Anyville, AB 12345, USA
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+In spatial data, detecting regions with higher relative risk is of primary interest.  
+%Fitting mixture models would be one of useful methods to detect locations with higher risk.
+%The mixture weight for each location indicate directly the probability 
+%that it would belongs to a component with greater mean.
+%However, it would be hard to detect aggregated regions with higher risk 
+%and give meaningful interpretation for spatial structure 
+%by fitting independent mixture models. 
+A latent Markov random field model with Gaussian mixture component is introduced,
+in which the probit or the logit of the mixture weight for each location follows 
+a Gaussian Markov random field such as an intrinsic auto-regressive model (Besag \textit{et al.}, 1991). 
+A mixture model with spatially correlated weights was proposed by Fern\'andez and Green (2002), 
+and our modeling with Gaussian mixture Markov random field 
+can be extended to the cases of involving covariate and random effects. 
+Parameters are estimated by a Bayesian approach, 
+and the posterior mean of the mixture weight for each location, which varies smoothly, 
+gives meaningful interpretation for spatial structure.  
+Our computation was conducted with R Stan package, 
+in which the Hamiltonian Monte Carlo method is implemented.
+Some applications to disease mapping data are illustrated.
+
+%If an abstract is included, it should be
+%set in the same type as the main text, with the same line width
+%and line spacing, starting 15 lines (typewriter) or 5 cm
+%5(PC) below the top of the print area; otherwise the first
+%heading starts here.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Bayesian modeling, spatial cluster detection, spatial correlation
+%Keywords for index, separated by commas, without full-stop at end
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item 
+Fern\'andez, C. and Green, P. J. (2002). 
+Modelling spatially correlated data via mixtures: a Bayesian approach. 
+\textit{J. Roy. Statist. Soc. B}, \textbf{64}, 805--826. 
+
+\item 
+Besag, J., York, J. and Molli\'e, A. (1991). 
+Bayesian image restoration, with two applications in spatial statistics.
+\textit{Ann. Inst. Statist. Math.}, \textbf{43}, 1--59. 
+
+\item 
+Rue, H. and Held, L. (2005)
+\textit{Gaussian Markov Random Fields: Theory and Applications.}
+Chapman and Hall.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

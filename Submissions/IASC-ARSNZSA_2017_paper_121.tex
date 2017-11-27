@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Feature selection in  high-dimensional models with complex block structures}
+
+
+\vspace{0.5cm}
+
+Zehua Chen${}^1$ and Shan Luo${}^2$
+
+\begin{description}
+\item ${}^1$ Department of Statistics \& Applied Probability, NUS,
+6 Science Drive 2, Singapore 117546
+\item${}^2$ Department of Mathematics, 
+Shanghai Jiaotong University, 
+Shanghai, P. R.  China
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\noindent {\bf Abstract}. We consider  feature selection in multivariate regression models where  the response variables as well as  the covariates are high-dimensional and both have intrinsic  group structures.  The models arise naturally in many biology studies for detecting associations between multiple traits and multiple features where the traits and features are embedded in  biological functioning groups such as genes or  pathways. We propose a sequential procedure for 
+selecting the feature groups based on a correlation principle. At each step of the procedure, the response groups are fitted to already selected feature groups and the residuals are obtained for the response groups, then, the feature group which has the highest correlation with the residuals of any response group is selected next. The correlation measure is the trace of the sample canonical correlation matrix between two vectors. The EBIC 
+%of Chen and Chen (2008)  
+is used as the stopping rule of the procedure. This procedure possesses the property of selection consistency. Compared with a group penalization approach, 
+% of Li, Nan and Zhu (2015), 
+our method is more accurate and demands much less computation. 
+%The detailed methodology of our method and the results of our simulation studies will be presented. 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Canonical correlation, correlation principle, grouped data, simultaneous feature selection, selection consistency
+
+\subsection*{References}
+
+\begin{description}
+\item
+Luo, S., and Chen, Z. (2017).
+\textit{Sequential group feature selection by correlation principle in sparse high-dimensional models with complex block structures}.
+Manuscript, submitted.
+
+\item
+Li, Y., Nan, B. and Zhu, J. (2015).
+\textit{Multivariate sparse group lasso for the multivariate multiple
+linear regression with an arbitrary group structure.
+} \textit{Biometrics} \textbf{71(2)},  354--363.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

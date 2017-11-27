@@ -1,0 +1,40 @@
+<span>**Variable Selection Algorithms**</span>
+
+Fangyao Li$^1$, Christopher M. Triggs$^1$, Bogdan Dumitrescu$^2$,
+Ciprian Doru Giurcăneanu$^1$
+
+$^1 \;$ Department of Statistics, University of Auckland, Auckland 1142,
+New Zealand
+
+$^2 \;$ Department of Automatic Control and Computers, University
+Politehnica of Bucharest, 060042 Bucharest, Romania
+
+<span>**Abstract**</span>. The matching pursuit algorithm (MPA) is an
+efficient solution for high dimensional variable selection (Bühlmann and
+van de Geer, 2011). There is, however, no widely accepted stopping rule
+for MPA. (Li et al., 2017) have given novel stopping rules based on
+information theoretic criteria (ITC). All of these ITC are based on the
+degrees of freedom (df) of the hat matrix which maps the data vector to
+its estimate. We derive some properties of the hat matrix when MPA is
+used. These allow us to give an upper bound on the possible increase in
+df between successive MPA iterations. A simulation study with data
+generated from different models compares the mean integrated square
+error of the different ITC and cross validation (Sancetta, 2016).
+
+<span>**Keywords**</span>. Matching pursuit algorithm, degrees of
+freedom, hat matrix
+
+References {#references .unnumbered}
+----------
+
+A.Sancetta (2016). *Greedy algorithms for prediction*. Bernoulli, vol.
+22, pp. 1227 - 1277.
+
+P.Bühlmann and S.van de Geer (2011). *Statistics for high-dimensional
+data. Methods, theory and applications*. Springer Science & Business
+Media.
+
+F.Li, C.Triggs, B.Dumitrescu, and C.D.Giurcăneanu (2017). *On the number
+of iterations for the matching pursuit algorithm* . Proceedings of the
+25th European Signal Processing Conference (EUSIPCO), pp. 191 - 195. (to
+appear)

@@ -1,0 +1,63 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf A simple method for grouping patients based on historical doses}
+
+
+\vspace{1.0cm}
+
+ShengLi Tzeng$^1$
+
+\begin{description}
+
+\item $^1 \;$ Department of Public Health, China Medical University,
+Taichung, 40402, Taiwan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}
+
+Monitoring dose patterns over time helps physicians and patients learn more about metabolic change, disease evolution, etc. One way to turn such longitudinal data into clinically useful information is through cluster analysis, which aims to separate the ``profiles of doses'' among patients into homogeneous subgroups. Different doses patterns reflect heterogeneity in patients' characteristics and effectiveness of therapy.  However, not all patients were prescribed at regular time points, and missing values seems ubiquitous if one aligns records at distinct time points. Moreover, a few outliers may heavily influence the estimation for within and/or between variations of clusters, making the distinction among clusters blurred. In this study, a simple method based on a novel pairwise dissimilarity is proposed, which also serves as a screen tool to detect potential outliers. We use smoothing splines, handling data observed either at regular or irregular time points, and measure the dissimilarity between patients based on pairwise varying curve estimates with  commutation of smoothing parameters. It takes into account the estimation uncertainty  and is not strongly affected by outliers. The effectiveness of our proposal is shown by simulations comparing it to other dissimilarity measures and by a real application to methadone dosage maintenance levels. 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Clustering, longitudinal data,  smoothing splines,  outliers
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Lin, Chien-Ju, Christian Hennig, and Chieh-Liang Huang. (2016). Clustering and a dissimilarity measure for methadone dosage time series. In \textit{Analysis of Large and Complex Data}, 31-41. Springer, Switzerland. 
+
+\end{description}
+
+\end{document}
+
+
+
+
+

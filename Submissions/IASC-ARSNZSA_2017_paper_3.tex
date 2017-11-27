@@ -1,0 +1,79 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+\usepackage{amsmath}    % AMS math style
+\usepackage{amsfonts}   % Include AMS fonts
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+\newcommand{\bx}{{\bf x}}
+\newcommand{\E}{\mathbb{E}}
+\newcommand{\be}{\begin{equation}}
+\newcommand{\ee}{\end{equation}}
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Online Learning for Bayesian Nonparametrics: Weakly Conjugate Approximation}
+
+
+\vspace{1.0cm}
+
+Yongdai Kim$^1$, Kuhwan Jeong$^1$, Byungyup Kang$^2$ and Hyoju Chung$^2$
+
+\begin{description}
+
+\item $^1 \;$ Department of Statistics, Seoul National University,
+Seoul, South Korea
+
+\item $^2 \;$ NAVER Corp.,
+Seongnam, South Korea
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}.
+We propose a new online learning method for Bayesian nonparametric (BNP) models so called {\it weakly conjugate approximation} (WCA).
+We consider classes of BNP priors which are weakly conjugate. Here, `weakly conjugate prior' means that the resulting posterior can be easily approximated by an efficient MCMC algorithm. 
+
+Suppose the whole data set is divided
+into two groups, say $\bx=(\bx^{old},\bx^{new}).$ Then, the Bayes rule implies
+$p(\theta|\bx) \propto p(\bx^{new}|\theta) p(\theta|\bx^{old}),$
+where $\theta$ is the parameter. WCA replaces $p(\theta|\bx^{old})$ with $p^{wk}(\theta|\eta)$ where
+the proxy parameter $\eta$ is estimated by minimizing the Kullback-Leibler (KL) divergence
+$\E_{p(\theta|\bx^{old})}\left\{ \log p(\theta|\bx^{old}) - \log p^{wk}(\theta|\eta)\right\}.$
+It can be easily approximated when we can generate samples from $p(\theta|\bx^{old}).$ 
+To be more specific, suppose $\theta_1,\ldots,\theta_M$ are samples generated from $p(\theta|\bx^{old}).$ Then, we can estimate $\eta$ by minimizing
+$\sum_{j=1}^M\left\{ \log p(\theta_j|\bx^{old}) - \log p^{wk}(\theta_j|\eta)\right\}/M.$
+
+To apply WCA for online learning with multiple batches, suppose the whole data $\bx$ are divided into multiple small batches as $\bx=(\bx^{[1]},\ldots,\bx^{[S]}).$ A WCA algorithm sequentially approximates $p(\theta|\bx^{[1]},\ldots,\bx^{[s]})$ by $p^{wk}(\theta|\eta_s),$ where
+$\eta_s$ is the proxy parameter minimizing the approximated KL divergence.
+Since $p^{wk}(\theta|\eta)$ is weakly conjugate, we can easily generate
+samples from $p(\bx^{[s]}|\theta)p^{wk}(\theta|\eta_{s-1}),$ and hence easily update $\eta_s.$
+
+We compare several online learning algorithms by analyzing simulated/real data sets in Dirichlet process mixture models and hierarchical Dirichlet processes topic models. The proposed method shows better accuracy in our experiments.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+online learning, weakly conjugate approximation, Dirichlet process mixture model, hierarchical Dirichlet processes
+\end{document}
+
+
+
+
+

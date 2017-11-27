@@ -1,0 +1,27 @@
+<span>**gridSVG: Then and Now**</span>
+
+Paul Murrell $^1$
+
+$^1 $ Department of Statistics, The University of Auckland, Auckland,
+New Zealand
+
+<span>**Abstract**</span>. The <span><span>**gridSVG**</span></span>
+package[@RJ-2014-013] was first developed in 2003 to experiment with
+features of the SVG format that were not available through a normal R
+graphics device[@R], such as hyperlinks and animation. A number of
+different R packages[@rsvgtipsdevice; @cairo; @svglite; @svgannotation]
+have been developed since then to allow the generation of SVG output
+from R, but <span><span>**gridSVG**</span></span> has remained unique in
+its focus on generating structured and labelled SVG output. The reason
+for that was to maximise support for customisation and reuse,
+particularly unforseen reuse, of the SVG output. Unfortunately, there
+were two major problems: killer examples of customisation and reuse
+failed to materialise; and the production of SVG with
+<span><span>**gridSVG**</span></span> was painfully slow. In brief,
+<span><span>**gridSVG**</span></span> was a (sluggish) solution waiting
+for a problem. This talk charts some of the developments over time that
+have seen <span><span>**gridSVG**</span></span>’s patient wait for
+relevance ultimately rewarded and its desperate need for speed finally
+satisfied.
+
+<span>**Keywords**</span>. R, statistical graphics, SVG, accessibility

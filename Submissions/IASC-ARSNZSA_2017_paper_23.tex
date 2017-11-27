@@ -1,0 +1,98 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Estimation of a High-Dimensional Covariance Matrix}
+
+
+\vspace{1.0cm}
+
+Xiangjie Xue$^*$ and Yong Wang$^*$
+
+\begin{description}
+
+\item $^* \;$ Department of Statistics, The University of Auckland,
+New Zealand.
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. The estimation of covariance or precision (inverse covariance) matrices plays a prominent role in multivariate analysis. The usual estimator, the sample covariance matrix, is known to be unstable and ill-conditioned in high-dimensional setting. In the past two decades, various methods have been developed to give a stable and well-conditioned estimator and they have their own advantages and disadvantages. We will review some of the most popular methods \nocite{RN36} and describe a new method to estimate the correlation matrix and hence the covariance matrix using the empirical Bayes method. Similar to many element-wise methods in the literature, we also assume that the elements in a correlation matrix are independent of each other. We use the fact that the elements in a sample correlation matrix can be approximated by the same one-parameter normal distribution with unknown means \nocite{RN31}, along with the non-parametric maximum likelihood estimation \nocite{RN87} to give a new estimator of the correlation matrix. Preliminary simulation results show that the new estimator has some advantages over various thresholding methods in estimating sparse covariance matrices.
+
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Big Data, Multivariate Analysis, Statistical Inference
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+	
+	\item
+	Efron, B., 2010. 
+	\textit{Correlated $z$-values and the accuracy of large-scale statistical estimates}.
+	J Am Stat Assoc \textbf{105}, 1042 - 1055.
+	
+	\item
+	Fan, J., Liao, Y., Liu, H., 2016. 
+	\textit{An overview of the estimation of large covariance and
+	precision matrices}. Econometrics Journal \textbf{19}, C1 - C32.
+	
+	\item
+	Wang, Y., 2007. 
+	\textit{On fast computation of the non-parametric maximum likelihood estimate
+	of a mixing distribution}. 
+	Journal of the Royal Statistical Society: Series B \textbf{69}, 185 - 198.
+
+	\end{description}
+\end{document}
+
+
+
+
+

@@ -1,0 +1,53 @@
+<span>**Empirical comparison of some algorithms for automatic univariate
+ARMA modeling using RcmdrPlugin.SPSS**</span>
+
+Dedi Rosadi
+
+Department of Mathematics, Computational Statistics Research Grup,
+Universitas Gadjah Mada, INDONESIA
+
+<span>**Abstract**</span>. In some application of time series modeling,
+it is necessary to obtain forecast of various types of data
+automatically and possibly, in real-time. For instances, to forecast
+large number of univariate series every day, or to do a real-time
+processing of the satellite data. Various automatic algorithms for
+modeling ARMA models are available in the literature, where here we will
+discuss three methods in particular. One of the method is based on a
+combination between the best exponential smoothing model to obtain the
+forecast, together with state-space approach of the underlying model to
+obtain the prediction interval (see Hyndman, 2007). The second method,
+which is more advanced method, is based on X-13-ARIMA-SEATS, the
+seasonal adjustment software by the US Census Bureau (see Sax , 2015).
+From our previous study in Rosadi (2016), we found that these methods
+are perform relatively well for SARIMA data. Unfortunately, these
+approaches do not working well for many of ARMA data. Therefore in paper
+we extend the study by considering an automatic modeling method based on
+genetic algorithm approach (see Abo-Hammour, et.al., 2012). These
+approaches are implemented in our R-GUI package RcmdrPlugin.Econometrics
+which now already integrated in our new and more comprehensive R-GUI
+package, namely RcmdrPlugin.SPSS. We provide application of the methods
+and the tool. From some empirical studies, we found that for ARMA data,
+the method based on genetic algorithm performs better than the other
+approaches.
+
+<span>**Keywords**</span>. Automatic ARMA modeling, genetic algorithm,
+exponential smoothing, X-13-ARIMA, R-GUI
+
+References {#references .unnumbered}
+----------
+
+Abo-Hammour, Z. E. S., Alsmadi, O. M., Al-Smadi, A. M., Zaqout, M. I., &
+Saraireh, M. S. (2012). ARMA model order and parameter estimation using
+genetic algorithms. *Mathematical and Computer Modelling of Dynamical
+Systems*, **18(2)**, 201–221.
+
+Hyndman, R. J. (2007). forecast: Forecasting functions for time series,
+R package version 1.05.
+`URL: http://www.robhyndman.info/Rlibrary/forecast/`.
+
+Sax, C. (2015). Introduction to seasonal: R interface to
+X-13ARIMA-SEATS,\
+`https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf`.
+
+Rosadi, D. (2016). Automatic ARIMA Modeling using RcmdrPlugin.SPSS,
+Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.

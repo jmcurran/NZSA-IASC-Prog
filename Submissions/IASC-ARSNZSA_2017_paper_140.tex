@@ -1,0 +1,196 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Sparse Group-subgroup Partial Least Squares with Application
+to Genomic Data}
+
+
+\vspace{1.0cm}
+
+Matthew Sutton$^1$ and Rodolphe Thi\'{e}baut$^3$ and Benoit Liquet$^{2,1}$
+
+\begin{description}
+
+\item $^1 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
+
+\item $^2 \;$ Laboratory of Mathematics and its Applications, University
+of Pau et Pays de L’Adour, UMR CNRS 5142, France.
+
+\item $^3 \;$ Inria, SISTM, Talence and Inserm, U1219, Bordeaux,
+Bordeaux University, Bordeaux and Vaccine Research Institute, Creteil, France.
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. Integrative analysis of high dimensional omics datasets has been studied by many authors in recent years. By incorporating prior known relationships among the variables, these analyses have been successful in elucidating the relationships between different sets of omics data. In this article, our goal is to identify important relationships between genomic expression and cytokine data from an HIV vaccination trial. We proposed a flexible Partial Least Squares technique which incorporates group and subgroup structure in the modelling process. Our new methodology expands on previous work, by accounting for both grouping of genetic markers (e.g. genesets) and temporal effects. The method generalises existing sparse modelling techniques in the PLS methodology and establishes theoretical connections to variable selection methods for supervised and unsupervised problems. Simulation studies are performed to investigate the performance of our methods over alternative sparse approaches. Our method has been implemented in a comprehensive R package called sgsPLS.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+genomics, group variable selection, latent variable modelling, partial least squares, singular value decomposition
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item Chaussabel, D. et~al. (2008).
+A modular analysis framework for blood genomics studies: application
+  to systemic lupus erythematosus.
+\textit{Immunity} {\bf 29,} 150--164.
+
+\item
+Chun, H. and Kele\c{s}, S. (2010).
+ Sparse partial least squares regression for simultaneous dimension
+  reduction and variable selection.
+	\textit{Journal of the Royal Statistical Society: Series B (Statistical
+  Methodology)} {\bf 72,} 3--25.
+
+\item
+Garcia, T.~P., Muller, S., Carroll, R., and Walzem, R. (2014).
+ Identification of important regressor groups, subgroups and
+  individuals via regularization methods: application to gut microbiome data.
+	\textit{Bioinformatics} {\bf 30,} 35--42.
+
+\item
+Gomez-Cabrero, D., Abugessaisa, I., Maier, D., Teschendorff, A.,
+  Merkenschlager, M., Gisel, A., Ballestar, E., Bongcam-Rudloff, E., Conesa,
+  A., and Tegn{\'e}r, J. (2014).
+ Data integration in the era of omics: current and future challenges.
+	\textit{BMC Systems Biology} {\bf 8,} 1--10.
+
+\item
+Hejblum, B., Skinner, J., and Thi\`{e}baut, R. (2015).
+ Time-course gene set analysis for longitudinal gene expression data.
+	\textit{PLOS Computational Biology} {\bf 11,} 1--21.
+
+\item
+{Le Cao}, K., Rossouw, D., Robert-Granie, C., and Besse, P. (2008).
+ {A} sparse {P}{L}{S} for variable selection when integrating omics
+  data.
+	\textit{Stat Appl Genet Mol Biol} {\bf 7,} 37.
+
+
+\item
+L\`{e}vy, Y., Thi\`{e}baut, R., Montes, M., Lacabaratz, C., Sloan, L., King,
+  B., P\`{e}rusat, S., Harrod, C., Cobb, A., Roberts, L., Surenaud, M.,
+  Boucherie, C., Zurawski, S., Delaugerre, C., Richert, L., Ch\^{e}ne, G.,
+  Banchereau, J., and Palucka, K. (2014).
+ Dendritic cell-based therapeutic vaccine elicits polyfunctional
+  hiv-specific t-cell immunity associated with control of viral load.
+	\textit{European Journal of Immunology} {\bf 44,} 2802--2810.
+
+\item
+Lin, D., Zhang, J., Li, J., Calhoun, V., Deng, H., and Wang, Y. (2013).
+ Group sparse canonical correlation analysis for genomic data
+  integration.
+	\textit{BMC Bioinformatics} {\bf 14,} 1--16.
+
+\item
+Liquet, B., de~Micheaux, P.~L., Hejblum, B., and Thi\'{e}baut, R. (2016).
+ Group and sparse group partial least square approaches applied in
+  genomics context.
+	\textit{Bioinformatics} {\bf 32,} 35--42.
+
+\item
+Nowak, G., Hastie, T., Pollack, J., and Tibshirani, R. (2011).
+ A fused lasso latent feature model for analyzing multisample acgh
+  data.
+	\textit{Biostatistics} {\bf 12,} 776--791.
+
+
+\item
+Parkhomenko, E., Tritchler, D., and Beyene, J. (2009).
+Sparse canonical correlation analysis with application to genomic
+  data integration.
+	\textit{Statistical applications in genetics and molecular biology} {\bf
+  8,} Article 1.
+
+\item 
+Rosipal, R. and Kr\"{a}mer, N. (2006).
+Overview and recent advances in partial least squares.
+\textit{Subspace, Latent Structure and Feature Selection}
+
+\item
+Safo, S.~E., Li, S., and Long, Q. (2017).
+ Integrative analysis of transcriptomic and metabolomic data via
+  sparse canonical correlation analysis with incorporation of biological
+  information.
+	\textit{Biometrics} .
+
+\item
+Simon, N., Friedman, J., Tibshirani, R., and Hastie, T. (2013).
+ A {S}parse-{G}roup {L}asso.
+	\textit{Journal of Computational and Graphical Statistics} {\bf 22,}
+  213--245.
+
+
+\item
+Tenenhaus, A., Philippe, C., Guillemot, V., {Le Cao}, K., Grill, J., and
+  Frouin, V. (2014).
+ Variable selection for generalized canonical correlation analysis.
+	\textit{Biostatistics} {\bf 15,} 569--583.
+
+\item
+Tibshirani, R. (1994).
+ Regression shrinkage and selection via the lasso.
+	\textit{Journal of the Royal Statistical Society, Series B} {\bf 58,}
+  267--288.
+
+\item
+Witten, D., Tibshirani, R., and Hastie, T. (2009).
+ A penalized matrix decomposition, with applications to sparse
+  principal components and canonical correlation analysis.
+	\textit{Biostatistics} {\bf 10,} 515--534.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

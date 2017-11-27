@@ -1,0 +1,109 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Clusterwise low-rank correlation  analysis based on majorization}
+
+
+\vspace{1.0cm}
+
+Kensuke Tanioka$^{1*}$, Satoru Hiwa$^2$,  \\ Tomoyuki Hiroyasu$^2$  and Hiroshi Yadohisa$^3$
+
+\begin{description}
+
+\item $^1 \;$ Clinical Study Support Center, Wakayama Medical University Hospital,
+Wakayama, Japan
+
+\item $^2 \;$ Department of Biomedical Information, Doshisha University, Kyoto, Japan
+
+\item $^3 \;$ Department of Culture and Information Science, Doshisha University,
+, Kyoto, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Given correlation matrices between variables of subjects and these classes of subjects,
+it is important to get the distinctive local networks for each class.  
+For example, in fMRI data analysis, such the situation is observed. 
+In concretely, each correlation matrix between
+regions of interests for his/her brain is observed, and 
+each information of class is get through the experiment.
+In this presentation, to achieve the purpose, we proposed simultaneous analysis
+for both clustering of variables and low-rank approximation of correlation matrices corresponding to
+each class. 
+For the estimation, we adopt the majorization algorithm based on 
+Pietersz and Groenen (2004) and Simon and Abell (2010).
+Through the proposed method, we can get the distinctive sparse correlation matrices
+corresponding to classes, while we have to determine the number of clusters.   
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}. sparse estimation, clustering variables, ALS
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Pietersz, R., and Groenen, J.F (2004).
+\textit{Rank Reduction of Correlation Matrices by Majorization.}
+Quant.Finance, {\bf 4}: 649--662.
+
+\item
+Simon, D., and Abell, J. (2010).
+\textit{Majorization Algorithm for Constrained Correlation Matrix Approximation},
+Linear Algebra and its Apprications,, {\bf 432}, 1152-1164.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

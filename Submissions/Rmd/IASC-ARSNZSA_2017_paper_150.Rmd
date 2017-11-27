@@ -1,0 +1,40 @@
+<span> **Modeling of Document Abstraction Using Association Rule Based
+Characterization** </span>
+
+Ken Nittono
+
+Department of Markets and Management, Hosei University, 102-8160 Tokyo,
+Japan
+
+<span>**Abstract**</span>. The importance of systems enabling us to
+extract useful information from enormous text data produced every day
+along with our social activities in organizations or on the internet and
+utilize the information immediately and efficiently have been
+increasing. In this research, an analyzing method which extracts
+essential parts from a huge document set utilizing association rule
+analysis as a data mining method is introduced. The method detects
+typical combinations of terms involved in contexts and regards them as
+the characterization of text data and it is also combined with
+information retrieval methods for the sake of further selection as some
+parts of the essential contexts. This method is considered to enhance
+its ability of detection for particular contexts that contain some
+topics and include moderately distributed terminologies. And
+implementation of the system is discussed in order for utilizing the
+abstracted documents efficiently as some sort of knowledge such as
+collective intelligence. An approach for linkage with R is also
+mentioned in the phase of the implementation of the model.
+
+<span>**Keywords**</span>. Association rule, Text mining, Big data,
+Information retrieval
+
+References {#references .unnumbered}
+----------
+
+Agrawal, R. Imielinski, T. and Swami, A. (1993). *Mining association
+rules between sets of items in large databases*, Proceedings of the ACM
+SIGMOD Washington, D.C, 207–216.
+
+Nittono, K. (2013). *Association rule generation and mining approach to
+concept space for collective documents*, Proceedings of the 59th World
+Statistics Congress of the International Statistical Institute, pp.
+5515–5520.

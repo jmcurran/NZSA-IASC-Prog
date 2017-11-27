@@ -1,0 +1,43 @@
+NZSA Abstract
+
+My knee still hurts; the statistical pathway to the development of a
+clinical decision aid
+
+Borotkanics R, Rice DA, Kluger M, McNair PJ, , Lewis G, Somogyi A,
+Barret, D, Walker M. Auckland University of Technology, Waitemata
+District Health Board and University of Adelaide
+
+Total knee arthroplasty (TKA) is considered an effective intervention to
+improve physical function and reduce joint pain in those with end stage
+knee arthritis, yet up to 34% of patients experience chronic,
+post-operative pain. This results in patient dissatisfaction and a
+leading reason for revision surgery. The establishment of a predictive
+tool would therefore have utility in that it could be applied to
+determine whether a candidate patient would benefit from TKA. Therefore
+this study undertook to appraise the accuracy of preoperative predictors
+of chronic pain at six and 12 months postoperative, based on a cohort of
+300 patients.
+
+What is reported herein is the methodological approaches applied to
+tease out the various nuances of developing such a clinical decision
+aid. By way of summary, a series of logistic regression models were
+developed and refined to identify predictors chronic postoperative pain,
+where pain was reported using the numerical pain rating scale (NRS).
+Self-reported NRS pain was dichotomized based on functional status using
+a defined statistical approach. Multivariate models were developed using
+a stepwise selection approach, accounting for interaction and
+collinearity. The effect of changing collinearity thresholds on
+information criterion is illustrated. The sensitivity and specificity
+were calculated, along with receiver operating characteristic (ROC)
+analyses for each logistic model. Final models were chosen by a
+combination of superior area under the curve (AUC) and Akaike
+Information Criterion (AIC). The stability of β coefficients across the
+top performing models is reported, along with model goodness-of-fit
+using the Hosmer and Lameshow methodology. Cut-point analyses are
+reported on models performances, including the effect of changing pain
+thresholds on model accuracy. Finally, the conversion of a superior
+logistic model into a probabilistic function, of potential utility for
+clinicians is illustrated.
+
+Keywords: total knee arthroplasty; logistic regression; clinical
+decision support

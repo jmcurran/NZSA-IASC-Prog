@@ -1,0 +1,27 @@
+**Abstract**
+
+Complex multiple seasonality is an important emerging challenge in time
+series forecasting. We propose a framework that segregates the task into
+two stages. In the first stage, the time series is aggregated at the low
+frequency level (such as daily or weekly) and suitable methods such as
+regression, ARIMA or TBATS, are used to fit this lower frequency data.
+In the second stage, additive or multiplicative seasonality at the
+higher frequency levels may be estimated using classical, or
+function-based methods. Finally, the estimates from the two stages are
+combined.
+
+In this work, we build a package for implementing the above two-stage
+framework for modeling time series with multiple levels of seasonality
+within R. This would make it convenient to execute and possibly lead to
+more practitioners and academicians adopting it. The package would allow
+the user to decide the specific methods to be used in the two stages and
+also the separation between high and low frequency. Errors are
+calculated for both model and validation period, which may be selected
+by the user and model selection choices based on different criterion
+will be facilitated. Forecast combination may also be integrated with
+the developed routine. The schematics will be presented along with
+demonstration of the package in several real data sets.
+
+Keywords: Additive seasonality, ARIMA, forecast combination, high
+frequency, low frequency, multiplicative seasonality, polynomial
+seasonality, regression, TBATS, trigonometric seasonality.

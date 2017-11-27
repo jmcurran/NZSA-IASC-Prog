@@ -1,0 +1,34 @@
+<span>**Spatial Surveillance with Scan Statistics by Controlling the
+False Discovery Rate**</span>
+
+Xun Xiao$^1$
+
+$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
+North 4410, New Zealand
+
+<span>**Abstract**</span>. In this paper, I investigate a false
+discovery approach based on spatial scan statistics to detect the
+spatial disease clusters in a geographical region proposed by Li et al.
+(2016). The incidence of disease is assumed to follow an inhomogeneous
+Poisson model discussed in Kulldorff (1997). I show that, though spatial
+scan statistics are highly correlated, the simple Banjamini-Hochberg
+(linear step-up) procedure can control the false discovery rate of them
+by proving that the multivariate Poisson distribution satisfies the PRDS
+condition (positive regression dependence on a subset) in Benjamini and
+Yekutieli (2001).
+
+<span>**Keywords**</span>. False Discovery Rate, Poisson Distribution,
+PRDS, Spatial Scan Statistics
+
+<span>**References**</span>
+
+Benjamini, Y. and Yekutieli, D. (2001). *The control of the false
+discovery rate in multiple testing under dependency*, Annals of
+Statistics, **29**(4), 1165–1188.
+
+Kulldorff, M. (1997). *A spatial scan statistic*, Communications in
+Statistics-Theory and Methods **26**(6), 1481–1496.
+
+Li, Y., Shu, L., and Tsung, F. (2016). *A false discovery approach for
+scanning spatial disease clusters with arbitrary shapes*, IIE
+transactions, **48**(7), 684–698.

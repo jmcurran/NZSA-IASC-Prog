@@ -1,0 +1,40 @@
+<span>**Random Search Global Optimization using Random Forests**</span>
+
+B. L. Robertson$^1$, C. J. Price$^1$ and M. Reale$^1$
+
+$^1 \;$ School of Mathematics and Statistics, University of Canterbury,
+Christchurch, NZ
+
+<span>**Abstract**</span>. The purpose of a global optimization
+algorithm is to efficiently find an objective function’s global minimum.
+In this talk we consider bound constrained global optimization, where
+the search is performed in a box, denoted $\Omega$. The global
+optimization problem is deceptively simple and it is usually difficult
+to find the global minimum. One of the difficulties is that there is
+often no way to verify that a local minimum is indeed the global
+minimum. If the objective function is convex, the local minimum is also
+the global minimum. However, many optimization problems are not convex.
+Of particular interest in this talk are objective functions that lack
+any special properties such as continuity, smoothness, or a Lipschitz
+constant.
+
+A random search algorithm for bound constrained global optimization is
+presented. This algorithm alternates between partition and sampling
+phases. At each iteration, points sampled from $\Omega$ are classified
+low or high based on their objective function values. These classified
+points define training data that is used to partition $\Omega$ into low
+and high regions using a random forest. The objective function is then
+evaluated at a number of points drawn from the low region and from
+$\Omega$ itself. Drawing points from the low region focuses the search
+in areas where the objective function is known to be low. Sampling
+$\Omega$ reduces the risk of missing the global minimum and is necessary
+to establish convergence. The new points are then added to the existing
+training data and the method repeats.
+
+A preliminary simulation study showed that alternating between random
+forest partition and sampling phases was an effective strategy for
+solving a variety of global optimization test problems. The authors are
+currently refining the method and extending the set of test problems.
+
+<span>**Keywords**</span>. Bound constrained optimization,
+classification and regression trees (CART), stochastic optimization

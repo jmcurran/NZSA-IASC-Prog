@@ -1,0 +1,117 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf 
+Improvement of Computation for Nonlinear Multivariate Methods}
+
+
+\vspace{1.0cm}
+
+Masahiro Kuroda$^1$, Yuichi Mori$^1$, and Masaya Iizuka$^2$
+
+\begin{description}
+%
+\item $^1 \;$ Department of Management, Okayama University of Science,
+Okayama, 700-0001, JAPAN
+\item $^2 \;$ Admission Center, Okayama University,
+Okayama 700-8530, JAPAN
+%
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Nonlinear multivariate methods (NL-MM) using optimal scaling as a quantification 
+technique can analyze any data including quantitative and qualitative variables. 
+The alternating least squares (ALS) algorithm is the most popular iterative 
+algorithm in NL-MM. While the algorithm has a stable convergence property, it 
+requires many iterations and a large computational cost, especially for a large 
+data set involving many qualitative variables, because its convergence is linear. 
+It is therefore important to improve the speed of computation when NL-MM with the 
+ALS algorithm is applied. Kuroda and his co-workers tried to accelerate the 
+convergence of the ALS algorithm using the vector $\varepsilon$ (v$\varepsilon$) 
+accelerator. In this talk, the v$\varepsilon$ acceleration for the ALS algorithm 
+is implemented in NL-MM, e.g., nonlinear principal component analysis and nonlinear 
+factor analysis, and the performances are demonstrated in numerical experiments. 
+
+
+%If an abstract is included, it should be
+%set in the same type as the main text, with the same line width
+%and line spacing, starting 15 lines (typewriter) or 5 cm
+%(PC) below the top of the print area; otherwise the first
+%heading starts here.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Alternating least squares algorithm, Optimal scaling, Acceleration of convergence
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+%
+\item
+Gifi, A. (1990).
+\textit{Nonlinear multivariate analysis}. Wiley. 
+%
+\item
+Kuroda, M., Mori, Y., Iizuka, M. and Sakakihara, M. (2011). 
+Acceleration of the alternating least squares algorithm for principal components analysis. 
+\textit{Computational Statistics and Data Analysis}, \textbf{55}, 143--153.
+%
+\item
+Mori, Y., Kuroda, M. and Makino, N. (2016).
+\textit{Nonlinear principal component analysis and its Applications}.
+JSS Research Series in Statistics, Springer.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

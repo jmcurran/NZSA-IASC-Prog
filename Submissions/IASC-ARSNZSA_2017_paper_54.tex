@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Statistical Disclosure Control with R: \\
+ Traditional Methods and \\ \vspace{0.2cm} Synthetic Data}
+
+
+\vspace{1.0cm}
+
+Matthias Templ$^1$ 
+
+\begin{description}
+
+\item $^1 \;$ Institute for Data Analysis and Process Design, 
+Zurich University of Applied Sciences, Winterthur, CH-8404, Switzerland
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. The demand for and volume of data from surveys, registers or other sources containing sensible information on persons or enterprises have increased significantly over the last several years. At the same time, privacy protection principles and regulations have imposed restrictions on the access and use of individual data. Proper and secure microdata dissemination calls for the application of statistical disclosure control methods to the data before release.
+Traditional approaches to (micro)data anonymization, including data perturbation methods, disclosure risk methods, data utility and methods for simulating synthetic data have been made available in R. After introducing the audience to the R packages sdcMicro and simPop, the presentation will focus on new developments and research for generating close-to-reality synthetic data sets using specific model-based approaches. The resulting data can work as a proxy of real-world data and they are useful for training purposes, agent-based and/or microsimulation experiments, remote execution as well as they can be provided as public-use files. The strength and weakness of the methods are highlighted and an (brief) application to the Euorpean Statistics of Income and Living Condition Survey is given. 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Statistical Disclosure Control, 
+Anonymization, 
+Disclosure Risk, 
+Synthetic Data
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Templ, M. (2017).
+\textit{Statistical Disclosure Control for Microdata.
+Methods and Applications in R}, Springer International Publishing. doi:10.1007/978-3-319-50272-4
+
+\item
+Templ, M., Kowarik, A., Meindl, B. (2015).
+  Statistical Disclosure Control for Micro-Data Using the R Package
+  sdcMicro. \textit{Journal of Statistical Software}, 67(4), 1-36.
+  doi:10.18637/jss.v067.i04
+
+\item
+Templ, M., Kowarik, A., Meindl, B., Dupriez, O.
+  (2017). Simulation of Synthetic Complex Data: The R Package simPop.
+  \textit{Journal of Statistical Software}, 79(10), 1-38.
+  doi:10.18637/jss.v079.i10
+
+
+
+\end{description}
+
+\end{document}
+
+
+
+
+

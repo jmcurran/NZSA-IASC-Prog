@@ -1,0 +1,26 @@
+<span>**Dimension Reduction for Classification of High-dimensional Data
+by Stepwise SVM** </span>
+
+Elizabeth P. Chou$^1$ and Tzu-Wei Ko$^1$
+
+$^1 \;$ Department of Statistics, National Chengchi University, Taiwan
+
+<span>**Abstract**</span>. The purpose of this study is to build a
+simple and intuitive wrapper method, stepwise SVM, for reducing
+dimension and classification of large p small n datasets. The method
+employs a suboptimum search procedure to determine the best subset of
+variables for classification. The proposed method is compared with other
+dimension reduction methods, such as Pearson product moment correlation
+coefficient (PCCs), Recursive Feature Elimination based on Random Forest
+(RF-RFE), and Principal Component Analysis (PCA) by using five gene
+expression datasets. In this study, we show that stepwise SVM can
+effectively select the important variables and perform well in
+prediction. Moreover, the predictions of reduced datasets from stepwise
+SVM are better than that of the unreduced datasets. Compared with other
+methods, the performance of stepwise SVM is more stable than PCA and
+RF-RFE but it is difficult to tell the difference in performance from
+PCCs. In conclusion, stepwise SVM can effectively eliminate the noise in
+data and improve the prediction accuracy.
+
+<span>**Keywords**</span>. Stepwise SVM, Dimension reduction, Feature
+selection, High-dimension

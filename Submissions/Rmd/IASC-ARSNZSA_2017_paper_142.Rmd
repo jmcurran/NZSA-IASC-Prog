@@ -1,0 +1,37 @@
+<span>**Covariate Discretisation on Big Data**</span>
+
+Hon Hwang$^{1,2}$, Stephen Wright$^{2,3}$, and Louise Ryan$^{1,2}$
+
+$^1 \;$ The University of Technology Sydney (UTS)
+
+$^2 \;$ The Australian Research Council (ARC) Centre of Excellence for
+Mathematical and Statistical Frontiers (ACEMS)
+
+$^3 \;$ Australian Red Cross Blood Service
+
+<span>**Abstract**</span>. Distributed Computing Systems such as Hadoop
+and Spark allow statistical analysis to be performed on arbitrary large
+datasets. However, when performing statistical analysis on these
+systems, the data communication between the nodes of a distributed
+computing system can become a major performance bottleneck. In this
+work, we outline a novel combination of statistical and computation
+techniques to address this issue. We first apply data reduction
+technique such as coarsening (interval-censoring) on large data sets
+using a distributed computing system. We then perform statistical
+analysis on the coarsened data. However, performing analysis using
+coarsened data potentially introduces biases in the results. To address
+this, we use the Expectation-Maximisation (EM) algorithm to recover the
+complete (non-coarsened) data model. Our work draws on methods for the
+analysis of data involving coarsened co-variates using EM by methods of
+weights. We explore different coarsening strategies (e.g., rounding,
+quantile and quintile) and discuss how our methods can scale to very
+large data settings. Through simulation studies, we find our method
+works especially well when data is coarsened from a wide interval, where
+there are more loss of information. Compared with naïvely using the
+coarsened data, our method is able to estimate regression coefficients
+that are closer to estimates obtained from using the complete data. In
+addition, the standard errors from our method reflect more accurately
+the uncertainty arising from using coarsened data.
+
+<span>**Keywords**</span>. EM algorithm, coarsened data, regression, big
+data

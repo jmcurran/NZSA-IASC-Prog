@@ -1,0 +1,29 @@
+<span>**Dissimilarities between groups of data**</span>
+
+Nobuo SHIMIZU$^1$, Junji NAKANO$^1$ and Yoshikazu YAMAMOTO$^2$
+
+$^1 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+$^2 \;$ Tokushima Bunri University, 1314-1 Shido, Sanuki-city, Kagawa
+769-2193, Japan
+
+<span>**Abstract**</span>. We often have “big data” expressed by both
+continuous real variables and categorical variables. When their sizes
+are huge, it is almost impossible to see and check each individual data.
+Then we divide them into small number of groups which have clear domain
+meanings. We express each group by using information up to second order
+moments. For example, means, variances and covariances are used to
+summarize many continuous real variables, and a Burt matrix which
+consists of contingency tables by pairs of categorical variables are
+used to summarize many categorical variables. We call such a set of
+descriptive statistics “aggregated symbolic data (ASD)”.
+
+We here propose dissimilarities between two ASDs by utilizing
+pseudo-likelihood ratio test statistic and chi-squared test statistic.
+Former one is theoretically derived and the latter one is heuristically
+given. We adopt two dissimilarities for clustering districts in Tokyo by
+ASD derived from huge real estate data.
+
+<span>**Keywords**</span>. Aggregated symbolic data, Chi-squared test
+statistic, clustering, pseudo-likelihood ratio test statistic

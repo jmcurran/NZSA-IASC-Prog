@@ -1,0 +1,40 @@
+<span>**Scoring rules for prediction and classification
+challenges**</span>
+
+Matthew Parry$^1$
+
+$^1 \;$ Department of Mathematics & Statistics, University of Otago,
+Dunedin, NZ
+
+<span>**Abstract**</span>. Prediction and classification challenges have
+become an exciting and useful feature of the statistical and machine
+learning community. For example, Good Judgement Open asks forecasters to
+predict the probability of particular world events, and Kaggle.com
+regularly sets classification challenges. Challenge organizers typically
+publish a ranked list of the leading submissions and, ultimately,
+announce the winner of the challenge. However, in order for such a
+competition to be considered worth entering, the challenge organizers
+must be seen to evaluate the submissions in a fair and open manner.
+Scoring rules were devised precisely to solve this problem. Crucially,
+<span>*proper*</span> scoring rules elicit honest statements of belief
+about the outcome. If the challenge organizers use a proper scoring rule
+to evaluate submissions, a competitor’s expected score under their true
+belief will be optimized by actually quoting that belief to the
+organizers. A proper scoring rule therefore rules out any possibility of
+a competitor gaming the challenge. We discuss a class of proper scoring
+rules called linear scoring rules that are specifically adapted to
+probabilistic binary classification. When applied in competition
+situations, we show that all linear scoring rules essentially balance
+the needs of organizers and competitors. We also develop scoring rules
+to score a sequence of predictions that are targeting a single outcome.
+These scoring rules discount predictions over time and appropriately
+weight prediction updates.
+
+<span>**Keywords**</span>. Probabilistic forecast, sequence, prequential
+principle, discounting
+
+References {#references .unnumbered}
+----------
+
+Parry, M. (2016). *Linear scoring rules for probabilistic binary
+classification*. Electronic Journal of Statistics, 10 (1), 1596–1607.

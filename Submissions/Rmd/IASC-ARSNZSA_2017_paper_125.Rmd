@@ -1,0 +1,53 @@
+<span>**Adaptive False Discovery Rate regression with application in
+integrative analysis of large-scale genomic data**</span>
+
+Can YANG$^1$
+
+$^1 \;$ Department of Mathematics, The Hong Kong University of Science
+and Techonolgy, Clear Water Bay, Hong Kong.
+
+<span>**Abstract**</span>. Recent international projects, such as the
+Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
+the Genotype-Tissue Expression (GTEx) project, have generated vast
+amounts of genomic annotation data, e.g., epigenome and transcriptome.
+There is great demanding of effective statistical approaches to
+integrate genomic annotations with the results from genome-wide
+association studies. In this talk, we introduce a statistical framework,
+named AdaFDR, for integrating multiple annotations to characterize
+functional roles of genetic variants that underlie human complex
+phenotypes. For a given phenotype, AdaFDR can adaptively incorporates
+relevant annotations for prioritization of genetic risk variants,
+allowing nonlinear effects among these annotations, such as interaction
+effects between genomic features. Specifically, we assume that the prior
+probability of a variant associated with the phenotype is a function of
+its annotations $F(X)$, where $X$ is the collection of the annotation
+status and $F(X)$ is an ensemble of decision trees, i.e.,
+$F(X) = \sum_k f_k(X)$ and $f_k(X)$ is a shallow decision tree. We have
+developed an efficient EM-Boosting algorithm for model fitting, where a
+shallow decision tree grows in a gradient-Boosting manner (Friedman J.
+2001) at each EM-iteration. Our framework inherits the nice property of
+gradient boosted trees: (1) The gradient accent property of the Boosting
+algorithm naturally guarantees the convergence of our EM-Boosting
+algorithm. (2) Based on the fitted ensemble $\hat{F}(X)$, we are able to
+rank the importance of annotations, measure the interaction among
+annotations and visualize the model via partial plots (Friedman J.
+2008). Using AdaFDR, we performed integrative analysis of genome-wide
+association studies on human complex phenotypes and genome-wide
+annotation resources, e.g., Roadmap epigenome. The analysis results
+revealed interesting regulatory patterns of risk variants. These
+findings deepen our understanding of genetic architectures of complex
+phenotypes. The statistical framework developed here is also broadly
+applicable to many other areas for integrative analysis of rich data
+sets.
+
+<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
+functional annotation, genomic data
+
+References {#references .unnumbered}
+----------
+
+Friedman, Jerome H (2001). Greedy function approximation: a gradient
+boosting machine, *Annals of statistics*, **29:5**,1189–1232.
+
+Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
+Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954

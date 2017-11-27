@@ -1,0 +1,93 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+{\LARGE\bf Performance of Bayesian Credible Interval for 
+Binomial Proportion using Logit Transformation}
+
+
+\vspace{1.0cm}
+
+Toru Ogura$^1$ and Takemi Yanagimoto$^2$
+
+\begin{description}
+
+\item $^1 \;$ Clinical Research Support Center, Mie University Hospital, 2-174, Edobashi, Tsu, Mie, Japan
+\item $^2 \;$ Institute of Statistical Mathematics, 10-3, Midori-cho, Tachikawa, Tokyo, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+The confidence or the credible interval of the binomial proportion $p$ is one of most widely employed statistical analysis methods, and a variety of methods have been proposed.
+The Bayesian credible interval attracts recent researches' attentions.
+One of the promising methods is the highest posterior density (HPD) interval, which implies the shortest possible interval enclosing $100(1-\alpha)$\% of the probability density function.
+The HPD interval is often used because it is narrow compared to other credible intervals.
+However, the HPD interval has some drawbacks when the binomial proportion is a small.
+To dissolve them, we calculate first a credible interval by the HPD interval of the logit transformed parameter, $\theta=\log\{p/(1-p)\}$, instead of $p$.
+Note that $\theta$ and $p$ are the canonical and the mean parameters of the binomial distribution in the exponential family, respectively.
+Writing the HPD interval of $\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible interval of $p$ as $(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
+It is explored in depth, and numerical comparison studies are conducted to confirm its favorable performance, especially when the observed number is small, such as 0 or 1.
+Practical datasets are analyzed to examine the potential usefulness for applications in medical fields.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Bayesian credible interval, binomial proportion, highest posterior density interval, logit transformation, zero count
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item
+Newcombe, R.G. (2012).
+\textit{Confidence Intervals for Proportions and Related Measures of Effect Size}. 
+Florida: Chapman and Hall/CRC.
+\end{description}
+
+\end{document}
+
+
+
+
+

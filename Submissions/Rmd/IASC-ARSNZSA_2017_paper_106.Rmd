@@ -1,0 +1,42 @@
+<span>**Consistency of Linear Mixed-Effects Model Selection with
+Inconsistent Covariance Parameter Estimators**</span>
+
+ChihHao Chang$^1$, HsinCheng Huang$^2$ and ChingKang Ing$^3$
+
+$^1 \;$ Institute of Statistics, National University of Kaohsiung,
+Taiwan
+
+$^2 \;$ Institute of Statistical Science, Academia Sinica, Taiwan
+
+$^3 \;$ Institute of Statistics, National Tsing Hua Univeristy, Taiwan
+
+<span>**Abstract**</span>. For linear mixed-effects models with data
+collected within one cluster, the maximum likelihood estimators of
+covariance parameters cannot be estimated consistently. Hence the
+asymptotic behaviors of likelihood-based information criteria, such as
+Akaike’s information criterion (AIC) are rarely discussed in literature.
+In the contrast, the number of the clusters is generally assumed going
+to infinity with the sample size to guarantee the consistency of the
+covariance parameter estimators and thereby guarantees the consistency
+of the model selection procedures. In this talk, under some mild
+conditions, we establish asymptotic theorems for ML estimators of
+covariance parameters when the number of clusters is fixed. Furthermore,
+the asymptotic behaviors of the generalized information criterion, which
+includes AIC as special cases, are well studied in our research.
+
+References {#references .unnumbered}
+----------
+
+Fan, Y. and Li, R. (2012). Variable selection in linear mixed effects
+models. In: *The Annals of Statistics*, **40**, 2043 - 2068.
+
+Jiang, J., Rao, J. S. Gu, Z. and Nguyen, T. (2008). Fence methods for
+mixed model selection. In: *The Annals of Statistics*, **36**,
+1669-1692.
+
+Müller, S., Scealy, J. L. and Welsh, A. H. (2013). Model Selection in
+Linear Mixed Models. In: *Statistical Science*, **28**, 135-167.
+
+Sun, Y., Zhang, W. and Tong, H. (2007). Estimation of the covariance
+matrix of random effects in longitudinal studies. In: *The Annals of
+Statistics*, **35**, 2795-2814.

@@ -1,0 +1,38 @@
+<span>**Sparse Common Component Analysis**</span>
+
+Heewon Park$^1$ and Sadanori Konishi$^2$
+
+$^1 \;$ Faculty of Global and Science Studies, Yamaguchi University,
+Yamaguchi Prefecture, Japan
+
+$^2 \;$ Department of Mathematics, Faculty of Science and Engineering,
+Chuo University, Tokyo, Japan
+
+<span>**Abstract**</span>. Common component analysis (CCA) was proposed
+by generalizing techniques for principal component analysis (PCA) for a
+common basic structure identification (Wang et al., 2011). Although CCA
+can identify the common structure of multiple datasets, which cannot be
+extracted by standard PCA, the common components by CCA are estimated as
+linear combinations of all variables, and thus it is difficult to
+interpret the identified common components. Furthermore, the CCA
+procedure may be disturbed by noisy features, because CCA is based on
+the fully dense loadings. To address these issues, we proposed sparse
+common component analysis based on $L_{1}$-type regularized regression
+modeling. The proposed CCA can be performed by iterative sparse
+non-centered PCA for a square root of a gram matrix. We also propose an
+algorithm to estimate sparse common loadings of multiple datasets in
+line with the algorithm of CCA. We observe from the numerical studies
+that the proposed CCA can incorporate sparsity into the common loading
+estimation, and recover a sparse common structure efficiently in
+multiple dataset analysis.
+
+<span>**Keywords**</span>. Common component analysis, $L_{1}$-type
+regularized regression, Sparse non-centered principal component analysis
+
+References {#references .unnumbered}
+----------
+
+Wang, H., Banerjee, A. and Boley, D. (2011). Common component analysis
+for multiple covariance matrices. *Proceedings of the 17th ACM SIGKDD
+International Conference on Knowledge Discovery and Data Mining*,
+956–964.

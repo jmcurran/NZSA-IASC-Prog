@@ -1,0 +1,22 @@
+<span>**Sparse estimates from dense precision matrix posteriors**</span>
+
+Beatrix Jones and Amir Bashir
+
+Institute of Natural and Mathematical Sciences, Massey University,
+Albany 0745, NZ
+
+<span>**Abstract**</span>. A variety of computationally efficient
+Bayesian models for the covariance matrix of a multivariate Gaussian
+distribution are available. However, all produce a relatively dense
+estimate of the precision matrix, and are therefore unsatisfactory when
+one wishes to use the precision matrix to consider the conditional
+independence structure of the data. This talk considers the posterior of
+model fit for these covariance models. We then undertake post-processing
+of the Bayes point estimate for the precision matrix to produce a sparse
+model whose expected fit lies within the upper 95% of the posterior over
+fits. Extensions to finding sparse differences between inverse
+covariance matrices are also considered. We illustrate our findings with
+moderate dimensional data examples from metabolomics.
+
+<span>**Keywords**</span>. Gaussian graphical models, precision
+matrices, Bayesian models, metabolomics

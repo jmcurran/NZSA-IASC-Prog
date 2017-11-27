@@ -1,0 +1,91 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf  Empirical comparison of some algorithms for automatic univariate ARMA modeling using RcmdrPlugin.SPSS}
+
+
+\vspace{1.0cm}
+
+Dedi Rosadi %$^1$  
+
+\begin{description}
+
+%\item $^1 \;$ 
+\item Department of Mathematics, Computational Statistics Research Grup, Universitas Gadjah Mada, INDONESIA
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. In some application of time series modeling, it is necessary to obtain forecast of various types of data automatically and possibly, in real-time. For instances, to forecast large number of univariate series every day, or to do a real-time processing of the satellite data. Various automatic algorithms for modeling ARMA models are available in the literature, where here we will discuss three methods in particular. One of the method is based on a combination between the best exponential smoothing model to obtain the forecast, together with state-space approach of the underlying model to obtain the prediction interval (see Hyndman, 2007). The second method, which is more advanced method, is based on X-13-ARIMA-SEATS, the seasonal adjustment software by the US Census Bureau (see Sax , 2015). From our previous study in Rosadi (2016), we found that these methods are perform relatively well for SARIMA data. Unfortunately, these approaches do not working well for many of ARMA data. Therefore in paper we extend the study by considering an automatic modeling method based on genetic algorithm approach (see Abo-Hammour, et.al., 2012). These approaches are implemented in our R-GUI package RcmdrPlugin.Econometrics which now already integrated in our new and more comprehensive R-GUI package, namely RcmdrPlugin.SPSS. We provide application of the methods and the tool. From some empirical studies, we found that for ARMA data, the method based on genetic algorithm performs better than the other approaches. 
+\vskip 2mm
+
+\noindent {\bf Keywords}. Automatic ARMA modeling, genetic algorithm, exponential smoothing, X-13-ARIMA, R-GUI
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item
+Abo-Hammour, Z. E. S., Alsmadi, O. M., Al-Smadi, A. M., Zaqout, M. I., \& Saraireh, M. S. (2012). 
+ARMA model order and parameter estimation using genetic algorithms. \textit{Mathematical and Computer Modelling of Dynamical Systems}, \textbf{18(2)}, 201--221.
+
+\item Hyndman, R. J. (2007).
+forecast: Forecasting functions for time series, R package version 1.05. \texttt{URL: http://www.robhyndman.info/Rlibrary/forecast/}.
+
+\item Sax, C. (2015).
+Introduction to seasonal: R interface to X-13ARIMA-SEATS, \\
+\texttt{https://cran.r-project.org/web/packages/seasonal/vignettes/seas.pdf}.
+
+\item Rosadi, D. (2016). Automatic ARIMA Modeling using RcmdrPlugin.SPSS, Presented in \textit{COMPSTAT 2016}, Oviedo, Spain, 23-26 August 2016. 
+\end{description}
+
+\end{document}
+
+
+
+
+

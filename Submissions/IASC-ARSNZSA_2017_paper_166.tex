@@ -1,0 +1,143 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+\newcommand{\bs}{\boldsymbol}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bvX}{\vec{\mathbf{X}}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bvY}{\vec{\mathbf{Y}}}
+\newcommand{\btX}{\tilde{\mathbf{X}}}
+\newcommand{\bSxy}{\mathbf{\Sigma_{XY}}}
+\newcommand{\bSyx}{\mathbf{\Sigma_{YX}}}
+\newcommand{\bSxx}{\mathbf{\Sigma_{XX}}}
+\newcommand{\bhSxy}{\mathbf{\hat{\Sigma}_{XY}}}
+\newcommand{\bhSxx}{\mathbf{\hat{\Sigma}_{XX}}}
+\newcommand{\bS}{\mathbf{\Sigma}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bhB}{\mathbf{\hat{B}}}
+\newcommand{\bsym}{\boldsymbol}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bZ}{\mathbf{0}}
+
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Cross covariance estimation for integration of multi-omics data}
+
+
+\vspace{1.0cm}
+
+Johan Lim$^1$, Hiromi Koh$^2$, and Hyungwon Choi$^{2}$ 
+
+\begin{description}
+
+\item $^1 \;$ Department of Statistics, Seoul National University, Seoul, Korea
+
+\item $^2 \;$ School of Public Health, National University of Singapore
+
+%\item $^3 \;$ Institute of Molecular and Cell Biology, ASTAR, Singapore
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. In integrative analysis of multiple types of -omics data, it is often of interest to infer associations between two different types of molecules. The prevailing analysis methods depend on ensemble of brute-force pairwise univariate association tests between the two types, best exemplified by expression quantitative loci (eQTL) mapping. In a nutshell, this problem can be generally framed as a sparse cross-covariance matrix. %Estimation strategy can also vary depending on whether the interdependence structure between the two sets of molecules (variables) is ``regulator'' (causal) or ``mutual'' (non-causal). 
+In this work, we propose a two-stage estimator of cross covariance matrix $\bSxy$ between $p$-vector $\bX$ and $q$-vector $\bY$, assuming that the two variables have regulatory relationships and that we know a group structure in the variables in $\bX$. 
+%The group structure can be the membership of multiple genes in $\bX$ to the same biological function, or their proximity in terms of genomic location.
+We first decompose the covariance matrix of $\bX$, $\bSxx$, into systematic covariance consistent with the functional group information $\bSxx^{(G)}$ and the residual covariance not explained by the group information $\bSxx^{(R)}$. Following this decomposition, we estimate the cross covariance matrix by multi-response group lasso, yielding $\bSxy = \bSxx \bB_{(p \times q)} = (\bSxx^{(G)} + \bSxx^{(R)}) \bB_{(p \times q)}$. As a result of this decomposition, $\bSxy$ can also be expressed as the sum of a systematic term and a residual term, breaking down the cross-covariance into a fraction attributable to pathway-level regulation and the rest. 
+%The proposed estimator has the consistency and sparsistency properties at sharp convergence rates similar to other sparse covariance matrix estimators. 
+We applied the method to epigenetic regulation analysis of mRNA expression by DNA methylation in the The Cancer Genome Atlas invasive breast cancer cohort. 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Cross covariance matrix, data integration. 
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+\item 
+Simon, N., Friedman, J. and Hastie, T. (2013).
+\textit{A Blockwise Descent Algorithm for Group-penalized Multiresponse and Multinomial Regression}
+
+%\item
+%Friedman, J., Hastie, T. and Tibshirani, R. (2010). 
+%\textit{Journal of Statistical Software}, \textbf{33(1)}, 1-22.
+
+%\item
+%Fan, J., Liao, Y. and Mincheva, M. (2013).
+%\textit{Journal of the Royal Statistical Society: Series B}, textbf{75(4)}, 603-680. 
+
+\item
+Koboldt,D.C. and others. (2012). \textit{Nature}, \textbf{490}, 61-70. 
+
+%\item
+%Barnett, J.A., Payne, R.W. and Yarrow, D. (1990).
+%\textit{Yeasts: Characteristics and identification: Second Edition.}
+%Cambridge: Cambridge University Press.
+
+%\item
+%(ed.) Barnett, V., Payne, R. and Steiner, R. (1995).
+%\textit{Agricultural Sustainability: Economic, Environmental and
+%Statistical Considerations}. Chichester: Wiley.
+
+%\item
+%Payne, R.W. (1997).
+%\textit{Algorithm AS314 Inversion of matrices Statistics},
+%\textbf{46}, 295--298.
+
+%\item
+%Payne, R.W. and Welham, S.J. (1990).
+%A comparison of algorithms for combination of information in generally
+%balanced designs.
+%In: \textit{COMPSTAT90 Proceedings in Computational Statistics}, 297--302.
+%Heidelberg: Physica-Verlag.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

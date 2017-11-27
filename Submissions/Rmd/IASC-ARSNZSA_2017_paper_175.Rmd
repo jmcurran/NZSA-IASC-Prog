@@ -1,0 +1,33 @@
+<span>**Prior-based Bayesian Information Criterion** </span>
+
+M. J. Bayarri$^1$, James O. Berger$^2$, Woncheol Jang$^3$, Surajit
+Ray$^4$, Luis R. Pericchi$^5$ and Ingmar Visser$^6$
+
+$^1 \;$ University of Valencia, Valencia, Spain
+
+$^2 \;$ Duke University, Durham NC, USA
+
+$^3 \;$ Seoul National University, Seoul, Korea
+
+$^4 \;$ University of Glasgow, Glasgow, UK
+
+$^5 \;$ University of Puerto Rico, San Juan, Puerto Rico
+
+$^6 \;$ University of Amsterdam, Amsterdam, The Netherlands
+
+<span>**Abstract**</span>. We present a new approach to model selection
+and Bayes factor determination, based on Laplace expansions (as in BIC),
+which we call Prior-based Bayes Information Criterion (PBIC). In this
+approach, the Laplace expansion is only done with the likelihood
+function, and then a suitable prior distribution is chosen to allow
+exact computation of the (approximate) marginal likelihood arising from
+the Laplace approximation and the prior. The result is a closed-form
+expression similar to BIC, but now involves a term arising from the
+prior distribution (which BIC ignores) and also incorporates the idea
+that different parameters can have different effective sample sizes
+(whereas BIC only allows one overall sample size $n$). We also consider
+a modification of PBIC which is more favorable to complex models.
+
+<span>**Keywords**</span>. Bayes factors, model selection, Cauchy
+priors, consistency, effective sample size, Fisher information, Laplace
+expansions, robust priors

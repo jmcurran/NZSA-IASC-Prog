@@ -1,0 +1,17 @@
+In 2004, Aitken and Lucy published an article detailing a two-level
+likelihood ratio for multivariate trace evidence. This model has been
+adopted in a number of forensic disciplines such as the interpretation
+of glass, drugs (MDMA), and ink. Modern instrumentation is capable of
+measuring many elements in very low quantities and, not surprisingly,
+forensic scientists wish to exploit the potential of this extra
+information to increase the weight of this evidence. The issue, from a
+statistical point of view, is that the increase in the number of
+variables (dimension) in the problem leads to increased data demand to
+understand both the variability within a source, and in between sources.
+Such information will come in time, but usually we don’t have enough.
+One solution to this problem is to attempt to reduce the dimensionality
+through methods such as principal component analysis. This practice is
+quite common in high dimensional machine learning problems. In this
+talk, I will describe a study where we attempt to quantify the effects
+of this this approach on the resulting likelihood ratios using data
+obtained from SEM-EDX instrument.

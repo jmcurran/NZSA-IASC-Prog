@@ -1,0 +1,50 @@
+<span>**Tolerance limits for the reliability of semiconductor devices
+using longitudinal data**</span>
+
+Vera Hofer$^1$, Johannes Leitner$^1$, Horst Lewitschnig$^2$ and Thomas
+Nowak$^1$
+
+$^1 \;$ Institute of Statistics and Operations Research, University of
+Graz, Graz, Austria
+
+$^2 \;$ Infineon Technologies Austria AG, Villach, Austria
+
+<span>**Abstract**</span>.
+
+Especially in the automotive industry, semiconductor devices are key
+components for the proper functioning of the entire vehicle. Therefore,
+issues concerning the reliability of these components are of crucial
+importance to manufacturers of semiconductor devices.
+
+In this quality control task, we consider longitudinal data from high
+temperature operating life tests. Manufacturers then need to find
+appropriate tolerance limits for their final electrical product tests,
+such that the proper functioning of their devices is ensured. Based on
+these datasets, we compute tolerance limits that could then be used by
+automated test equipment for the ongoing quality control process.
+Devices with electrical parameters within their respective tolerance
+limits can successfully finish the production line, while all other
+devices will be discarded. In calculating these tolerance limits, our
+approach consists of two steps: First, the observed measurements are
+transformed in order to capture measurement biases and gauge
+repeatability and reproducibility. Then, in the second step, we compute
+tolerance limits based on a multivariate copula model with skew normal
+distributed margins. In order to solve the resulting optimization
+problem, we propose a new derivative-free optimization procedure.
+
+The capability of the model is demonstrated by computing optimal
+tolerance limits for several drift patterns that are expected to cover a
+wide range of scenarios. Based on these computations, we show the
+resulting yield losses and analyze the performance of the tolerance
+limits a large simulation study.
+
+<span>**Acknowledgment**</span>
+
+This work was supported by the ECSEL Joint Undertaking under grant
+agreement No. 662133 - PowerBase. This Joint Undertaking receives
+support from the European Union’s Horizon 2020 research and innovation
+programme and Austria, Belgium, Germany, Italy, Netherlands, Norway,
+Slovakia, Spain and United Kingdom.
+
+<span>**Keywords**</span>. quality control, tolerance limits, copulas,
+skew normal distribution

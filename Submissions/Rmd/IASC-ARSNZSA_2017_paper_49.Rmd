@@ -1,0 +1,30 @@
+<span>**Bayesian Structure Selection for Vector Autoregression
+Model**</span>
+
+Chi-Hsiang Chu$^1$, Mong-Na Lo Huang$^1$, Shih-Feng Huang$^2$ and
+Ray-Bing Chen$^3$
+
+$^1 \;$ Department of Applied Mathematics, National Sun Yat-sen
+University, Kaohsiung, Taiwan
+
+$^2 \;$ Department of Applied Mathematics, National University of
+Kaohsiung, Kaohsiung, Taiwan
+
+$^3 \;$ Department of Statistics, National Cheng Kung University,
+Tainan, Taiwan
+
+<span>**Abstract**</span>. Vector autoregression (VAR) model is powerful
+in economic data analysis because it can be used to analyze several
+different time series data simultaneously. However, in VAR model, we
+need to deal with the huge coefficient dimensionality and it would be
+caused some computational problems for coefficient inference. To reduce
+the dimensionality, we could take some model structures into account
+based on the prior knowledge. In this paper, several group structures of
+the coefficient matrices are considered. Due to different types of VAR
+structures, corresponding MCMC algorithms are proposed to generate
+posterior samples for making inference of the structure selection.
+Simulation studies and a real example are used to show the performances
+of the proposed Bayesian approaches.
+
+<span>**Keywords**</span>. Bayesian variable selection, time series,
+universal grouping, segmentized grouping

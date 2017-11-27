@@ -1,0 +1,42 @@
+<span>**Adjusting for Linkage Bias in the Analysis of Record-Linked
+Data** </span>
+
+Patrick Graham$^1$
+
+$^1 \;$ Statistical Methods, Stats NZ, Christchurch, New Zealand
+
+<span>**Abstract**</span>. Data formed from record-linkage of two or
+more datasets are an increasingly important source of data for public
+health and social science research. For example, a study cohort may be
+linked to administrative data in order to add outcome or covariate
+information to data collected directly from study participants. However,
+regardless of the linkage method, it is often the case that not all
+records are linked. Further, linkage rates usually vary with
+characteristics of analytical interest and this differential linkage can
+bias analyses restricted just to linked records. While linked records
+have full outcome and covariate information, unlinked records exhibit
+“block-missingness” whereby the values for the entire block of variables
+contained in the file that is linked to are missing for unlinked
+records. Similar missing data structures occur in other contexts,
+including panel studies when participants decline participation in one
+or more study waves. In this paper, I consider the problem of adjusting
+for linkage bias from both Bayesian and frequentist perspectives. A
+basic distinction is whether analysis is based on all available data or
+just the linked cases. The Bayesian perspective leads to the former
+option and to Gibbs sampling and multiple imputation as reasonable
+methods. Basing analysis only on the linked cases seems to require a
+frequentist perspective and leads to inverse probability of linkage
+weighting and conditional maximum likelihood as reasonable approaches.
+The implications of the assumption of ignorable linkage also differ
+somewhat between the approaches. A simulation investigation confirms
+that, assuming ignorable linkage given observed data, multiple
+imputation, conditional maximum likelihood and inverse probability of
+linkage weighting all succeed in adjusting for linkage bias and achieve
+nominal interval coverage rates. Conditional maximum likelihood is
+slightly more efficient than inverse probability of linkage weighting
+and that multiple imputation can be more efficient than conditional
+maximum likelihood. Extensions to the case of non-ignorable linkage are
+also considered.
+
+<span>**Keywords**</span>. Record linkage, Missing data, Bayesian
+inference, Gibbs sampler, Multiple imputation

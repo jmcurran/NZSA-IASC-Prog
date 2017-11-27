@@ -1,0 +1,42 @@
+<span>**Bayesian Static Parameter Inference for Partially Observed
+Stochastic Systems**</span>
+
+YAXIAN XU$^1$ and AJAY JASRA$^1$
+
+$^1 \;$ Department of Statistics & Applied Probability, National
+University of Singapore, Singapore, 117546, SG.
+
+<span>**Abstract**</span>. We consider Bayesian static parameter
+estimation for partially observed stochastic systems with discrete-time
+observations. This is a very important problem, but is very
+computationally challenging as the associated posterior distributions
+are highly complex and one has to resort to discretizing the associated
+probability law of the underlying stochastic system and advanced Markov
+chain Monte Carlo (MCMC) techniques to infer the parameters. We are
+interested in the situation where the discretization is in multiple
+dimensions. For instance, for partially observed stochastic partial
+differential equations (SPDEs), where dicretization is in both space and
+time. In such cases, multi-index Monte Carlo (MIMC) is known to have the
+potential to reduce the computational cost for a prescribed level of
+error, relative to i.i.d. sampling from the most precise discretization.
+We demonstrate how MCMC and particularly particle MCMC can be used in
+the multi-index framework for Bayesian static parameter inference for
+the above-mentioned models. The main idea involves constructing an
+approximate coupling of the posterior density of the joint on the
+parameter and hidden space and then correcting by an importance sampling
+method. Our method is illustrated numerically to be preferable for
+inference of parameters for a partially observed SPDE.
+
+<span>**Keywords**</span>. Multi-index Monte Carlo, Markov chain Monte
+Carlo, stochastic partial differential equations
+
+References {#references .unnumbered}
+----------
+
+Christophe Andrieu, Arnaud Doucet, and Roman Holenstein. (2010).
+Particle markov chain monte carlo methods. *Journal of the Royal
+Statistical Society: Series B (Statistical Methodology)*, 72(3):269–342.
+
+Haji-Ali, A. L., Nobile, F. & Tempone, R. (2016). Multi-Index Monte
+Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
+767–806.

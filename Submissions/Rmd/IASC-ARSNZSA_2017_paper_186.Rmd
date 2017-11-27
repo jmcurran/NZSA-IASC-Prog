@@ -1,0 +1,32 @@
+<span>**Phylogenetic Tree-based Microbiome Association Test**</span>
+
+Sungho Won$^{1,2}$
+
+$^1 \;$ Department of Public Health Science, Seoul National University,
+Seoul, Korea
+
+$^2 \;$ Interdisciplinary Program for Bioinformatics, College of Natural
+Science, Seoul National University, Seoul
+
+<span>**Abstract**</span>. Microbial metagenomics data has large
+inter-subject variation and operational taxonomic units (OTU) for each
+species are usually very sparse. Because of these problems,
+non-parametric approaches such as Mann-Whitney U test and Wilcoxon
+rank-sum test have been utilized. However these approaches suffer from
+low statistical powers for association analyses and thus investigation
+on efficient statistical analyses is necessary. Main goal in my thesis
+is to propose phylogenetic Tree-based Microbiome Association Test (TMAT)
+for association analyses between microbiome abundances of each OTU and
+disease phenotype. Phylogenetic tree reveals similarity between
+different OTUs, and thus was used to provide TMAT. TMAT calculates score
+test statistics for each node and test statistics for all nodes are
+combined into a single statistics by minimum p-value or Fisher’s combing
+p-value method. TMAT was compared with existing methods with extensive
+simulations. Simulation studies show that TMAT preserves the nominal
+type-1 error and its statistical powers were usually much better than
+existing methods for considered scenarios. Furthermore it was applied to
+atopic diseases and found that community profiles of Enterococcus is
+associated.
+
+<span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
+Association Test

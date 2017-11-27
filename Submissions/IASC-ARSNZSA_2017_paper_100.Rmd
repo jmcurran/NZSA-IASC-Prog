@@ -1,0 +1,39 @@
+<span>**A Practitioners Guide to Deep Learning for Predictive Analytics
+on Structured Data**</span>
+
+Balaram Panda$^1$ and Habib Baluwala Ph.D.(University of Oxford)$^2$
+
+$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
+
+$^2 \;$ Data Scientist, Inland Revenue Department, New Zealand
+
+<span>**Abstract**</span>. Recently, deep learning techniques have shown
+remarkably strong performance in problems involving unstructured data
+(ex. text, image, and video). One of the reasons for this success is the
+ability of deep learning methods to learn multiple levels of abstraction
+and feature interaction. However, the advantages of using deep learning
+techniques for structured/ event/transactional data has not been studied
+in detail. The purpose of this paper is to review the advantages and
+limitations of using deep feed forward networks on structured data. This
+is achieved by comparing the performance of deep feed forward networks
+with conventional machine learning techniques applied on a large
+structured dataset for classification problem. The paper also describes
+methodologies for optimizing the deep feed forward networks to achieve
+better accuracy and different approaches to reduce over fitting for deep
+feed forward network. A sensitivity analysis is conducted to explore the
+effect of hyper parameter tuning on model performance. We also derive
+practical advice from our extensive empirical results for those
+interested in getting most out of deep feed forward networks for real
+world settings.
+
+<span>**Keywords**</span>. Deep Learning, deep feed forward networks,
+machine learning, R, Tensorflow, Python
+
+References {#references .unnumbered}
+----------
+
+Bengio, Yoshua. “Learning deep architectures for AI.” Foundations and
+trends® in Machine Learning 2.1 (2009): 1-127.
+
+Goodfellow, Ian J., et al. “Maxout networks.” arXiv preprint
+arXiv:1302.4389 (2013).

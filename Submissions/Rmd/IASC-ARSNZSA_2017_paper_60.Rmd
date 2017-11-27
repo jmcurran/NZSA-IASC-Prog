@@ -1,0 +1,33 @@
+<span>**Robustness of Temperature Reconstruction for Past 500
+Years**</span>
+
+Yu Yang$^1$, Matthew Schofield$^1$, Richard Barker$^1$
+
+$^{1} \;$ Department of Mathematics and Statistics, University of Otago,
+P. O. Box 56 Dunedin 9016, New Zealand
+
+<span>**Abstract**</span>. Temperature reconstruction is vital to
+studies of climate change. Instrumental records are only available back
+to 19th century, too short to describe changes that occur over hundreds
+or thousands of years. Fortunately, nature environmental clues (such as
+tree rings, pollens and ice cores) can be pieced together to reconstruct
+unrecorded temperatures. We use tree-ring width to study summer
+temperature in Northern Sweden for past 500 years. Previous work has
+shown the predictions to be sensitive to model assumptions. We gain a
+new insight into this problem by attempting to separately estimate
+aspects of the process that are robustly estimated. One of these are the
+years in which the climate is colder or warmer than recent observations.
+We implement this by considering hidden Markov models on the partially
+observed temperature series. The model is fitted using Hamiltonian Monte
+Carlo in Stan.
+
+<span>**Keywords**</span>. temperature reconstruction, robust estimator,
+hidden Markov model, Bayesian analysis
+
+References {#references .unnumbered}
+----------
+
+Schofield, M. R., Barker, R. J., Gelman, A., Cook, E. R., and Briffa, K.
+R. (2016). A model-based approach to climate reconstruction using
+tree-ring data. *Journal of the American Statistical Association*,
+111(513), 93-106.

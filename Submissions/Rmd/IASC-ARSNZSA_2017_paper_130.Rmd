@@ -1,0 +1,94 @@
+<span>**Elastic-Band Transform : A New Approach to Multiscale
+Visualization**</span>
+
+Guebin Choi$^1$ and Hee-Seok Oh$^1$
+
+$^1 \;$ Department of Statistics Seoul National University Seoul 08826,
+Korea
+
+<span>**Abstract**</span>. This paper presents a new transformation
+technique for multiscale visualization of one-dimensional data such as
+time series and functional data under the concept of the scale-space
+approach. The proposed method uses a range of regular observations (eye
+scanning) with varying intervals. The results, termed ‘elastic-band
+transform’ can be considered as a collection of observations over
+different intervals of viewing. It is motivated by a way that human
+looks at an object such as a sequence of data repeatedly in order to
+overview a global structure of it as well as find some specific features
+of it. Some measures based on elastic-bands are discussed for describing
+characteristics of data, and two-dimensional visualizations induced by
+the measures are developed for understanding and detecting important
+structures of data. Furthermore, some statistical applications are
+studied.
+
+<span>**Keywords**</span>. Transformation; Visualization; Decomposition;
+Filter; Time Series;
+
+References {#references .unnumbered}
+----------
+
+Chaudhuri, P. and Marron, J. S. (1999). SiZer for exploration of
+structures in curves. <span>*Journal of the American Statistical
+Association*</span>, <span>**94**</span>, 807–823.
+
+Donoho, D. L., and Johnstone, I. M. (1994). Ideal spatial adaptation by
+wavelet shrinkage. <span>*Biometrika*</span>, <span>**81**</span>,
+425-455.
+
+Dragomiretskiy, K. and Zosso, D. (2014). Variational mode decomposition.
+<span>*IEEE Transactions on Signal Processing*</span>,
+<span>**62**</span>, 531–544.
+
+Erästö, P. and Holmström, L. (2005). Bayesian multiscale smoothing for
+making inferences about features in scatter plots. <span>*Journal of
+Computational and Graphical Statistics*</span>, <span>**14**</span>,
+569–589.
+
+Fryzlewicz, P. and Oh, H.-S. (2011). Thick pen transformation for time
+series. <span>*Journal of the Royal Statistical Society: Series B
+(Statistical Methodology)*</span>, <span>**73**</span>, 499–529.
+
+Hannig, J. and Lee, T. C. M. (2006). Robust SiZer for exploration of
+regression structures and outlier detection. <span>*Journal of
+Computational and Graphical Statistics*</span>, <span>**15**</span>,
+101–117.
+
+Hannig, J., Lee, T. and Park, C. (2013). Metrics for SiZer map
+comparison. <span>*Stat*</span>, <span>**2**</span>, 49–60.
+
+Holmström, L. (2010a). BSiZer. <span>*Wiley Interdisciplinary Reviews:
+Computational Statistics*</span>, <span>**2**</span>, 526–534.
+
+Holmströma, L. (2010b). Scale space methods. <span>*Wiley
+Interdisciplinary Reviews: Computational Statistics*</span>,
+<span>**2**</span>,150–159.
+
+Holmströma, L. and Pasanena, L. (2017). Statistical scale space methods.
+<span>*International Statistical Review*</span>, <span>**85**</span>,
+1–30.
+
+Huang, N. E., Shen, Z., Long, S. R., Wu, M. C., Shih, H. H., Zheng, Q.,
+... & Liu, H. H. (1998). The empirical mode decomposition and the
+Hilbert spectrum for nonlinear and non-stationary time series analysis.
+<span>*Proceedings of the Royal Society of London A: Mathematical,
+Physical and Engineering Sciences*</span>, <span>**454**</span>,
+903–995.
+
+Lindeberg, T. (1994). <span>*Scale-Space Theory in Computer
+Vision*</span>, Springer Science & Business Media, New York.
+
+Park, C., Hannig, J. and Kang, K. H. (2009). Improved SiZer for time
+series. <span>*Statistica Sinica*</span>, <span>**19**</span>,
+1511–1530.
+
+Park, C, Lee, T. C. and Hannig, J. (2010). Multiscale exploratory
+analysis of regression quantiles using quantile SiZer. <span>*Journal of
+Computational and Graphical Statistics*</span>, <span>**19**</span>,
+497–513.
+
+Rioul, O. and Vetterli, M. (1991). Wavelets and signal processing.
+<span>*IEEE Signal Processing Magazine*</span>,
+8(LCAV-ARTICLE-1991-005), 14–38.
+
+Vogt, M., & Dette, H. (2015). Detecting gradual changes in locally
+stationary processes. The Annals of Statistics, 43(2), 713-740.

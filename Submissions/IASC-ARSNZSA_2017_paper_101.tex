@@ -1,0 +1,88 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+ {\LARGE\bf Pattern Prediction for Time Series
+ 	 Data with Change Points}
+
+
+\vspace{1.0cm}
+
+Satoshi Goto$^1$ and Hiroshi Yadohisa$^1$
+
+\begin{description}
+
+\item $^1 \;$ Faculty of Culture and Information Science, Doshisha University, Kyoto, JAPAN
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}.
+
+Recently, there have been various types of time series data, such as daily stock prices and Web-click logs, that have complicated the structure. In several cases, because of the complexity, time series data cannot satisfy the stationary process assumption. REGIMECAST (Matsubara and Sakura, 2016) has been proposed as a method to forecast time series data. It is useful for capturing changes in time series patterns and representing the non-linear system. However, it cannot adequately represent time series data after radical changes. Generally, radical changes in time series data can be detected using existing methods, such as change-point detection and anomaly detection. These methods are rarely used for forecasting time series data, although these data often show different behaviors after radical changes.
+
+In this study, we propose a method that can forecast future time series data after events involving radical changes. The method has two features: i) appropriate pattern discovery, as it recognizes the appropriate learning section with change-point detection, and ii) flexible representation, as it represents non-stationary processes with a non-linear state space model. We also provide empirical examples using a variety of real datasets. 
+
+
+\vskip 2mm
+
+\noindent {\bf Keywords}. anomaly detection, change-point detection, non-linear state space model, pattern discovery, REGIMECAST
+
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+
+\begin{description}
+
+
+\item[]  Y. Matsubara and Y. Sakurai (2016).
+Regime shifts in streams: Real-time forecasting of co-evolving time sequences, {\it Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, 13--17, 2016.
+
+		   
+
+\end{description}
+
+\end{document}

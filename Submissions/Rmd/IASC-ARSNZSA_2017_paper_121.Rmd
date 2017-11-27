@@ -1,0 +1,42 @@
+<span>**Feature selection in high-dimensional models with complex block
+structures**</span>
+
+Zehua Chen${}^1$ and Shan Luo${}^2$
+
+${}^1$ Department of Statistics & Applied Probability, NUS, 6 Science
+Drive 2, Singapore 117546
+
+${}^2$ Department of Mathematics, Shanghai Jiaotong University,
+Shanghai, P. R. China
+
+<span>**Abstract**</span>. We consider feature selection in multivariate
+regression models where the response variables as well as the covariates
+are high-dimensional and both have intrinsic group structures. The
+models arise naturally in many biology studies for detecting
+associations between multiple traits and multiple features where the
+traits and features are embedded in biological functioning groups such
+as genes or pathways. We propose a sequential procedure for selecting
+the feature groups based on a correlation principle. At each step of the
+procedure, the response groups are fitted to already selected feature
+groups and the residuals are obtained for the response groups, then, the
+feature group which has the highest correlation with the residuals of
+any response group is selected next. The correlation measure is the
+trace of the sample canonical correlation matrix between two vectors.
+The EBIC is used as the stopping rule of the procedure. This procedure
+possesses the property of selection consistency. Compared with a group
+penalization approach, our method is more accurate and demands much less
+computation.
+
+<span>**Keywords**</span>. Canonical correlation, correlation principle,
+grouped data, simultaneous feature selection, selection consistency
+
+References {#references .unnumbered}
+----------
+
+Luo, S., and Chen, Z. (2017). *Sequential group feature selection by
+correlation principle in sparse high-dimensional models with complex
+block structures*. Manuscript, submitted.
+
+Li, Y., Nan, B. and Zhu, J. (2015). *Multivariate sparse group lasso for
+the multivariate multiple linear regression with an arbitrary group
+structure.* *Biometrics* **71(2)**, 354–363.

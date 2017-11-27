@@ -1,0 +1,37 @@
+<span>**Smoothing Nonparametric Regression under Shape
+Restrictions**</span>
+
+Hongbin Guo and Yong Wang
+
+Department of Statistics, University of Auckland
+
+<span>**Abstract**</span>. Shape-restricted regression, in particular
+under isotonicity and convexity(concavity) constraints, has many
+practical applications. Traditional nonparametric methods to the problem
+using least squares or maximum likelihood result in discrete step
+functions or nonsmooth piecewise linear functions, which are
+unsatisfactory both predictively and visually. In this talk, we describe
+a new, smooth, nonparametric estimator under the above-mentioned shape
+restrictions. In particular, the discrete measures that are inherent in
+the previous estimators are replaced with continuous ones. A new
+algorithm that can rapidly find the corresponding estimate will also be
+presented. Numerical studies show that the new estimator outperforms
+major existing methods in almost all cases.
+
+<span>**Keywords**</span>. Nonparametric regression, smooth, shape
+restriction, convex, monotonic
+
+References {#references .unnumbered}
+----------
+
+Groeneboom, P., Jongbloed, G. and Wellner, A. (2001). Estimation of a
+Convex Function: Characterizations and Asymptotic Theory. *Ann.
+Statist*. **29**(6), 1653–1698.
+
+Wang, Y. (2007). On fast computation of the non-parametric maximum
+likelihood estimate of a mixing distribution. *Journal of the Royal
+Statistical Society. Series B: Statistical Methodology*, **69** (2),
+185–198.
+
+Meyer, M.(2008). Inference using shape-restricted regression splines.
+*Ann. Appl. Stat.* **2**(3), 1013–1033.

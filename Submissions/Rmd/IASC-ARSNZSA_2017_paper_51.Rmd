@@ -1,0 +1,56 @@
+<span>**An Incomplete-data Fisher Scoring Method with an Acceleration
+Method** </span>
+
+Keiji Takai$^1$
+
+$^1 \;$ Faculty of Business and Commerce, Kansai University, 3-3-35
+Yamate, Suita, Osaka, JAPAN
+
+<span>**Abstract**</span>.
+
+Incomplete data complicate conventional statistical analyses because the
+analyses presume complete data are always available. The primary problem
+is the complication of the parameter estimation. The parameter
+estimation is based on the observed-data log-likelihood function that
+consists of the sum of the logarithm of the marginalized likelihood with
+respect to the missing values, and thus the log-likelihood function
+becomes complicated to handle. The EM algorithm was proposed to make it
+easy to handle the log-likelihood function. However, the EM algorithm
+still has some problems that are often criticized (McLachlan and
+Krishnan, 2002); namely, slow convergence and unavailability of the
+standard error.
+
+In my talk, I propose an incomplete-data Fisher scoring (IFS) method
+with an acceleration method to overcome these problems. The IFS method
+takes a Newton-Raphson type iteration, but it produces exactly the
+identical sequence or an approximate sequence to the sequence produced
+by the EM algorithm. The notable feature of the IFS is that the IFS can
+accelerate itself by adjusting its steplength and can produce the
+standard error with the functions used only for the acceleration. The
+convergence rate is faster than the EM algorithm. In the talk, I provide
+the convergence theorem and practical examples.
+
+<span>**Keywords**</span>. Incomplete data, EM algorithm, Fisher
+scoring, acceleration method
+
+References {#references .unnumbered}
+----------
+
+Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
+Characteristics and identification: Second Edition.* Cambridge:
+Cambridge University Press.
+
+McLachlan, G., and Krishnan, T. (2002). The EM algorithm and extensions,
+2nd Edition. Wiley.
+
+(ed.) Barnett, V., Payne, R. and Steiner, R. (1995). *Agricultural
+Sustainability: Economic, Environmental and Statistical Considerations*.
+Chichester: Wiley.
+
+Payne, R.W. (1997). *Algorithm AS314 Inversion of matrices Statistics*,
+**46**, 295–298.
+
+Payne, R.W. and Welham, S.J. (1990). A comparison of algorithms for
+combination of information in generally balanced designs. In:
+*COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
+Heidelberg: Physica-Verlag.

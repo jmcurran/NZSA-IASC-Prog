@@ -1,0 +1,35 @@
+<span>**Computing Entropies with Nested Sampling**</span>
+
+Brendon J. Brewer$^1$
+
+$^1 \;$ Department of Statistics, The University of Auckland, Private
+Bag 92019, Auckland 1142, New Zealand
+
+<span>**Abstract**</span>. The Nested Sampling algorithm, invented in
+the mid-2000s by John Skilling, represented a major advance in Bayesian
+computation. Whereas Markov Chain Monte Carlo (MCMC) methods are usually
+effective for sampling posterior distributions, Nested Sampling also
+calculates the marginal likelihood integral used for model comparison,
+which is a computationally demanding task. However, there are other
+kinds of integrals that we might want to compute. Specifically, the
+entropy, relative entropy, and mutual information, which quantify
+uncertainty and relevance, are all integrals whose form is inconvenient
+in most practical applications. I will present my technique, based on
+Nested Sampling, for estimating these quantities for probability
+distributions that are only accessible via MCMC sampling. This includes
+posterior distributions, marginal distributions, and distributions of
+derived quantities. I will present an example from experimental design,
+where one wants to optimise the relevance of the data for inference of a
+parameter.
+
+<span>**Keywords**</span>. Bayesian inference, Nested Sampling, Markov
+Chain Monte Carlo, Information theory
+
+References {#references .unnumbered}
+----------
+
+Brewer, B. J. (2017). *Computing Entropies with Nested Sampling.*
+Entropy, 19, 422.
+
+Skilling, J. (2006). *Nested Sampling for General Bayesian Computation.*
+Bayesian analysis, 1(4), 833-859.

@@ -1,0 +1,97 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Calendar-based graphics for visualising people's daily schedules}
+
+
+\vspace{1.0cm}
+
+Earo Wang$^1$, Dianne Cook$^1$ and Rob J Hyndman$^1$
+
+\begin{description}
+
+\item $^1 \;$ Department of Econometrics and Business Statistics,
+Monash University, VIC 3800, Australia
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. This paper describes a \texttt{frame\_calendar} function that organises and displays temporal data, collected on sub-daily resolution, into a calendar layout. Calendars are broadly used in society to display temporal information, and events. The \texttt{frame\_calendar} uses linear algebra on the date variable to create the layout. It utilises the grammar of graphics to create the plots inside each cell, and thus synchronises neatly with {\bf ggplot2} graphics. The motivating application is studying pedestrian behaviour in Melbourne, Australia, based on counts which are captured at hourly intervals by sensors scattered around the city. Faceting by the usual features such as day and month, was insufficient to examine the behaviour. Making displays on a monthly calendar format helps to understand pedestrian patterns relative to events such as work days, weekends, holidays, and special events. The layout algorithm has several format options and variations. It is implemented in the R package {\bf sugrrants}.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+data visualisation, statistical graphics, time series, R package, grammar of graphics
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Van Wijk JJ, Van Selow ER (1999). 
+Cluster and Calendar Based Visualization of Time Series Data. 
+In \textit{Information Visualization, 1999.(Info Vis’ 99) Proceedings}. 
+4--9.
+
+\item
+Wickham H (2009).
+\textit{ggplot2: Elegant Graphics for Data Analysis.}
+Springer-Verlag New York, New York, NY.
+
+\item
+Wickham H, Hofmann H, Wickham C, Cook D (2012).
+Glyph-maps for Visually Exploring Temporal Patterns in Climate Data and Models.
+\textit{Environmetrics},
+\textbf{23}(5), 382--393.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

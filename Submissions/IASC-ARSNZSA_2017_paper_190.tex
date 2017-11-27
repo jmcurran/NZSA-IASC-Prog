@@ -1,0 +1,92 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Clustering of research subject based on stochastic block model}
+
+
+\vspace{1.0cm}
+
+Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and Junji Nakano $^1$
+
+\begin{description}
+
+\item $^1 \;$ Institute of Statistical Mathematics,
+Tachikawa, Tokyo 190-8562, Japan
+
+\item $^2 \;$ Institute of Statistical Science, Academia Sinica,
+Nankang, Taipei 11529, Taiwan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. In this paper, we propose a new clustering method to measure influence of papers in all areas of science. To see structure of entire relationship we apply stochastic block model (SBM) on big scale citation network data. SBM generates a matrix which divides several blocks which represent relationship among research fields. We show this matrix can be used to visual exploratory analysis. When lists of papers are mapped this matrix we can get useful information by varied locations in visually. Elastic Map is used as dimension reduction method to calculate scalar value onto onto the corresponding principal points of each papers. We demonstrate that this projection score is can be used to evaluate divergence impact of papers across all field. To illustrate one application of our method, we analyze 450k+ articles published between 1981 and 2016 Web of Science data. In this beta version of our system, Edward, probabilistic programming language is used for estimation of SBM parameters and calculation of divergence score of papers.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Institutional Research, Stochastic Block Model, Elastic Map
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item  Nowicki,K. and Snijders,T. (2001). Estimation and prediction for stochastic block structures. \textit{Journal of the American Statistical Association}, 96, 1077--1087.
+
+\item 
+Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds and their Practical Applications. \textit{Computing}, 75(4), 359--379.
+
+\item 
+Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M. (2016). Edward: A library for probabilistic modeling, inference, and criticism. \textit{arXiv preprint arXiv:1610.09787}.
+
+
+\end{description}
+
+\end{document}
+
+
+
+
+

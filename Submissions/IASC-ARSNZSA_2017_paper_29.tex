@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Genetic map estimation using hidden Markov models in the presence of partially observed information}
+
+\vspace{1.0cm}
+
+Timothy P. Bilton\textsuperscript{1,2}, Matthew R. Schofield\textsuperscript{1}, Ken G. Dodds\textsuperscript{2} and Michael A. Black\textsuperscript{3}\\
+
+\begin{description}
+
+\item $^1 \;$ Department of Mathematics and Statistics, University of Otago, Dunedin, New Zealand
+
+\item $^2 \;$ Invermay Agricultural Centre, AgResearch, Mosgiel, New Zealand
+
+\item $^3 \;$ Department of Biochemistry, University of Otago, Dunedin, New Zealand
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. A genetic linkage map shows the relative position of and genetic distance between markers, positions of the genome that exhibit variation, and underpins the study of species' genomes in a number of scientific applications. Genetic maps are constructed by tracking the transmission of genetic information from individuals to their offspring, which is frequently modelled using a hidden Markov model (HMM) since only the expression and not the transmission of genetic information is observed. However, constructing genetic maps with data generated using the latest sequencing technology is complicated by the fact that some observations are only partially observed which, if unaccounted for, typically results in inflated estimates. We extend the HMM to model partially observed information by including an additional layer of latent variables. In addition, we investigate several different approaches for computing confidence intervals of the genetic map estimates obtained from the extended HMM. Results show that our model is able to produce accurate genetic map estimates, even in situations where a large proportion of the data is only partially observed. Our methodology has been implemented in the R package GusMap.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+hidden Markov models, linkage mapping, partially observed data, confidence intervals
+
+
+
+\end{document}
+
+
+
+
+

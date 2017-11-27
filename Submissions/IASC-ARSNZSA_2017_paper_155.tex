@@ -1,0 +1,80 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf A Computational Tool for Detecting Copy Number Variations from Whole Genome and Targeted Exome Sequencing}
+
+
+\vspace{1.0cm}
+
+Yu-Chung Wei$^1$ and Guan-Hua Huang$^2$
+
+\begin{description}
+
+\item $^1 \;$ Department of Statistics, Feng Chia University,
+Taichung 40724, TAIWAN
+
+
+\item $^2 \;$ Institute of Statistics, National Chiao Tung University, 
+Hsinchu 30010, TAIWAN
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. Copy number variations (CNVs) are genomic structural mutations with abnormal gene fragment copies. Current CNV detection algorithms for next generation sequencing (NGS) are developed for specific genome targets, including whole genome sequencing and targeted exome sequencing based on the differently data types and corresponding assumptions. Many whole genome tools assume the continuity of search space and reads uniform coverage across the genome. However, these assumptions break down in the exome capture because of discontinuous segments and exome specific functional biases. In order to develop a method adapting to both data types, we specify the large unconsidered genomic fragments as gaps to preserve the truly location information. A Bayesian hierarchical model was built and an efficient reversible jump Markov chain Monte Carlo inference algorithm was utilized to incorporate the gap information. The performance of gap settings for the Bayesian procedure was evaluated and compared with competing approaches using both simulations and real data.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Bayesian inference, Bioinformatics, copy number variation, next generation sequencing, reversible jump Markov chain Monte Carlo
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+
+\end{document}
+
+
+
+
+

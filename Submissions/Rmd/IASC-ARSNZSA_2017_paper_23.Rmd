@@ -1,0 +1,41 @@
+<span>**Estimation of a High-Dimensional Covariance Matrix**</span>
+
+Xiangjie Xue$^*$ and Yong Wang$^*$
+
+$^* \;$ Department of Statistics, The University of Auckland, New
+Zealand.
+
+<span>**Abstract**</span>. The estimation of covariance or precision
+(inverse covariance) matrices plays a prominent role in multivariate
+analysis. The usual estimator, the sample covariance matrix, is known to
+be unstable and ill-conditioned in high-dimensional setting. In the past
+two decades, various methods have been developed to give a stable and
+well-conditioned estimator and they have their own advantages and
+disadvantages. We will review some of the most popular methods and
+describe a new method to estimate the correlation matrix and hence the
+covariance matrix using the empirical Bayes method. Similar to many
+element-wise methods in the literature, we also assume that the elements
+in a correlation matrix are independent of each other. We use the fact
+that the elements in a sample correlation matrix can be approximated by
+the same one-parameter normal distribution with unknown means , along
+with the non-parametric maximum likelihood estimation to give a new
+estimator of the correlation matrix. Preliminary simulation results show
+that the new estimator has some advantages over various thresholding
+methods in estimating sparse covariance matrices.
+
+<span>**Keywords**</span>. Big Data, Multivariate Analysis, Statistical
+Inference
+
+References {#references .unnumbered}
+----------
+
+Efron, B., 2010. *Correlated $z$-values and the accuracy of large-scale
+statistical estimates*. J Am Stat Assoc **105**, 1042 - 1055.
+
+Fan, J., Liao, Y., Liu, H., 2016. *An overview of the estimation of
+large covariance and precision matrices*. Econometrics Journal **19**,
+C1 - C32.
+
+Wang, Y., 2007. *On fast computation of the non-parametric maximum
+likelihood estimate of a mixing distribution*. Journal of the Royal
+Statistical Society: Series B **69**, 185 - 198.

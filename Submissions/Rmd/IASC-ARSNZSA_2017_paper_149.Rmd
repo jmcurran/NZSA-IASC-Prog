@@ -1,0 +1,45 @@
+<span>**Visualization and Statistical Modeling of Financial Big
+Data**</span>
+
+Masayuki Jimichi$^1$, Daisuke Miyamoto$^2$, Chika Saka$^1$, and Syuichi
+Nagata$^1$
+
+$^1 \;$ School of Business Administration, Kwansei Gakuin University,
+Nishinomiya, Uegahara, 662-8501, Japan
+
+$^2 \;$ Graduate Schook of Information Science, Nara Institute of
+Science and Technology, 8916-5 Takayama-cho, Ikoma, Nara 630-0192, Japan
+
+<span>**Abstract**</span>. In this work, we manipulate financial big
+data of world-wide companies by R packages SparkR and sparklyr, and
+treate data visualization (e.g. Ihaka, 2017; Unwin, 2015) and
+statistical model (e.g. Chambers and Hastie, 1991) based on exploratory
+data analysis (Tukey, 1977) with R. The dataset is extracted from the
+database systems by Bureau van Dijk KK which contains information on
+over 80,000 listed companies. We find that a log-skew-t linear model
+(e.g. Azallini and Capitanio, 2014) is very useful for explaining sales
+by employees and assets.
+
+<span>**Keywords**</span>. Financial Big Data, Data Visualization,
+Statistical Modeling, Log-skew-t Linear Model, SparkR, sparklyr
+
+References {#references .unnumbered}
+----------
+
+-4pt
+
+Azzalini, A. with the collaboration of Capitanio, A. (2014). *The
+Skew-Normal and Related Families*. Cambridge University Press. Institute
+of Mathematical Statistics Monographs.
+
+Chambers, J. M. and Hastie, T. J. ed. (1991). *Statistical Models in S*.
+Chapman and Hall/CRC.
+
+Ihaka, R. (2017). Lecture Notes.
+<https://www.stat.auckland.ac.nz/~ihaka/?Teaching>
+
+Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley
+Publishing Co.
+
+Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
+Hall/CRC.

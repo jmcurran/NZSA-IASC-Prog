@@ -1,0 +1,93 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Evaluation of spatial cluster detection method based on all geographical linkage patterns}
+
+
+\vspace{0.8cm}
+
+Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
+
+\begin{description}
+
+\item $^1 \;$ Graduate School of Environmental and Life Science, Okayama University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
+
+\item $^2 \;$ Graduate School of Information Science, Nara Institute of Science and Technology, Nara, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.4cm}
+
+\noindent {\bf Abstract}. Currently, it is becoming easier to analyze the various types of spatial data and express them visually on a map. However, it is still difficult to estimate the location of spatial clusters based on statistical evidence. The spatial scan statistic (Kulldorff 1997), which is based on the idea of maximizing the likelihood of cluster, has been widely used for spatial cluster detection method. It is important how effectively and efficiently we find a cluster whose likelihood is high, and to find such a cluster, some scan approaches are proposed. However, most of them are limited in the shape of a detected cluster, or need an unrealistic computational time if the data size is too large. The zero-suppressed binary decision diagram (ZDD) (Minato, 1993), one approach to frequent item set mining, enables us to extract all of the potential cluster areas at a realistic computational cost. In this study, we try a new way of spatial cluster detection method to detect a cluster with truly highest likelihood by applying the ZDD, and by using them, we compare and evaluate the performance of the existing scan methods.
+
+\vskip 1.5mm
+
+\noindent {\bf Keywords}.
+Spatial cluster, Spatial scan statistic, ZDD
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+Kulldorff, M. (1997).
+A spatial scan statistic.
+\textit{Communications in Statistics: Theory and Methods}, 
+\textbf{26}, 1481--1496.
+
+\item
+Minato, S. (1993).
+Zero-suppressed BDDs for set manipulation in combinatorial problems.
+\textit{In: Proceedings of the 30th ACM/IEEE Design Automation Conference}, 272--277.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

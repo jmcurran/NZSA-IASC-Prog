@@ -1,0 +1,100 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Transfer Regression and Predictive Distributions}
+
+
+\vspace{1.0cm}
+Shigetoshi Hosaka$^1$
+and
+Jinfang Wang$^2$
+
+
+\begin{description}
+\item $^1 \;$ Hosaka Clinic of Internal Medicine, Tokyo, Japan
+\item $^2 \;$ Department of Mathematics and Informatics, Graduate School of Science, Chiba University, Japan
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+We introduce the \textit{transfer regression}, a method for constructing prior distributions for parameters defining generalized linear models (GLM).
+The transfer regressions are based frequency tables, usually obtained by categorizing the continuous variables.
+So obtained prior information are transferred to the parameters defining the second stage GLM based on detailed data.
+at the second stage based on more detailed data. 
+We illustrate these ideas by showing how to compute posterior predictive probabilities of contracting diabetes based on HbA1c data obtained from comprehensive medical examinations. 
+
+\noindent {\bf Keywords}.
+Bayesian generalized linear models, Markov chain Monte Carlo methods, posterior predictive distributions
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+
+Andrew D. Martin, Kevin M. Quinn and Jong Hee Park (2011).
+MCMCpack: Markov Chain Monte Carlo in R,
+\textit {Journal of Statistical Software}, \textbf {42}, 1--21.
+%\url{http://www.jstatsoft.org/v42/i09/}.
+
+\item
+Kass, R. E. and Wasserman, L. (1996).
+The Selection of Prior Distributions by Formal Rules,
+\textit {Journal of the American Statistical Association}, \textbf {91}, 1343--1370.
+
+\item 
+Wang, J. and Hosaka, S. (2017). Cell regression and reference prior,
+Symposium on ``\textit {Statistical Modelling and Computational Algorithms}", at Nagoya University, Febuary 18--19, 2017.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

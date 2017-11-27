@@ -1,0 +1,27 @@
+<span>**Forward selection in regression models based on robust
+estimation**</span>
+
+Shan Luo$^1$ and Zehua Chen$^2$
+
+$^1 \;$ Department of Statistics, School of Mathematical Sciences,
+Shanghai Jiao Tong University, Shanghai 200240, China
+
+$^2 \;$ Department of Statistics and Applied Probability, National
+University of Singapore, Singapore 117546, Singapore
+
+<span>**Abstract**</span>. For the purpose of feature selection in
+ultra-high dimensional regression models, it is required that a sequence
+of candidate models and a criterion to select the “best” model from them
+are available. Under different scenarios, various methods have been
+proposed to achieve these two goals. Intuitively, it is straightforward
+to choose appropriate loss and penalty functions in a regularization
+method to accommodate specific characteristics of the data. However, the
+computation could be expensive for certain cases. From recent studies,
+we can see that sequential method is promising to produce good candidate
+models for ultra-high dimensional data. Moreover, it can be easily
+extended to complex models other than the linear regression model. In
+this paper, we propose a new feature selection method based on robust
+estimation.
+
+<span>**Keywords**</span>. Feature selection, robust estimation,
+sequential method.

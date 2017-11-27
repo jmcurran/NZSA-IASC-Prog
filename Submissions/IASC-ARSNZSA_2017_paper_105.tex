@@ -1,0 +1,105 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Applying Active Learning Procedure to Drug Consumption Data}
+
+
+\vspace{1.0cm}
+
+Bao-Shiang Ke$^1$ and Yuan-chin Ivan Chang$^2$
+
+\begin{description}
+
+\item $^2 \;$ Institute of Statistical Science Academia Sinica, Taipei, Taiwan
+%\item $^2 \;$ Center for Applied Research in Computer Science,
+%Applied Research Laboratory, Anyville, AB 12345, USA
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. We apply the method of active learning to build a binary classification model for drug consumption data.
+Due to the nature of active learning, subject selection is an major issue is its learning process. There are many kinds of subject selection schemes proposed in the literature. The subject recruiting procedure may also depend on its learning target criterion such as accuracy, area under ROC curve and so on.  Moreover, in practical active learning scenarios, the label information of samples can only be revealed as they are recruited into training data set, and we will pay the domain experts to label these selected sample.  Therefore, to consider the labelling cost, how/when to stop an active learning procedure is always an important and challenging problem in active learning.  In this talk, we propose an active learning procedure targeting at area under an ROC curve, and based on the idea of robustness, we then used a modified influential index to locate the most informative samples, sequentially, such that the learning procedure can achieve the target efficiently. We then apply our procedure to drug consumption data sets.
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+ROC curve, area under curve, active learning, influential index
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item[Calders and Jaroszewicz, 2007]{Calders2007}
+Calders, T. and Jaroszewicz, S. (2007).
+\newblock Efficient auc optimization for classification.
+\newblock In {\em Knowledge Discovery in Databases: PKDD 2007}, pages 42--53.
+  Springer.
+
+\item[Hampel, 1974]{hampel}
+Hampel, F.~R. (1974).
+\newblock The influence curve and its role in robust estimation.
+\newblock {\em Journal of the American Statistical Association},
+  69(346):383--393.
+  
+\end{description}
+
+\end{document}
+
+
+
+
+\item
+Payne, R.W. and Welham, S.J. (1990).
+A comparison of algorithms for combination of information in generally
+balanced designs.
+In: \textit{COMPSTAT90 Proceedings in Computational Statistics}, 297--302.
+Heidelberg: Physica-Verlag.
+
+
+
+
+
+

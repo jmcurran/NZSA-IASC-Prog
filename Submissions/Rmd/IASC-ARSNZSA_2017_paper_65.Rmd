@@ -1,0 +1,11 @@
+Semiparametric Mixed Analysis of Covariance Model
+
+Virgelio M. Alao Visayas State University Erniel B. Barrios Joseph Ryan
+G. Lansangan University of the Philippines Diliman
+
+ABSTRACT
+
+    A semiparametric mixed analysis of covariance model is postulated and estimated using the two procedures: based on an imbedded restricted maximum likelihood (REML) and nonparametric regression (smoothing splines) estimation into the backfitting framework (ARMS); and infusing bootstrap into the ARMS (B-ARMS).  The heterogeneous effect of covariates across the groups is postulated to affect the response through a nonparametric function to mitigate overparameterization.  Using simulation studies, we exhibited the capability of the postulated model (and estimation procedures) in increasing predictive ability and stabilizing variance components estimates even for small sample size and with minimal covariate effect, and regardless of whether the model is correctly specified or there is misspecification error.  
+
+Keywords: mixed ANCOVA model, nonparametric regression, backfitting,
+bootstrap, random effects, variance components

@@ -1,0 +1,39 @@
+<span>**An EWMA Chart for Monitoring Covariance Matrix Based on
+Dissimilarity Index**</span>
+
+Longcheen Huwang
+
+Institute of Statistics, National Tsing Hua University, Hsinchu 30043,\
+Taiwan
+
+<span>**Abstract**</span>. In this talk, we propose an EWMA chart for
+monitoring covariance matrix based on the dissimilarity index of two
+matrices. It is different from the conventional EWMA charts for
+monitoring covariance matrix which are either based on comparing the sum
+or product or both of the eigenvalues of the estimated EWMA covariance
+matrix with those of the IC covariance matrix. The proposed chart
+essentially monitors covariance matrix by comparing the individual
+eigenvalues of the estimated EWMA covariance matrix with those of the
+estimated covariance matrix from the IC phase I data. We evaluate the
+performance of the proposed chart by comparing it with the best existing
+chart under the multivariate normal process. Furthermore, to prevent the
+control limit of the proposed EMMA chart using the limited IC phase I
+data from having extensively excessive false alarms, we use a bootstrap
+method to adjust the control limit to guarantee that the proposed chart
+has the actual IC average run length not less than the nominal one with
+a certain probability. Finally, we use an example to demonstrate the
+applicability and implementation of the proposed chart.
+
+<span>**Keywords**</span>. Average run length, dissimilarity index,
+EWMA; out-of-control
+
+References {#references .unnumbered}
+----------
+
+Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
+weighted moving covariance matrix. <span>*Technometrics*</span>,
+<span>**50**</span>, 155-166.
+
+Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
+monitoring based on dissimilarity of process data. <span>*AIChE
+Journal*</span>, <span>**48**</span>, 1231-1240.

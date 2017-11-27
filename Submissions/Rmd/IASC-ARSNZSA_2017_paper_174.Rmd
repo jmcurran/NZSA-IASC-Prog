@@ -1,0 +1,40 @@
+<span>**Bayesian Temporal Density Estimation with Autoregressive Species
+Sampling Models [^1]**</span>
+
+Youngin Jo$^1$, Seongil Jo$^2$ and Jaeyong Lee$^3$
+
+$^1 \;$ Kakao corporation, Seongnam, 13494, Republic of Korea
+
+$^2 \;$ Department of Statistics (Institute of Applied Statistics),
+Chonbuk National University, Jeonju, 54896, Republic of Korea
+
+$^3 \;$ Department of Statistics, Seoul National University, Seoul,
+08826, Republic of Korea
+
+<span>**Abstract**</span>. We propose a Bayesian nonparametric (BNP)
+model, which is built on a class of species sampling models, for
+estimating density functions of temporal data. In particular, we
+introduce species sampling mixture models with temporal dependence. To
+accommodate temporal dependence, we define dependent species sampling
+models by modeling random support points and weights through an
+autoregressive model, and then we construct the mixture models based on
+the collection of these dependent species sampling models. We propose an
+algorithm to generate posterior samples and present simulation studies
+to compare the performance of the proposed models with competitors that
+are based on Dirichlet process mixture models. We apply our method to
+the estimation of densities for the price of apartment in Seoul, the
+closing price in Korea Composite Stock Price Index (KOSPI), and climate
+variables (daily maximum temperature and precipitation) of around the
+Korean peninsula.
+
+<span>**Keywords**</span>. Autoregressive species sampling models;
+Dependent random probability measures; Mixture models; Temporal
+structured data
+
+[^1]: This work is a part of the first author’s Ph.D. thesis at Seoul
+    National University. Research of Seongil Jo was supported by Basic
+    Science Research Program through the National Research Foundation of
+    Korea (NRF) funded by the Ministry of Education
+    (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by
+    the National Research Foundation of Korea (NRF) grant funded by the
+    Korea government (MEST) (No. 2011-0030811).

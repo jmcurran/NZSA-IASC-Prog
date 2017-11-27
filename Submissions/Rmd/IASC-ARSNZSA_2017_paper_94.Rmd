@@ -1,0 +1,54 @@
+<span>**Estimating causal structures for continuous and discrete
+variables** </span>
+
+Mako Yamayoshi$^1$ and Hiroshi Yadohisa$^2$
+
+$^1 \;$ Graduate school of Culture and Information Science, Doshisha
+University, Kyotanabe, Kyoto, JAPAN
+
+$^2 \;$ Faculty of Culture and Information Science, Doshisha University,
+Kyotanabe, Kyoto, JAPAN
+
+<span>**Abstract**</span>.
+
+Structural equation models have been used extensively for continuous
+variable data to find causal structures. In such a framework, the Linear
+Non- Gaussian Acyclic Model (LiNGAM) could enable finding a whole causal
+model (Shimizu et al., 2006). However, in many desciplines, the data
+include both continuous and discrete variables. LiNGAM could fail to
+capture the actual causal relationship for such data because it handles
+both discrete and continuous variables as continuous. Therefore, it is
+necessary to improve the estimation method for causal structures in such
+conditions.
+
+In this study, we propose a method to find causal structures for
+continuous and discrete variables. To overcome the problems of the
+existing method, we use the Link function. Using simulation studies, we
+show that the proposed method performs more efficiently for data that
+includes continuous and discrete variables.
+
+<span>**Keywords**</span>. Causal direction, Latent variables, Link
+function, SEM, LiNGAM
+
+References {#references .unnumbered}
+----------
+
+Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
+Characteristics and identification: Second Edition.* Cambridge:
+Cambridge University Press.
+
+S. Shimizu, P.O. Hoyer, A. Hyvärinen, and A. Kerminen (2006). A linear
+non-Gaussian acyclic model for causal discovery. *The Journal of\
+Machine Learning Research*, vol. 7, pp. 2003-2030.
+
+(ed.) Barnett, V., Payne, R. and Steiner, R. (1995). *Agricultural
+Sustainability: Economic, Environmental and Statistical Considerations*.
+Chichester: Wiley.
+
+Payne, R.W. (1997). *Algorithm AS314 Inversion of matrices Statistics*,
+**46**, 295–298.
+
+Payne, R.W. and Welham, S.J. (1990). A comparison of algorithms for
+combination of information in generally balanced designs. In:
+*COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
+Heidelberg: Physica-Verlag.

@@ -1,0 +1,106 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+
+
+\begin{document}
+
+
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Nonparametric causal inference by the kernel method}
+
+
+\vspace{1.0cm}
+
+Yuchi Matsuoka$^1$ and Etsuo Hamada$^1$
+
+\begin{description}
+
+\item $^1 \;$ Graduate School of Engineering Science, Osaka University,\\
+1-3 Machikaneyama-cho, Toyonaka, Osaka, Japan
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+
+
+\noindent {\bf Abstract}. 
+Rubin causal model is a statistical model to estimate the effect of a treatment on the outcome based on the framework of potential outcomes. To estimate a causal effect based on Rubin causal model, propensity score plays a central role. In particular, matching and weighting methods like Inverse Probability Weighted Estimator (IPWE) and Doubly-Robust estimator based on the estimated propensity score are widely used. Despite its popularity, it was pointed out that model misspecification of the propensity score can result in substantial bias of the resulting estimators of a causal effect and potential outcomes. It is possible to estimate propensity score in nonparametric ways or machine learning methods to avoid model misspecification. However, it doesn't work well in most situations due to following reasons: 1) Curse of dimensionality. 2) They only aim at an accuracy of classification and don't optimize the covariate balancing. To overcome the problems above, we propose a new estimator of propensity score using kernel mean embeddings of conditional distributions. Although our proposal is completely nonparametric, our estimator has a dimensionality-independent rate of convergence. Using kernel measures of conditional independence for model selection, our estimator can also correct the bias that arises from the imbalance of covariates. In numerical simulations, we confirm that our method can reduce the bias in misspecified settings. We also describe several asymptotic properties of our estimator. 
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Rubin causal model, Propensity score, Kernel method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+%\subsection*{References}
+
+%\begin{description}
+
+%\item
+%Fukumizu, K., Gretton, A., Sun, X., and Sch\"olkopf, B. (2008). 
+%Kernel measures of conditional dependence. 
+%In \textit{Advances in neural information processing systems}, 489-496
+
+%\item 
+%Imai, K. and Ratkovic, M. (2014).
+%Covariate balancing propensity score.
+%\textit{Journal of the Royal Statistical Society: Series B (Statistical Methodology)}
+%\textbf{76.1},  243-263.
+
+
+%\item
+%(ed.) Barnett, V., Payne, R. and Steiner, R. (1995).
+%\textit{Agricultural Sustainability: Economic, Environmental and
+%Statistical Considerations}. Chichester: Wiley.
+
+%\item 
+
+%\end{description}
+
+\end{document}
+
+
+
+
+

@@ -1,0 +1,35 @@
+<span>**Deep Learning High-Dimensional Covariance Matrices**</span>
+
+Philip L.H. Yu$^1$ and Yaohua Tang$^1$
+
+$^1 \;$ Department of Statistics and Actuarial Science, The University
+of Hong Kong, Hong Kong, China
+
+<span>**Abstract**</span>. Modeling and forecasting covariance matrices
+of asset returns play a crucial role in finance. The availability of
+high frequency intraday data enables the modeling of the realized
+covariance matrix directly. However, most models in the literature
+depend on strong structural assumptions and they also suffer from the
+curse of dimensionality. To solve the problem, we propose a deep
+learning model which treats each realized covariance matrix as an image.
+The network structure is designed with simplicity in mind, and yet
+provides superior accuracy compared with several advanced statistical
+methods. The model could handle both low-dimensional and
+high-dimensional realized covariance matrices.
+
+<span>**Keywords**</span>. Deep learning, Realized covariance matrix,
+Convolutional neural network
+
+References {#references .unnumbered}
+----------
+
+LeCun, Y., Bottou, L., Bengio, Y. and Haffner, P. (1998). Gradient-based
+learning applied to document recognition. In *Proceedings of the IEEE*,
+86, 2278–2324.
+
+Shen, K., Yao, J. and Li, W. K.(2015). Forecasting High-Dimensional
+Realized Volatility Matrices Using A Factor Model. *ArXiv e-prints*.
+
+Tao, M., Wang, Y., Yao, Q. and Zou, J. (2011). Large volatility matrix
+inference via combining low-frequency and high-frequency approaches.
+*Journal of the American Statistical Association*, 106, 1025–1040.

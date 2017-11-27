@@ -1,0 +1,46 @@
+<span>**Local Canonical Correlation Analysis for Multimodal Labeled
+Data**</span>
+
+Seigo Mizutani$^1$ and Hiroshi Yadohisa$^2$
+
+$^1 \;$ Graduate School of Culture and Information Science, Doshisha
+University, Kyoto, JAPAN
+
+$^2 \;$ Faculty of Culture and Information Science, Doshisha University,
+Kyoto, JAPAN
+
+<span>**Abstract**</span>
+
+In supervised learning, canonical correlation analysis (CCA) is widely
+used for dimension reduction problems. When using dimension reduction
+methods, researchers should always aim to preserve the data structure in
+a low dimensional space. However, if the obtained data are assumed to be
+multimodal labeled data, that is, each cluster can be subdivided into
+several latent clusters, CCA is rarely able to preserve the data
+structure in a low dimensional space.
+
+In this study, we propose local CCA (LCCA) for multimodal labeled data.
+This method is based on local Fisher discriminant analysis (LFDA)
+(Sugiyama, 2007). We do not employ the same local covariance matrix of
+the explanatory variables as under LFDA, which uses a local
+between-group variance matrix and a local within-group variance matrix.
+Instead, in our proposed method, we use a covariance matrix of the
+explanatory variables as well as a weighted affinity matrix. The
+usefulness of LCCA in data visualization and clustering is then
+demonstrated by simulation studies.
+
+<span>**Keywords**</span>. Supervised learning, Dimension reduction,
+Local Fisher discriminant analysis (LFDA), Weighted affinity matrix
+
+References {#references .unnumbered}
+----------
+
+Sugiyama, M. (2007). Dimensionality reduction of multimodal labeled data
+by local Fisher discriminant analysis. *Journal of Machine Learning
+Research*, **8**, 1027-1061.
+
+Hastie, T. and Buja, A. and Tibshirani, R. (1995) Penalized discriminant
+analysis., 73-102.
+
+Hotelling, H. (1936). Relations between two sets of variates.
+*Biometrika*, **28**, 321-377.

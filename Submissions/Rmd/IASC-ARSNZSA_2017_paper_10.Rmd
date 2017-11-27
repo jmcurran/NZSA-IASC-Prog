@@ -1,0 +1,33 @@
+<span>**Incorporating genetic networks into case-control association
+studies with high-dimensional DNA methylation data**</span>
+
+Hokeun Sun$^1$
+
+$^1 \;$ Department of Statistics, Pusan National University, Busan
+46241, Korea
+
+<span>**Abstract**</span>. In human genetic association studies with
+high-dimensional microarray data, it has been well known that
+statistical methods utilizing prior biological network knowledge such as
+genetic pathways and signaling pathways can outperform other methods
+that ignore genetic network structures. In recent epigenetic research on
+case-control association studies, relatively many statistical methods
+have been proposed to identify cancer-related CpG sites and the
+corresponding genes from high-dimensional DNA methylation data. However,
+most of existing methods are not able to utilize genetic networks
+although methylation levels among linked genes in the networks tend to
+be highly correlated with each other. In this article, we propose new
+approach that combines independent component analysis with network-based
+regularization to identify outcome-related genes for analysis of
+high-dimensional DNA methylation data. The proposed approach first
+captures gene-level signals from multiple CpG sites using independent
+component analysis and then regularizes them to perform gene selection
+according to given biological network information. In simulation
+studies, we demonstrated that the proposed approach overwhelms other
+statistical methods that do not utilize genetic network information in
+terms of true positive selection. We also applied it to the 450K DNA
+methylation array data of the four breast invasive carcinoma cancer
+subtypes from The Cancer Genome Atlas (TCGA) project.
+
+<span>**Keywords**</span>. Independent component analysis, network-based
+regularization, genetic network, DNA methylation, high-dimensional data

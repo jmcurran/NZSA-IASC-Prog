@@ -1,0 +1,37 @@
+<span>**Statistical generalized derivative applied to the profile
+likelihood estimation in a mixture of semiparametric models**</span>
+
+Yuichi Hirose$^1$ and Ivy Liu$^2$
+
+$^1 \;$ School of Mathematics and Statistics, Victoria University of
+Wellington
+
+$^2 \;$ School of Mathematics and Statistics, Victoria University of
+Wellington
+
+<span>**Abstract**</span>. There is a difficulty in finding an estimate
+of variance of the profile likelihood estimator in the joint model of
+longitudinal and survival data. We solve the difficulty by introducing
+the “statistical generalized derivative”. The derivative is used to show
+the asymptotic normality of the estimator without assuming the second
+derivative of the density function in the model exists.
+
+<span>**Keywords**</span>. Efficiency, Efficient information bound,
+Efficient score, Implicitly defined function, Profile likelihood,
+Semi-parametric model, Joint model, EM algorithm, Mixture model
+
+References {#references .unnumbered}
+----------
+
+Hsieh, F., Tseng, Y.K. and Wang, J.L. (2006). *Joint modeling of
+survival and longitudinal data: likelihood approach revisited.*
+Biometrics <span>**62**</span>, 1037–1043.
+
+Hirose, Y. (2016). *On differentiability of implicitly defined function
+in semi-parametric profile likelihood estimation.* Bernoulli **22**
+589–614.
+
+<span style="font-variant:small-caps;">Preedalikit et al.</span> (2016).
+*Joint modeling of survival and longitudinal ordered data using a
+semiparametric approach.* Australian & New Zealand Journal of Statistics
+<span>**58**</span>, 153–172.

@@ -1,0 +1,108 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+\usepackage{amsmath,amsthm,amssymb} 
+\pagestyle{myheadings} 
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm 
+\def\vec#1{\mbox{\boldmath$#1$}}
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Cluster-wise regression models combined by a quasi-linear function }
+
+
+\vspace{1.0cm}
+
+Kenichi Hayashi$^{1*}$, Katsuhiro Omae$^{2}$ and Shinto Eguchi$^3$
+
+\begin{description}
+
+\item $^1 \;$ Department of Mathematics, Keio University, Yokohama, Japan
+
+\item $^2 \;$ Department of Statistical Science, The Graduate University for Advanced Studies, Tokyo, Japan
+
+\item $^3 \;$ The Institute of Statistical Mathematics, Tokyo, Japan
+
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}. 
+Suppose that there are multiple heterogeneous subgroups in a dataset. 
+In the ``Big data'' era, this would be a natural assumption for many fields of application such as medicine, biology, marketing, psychology, etc. 
+Then, conventional linear regression models result in not only poor prediction performance but also misleading interpretation of analyses. 
+In this study, we propose an extension of cluster-wise regression models  $\phi^{-1}\left(\sum_{k=1}^Kp_k(\vec{x})\phi(\vec{\beta}_k^\top\vec{x})\right)$, where $\phi$ is a strictly increasing function, $\vec{x}\in\mathbb{R}^d$, $\vec{\beta}_k$ is a regression coefficient for $k$th cluster and $p_k(\vec{x})$ is a non-negative function satisfying $\sum_{k=1}^Kp_k(\vec{x})=1$ for any $\vec{x}$. 
+We show that the proposed model has flexibility in clustering and ``averaging'' multiple regressors and hence includes the existing methods such as Sp\"{a}th (1981), DeSarbo et al. (1989) as special cases. 
+%The algorithm and some numerical examples are given to show how well the proposed method works. 
+%If an abstract is included, it should be
+%set in the same type as the main text, with the same line width
+%and line spacing, starting 15 lines (typewriter) or 5 cm
+%(PC) below the top of the print area; otherwise the first
+%heading starts here.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Cluster-wise regression, Generalized linear models, Population heterogeneity
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%        
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%        
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+\subsection*{References}
+
+\begin{description}
+
+\item
+DeSarbo, W.S., Oliver, R.L., and Rangaswamy, A. (1989). 
+A simulated annealing methodology for clusterwise linear regression. 
+\textit{Psychometrika},
+\textbf{54}, 707--736.
+
+\item
+Sp\"{a}th, H. (1979). 
+Algorithm 39: Clusterwise linear regression. 
+\textit{Computing},
+\textbf{22}, 367--373.
+
+\end{description}
+
+\end{document}
+
+
+
+
+

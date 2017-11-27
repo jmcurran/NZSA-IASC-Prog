@@ -1,0 +1,37 @@
+<span>**An Advanced Approach for Time Series Forecasting using Deep
+Learning**</span>
+
+Balaram Panda$^1$
+
+$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
+
+<span>**Abstract**</span>. Time series forecasting is a decade-long
+research and which is being evolving day by day. Due to the recent
+advancement is deep learning technique many of the complex problems have
+been solved using deep learning. Deep learning techniques have shown
+tremendous better performance in supervised learning problem. One of the
+reasons for this success is the ability of deep feedforward network
+methods to learn multiple feature interaction for a single instance.
+However, the time-dependent nature not being captured by deep
+feedforward network till the evolution of RNN(recurrent neural network)
+and LSTM(long short term memory) network architecture. This paper
+reveals the success of LSTM time series in comparison with ARIMA and
+other standard approaches for time series modeling. A sensitivity
+analysis is also conducted to explore the effect of hyper parameter
+tuning on LSTM model to reduce the time series forecasting error. We
+also derive practical advice from our empirical results for those
+interested in getting most out of LSTM time series for modern time
+series forecasting.
+
+<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
+
+References {#references .unnumbered}
+----------
+
+Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
+unsupervised feature learning and deep learning for time-series
+modeling.” Pattern Recognition Letters 42 (2014): 11-24.
+
+Zheng, Yi, et al. “Time series classification using multi-channels deep
+convolutional neural networks.” International Conference on Web-Age
+Information Management. Springer, Cham, 2014.

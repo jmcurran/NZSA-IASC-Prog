@@ -1,0 +1,40 @@
+<span>**Clustering using Nonparametric Mixtures and Mode
+Identification**</span>
+
+Shengwei Hu$^1$ and Yong Wang$^2$
+
+$^1 \;$ Department of Statistics, the University of Auckland, New
+Zealand
+
+$^2 \;$ Department of Statistics, the University of Auckland, New
+Zealand
+
+<span>**Abstract**</span>. Clustering aims to partition a set of
+observations into a proper number of clusters with similar objects
+allocated to the same group. Current partitioning methods mainly include
+those based on some measure of distance or probability distribution.
+Here we propose a mode-based clustering methodology motivated via
+density estimation and mode identification procedures. The idea is to
+estimate the data-generating probability distribution using a
+nonparametric density estimator and then locate the modes of the density
+obtained. In the nonparametric mixture models, each mode and the
+observations ascend to it correspond to a single cluster. Thus, the
+problem of determining the number of clusters can be recast as a mode
+merging problem. A criterion of measuring the separability between modes
+is also addressed in this work. The most similar modes would be merged
+sequentially until the optimal number of clusters is reached. The
+performance of the proposed method is investigated on both simulated and
+real datasets.
+
+<span>**Keywords**</span>. Clustering, Nonparametric mixtures, Mode
+identification
+
+References {#references .unnumbered}
+----------
+
+Wang, X. and Wang, Y.: *Nonparametric multivariate density estimation
+using mixtures*. Stat. Comput. **25**, 349–-364 (2015).
+
+Li, J., Ray S. and Lindsay B.G.: *A nonparametric statistical approach
+to clustering via mode identification*. Journal of Machine Learning
+Research. **8**, 1687–-1723 (2007).

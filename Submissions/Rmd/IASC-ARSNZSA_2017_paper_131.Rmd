@@ -1,0 +1,40 @@
+<span>**Bayesian semi-parametric approaches to analyzing temperature
+trends**</span>
+
+Matthew Edwards$^1$, Claudia Kirch$^2$, Alexander Meier$^2$, Renate
+Meyer$^1$ and Blake Seers$^1$
+
+$^1 \;$ Department of Statistics, University of Auckland, Auckland, New
+Zealand
+
+$^2 \;$ Otto-von-Guericke University, Magdeburg, Germany
+
+<span>**Abstract**</span>. To discern potential impacts of global
+warming for New Zealand, it is imperative to accurately estimate
+long-term temperature trends. Here we analyse annual average temperature
+time series measured at several locations in New Zealand. The data are
+from a set of climate stations with no significant site changes since
+the 1930s. We specify a hierarchical semi-parametric model with a linear
+time and changepoints at known time points where re-siting of recorders
+or changes in instrumentation occurred. The power spectral density of
+the errors is estimated using a Bayesian nonparametric approach based on
+Whittle’s likelihood. We use a nonparametric Bernstein polynomial prior
+on the spectral density with weights induced by a Dirichlet process.
+Posterior computation is implemented using a MH-within-Gibbs algorithm.
+We compare our results to those obtained by OLS and GLS.
+
+<span>**Keywords**</span>. stationary time series, spectral density,
+Bayesian nonparametrics, posterior consistency, Whittle likelihood,
+Bernstein-Dirichlet prior
+
+References {#references .unnumbered}
+----------
+
+Kirch, C., Edwards, M., Meier, A., and Meyer, R. (2017). *Beyond
+Whittle: Nonparametric correction of a parametric likelihood with a
+focus on Bayesian time series analysis*,
+<span>https://arxiv.org/abs/1701.04846</span>.
+
+Thomson, P., Mullan, B. and Stuart, S. (2014). Estimating the slope and
+standard error of a long-term linear trend fitted to adjusted annual
+temperatures. Joint NZSA/ORSNZ Conference, Wellington.

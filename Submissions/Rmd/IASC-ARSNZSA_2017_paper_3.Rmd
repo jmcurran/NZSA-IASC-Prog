@@ -1,0 +1,51 @@
+<span>**Online Learning for Bayesian Nonparametrics: Weakly Conjugate
+Approximation**</span>
+
+Yongdai Kim$^1$, Kuhwan Jeong$^1$, Byungyup Kang$^2$ and Hyoju Chung$^2$
+
+$^1 \;$ Department of Statistics, Seoul National University, Seoul,
+South Korea
+
+$^2 \;$ NAVER Corp., Seongnam, South Korea
+
+<span>**Abstract**</span>. We propose a new online learning method for
+Bayesian nonparametric (BNP) models so called <span>*weakly conjugate
+approximation*</span> (WCA). We consider classes of BNP priors which are
+weakly conjugate. Here, ‘weakly conjugate prior’ means that the
+resulting posterior can be easily approximated by an efficient MCMC
+algorithm.
+
+Suppose the whole data set is divided into two groups, say
+${{\bf x}}=({{\bf x}}^{old},{{\bf x}}^{new}).$ Then, the Bayes rule
+implies
+$p(\theta|{{\bf x}}) \propto p({{\bf x}}^{new}|\theta) p(\theta|{{\bf x}}^{old}),$
+where $\theta$ is the parameter. WCA replaces
+$p(\theta|{{\bf x}}^{old})$ with $p^{wk}(\theta|\eta)$ where the proxy
+parameter $\eta$ is estimated by minimizing the Kullback-Leibler (KL)
+divergence
+${\mathbb{E}}_{p(\theta|{{\bf x}}^{old})}\left\{ \log p(\theta|{{\bf x}}^{old}) - \log p^{wk}(\theta|\eta)\right\}.$
+It can be easily approximated when we can generate samples from
+$p(\theta|{{\bf x}}^{old}).$ To be more specific, suppose
+$\theta_1,\ldots,\theta_M$ are samples generated from
+$p(\theta|{{\bf x}}^{old}).$ Then, we can estimate $\eta$ by minimizing
+$\sum_{j=1}^M\left\{ \log p(\theta_j|{{\bf x}}^{old}) - \log p^{wk}(\theta_j|\eta)\right\}/M.$
+
+To apply WCA for online learning with multiple batches, suppose the
+whole data ${{\bf x}}$ are divided into multiple small batches as
+${{\bf x}}=({{\bf x}}^{[1]},\ldots,{{\bf x}}^{[S]}).$ A WCA algorithm
+sequentially approximates
+$p(\theta|{{\bf x}}^{[1]},\ldots,{{\bf x}}^{[s]})$ by
+$p^{wk}(\theta|\eta_s),$ where $\eta_s$ is the proxy parameter
+minimizing the approximated KL divergence. Since $p^{wk}(\theta|\eta)$
+is weakly conjugate, we can easily generate samples from
+$p({{\bf x}}^{[s]}|\theta)p^{wk}(\theta|\eta_{s-1}),$ and hence easily
+update $\eta_s.$
+
+We compare several online learning algorithms by analyzing
+simulated/real data sets in Dirichlet process mixture models and
+hierarchical Dirichlet processes topic models. The proposed method shows
+better accuracy in our experiments.
+
+<span>**Keywords**</span>. online learning, weakly conjugate
+approximation, Dirichlet process mixture model, hierarchical Dirichlet
+processes

@@ -1,0 +1,41 @@
+<span>**An Overview of the Correspondence Analysis Family**</span>
+
+Eric J. Beh$^1$
+
+$^1 \;$ School of Mathematical & Physical Sciences, University of
+Newcastle, Callaghan, NSW 2308, Australia
+
+<span>**Abstract**</span>.
+
+Correspondence analysis (CA) is well known to be a member of the family
+of multivariate analysis techniques and is concerned with the
+visualisation of the association between two or more categorical
+variables. The classic texts of Greenacre (1984) and Lebart, Morineau
+and Warwick (1984), for example, provide an excellent technical,
+practical and historical account of development of CA up to that period.
+What is less well known is that the literature on CA extends well beyond
+the traditional approaches that can be found in many multivariate texts
+and often there are disciplines that redefine the way in which it is
+performed. For example, the various fields of ecology have successfully
+germinated variants including <span>*canonical correspondence
+analysis*</span> and <span>*detrended correspondence analysis*</span>.
+However the scope, and literature, of CA is not confined to these
+examples. Beh and Lombardo (2014, Section 1.6.3) and provide a
+comprehensive list of members of the “family” which, now, number about
+50 members. I shall provide an overview of some of the popular, and
+not-so-popular, members of the CA family.
+
+<span>**Keywords**</span>. Correspondence analysis, Multiple CA, Family
+of analyses
+
+References {#references .unnumbered}
+----------
+
+Beh, E. J. and Lombardo, R. (2014). <span>*Correspondence Analysis:
+Theory, Practice and New Strategies*</span>. Chichester: Wiley.
+
+Greenacre, M. J. (1984), <span>*Theory and Applications of
+Correspondence Analysis*</span>. London: Academic Press.
+
+Lebart, L., Morineau, A. and Warwick, K. M. (1984). <span>*Multivariate
+Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.

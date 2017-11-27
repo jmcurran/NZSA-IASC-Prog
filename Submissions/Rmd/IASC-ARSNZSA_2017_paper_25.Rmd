@@ -1,0 +1,38 @@
+<span>**R&D policy regimes in France: New evidence from a
+spatio-temporal analysis**</span>
+
+Benjamin Montmartin$^1$, Marcos Herrera$^2$ and Nadine Massard$^3$
+
+$^1 \;$ University Cote d’Azur, CNRS, GREDEG UMR 7321; Valbonne, FRANCE
+
+$^2 \;$ CONICET - IELDE, National University of Salta, Salta, Argentina
+
+$^3 \;$ University Grenoble Alpes, UMR GAEL, Grenoble, France
+
+<span>**Abstract**</span>. Using a unique database containing
+information on the amount of R&D tax credits and regional, national and
+European subsidies received by firms in French NUTS3 regions over the
+period 2001-2011, we provide new evidence on the efficiency of R&D
+policies taking into account spatial dependency across regions. By
+estimating a spatial Durbin model with regimes and fixed effects, we
+show that in a context of yardstick competition between regions,
+national subsidies are the only instrument that displays total leverage
+effect. For other instruments internal and external effects balance each
+other resulting in insignificant total effects. Structural breaks
+corresponding to tax credit reforms are also revealed.
+
+<span>**Keywords**</span>. Additionality, French policy mix, Spatial
+panel, Structural break
+
+References {#references .unnumbered}
+----------
+
+Pesaran, M. H. (2007). A simple panel unit root test in the presence of
+cross-section dependence In: *Journal of Applied Econometrics*, **22**,
+265–312.
+
+Hendry, D. F. (1979). Predictive failure and econometric modelling in
+macroeconomics: The transactions demand for money. In: *P. Ormerod
+(Ed.), Economic Modelling: Current Issues and Problems in Macroeconomic
+Modelling in the UK and the US*, **9**, 217–242. Heinemann Education
+Books, London.

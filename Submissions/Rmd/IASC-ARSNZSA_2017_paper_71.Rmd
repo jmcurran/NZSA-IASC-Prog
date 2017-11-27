@@ -1,0 +1,46 @@
+<span>**Simultaneous test for mean vectors and covariance matrices in
+high-dimensional settings**</span>
+
+Takahiro Nishiyama$^1$ and Masashi Hyodo$^2$
+
+$^1 \;$ Department of Business Administration, Senshu University, 2-1-1,
+Higashimita, Tama-ku, Kawasaki-shi, Kanagawa 214-8580, Japan
+
+$^2 \;$ Department of Mathematical Sciences, Graduate School of
+Engineering, Osaka Prefecture University, 1-1 Gakuen-cho, Naka-ku,
+Sakai, Osaka 599-8531, Japan
+
+Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
+$\ldots$, ${\mbox{\boldmath ${X}$}}_{gn_g}$ be i.i.d. random samples of
+size $n_{g}$ from a $p$-dimensional population $\Pi_g$
+($g \in \{1, 2\}$) with
+${\rm E}({\mbox{\boldmath ${X}$}}_{gi})={\mbox{\boldmath ${\mu}$}}_g$
+and ${\rm var}({\mbox{\boldmath ${X}$}}_{gi})=\Sigma_g$
+($i \in \{1, \ldots ,n_g\}$). In this talk, our primary interest is to
+test following hypothesis when $p > \min\{n_1-1, n_2-1 \}$:
+$$\begin{aligned}
+H_0 : {\mbox{\boldmath ${\mu}$}}_1 = {\mbox{\boldmath ${\mu}$}}_1,~ \Sigma_1 = \Sigma_2 \quad 
+\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.\end{aligned}$$
+
+For this problem, we discuss an $L^2$-norm-based test for simultaneous
+testing of mean vectors and covariance matrices among two non-normal
+populations. To construct a test procedure, we propose a test statistic
+based on both unbiased estimator of differences mean vectors proposed by
+Chen and Qin (2010) and covariance matrices proposed by Li and Chen
+(2012). Also, we derive an asymptotic distribution of this test
+statistic and investigate the asymptotic sizes and powers of the
+proposed test. Finally, we study the finite sample and dimension
+performance of this test via Monte Carlo simulations.
+
+<span>**Keywords**</span>. Asymptotic distribution, High-dimensional
+data analysis, Testing hypothesis
+
+References {#references .unnumbered}
+----------
+
+Chen, S.X. and Qin, Y.L. (2010). A two-sample test for high dimensional
+data with applications to gene-set testing. *Ann. Statist.*, **38**,
+808–835.
+
+Li, J and Chen, S.X. (2012). Two sample tests for high-dimensional
+covariance matrices. *Ann. Statist.*, **40**, 908–940.

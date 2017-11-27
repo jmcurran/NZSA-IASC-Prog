@@ -1,0 +1,87 @@
+\documentclass[12pt]{article}
+% \documentstyle{iascars2017}
+
+% \usepackage{iascars2017}
+
+\pagestyle{myheadings}
+\pagenumbering{arabic}
+\topmargin 0pt \headheight 23pt \headsep 24.66pt
+%\topmargin 11pt \headheight 12pt \headsep 13.66pt
+\parindent = 3mm
+
+
+\begin{document}
+
+
+\begin{flushleft}
+
+
+{\LARGE\bf Interactive visualization of aggregated symbolic data}
+
+
+\vspace{1.0cm}
+
+Yoshikazu YAMAMOTO$^1$ , Junji NAKANO$^2$ and Nobuo SHIMIZU$^2$
+
+\begin{description}
+
+\item $^1 \;$
+Tokushima Bunri University,
+1314-1 Shido, Sanuki-city, Kagawa 769-2193, Japan
+
+\item $^2 \;$
+The Institute of Statistical Mathematics,
+10-3 Midori-cho, Tachikawa, Tokyo 190-8562, Japan
+
+\end{description}
+
+\end{flushleft}
+
+%  ***** ADD ENOUGH VERTICAL SPACE HERE TO ENSURE THAT THE *****
+%  ***** ABSTRACT (OR MAIN TEXT) STARTS 5 CM BELOW THE TOP *****
+
+\vspace{0.75cm}
+
+\noindent {\bf Abstract}.
+When we have new ``big data'', the first step may be to visualize them.
+For visualizing continuous multivariate data, interactive parallel coordinate plot is known to be appropriate.
+However, the number of data is huge and some variables are categorical, a simple parallel coordinate plot is not available.
+We propose to divide big data into rather small groups and summarize them as aggregated symbolic data (ASD), and visualize them by triangular arranged parallel coordinate plots.
+
+We have developed a statistical graphics software for this purpose.
+Our software equips interactive operations such as selection and linked highlighting, and is written by Java, R, and big data processing technologies such as Apache Hadoop and Apache Spark.
+
+Aggregated symbolic data is a set of descriptive statistics calculated by up to second order moments of variables in each group.
+We also propose further summarization of ASD to describe characteristics of each variable and a pair of variables for visualizing the difference among ASDs.
+Real example data are visualized by our software and interpreted intuitively.
+
+\vskip 2mm
+
+\noindent {\bf Keywords}.
+Apache Hadoop, Apache Spark, Parallel coordinate plot, Symbolic data analysis.
+
+
+%\section{ First-level heading}
+%The C98 head 1 style leaves a half-line spacing below a
+%first-level heading. There should be one blank line above
+%a first-level heading.
+%
+%\subsection { Second-level heading}
+%There should also be one blank line above a second- or
+%third-level heading (but no extra space below them).
+%
+%Do not intent the first paragraph following a heading.
+%Second and subsequent paragraphs are indented by one Tab
+%character (= 3 mm). If footnotes are used, they should be
+%placed at the foot of the page\footnote{ Footnotes are separated
+%from the text by a blank line and a printed line of length 3.5 cm.
+%They should be printed in 9-point Times Roman in single line spacing.}.
+%
+%\subsubsection { Third-level heading}
+%Please specify references using the conventions
+%illustrated below. Each should begin on a new line, and
+%second and subsequent lines should be on the same page
+%indented by 3 mm.
+
+
+\end{document}

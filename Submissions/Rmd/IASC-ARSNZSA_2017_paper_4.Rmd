@@ -1,0 +1,38 @@
+<span>**The joint models for nonlinear longitudinal and time-to-event
+data using penalized splines: A Bayesian approach**</span>
+
+Pham Thi Thu Huong$^1$ and Darfiana Nur$^1$ and Alan Branford$^1$
+
+$^1 \;$ The College of Science and Engineering, Flinders University of
+Australia at Tonsley, 1284 South Road, Tonsley, SA 5042, Australia
+
+<span>**Abstract**</span>. The joint models for longitudinal data and
+time-to-event data have been introduced to measure the association
+between longitudinal data and survival time in clinical, epidemiological
+and educational studies.. The main aim of this talk is to estimate the
+parameters in the joint models using a Bayesian approach for nonlinear
+longitudinal data and time-to-event data using penalized splines. To
+perform this analysis, the joint posterior distribution of hazard rate
+at baseline, survival and longitudinal coefficient and random effects
+parameters is first being introduced followed by derivation of the
+conditional posterior distributions for each of parameter. Based on
+these target posterior distributions, the samples of parameters are
+simulated using Metropolis, Metropolis Hastings and Gibbs sampler
+algorithms. An R program is written to implement the analysis. Finally,
+the prior sensitivity analysis for the baseline hazard rate and
+association parameters is performed following by simulations studies and
+a case study.
+
+<span>**Keywords**</span>. Bayesian analysis, Joint models, Longitudinal
+data, MCMC algorithms, Prior sensitivity analysis, Survival data
+
+References {#references .unnumbered}
+----------
+
+D. Rizopoulos, D. (2014). The R package JMbayes for fitting joint models
+for longitudinal and time-to- event data using MCMC. *Journal of
+Statistical Software,* 72(7):1 – 45.
+
+Brown, E. R., J. G. Ibrahim, J. G., DeGruttola, V. (2005). A flexible
+B-spline model for multiple longitudinal biomarkers and
+survival.*Biometrics,* 61(1):64 – 73.
