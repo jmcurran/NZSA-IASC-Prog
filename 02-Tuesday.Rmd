@@ -1713,7 +1713,7 @@ of Human Mortality, and on a New Mode of Determining the Value of Life.
 Philosophical Transactions of the Royal Society of London, 115, 513-583.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 OGGB5 (260-051)</p>
-## Detecting Change-Points in the Stress-Strength Reliability P(X<Y) {-}
+## Detecting Change-Points in the Stress-Strength Reliability P(X&lt;Y) {-}
 <p style="text-align:center">
 Hang Xu^1^, Philip L.H. Yu^1^, and Mayer Alvo^2^<br />
 </p>

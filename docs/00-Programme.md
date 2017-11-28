@@ -291,7 +291,7 @@
 <td class = "time">1640</td>
 <td class = "contributed">Multiple Function-On-Function Linear Regression With Application To Weather Forecast Calibration<br/><br/>Lu-Hung Chen</td>
 <td class = "contributed">Modelling The Distribution Of Lifetime Using Compound Time-Homogenous Poisson Process<br/><br/>Kien Tran</td>
-<td class = "contributed">Detecting Change-Points In The Stress-Strength Reliability P(X<Y)<br/><br/>Philip L.H. Yu</td>
+<td class = "contributed">Detecting Change-Points In The Stress-Strength Reliability P(X&lt;Y)<br/><br/>Hang Xu</td>
 <td class = "contributed">New Zealand Crime And Victims Survey: Filling The Knowledge Gap<br/><br/>Michael Slyuzberg</td>
 <td class = "contributed">Missing Data In Randomised Control Trials: Stepped Multiple Imputation<br/><br/>Rose Sisk</td>
 <td class = "contributed"></td>
