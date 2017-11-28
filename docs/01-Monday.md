@@ -3,7 +3,7 @@
 ## Effect of area level deprivation on body mass index: analysis of NZ Health Surveys {-}
 <p style="text-align:center">
 Andrew Adiguna Halim, Arindam Basu, and Raymond Kirk<br />
-<br />
+Unversity of Canterbury<br />
 </p>
 Title: Area level deprivation is independently associated with body mass
 index: Analysis of NZ Health Surveys
@@ -39,7 +39,7 @@ Contact Details: Andrew Adiguna Halim aha164@uclive.ac.nz 0211412636
 ## Calendar-based graphics for visualising people’s daily schedules {-}
 <p style="text-align:center">
 Earo Wang, Dianne Cook, and Rob Hyndman<br />
-<br />
+Monash University<br />
 </p>
 <span>**Calendar-based graphics for visualising people’s daily
 schedules**</span>
@@ -87,7 +87,7 @@ Exploring Temporal Patterns in Climate Data and Models.
 ## Nonparametric Test for Volatility in Clustered Multiple Time Series Abstract {-}
 <p style="text-align:center">
 Paolo Victor Redondo and Erniel Barrios<br />
-<br />
+University of the Philippines Diliman<br />
 </p>
 Testing Volatility in Clustered Multiple Time Series: A Nonparametric
 Approach
@@ -112,6 +112,10 @@ Bootstrap
 ## IGESS: A Statistical Approach to Integrating Individual Level Genotype Data and Summary Statistics in Genome Wide Association Studies {-}
 <p style="text-align:center">
 Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang Wan^2^, and Zongben Xu^1^<br />
+^1^Duke-NUS Medical School<br />
+^2^Hong Kong Baptist University<br />
+^3^Hong Kong University of Science and Technology<br />
+^4^Xi'an Jiaotong University<br />
 </p>
 <span>**LSMM: A statistical approach to integrating functional
 annotations with genome-wide association studies**</span>
@@ -158,7 +162,7 @@ functional annotations, variational inference
 ## Clustering using Nonparametric Mixtures and Mode Identification {-}
 <p style="text-align:center">
 Shengwei Hu and Yong Wang<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Clustering using Nonparametric Mixtures and Mode
 Identification**</span>
@@ -205,6 +209,8 @@ Research. **8**, 1687–-1723 (2007).
 ## Bayesian curve fitting for discontinuous function using overcomplete representation with multiple kernels {-}
 <p style="text-align:center">
 Youngseon Lee^1^, Shuhei Mano^2^, and Jaeyong Lee^1^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Seoul National University<br />
 </p>
 <span>**Bayesian curve fitting for discontinuous function using
 overcomplete representation with multiple kernels**</span>
@@ -269,7 +275,7 @@ kernels, The *Annals of Statistics*, 1916–1962.
 ## Estimation of a Semiparametric Spatiotemporal Models with Mixed Frequency {-}
 <p style="text-align:center">
 Vladimir Malabanan, Erniel Barrios, and Joseph Ryan Lansangan<br />
-<br />
+University of the Philippines Diliman<br />
 </p>
 Estimation of a Semiparametric Spatiotemporal Models with Mixed
 Frequency
@@ -293,6 +299,10 @@ frequency
 ## LSMM: A statistical approach to integrating functional annotations with genome-wide association studies {-}
 <p style="text-align:center">
 Jingsi Ming^1^, Mingwei Dai^2^, Mingxuan Cai^1^, Xiang Wan^1^, Jin Liu^3^, and Can Yang^4^<br />
+^1^Duke-NUS Medical School<br />
+^2^Hong Kong Baptist University<br />
+^3^Hong Kong University of Science and Technology<br />
+^4^Xi'an Jiaotong University<br />
 </p>
 <span>**LSMM: A statistical approach to integrating functional
 annotations with genome-wide association studies**</span>
@@ -339,7 +349,7 @@ functional annotations, variational inference
 ## Estimation of a High-Dimensional Covariance Matrix {-}
 <p style="text-align:center">
 Xiangjie Xue and Yong Wang<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Estimation of a High-Dimensional Covariance Matrix**</span>
 
@@ -387,6 +397,8 @@ Statistical Society: Series B **69**, 185 - 198.
 ## Innovative Bayesian Estimation in the von-Mises Distribution {-}
 <p style="text-align:center">
 Yuta Kamiya^1^, Toshinari Kamakura^1^, and Takemi Yanagimoto^2^<br />
+^1^Chuo University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Innovative Bayesian Estimation in the von-Mises
 Distribution**</span>
@@ -435,7 +447,7 @@ Mises–Fisher distributions.” Biometrika 65.2 (1978): 369-377.
 ## Evidence of Climate Change from Nonparametric Change-point Analysis {-}
 <p style="text-align:center">
 Angela Nalica, Paolo Redondo, Erniel Barrios, and Stephen Villejo<br />
-<br />
+University of the Philippines Diliman<br />
 </p>
 Evidence of Climate Change from Nonparametric Change-point Analysis
 
@@ -457,6 +469,9 @@ bootstrap, southern oscillation index (SOI)
 ## Joint Analysis of Individual Level Genotype Data and Summary Statistics by Leveraging Pleiotropy {-}
 <p style="text-align:center">
 Mingwei Dai^1^, Jin Liu^2^, and Can Yang^3^<br />
+^1^Duke-NUS Medical School<br />
+^2^Hong Kong University of Science and Technology<br />
+^3^Xi'an Jiaotong University<br />
 </p>
 <span>**Joint Analysis of Individual Level Genotype Data and Summary
 Statistics by Leveraging Pleiotropy**</span>
@@ -526,6 +541,8 @@ genome-wide association studies. In: *Bioinformatics*
 ## Genetic map estimation using hidden Markov models in the presence of partially observed information {-}
 <p style="text-align:center">
 Timothy Bilton^1,2^, Matthew Schofield^1^, Ken Dodds^2^, and Michael Black^1^<br />
+^1^AgResearch<br />
+^2^University of Otago<br />
 </p>
 <span>**Genetic map estimation using hidden Markov models in the
 presence of partially observed information**</span>
@@ -568,7 +585,7 @@ partially observed data, confidence intervals
 ## A simple method for grouping patients based on historical doses {-}
 <p style="text-align:center">
 Shengli Tzeng<br />
-<br />
+China Medical University<br />
 </p>
 <span>**A simple method for grouping patients based on historical
 doses**</span>
@@ -615,7 +632,7 @@ In *Analysis of Large and Complex Data*, 31-41. Springer, Switzerland.
 ## Semiparametric Mixed Analysis of Covariance Model {-}
 <p style="text-align:center">
 Virgelio Alao, Erniel Barrios, and Joseph Ryan Lansangan<br />
-<br />
+University of the Philippines Diliman<br />
 </p>
 Semiparametric Mixed Analysis of Covariance Model
 
@@ -644,7 +661,7 @@ bootstrap, random effects, variance components
 ## Adaptive False Discovery Rate regression with application in integrative analysis of large-scale genomic data {-}
 <p style="text-align:center">
 Can Yang<br />
-<br />
+Hong Kong University of Science and Technology<br />
 </p>
 <span>**Adaptive False Discovery Rate regression with application in
 integrative analysis of large-scale genomic data**</span>
@@ -704,7 +721,7 @@ Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
 ## Vector Generalized Linear Time Series Models {-}
 <p style="text-align:center">
 Victor Miranda and Thomas Yee<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Vector Generalized Linear Time Series Models**</span>
 
@@ -742,7 +759,7 @@ an Implementation in R.* New York, USA: Springer.
 ## Local Canonical Correlation Analysis for Multimodal Labeled Data {-}
 <p style="text-align:center">
 Seigo Mizutani and Hiroshi Yadohisa<br />
-<br />
+Doshisha University<br />
 </p>
 <span>**Local Canonical Correlation Analysis for Multimodal Labeled
 Data**</span>
@@ -795,7 +812,7 @@ Hotelling, H. (1936). Relations between two sets of variates.
 ## Canonical Covariance Analysis for Mixed Numerical and Categorical Three-way Three-mode Data {-}
 <p style="text-align:center">
 Jun Tsuchida and Hiroshi Yadohisa<br />
-<br />
+Doshisha University<br />
 </p>
 <span>**Canonical Covariance Analysis for Mixed Numerical and
 Categorical Three-way Three-mode Data**</span>
@@ -838,6 +855,8 @@ Young, F. W. (1981). Quantitative analysis of qualitative data.
 ## Variable Selection Algorithms {-}
 <p style="text-align:center">
 Fangayo Li^1^, Christopher Triggs^1^, Bogdan Dumitrescu^2^, and Ciprian Giurcaneanu^1^<br />
+^1^University of Auckland<br />
+^2^University Politehnica of Bucharest<br />
 </p>
 <span>**Variable Selection Algorithms**</span>
 
@@ -884,7 +903,7 @@ appear)
 ## Estimating causal structures for continuous and discrete variables {-}
 <p style="text-align:center">
 Mako Yamayoshi and Hiroshi Yadohisa<br />
-<br />
+Doshisha University<br />
 </p>
 <span>**Estimating causal structures for continuous and discrete
 variables** </span>
@@ -945,7 +964,7 @@ Heidelberg: Physica-Verlag.
 ## Incorporating genetic networks into case-control association studies with high-dimensional DNA methylation data {-}
 <p style="text-align:center">
 Hokeun Sun<br />
-<br />
+Pusan National University<br />
 </p>
 <span>**Incorporating genetic networks into case-control association
 studies with high-dimensional DNA methylation data**</span>
@@ -985,6 +1004,9 @@ regularization, genetic network, DNA methylation, high-dimensional data
 ## Adaptive Model Checking for Functional Single-Index Models {-}
 <p style="text-align:center">
 Feifei Chen^1^, Qing Jiang^2^, and Zhenghui Feng^3^<br />
+^1^Beijing Normal University<br />
+^2^Renmin University<br />
+^3^Xiamen University<br />
 </p>
 <span>**Adaptive Model Checking for Functional Single-Index
 Models**</span>
@@ -1015,7 +1037,7 @@ reduction, model checking
 ## Testing for genetic associations in arbitrarily structured populations {-}
 <p style="text-align:center">
 Minsun Song<br />
-<br />
+Sookmyung Women's University<br />
 </p>
 <span>**Testing for genetic associations in arbitrarily structured
 populations**</span>
@@ -1045,7 +1067,7 @@ variable, Population structure
 ## On Optimal Group Testing Designs: Prevalence Estimation, Cost Considerations, and Dilution Effects {-}
 <p style="text-align:center">
 Shih-Hao Huang<br />
-<br />
+Academia Sinica<br />
 </p>
 <span>**On Optimal Group Testing Designs: Prevalence Estimation, Cost
 Considerations, and Dilution Effects**</span>
@@ -1091,7 +1113,7 @@ considerations for efficient group testing studies.
 ## The Use of Bayesian Networks in Grape Yield Prediction {-}
 <p style="text-align:center">
 Rory Ellis, Daniel Gerhard, and Elena Moltchanova<br />
-<br />
+University of Canterbury<br />
 </p>
 Abstract
 ========
@@ -1121,7 +1143,7 @@ analysis are based off simulation studies.
 ## Pattern Prediction for Time Series Data with Change Points {-}
 <p style="text-align:center">
 Satoshi Goto and Hiroshi Yadohisa<br />
-<br />
+Doshisha University<br />
 </p>
 <span>**Pattern Prediction for Time Series Data with Change
 Points**</span>
@@ -1171,7 +1193,7 @@ References {#references .unnumbered}
 ## Test for Genomic Imprinting Effects on the X Chromosome {-}
 <p style="text-align:center">
 Wing Kam Fung<br />
-<br />
+Unversity of Hong Kong<br />
 </p>
 <span>**Test for Genomic Imprinting Effects on the X Chromosome**</span>
 
@@ -1212,7 +1234,7 @@ traits, nuclear family
 ## Fluctuation Reduction of Value-at-Risk Estimation and its Applications {-}
 <p style="text-align:center">
 Shih-Feng Huang<br />
-<br />
+National University of Kaohsiung<br />
 </p>
 <span>**Fluctuation Reduction of Value-at-Risk Estimation and its
 Applications**</span>
@@ -1251,6 +1273,8 @@ CUSUM control chart, fluctuation reduction, Value-at-Risk
 ## Meta-analytic Principal Component Analysis in Integrative Omics Application {-}
 <p style="text-align:center">
 Sunghwan Kim^1^ and George Tseng^2^<br />
+^1^Keimyung University<br />
+^2^University of Pittsburgh<br />
 </p>
 <span>**Meta-analytic Principal Component Analysis in Integrative Omics
 Application**</span>
@@ -1296,6 +1320,8 @@ Journal of the American Statistical Association, 74, 703–707
 ## Estimation of animal density from acoustic detections {-}
 <p style="text-align:center">
 Ben Stevenson^1^ and David Borchers^2^<br />
+^1^University of Auckland<br />
+^2^University of St Andrews<br />
 </p>
 <span>**Estimation of animal density from acoustic detections**</span>
 
@@ -1324,7 +1350,7 @@ process
 ## Mixed models for complex survey data {-}
 <p style="text-align:center">
 Xudong Huang and Thomas Lumley<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Mixed models for complex survey data**</span>
 
@@ -1361,7 +1387,7 @@ Sinica, 2016, 26, 569-587
 ## Regression with random effects for analysing correlated survival data: application to disease recurrences {-}
 <p style="text-align:center">
 Richard Tawiah, Suzanne Chambers, and Shu-Kay Ng<br />
-<br />
+Griffith University<br />
 </p>
 <span>**Regression with random effects for analysing correlated survival
 data: application to disease recurrences**</span>
@@ -1411,6 +1437,8 @@ survival times, recurrent event, GLMM, bladder cancer, CGD
 ## Genetic predictors underlying long-term cognitive recovery following mild traumatic brain injury {-}
 <p style="text-align:center">
 Priya Parmar^1^, Rob Kydd^2^, Andrew Shelling^2^, Suzanne Barker-Collo^2^, Alice Theadom^1^, and Valery Feigin^1^<br />
+^1^Auckland University of Technology<br />
+^2^University of Auckland<br />
 </p>
 <span>**Abstract**</span>
 Traumatic Brain Injury (TBI) is a major cause of death and disability.
@@ -1487,6 +1515,9 @@ trajectory and inform more effective treatment strategies.
 ## Bayesian Structure Selection for Vector Autoregression Model {-}
 <p style="text-align:center">
 Chi-Hsiang Chu^1^, Mong-Na Lo Huang^1^, Shih-Feng Huang^2^, and Ray-Bing Chen^3^<br />
+^1^National Cheng Kung University<br />
+^2^National Sun Yat-sen University<br />
+^3^National University of Kaohsiung<br />
 </p>
 <span>**Bayesian Structure Selection for Vector Autoregression
 Model**</span>
@@ -1523,7 +1554,7 @@ universal grouping, segmentized grouping
 ## Phylogenetic Tree-based Microbiome Association Test {-}
 <p style="text-align:center">
 Sungho Won<br />
-<br />
+Seoul National University<br />
 </p>
 <span>**Phylogenetic Tree-based Microbiome Association Test**</span>
 
@@ -1562,7 +1593,7 @@ Association Test
 ## Talk Data To Me {-}
 <p style="text-align:center">
 Lisa Hall<br />
-<br />
+Fonterra<br />
 </p>
 <span>**Abstract**</span>
 For some scientists, seeing a statistician in the corridor is the
@@ -1585,7 +1616,7 @@ comfortable Talking Data. They may even find they enjoy it!
 ## Smooth Nonparametric Regression under Shape Restrictions {-}
 <p style="text-align:center">
 Hongbin Guo and Yong Wang<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Smoothing Nonparametric Regression under Shape
 Restrictions**</span>
@@ -1629,7 +1660,7 @@ Meyer, M.(2008). Inference using shape-restricted regression splines.
 ## Elastic-Band Transform: A New Approach to Multiscale Visualization {-}
 <p style="text-align:center">
 Guebin Choi and Hee-Seok Oh<br />
-<br />
+Seoul National University<br />
 </p>
 <span>**Elastic-Band Transform : A New Approach to Multiscale
 Visualization**</span>
@@ -1730,6 +1761,8 @@ stationary processes. The Annals of Statistics, 43(2), 713-740.
 ## A Computational Tool for Detecting Copy Number Variations from Whole Genome and Targeted Exome Sequencing {-}
 <p style="text-align:center">
 Yu-Chung Wei^1^ and Guan-Hua Huang^2^<br />
+^1^Feng Chia University<br />
+^2^National Chiao Tung University<br />
 </p>
 <span>**A Computational Tool for Detecting Copy Number Variations from
 Whole Genome and Targeted Exome Sequencing**</span>
@@ -1767,6 +1800,8 @@ chain Monte Carlo
 ## Flight to relative safety: Learning from a no-arbitrage network of yield curves model of the euro area {-}
 <p style="text-align:center">
 Zhiwu Hong^1^ and Linlin Niu^2^<br />
+^1^HKUST Business School<br />
+^2^Xiamen University<br />
 </p>
 <span>**Abstract**</span>
 This paper develops a no-arbitrage network of yield curves model for the
@@ -1797,6 +1832,8 @@ VAR to monitor evolving contributions of factors.
 ## Wavelet-based power transformation of non-Gaussian long memory time series {-}
 <p style="text-align:center">
 Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
+^1^Boise State University<br />
+^2^Yonsei University<br />
 </p>
 <span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
 Time Series**</span>
@@ -1841,7 +1878,7 @@ Models in Business and Industry*, **23**, 493–502.
 ## Robustness of Temperature Reconstruction for Past 500 Years {-}
 <p style="text-align:center">
 Yu Yang, Matthew Schofield, and Richard Barker<br />
-<br />
+University of Otago<br />
 </p>
 <span>**Robustness of Temperature Reconstruction for Past 500
 Years**</span>
@@ -1881,7 +1918,7 @@ tree-ring data. *Journal of the American Statistical Association*,
 ## Nonparametric causal inference by the kernel method {-}
 <p style="text-align:center">
 Yuchi Matsuoka and Etsuo Hamada<br />
-<br />
+Osaka University<br />
 </p>
 <span>**Nonparametric causal inference by the kernel method**</span>
 
@@ -1920,6 +1957,8 @@ method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion
 ## A Unified Regularized Group PLS Algorithm Scalable to Big Data {-}
 <p style="text-align:center">
 Pierre Lafaye de Micheaux^1^, Benoit Liquet^2^, and Matthew Sutton^2^<br />
+^1^Queensland University of Technology<br />
+^2^University of New South Wales<br />
 </p>
 <span>**A Unified Regularized Group PLS Algorithm Scalable to Big
 Data**</span>
@@ -1970,7 +2009,7 @@ genomics context*, Bioinformatics 32, 35-42.
 ## Meta-analysis with symbolic data analysis and its application for clinical data {-}
 <p style="text-align:center">
 Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
-<br />
+Hokkaido University<br />
 </p>
 <span>**Meta-analysis with symbolic data analysis and its application
 for clinical data**</span>
@@ -2014,7 +2053,7 @@ Karger Publishers.
 ## Scoring rules for prediction and classification challenges {-}
 <p style="text-align:center">
 Matt Parry<br />
-<br />
+University of Otago<br />
 </p>
 <span>**Scoring rules for prediction and classification
 challenges**</span>
@@ -2061,7 +2100,7 @@ classification*. Electronic Journal of Statistics, 10 (1), 1596–1607.
 ## Real-time transit network modelling for improved arrival time predictions {-}
 <p style="text-align:center">
 Tom Elliott and Thomas Lumley<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Real-time transit network modelling for improved arrival time
 predictions**</span>
@@ -2104,6 +2143,8 @@ information.
 ## Sparse Group-subgroup Partial Least Squares with Application to Genomic Data {-}
 <p style="text-align:center">
 Matthew Sutton^1^, Benoit Liquet^1^, and Rodolphe Thiebaut^2^<br />
+^1^Inria, SISTM, Talence and Inserm, U1219, Bordeaux, Bordeaux University, Bordeaux and Vaccine Research Institute<br />
+^2^Queensland University of Technology<br />
 </p>
 <span>**Sparse Group-subgroup Partial Least Squares with Application to
 Genomic Data**</span>
@@ -2225,6 +2266,8 @@ canonical correlation analysis. *Biostatistics* <span>**10,**</span>
 ## BIG-SIR a Sliced Inverse Regression Approach for Massive Data {-}
 <p style="text-align:center">
 Benoit Liquet^1^ and Jerome Saracco^2^<br />
+^1^Queensland University of Technology<br />
+^2^University of Bordeaux<br />
 </p>
 <span>**BIG-SIR a Sliced Inverse Regression approach for massive
 data**</span>
@@ -2278,7 +2321,7 @@ Approach for Massive Data*, Statistics and Its Interface. Vol 9,
 ## Comparison of Tests of Mean Difference in Longitudinal Data Based on Block Resampling Methods {-}
 <p style="text-align:center">
 Hirohito Sakurai and Masaaki Taguri<br />
-<br />
+National Center for University Entrance Examinations<br />
 </p>
 <span>**Comparison of Tests of Mean Difference in Longitudinal Data
 Based on Block Resampling Methods**</span>
@@ -2322,7 +2365,7 @@ Springer.
 ## Modeling of Document Abstraction Using Association Rule Based Characterization {-}
 <p style="text-align:center">
 Ken Nittono<br />
-<br />
+Hosei University<br />
 </p>
 <span> **Modeling of Document Abstraction Using Association Rule Based
 Characterization** </span>
@@ -2369,7 +2412,7 @@ Statistics Congress of the International Statistical Institute, pp.
 ## Bayesian survival analysis of batsmen in Test cricket {-}
 <p style="text-align:center">
 Oliver Stevenson and Brendon Brewer<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Bayesian survival analysis of batsmen in Test cricket**</span>
 
@@ -2412,6 +2455,8 @@ Sports*, *13*(1), 25-36.
 ## Covariate Discretisation on Big Data {-}
 <p style="text-align:center">
 Hon Hwang^1^, Stephen Wright^2^, and Louise Ryan^1^<br />
+^1^Australian Red Cross Blood Service<br />
+^2^University of Technology Sydney<br />
 </p>
 <span>**Covariate Discretisation on Big Data**</span>
 
@@ -2455,6 +2500,8 @@ data
 ## Visualization and Statistical Modeling of Financial Big Data {-}
 <p style="text-align:center">
 Masayuki Jimichi^1^, Daisuke Miyamoto^2^, Chika Saka^1^, and Syuichi Nagata^1^<br />
+^1^Kwansei Gakuin University<br />
+^2^Nara Institute of Science and Technology<br />
 </p>
 <span>**Visualization and Statistical Modeling of Financial Big
 Data**</span>
@@ -2506,7 +2553,7 @@ Hall/CRC.
 ## Analysis of Spatial Data with a Gaussian Mixture Markov Random Field Model {-}
 <p style="text-align:center">
 Wataru Sakamoto<br />
-<br />
+Okayama University<br />
 </p>
 <span>**Analysis of Spatial Data with a Gaussian Mixture Markov Random
 Field Model** </span>
@@ -2552,7 +2599,7 @@ Applications.* Chapman and Hall.
 ## My knee still hurts; the statistical pathway to the development of a clinical decision aid {-}
 <p style="text-align:center">
 Robert Borotkanics<br />
-<br />
+Auckland University of Technology<br />
 </p>
 NZSA Abstract
 

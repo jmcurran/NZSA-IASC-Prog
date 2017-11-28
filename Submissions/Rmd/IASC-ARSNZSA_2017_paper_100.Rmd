@@ -1,12 +1,3 @@
-<span>**A Practitioners Guide to Deep Learning for Predictive Analytics
-on Structured Data**</span>
-
-Balaram Panda$^1$ and Habib Baluwala Ph.D.(University of Oxford)$^2$
-
-$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
-
-$^2 \;$ Data Scientist, Inland Revenue Department, New Zealand
-
 <span>**Abstract**</span>. Recently, deep learning techniques have shown
 remarkably strong performance in problems involving unstructured data
 (ex. text, image, and video). One of the reasons for this success is the
@@ -29,8 +20,7 @@ world settings.
 <span>**Keywords**</span>. Deep Learning, deep feed forward networks,
 machine learning, R, Tensorflow, Python
 
-References {#references .unnumbered}
-----------
+<span>**References**</span>
 
 Bengio, Yoshua. “Learning deep architectures for AI.” Foundations and
 trends® in Machine Learning 2.1 (2009): 1-127.

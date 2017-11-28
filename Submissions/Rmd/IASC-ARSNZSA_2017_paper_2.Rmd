@@ -1,9 +1,4 @@
-Title: Area level deprivation is independently associated with body mass
-index: Analysis of NZ Health Surveys
-
-Author: Andrew Adiguna Halim Arindam Basu Ray Kirk
-
-Abstract: Obesity is a growing public health problem in New Zealand but
+<span>**Abstract:**</span> Obesity is a growing public health problem in New Zealand but
 the trends of its determinants are unclear. We obtained the
 confidentialised unit record files (CURF) of the New Zealand Health
 Surveys (NZHS) from the Statistics New Zealand, containing multiple sets
@@ -23,7 +18,5 @@ BMI tertile in adults and BMI category in children compared with those
 living in the lowest deprivation quintile after adjusting for other
 confounding variables. For adults and children the ORs (95
 
-Keywords: obesity, BMI, dietary guideline, deprivation, r statistics,
+<span>**Keywords:**</span> obesity, BMI, dietary guideline, deprivation, r statistics,
 proportional odds regression, survey complex design.
-
-Contact Details: Andrew Adiguna Halim aha164@uclive.ac.nz 0211412636

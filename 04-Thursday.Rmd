@@ -3,6 +3,8 @@
 ## Penalized Vector Generalized Additive Models {-}
 <p style="text-align:center">
 Thomas Yee^1^, Chanatda Somchit^2^, and Chris Wild^1^<br />
+^1^University of Auckland<br />
+^2^University of Phayao<br />
 </p>
 <span>**Penalized Vector Generalized Additive Models**</span>
 
@@ -42,6 +44,8 @@ an Implementation in R*. New York, USA: Springer.
 ## Author Name Identification for Evaluating Research Performance of Institutes {-}
 <p style="text-align:center">
 Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
+^1^Fukuoka Women's University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Author Name Identification for Evaluating Research Performance
 of Institutes**</span>
@@ -87,6 +91,8 @@ name. *Scientometrics*, 72(2), 281–290.
 ## Cross covariance estimation for integration of multi-omics data {-}
 <p style="text-align:center">
 Johan Lim^1^, Hiromi Koh^2^, and Hyungwon Choi^2^<br />
+^1^National University of Singapore<br />
+^2^Seoul National University<br />
 </p>
 <span>**Cross covariance estimation for integration of multi-omics
 data**</span>
@@ -137,6 +143,8 @@ Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 ## Evaluation of spatial cluster detection method based on all geographical linkage patterns {-}
 <p style="text-align:center">
 Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
+^1^Nara Institute of Science and Technology<br />
+^2^Okayama University<br />
 </p>
 <span>**Evaluation of spatial cluster detection method based on all
 geographical linkage patterns**</span>
@@ -185,7 +193,7 @@ Automation Conference*, 272–277.
 ## Bayesian Static Parameter Inference for Partially Observed Stochastic Systems {-}
 <p style="text-align:center">
 Yaxian Xu and Ajay Jasra<br />
-<br />
+National University of Singapore<br />
 </p>
 <span>**Bayesian Static Parameter Inference for Partially Observed
 Stochastic Systems**</span>
@@ -234,7 +242,7 @@ Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
 ## Testing for genetic associations in arbitrarily structured populations {-}
 <p style="text-align:center">
 Minsun Song<br />
-<br />
+Sookmyung Women's University<br />
 </p>
 <span>**Testing for genetic associations in arbitrarily structured
 populations**</span>
@@ -264,7 +272,7 @@ variable, Population structure
 ## Consistency of Linear Mixed-Effects Model Selection with Inconsistent Covariance Parameter Estimators {-}
 <p style="text-align:center">
 Chihhao Chang<br />
-<br />
+National University of Kaohsiung<br />
 </p>
 <span>**Consistency of Linear Mixed-Effects Model Selection with
 Inconsistent Covariance Parameter Estimators**</span>
@@ -313,6 +321,8 @@ Statistics*, **35**, 2795-2814.
 ## A Study of the Influence of Articles in the Large-Scale Citation Network {-}
 <p style="text-align:center">
 Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**A Study of the Influence of Articles in the Large-Scale Citation
 Network**</span>
@@ -344,7 +354,7 @@ Taiwan.*</span>\
 ## Regularized Noise-Reduction Methodology for High-Dimensional Data {-}
 <p style="text-align:center">
 Kazuyoshi Yata and Makoto Aoshima<br />
-<br />
+University of Tsukuba<br />
 </p>
 <span> **Regularized Noise-Reduction Methodology for High-Dimensional
 Data** </span>
@@ -385,7 +395,7 @@ low-sample-size data with noise reduction via geometric representations.
 ## Genetic Approach and Statistical Approach for Association Study on DNA Data {-}
 <p style="text-align:center">
 Makoto Tomita<br />
-<br />
+Tokyo Medical and Dental University<br />
 </p>
 <span>**Genetic Approach and Statistical Approach for Association Study
 on DNA Data**</span>
@@ -432,6 +442,8 @@ e0127358.
 ## SSREM: A Summary-Statistics-based Random Effect Model to Estimating heritability, co-heritability and effect sizes in GWAS data analysis {-}
 <p style="text-align:center">
 Jin Liu^1^ and Can Yang^2^<br />
+^1^Duke-NUS Medical School<br />
+^2^Hong Kong University of Science and Technology<br />
 </p>
 <span>**SSREM: A Summary-Statistics-based Random Effect Model to
 Estimating heritability, co-heritability and effect sizes in GWAS data
@@ -467,6 +479,8 @@ Co-heritability.
 ## Meta-analytic Principal Component Analysis in Integrative Omics Application {-}
 <p style="text-align:center">
 Sunghwan Kim^1^ and George Tseng^2^<br />
+^1^Keimyung University<br />
+^2^University of Pittsburgh<br />
 </p>
 <span>**Meta-analytic Principal Component Analysis in Integrative Omics
 Application**</span>
@@ -512,7 +526,7 @@ Journal of the American Statistical Association, 74, 703–707
 ## Selecting Generalised Linear Models Under Inequality Constraints {-}
 <p style="text-align:center">
 Daniel Gerhard<br />
-<br />
+University of Canterbury<br />
 </p>
 <span>**Selecting Generalised Linear Models Under Inequality
 Constraints**</span>
@@ -558,6 +572,8 @@ information criterion for model selection under inequality constraints.
 ## Clustering of research subject based on stochastic block model {-}
 <p style="text-align:center">
 Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Clustering of research subject based on stochastic block
 model**</span>
@@ -609,7 +625,7 @@ criticism. *arXiv preprint arXiv:1610.09787*.
 ## Selecting the number of principal components {-}
 <p style="text-align:center">
 Yunjin Choi<br />
-<br />
+National University of Singapore<br />
 </p>
 <span>**Selecting the number of principal components**</span>
 
@@ -643,7 +659,7 @@ inference, hypothesis testing
 ## Symbolic data analytical approach to unauthorized-access logs {-}
 <p style="text-align:center">
 Hiroyuki Minami and Masahiro Mizuta<br />
-<br />
+Hokkaido University<br />
 </p>
 <span>**Symbolic data analytical approach to unauthorized-access
 logs**</span>
@@ -696,6 +712,8 @@ for JSCS 30th Anniversary in Seattle*.
 ## Forward selection in regression models based on robust estimation {-}
 <p style="text-align:center">
 Shan Luo^1^ and Zehua Chen^2^<br />
+^1^National University of Singapore<br />
+^2^Shanghai Jiao Tong University<br />
 </p>
 <span>**Forward selection in regression models based on robust
 estimation**</span>
@@ -729,7 +747,7 @@ sequential method.
 ## Phylogenetic Tree-based Microbiome Association Test {-}
 <p style="text-align:center">
 Sungho Won<br />
-<br />
+Seoul National University<br />
 </p>
 <span>**Phylogenetic Tree-based Microbiome Association Test**</span>
 
@@ -768,7 +786,7 @@ Association Test
 ## Statistical generalized derivative applied to the profile likelihood estimation in a mixture of semiparametric models {-}
 <p style="text-align:center">
 Yuichi Hirose and Ivy Liu<br />
-<br />
+Victoria University of Wellington<br />
 </p>
 <span>**Statistical generalized derivative applied to the profile
 likelihood estimation in a mixture of semiparametric models**</span>
@@ -812,6 +830,8 @@ semiparametric approach.* Australian & New Zealand Journal of Statistics
 ## Structure of Members in the Organization to Induce Innovation: Quantitatively Analyze the Capability of the Organization {-}
 <p style="text-align:center">
 Yuji Mizukami^1^ and Junji Nakano^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Nihon University<br />
 </p>
 <span>**Structure of Members in the Organization to Induce Innovation:
 Quantitatively Analyze the Capability of the Organization**</span>
@@ -857,7 +877,7 @@ sciences, Behaviormetrika*, **1**, 19 pages, On-line.
 ## Towards a sparse, scalable, and stably positive definite (inverse) covariance estimator {-}
 <p style="text-align:center">
 Joong-Ho Won<br />
-<br />
+Seoul National University<br />
 </p>
 <span>**Abstract**</span>
 High dimensional covariance estimation and graphical models is a
@@ -899,7 +919,7 @@ Rajaratnam (UC Davis).
 ## Statistical challenges for proteogenomic data analysis {-}
 <p style="text-align:center">
 Yusuke Matsui<br />
-<br />
+Nagoya University Graduate School of Medicine<br />
 </p>
 <span>**Statistical challenges for proteogenomic data analysis**</span>
 
@@ -948,6 +968,8 @@ Characterization of Human High-Grade Serous Ovarian Cancer. *Cell*,
 ## Feature selection in high-dimensional models with complex block structures {-}
 <p style="text-align:center">
 Zehua Chen^1^ and Shan Luo^2^<br />
+^1^National University of Singapore<br />
+^2^Shanghai Jiao Tong University<br />
 </p>
 <span>**Feature selection in high-dimensional models with complex block
 structures**</span>
@@ -996,6 +1018,8 @@ structure.* *Biometrics* **71(2)**, 354–363.
 ## Wavelet-based power transformation of non-Gaussian long memory time series {-}
 <p style="text-align:center">
 Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
+^1^Boise State University<br />
+^2^Yonsei University<br />
 </p>
 <span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
 Time Series**</span>
@@ -1040,6 +1064,8 @@ Models in Business and Industry*, **23**, 493–502.
 ## Dissimilarities between groups of data {-}
 <p style="text-align:center">
 Nobuo Shimizu^1^, Junji Nakano^1^, and Yoshikazu Yamamoto^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Tokushima Bunri University<br />
 </p>
 <span>**Dissimilarities between groups of data**</span>
 
@@ -1075,6 +1101,8 @@ statistic, clustering, pseudo-likelihood ratio test statistic
 ## A package for multiple precision floating-point computation on R {-}
 <p style="text-align:center">
 Ei-Ji Nakama^1^ and Junji Nakano^2^<br />
+^1^COM-ONE Ltd.<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**A package for multiple precision floating-point computation on
 R**</span>
@@ -1109,6 +1137,9 @@ MPACK
 ## Cluster-wise regression models combined by a quasi-linear function {-}
 <p style="text-align:center">
 Kenichi Hayashi^1^, Katsuhiro Omae^2^, and Shinto Eguchi^3^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Keio University<br />
+^3^The Graduate University for Advanced Studies<br />
 </p>
 <span>**Cluster-wise regression models combined by a quasi-linear
 function** </span>
@@ -1155,7 +1186,7 @@ Späth, H. (1979). Algorithm 39: Clusterwise linear regression.
 ## Mobile Learning in teaching Bioinformatics for medical doctors {-}
 <p style="text-align:center">
 Taerim Lee<br />
-<br />
+Korea National Open University<br />
 </p>
 <span>**Abstract**</span>
 This paper describes an implementation of mobile learning initiative in
@@ -1183,6 +1214,8 @@ better affordable, accessible and flexible educational media.
 ## Interactive visualization of aggregated symbolic data {-}
 <p style="text-align:center">
 Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Tokushima Bunri University<br />
 </p>
 <span>**Interactive visualization of aggregated symbolic data**</span>
 
@@ -1222,7 +1255,7 @@ coordinate plot, Symbolic data analysis.
 ## An incomplete-data Fisher scoring with an acceleration method {-}
 <p style="text-align:center">
 Keiji Takai<br />
-<br />
+Kansai University<br />
 </p>
 <span>**An Incomplete-data Fisher Scoring Method with an Acceleration
 Method** </span>
@@ -1285,6 +1318,8 @@ Heidelberg: Physica-Verlag.
 ## Clusterwise low-rank correlation analysis based on majorization {-}
 <p style="text-align:center">
 Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2^<br />
+^1^Doshisha University<br />
+^2^Wakayama Medical University<br />
 </p>
 <span>**Clusterwise low-rank correlation analysis based on
 majorization**</span>
@@ -1331,7 +1366,7 @@ Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
 ## Towards an informal test for goodness-of-fit {-}
 <p style="text-align:center">
 Anna Fergusson and Maxine Pfannkuch<br />
-<br />
+University of Auckland<br />
 </p>
 <span>**Abstract**</span>
 Informal approaches to goodness-of-fit tests often involve examining the
@@ -1357,7 +1392,7 @@ important modelling and hypothesis test concepts.
 ## An EWMA chart for monitoring covariance matrix based on dissimilarity index {-}
 <p style="text-align:center">
 Longcheen Huwang<br />
-<br />
+National Tsing Hua University<br />
 </p>
 <span>**An EWMA Chart for Monitoring Covariance Matrix Based on
 Dissimilarity Index**</span>
@@ -1403,6 +1438,8 @@ Journal*</span>, <span>**48**</span>, 1231-1240.
 ## Improvement of Computation for Nonlinear Multivariate Methods {-}
 <p style="text-align:center">
 Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
+^1^Okayama University<br />
+^2^Okayama University of Science<br />
 </p>
 <span> **Improvement of Computation for Nonlinear Multivariate
 Methods**</span>
@@ -1450,7 +1487,7 @@ Statistics, Springer.
 ## Three-Dimensional Data Visualization Education with Virtual Reality {-}
 <p style="text-align:center">
 Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
-<br />
+Pukyong National University<br />
 </p>
 <span>**Three-Dimensional Data Visualization Education with Virtual
 Reality**</span>
