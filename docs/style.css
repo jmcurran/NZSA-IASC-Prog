@@ -16,11 +16,11 @@ pre code {
 table {
   table-layout: fixed;
   width: 100%;
-  overflow-x: auto;
 }
 
 table, th, td {
   border: 1px solid black;
+  overflow-x: auto;
 }
 
 .open, .confclose {
