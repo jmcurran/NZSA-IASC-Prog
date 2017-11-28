@@ -8,17 +8,6 @@ bookdown::gitbook:
         <li><a href="./">New Zealand Statistical Association and the International Associate of Statistical Computing (Asian Region) Joint Conference 2017</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
 bookdown::epub_book:
   stylesheet: style.css
-  toc: yes
-bookdown::html_document2:
-  css: style.css
-  toc: yes
-  number_sections: no
-bookdown::word_document2:
   toc: yes

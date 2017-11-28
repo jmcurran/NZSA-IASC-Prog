@@ -22,7 +22,7 @@ table, th, td {
   border: 1px solid black;
 }
 
-.close {
+.open, .confclose {
   border-width: 1px;
   border-style: solid;
   background-color: #ef2bef;
@@ -83,11 +83,3 @@ table, th, td {
   vertical-align: top;
 }
 
-.welcome {
-  border-width: 1px;
-  border-style: solid;
-  color: white;
-  background-color: #99cc00;
-  text-align: center;
-  font-weight: bold;
-}
