@@ -594,7 +594,7 @@
 </tr>
 <tr>
 <td class = "time">1410</td>
-<td class = "confClose" colspan = "6">Closing Ceremony<br/>098 Lecture Theatre (260-098)</td>
+<td class = "confclose" colspan = "6">Closing Ceremony<br/>098 Lecture Theatre (260-098)</td>
 </tr>
 </tbody>
 </table>

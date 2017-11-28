@@ -15,7 +15,8 @@ pre code {
 
 table {
   table-layout: fixed;
-  border-collapse: collapse;
+  display:block;
+  overflow-x: auto;
 }
 
 table, th, td {
