@@ -1,3 +1,4 @@
+<span>**Abstract**</span>
 <span>**Simultaneous test for mean vectors and covariance matrices in
 high-dimensional settings**</span>
 

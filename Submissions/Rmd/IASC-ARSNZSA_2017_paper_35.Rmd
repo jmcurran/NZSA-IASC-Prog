@@ -1,10 +1,15 @@
-      Evidence of Climate Change from Nonparametric Change-point Analysis
-       
-      Stephen Jun Villejo, Paolo Victor Redondo, Angela Nalica, Erniel Barrios
-      University of the Philippines Diliman
-      
-      Abstract
-    Suppose that the time series data is sufficiently explained by a model, e.g., autoregressive model, transfer function model. A change-point is considered to exist if any of the model parameters is substantially different in two or more regimes. We proposed a test for existence of a change-point (assuming that location of the change is known) based on nonparametric bootstrap. The method is used in verifying whether the southern oscillation index exhibits change-point which is taken as an evidence of climate change. There is indeed an evidence of climate change in the period.  
+Evidence of Climate Change from Nonparametric Change-point Analysis
 
-Keywords: change-point analysis, block bootstrap, southern oscillation
-index (SOI)
+Stephen Jun Villejo, Paolo Victor Redondo, Angela Nalica, Erniel Barrios
+University of the Philippines Diliman
+
+Abstract Suppose that the time series data is sufficiently explained by
+a model, e.g., autoregressive model, transfer function model. A
+change-point is considered to exist if any of the model parameters is
+substantially different in two or more regimes. We proposed a test for
+existence of a change-point (assuming that location of the change is
+known) based on nonparametric bootstrap. The method is used in verifying
+whether the southern oscillation index exhibits change-point which is
+taken as an evidence of climate change. There is indeed an evidence of
+climate change in the period. Keywords: change-point analysis, block
+bootstrap, southern oscillation index (SOI)

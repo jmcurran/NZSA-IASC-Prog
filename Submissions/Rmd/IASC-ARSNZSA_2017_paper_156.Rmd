@@ -1,3 +1,4 @@
+<span>**Abstract**</span>
 Modelling the distribution of lifetime using compound time-homogenous
 Poisson process
 
@@ -6,7 +7,7 @@ Kien Trung Tran Victoria University of Wellington
 Modelling the distribution of lifetime has traditionally been done by
 constructing a deterministic function for the survival function and/or
 force of mortality. This paper outlines previous research and presents
-the author's initial attempts to model the force of mortality and
+the author’s initial attempts to model the force of mortality and
 remaining lifetime using time-homogenous compound Poisson processes.
 
 The paper presents two models. In model 1, the force of mortality of an

@@ -1,9 +1,10 @@
+<span>**Abstract**</span>
 Traumatic Brain Injury (TBI) is a major cause of death and disability.
 While moderate and severe forms of TBI develop the most significant
 impairments even mild TBI may be followed by persisting post-concussion
 symptoms, neurocognitive problems and mental health disorders such as
 anxiety. Cognitive impairments can impact on all areas of an
-individual's work, home and social life and are important to understand
+individual’s work, home and social life and are important to understand
 and predict overall recovery. These outcomes may be in part be
 determined by genetic variants that influence the molecular and
 physiological response of the brain to damage, as well as determining
@@ -32,8 +33,8 @@ findings were observed in both European and Maori samples for being
 associated with the same CNS-Vital Signs outcome for rs8191992 (CHMR2),
 rs4680 (rs4680), rs2071746 (HMOX1) and rs17071145 (WWC1).
 
-A linear mixed effects model was utilised to analyse each individual's
-natural cognitive recovery trajectory over time. The individuals' age,
+A linear mixed effects model was utilised to analyse each individual’s
+natural cognitive recovery trajectory over time. The individuals’ age,
 gender, whether or not this was their first TBI, the severity level of
 the mild TBI (low, medium or high) and SNP were all included in the
 model as covariates.
@@ -65,5 +66,5 @@ identify ethnic differences in specific genetic markers determining
 specific cognitive outcomes in European and Maori people with TBI.
 Further large TBI population based cohort studies are warranted to
 replicate these genetic associations, both locally and globally in order
-to better understand the differences underlying an individual's outcome
+to better understand the differences underlying an individual’s outcome
 trajectory and inform more effective treatment strategies.

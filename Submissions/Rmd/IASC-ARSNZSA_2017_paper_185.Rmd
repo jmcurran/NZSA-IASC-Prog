@@ -1,3 +1,4 @@
+<span>**Abstract**</span>
 We suggest a direct approach to estimate the coefficient functions for
 function-on-function linear regression models. To avoid the risk of
 discarding useful information for regressions, the approach does not

@@ -1,5 +1,6 @@
+<span>**Abstract**</span>
 Informal approaches to goodness-of-fit tests often involve examining the
-visual fit of the model to data 'by eye'. Such approaches are
+visual fit of the model to data ’by eye’. Such approaches are
 problematic for Year 13 and undergraduate students and teachers from a
 pedagogical perspective as key aspects such as sample size, the number
 of categories and expected variation of sample proportions are difficult

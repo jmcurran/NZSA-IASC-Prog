@@ -1,7 +1,6 @@
-    Tick-by-tick effect on the inference of ultra-high frequency data
+Tick-by-tick effect on the inference of ultra-high frequency data
 
-                     Zhi LIU
-                University of Macau          
+Zhi LIU University of Macau
 
 Abstract: In the inference of ultra-high frequency data, the existing
 methods are challenged by the tick-by-tick effect, namely, the
@@ -11,7 +10,7 @@ matrix. The effect of microstructure noise and jumps will be discussed
 as well. We propose to use a double-averaging procedure to deal with
 these issues. The related asymptotic distribution of the proposed
 estimator is established. Even interestingly, the double-averaging
-estimator achieves the "oracle" property, that is, the asymptotic
+estimator achieves the “oracle” property, that is, the asymptotic
 efficiency is the same as that of the case that the exact trading time
 of transactions are fully observed. Simulation studies support the
 theoretical results. The estimation procedure is illustrated through a

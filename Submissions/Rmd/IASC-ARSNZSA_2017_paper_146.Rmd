@@ -1,14 +1,15 @@
+<span>**Abstract**</span>
 For some scientists, seeing a statistician in the corridor is the
 equivalent of coming face to face with the grim reaper. They fear being
 beaten over the head with a Stat101 textbook as you try to hammer into
 them the importance of replication, randomisation or an appropriate
 sample size. Many scientists would rather blunder through on their own
-than admit to the statistician that they don't understand the
+than admit to the statistician that they don’t understand the
 ins-and-outs of ANOVA. So we end up with peer reviewed research with
 badly interpreted p-values and underwhelming Excel graphs despite the
 existence of more elegant solutions. As ambassadors of statistical
 rigour, we are the ones who can turn this around. When the scientists
-won't come to us, how can we improve data usage short of chasing
+won’t come to us, how can we improve data usage short of chasing
 scientists down corridors with textbooks? I will give examples of how to
 Talk Data with scientists to encourage their statistical awakening. In
 the right context, even the most puritanical scientists can become more

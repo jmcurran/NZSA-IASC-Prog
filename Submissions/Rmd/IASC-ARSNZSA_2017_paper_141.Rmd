@@ -1,3 +1,4 @@
+<span>**Abstract**</span>
 Title: R in Industry-Application on Pipe Renewal Planning Speaker: Glenn
 Thomas, Data Scientist, Harmonic Analytics
 

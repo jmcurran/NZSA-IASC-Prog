@@ -21,13 +21,13 @@ preventing sets of similar (highly correlated, missing together)
 outcomes being imputed in the same round. Once a round of imputation was
 completed, the next set of outcomes to be imputed was matched onto the
 completed dataset. This process is repeated until the full ITT dataset
-contains no missing values in any outcomes. We call this "stepped
-imputation". Theory from mixed models was also applied to seek measures
+contains no missing values in any outcomes. We call this “stepped
+imputation”. Theory from mixed models was also applied to seek measures
 associated with the missingness mechanism, with the potential to include
 them in the final model to further reduce any possible bias resulting
 from missing data. Results from a simulation to test the validity of
-"stepped imputation" will be presented. In this simulation, an attempt
+“stepped imputation” will be presented. In this simulation, an attempt
 is made to generate data related in a similar way to the outcomes in the
-SOLID trial. Results from the "gold standard" analysis with no missing
+SOLID trial. Results from the “gold standard” analysis with no missing
 data, and the complete case analysis is compared to the stepped
 imputation method.

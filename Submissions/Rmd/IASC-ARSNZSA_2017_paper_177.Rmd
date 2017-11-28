@@ -1,3 +1,4 @@
+<span>**Abstract**</span>
 This paper describes an implementation of mobile learning initiative in
 Bioinformatics Training & Education Center (BITEC) for medical doctors
 supported from Ministry of Welfare and Public Health Korea. This project
