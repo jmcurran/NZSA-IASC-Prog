@@ -15,11 +15,11 @@ Latent Dirichlet Allocation
 
 <span>**References:**</span>
 
-Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
+Tang, L. and Walsh, J. P. (2010). Bibliometric fingerprints: name
 disambiguation based on approximate structure equivalence of cognitive
 maps. *Scientometrics*, 84(3), 763–784.
 
-Strotmann, A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
+Strotmann, A., Zhao, D. and Bubela, T. (2009). Author name disambiguation
 for collaboration network analysis and visualization. *Proc. American
 Society for Information Science and Technology*, 46(1), 1–20.
 
