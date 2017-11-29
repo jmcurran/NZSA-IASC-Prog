@@ -1,15 +1,4 @@
-<span>**Evaluation of spatial cluster detection method based on all
-geographical linkage patterns**</span>
-
-Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
-
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
-
-$^2 \;$ Graduate School of Information Science, Nara Institute of
-Science and Technology, Nara, Japan
-
-<span>**Abstract**</span>. Currently, it is becoming easier to analyze
+<span>**Abstract:**</span> Currently, it is becoming easier to analyze
 the various types of spatial data and express them visually on a map.
 However, it is still difficult to estimate the location of spatial
 clusters based on statistical evidence. The spatial scan statistic
@@ -27,12 +16,9 @@ detection method to detect a cluster with truly highest likelihood by
 applying the ZDD, and by using them, we compare and evaluate the
 performance of the existing scan methods.
 
-1.5mm
+<span>**Keywords:**</span> Spatial cluster, Spatial scan statistic, ZDD
 
-<span>**Keywords**</span>. Spatial cluster, Spatial scan statistic, ZDD
-
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Kulldorff, M. (1997). A spatial scan statistic. *Communications in
 Statistics: Theory and Methods*, **26**, 1481–1496.
