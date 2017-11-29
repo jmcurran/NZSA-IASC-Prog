@@ -12,5 +12,5 @@ fat-tailed densities improves overall estimation for measuring
 conditional variance. The GARCH model using Beta-Skewed-t distribution
 is the most successful for forecasting NSE index.
 
-<span>**Keywords:**</span> GARCH , Nigeria stock index , Maximum Lilkelihood Estimation
-(MLE) and Beta Skewed -t distributions.
+<span>**Keywords:**</span> GARCH, Nigeria stock index, Maximum Lilkelihood Estimation
+(MLE), Beta Skewed -t distributions
