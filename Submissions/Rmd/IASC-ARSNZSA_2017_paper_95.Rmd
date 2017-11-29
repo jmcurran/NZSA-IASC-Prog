@@ -1,15 +1,4 @@
-<span>**Meta-analysis with symbolic data analysis and its application
-for clinical data**</span>
-
-Ryo Takagi$^1$, Hiroyuki Minami$^2$, and Masahiro Mizuta$^2$
-
-$^1 \;$ Graduate School of Information Science and Technology, Hokkaido
-University
-
-$^2 \;$ Laboratory of Advanced Data Science, Information Initiative
-Center, Hokkaido University
-
-<span>**Abstract**</span>. We discuss a method of meta-analysis based on
+<span>**Abstract:**</span> We discuss a method of meta-analysis based on
 symbolic data analysis (SDA). Meta-analysis, mainly used in social and
 medical science, is a statistical method of combining scientific studies
 to obtain quantitative results and provides a high level of evidence.
@@ -23,11 +12,10 @@ meta-analysis. In this study, we propose a new approach based on SDA for
 meta-analysis and show the results of the proposed approach using
 clinical datasets.
 
-<span>**Keywords**</span>. symbolic clustering, symbolic MDS, concept in
+<span>**Keywords:**</span> symbolic clustering, symbolic MDS, concept in
 SDA
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Edwin Diday and Monique Noirhomme-Fraiture. (2008). *Symbolic data
 analysis and the SODAS software.* John Wiley & Sons, Ltd.
