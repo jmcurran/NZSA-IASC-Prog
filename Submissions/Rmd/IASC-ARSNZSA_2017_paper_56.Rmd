@@ -1,16 +1,4 @@
-<span>**Cluster-wise regression models combined by a quasi-linear
-function** </span>
-
-Kenichi Hayashi$^{1*}$, Katsuhiro Omae$^{2}$ and Shinto Eguchi$^3$
-
-$^1 \;$ Department of Mathematics, Keio University, Yokohama, Japan
-
-$^2 \;$ Department of Statistical Science, The Graduate University for
-Advanced Studies, Tokyo, Japan
-
-$^3 \;$ The Institute of Statistical Mathematics, Tokyo, Japan
-
-<span>**Abstract**</span>. Suppose that there are multiple heterogeneous
+<span>**Abstract:**</span> Suppose that there are multiple heterogeneous
 subgroups in a dataset. In the “Big data” era, this would be a natural
 assumption for many fields of application such as medicine, biology,
 marketing, psychology, etc. Then, conventional linear regression models
@@ -26,11 +14,10 @@ the proposed model has flexibility in clustering and “averaging”
 multiple regressors and hence includes the existing methods such as
 Späth (1981), DeSarbo et al. (1989) as special cases.
 
-<span>**Keywords**</span>. Cluster-wise regression, Generalized linear
+<span>**Keywords:**</span> Cluster-wise regression, Generalized linear
 models, Population heterogeneity
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 DeSarbo, W.S., Oliver, R.L., and Rangaswamy, A. (1989). A simulated
 annealing methodology for clusterwise linear regression.
