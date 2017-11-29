@@ -1,6 +1,4 @@
-Abstracts:
-
-The New Zealand rugby community is aware of safety issues within the
+<span>**Abstract:**</span> The New Zealand rugby community is aware of safety issues within the
 junior game and has applied weight limits for each tackle grade to
 minimize injury risk. However, for heavier children this can create an
 uncomfortable situation as they may no longer be playing with their peer
@@ -23,5 +21,5 @@ bands while the secondary focus is on determining the likelihood of a
 junior Wellington rugby player returning the following season and
 isolating the drivers of this behaviour.
 
-Key words:Logistic regression, repeated measures, player retention,
+<span>**Keywords:**</span> Logistic regression, repeated measures, player retention,
 optimization
