@@ -1,12 +1,4 @@
-<span>**Adaptive False Discovery Rate regression with application in
-integrative analysis of large-scale genomic data**</span>
-
-Can YANG$^1$
-
-$^1 \;$ Department of Mathematics, The Hong Kong University of Science
-and Techonolgy, Clear Water Bay, Hong Kong.
-
-<span>**Abstract**</span>. Recent international projects, such as the
+<span>**Abstract:**</span> Recent international projects, such as the
 Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
 the Genotype-Tissue Expression (GTEx) project, have generated vast
 amounts of genomic annotation data, e.g., epigenome and transcriptome.
@@ -40,11 +32,10 @@ phenotypes. The statistical framework developed here is also broadly
 applicable to many other areas for integrative analysis of rich data
 sets.
 
-<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
+<span>**Keywords:**</span> False Discovery Rate, integrative analysis,
 functional annotation, genomic data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Friedman, Jerome H (2001). Greedy function approximation: a gradient
 boosting machine, *Annals of statistics*, **29:5**,1189–1232.
