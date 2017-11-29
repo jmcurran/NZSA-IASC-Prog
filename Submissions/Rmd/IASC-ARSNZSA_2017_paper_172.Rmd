@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-High dimensional covariance estimation and graphical models is a
+<span>**Abstract**</span>: High dimensional covariance estimation and graphical models is a
 contemporary topic in statistics and machine learning having widespread
 applications. The problem is notoriously difficult in high dimensions as
 the traditional estimate is not even positive definite. An important
