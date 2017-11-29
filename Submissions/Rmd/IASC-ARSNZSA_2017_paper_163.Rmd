@@ -1,4 +1,4 @@
-<span>**Abstract:**</span>. Since the proper operation of semiconductor devices is of crucial
+<span>**Abstract:**</span> Since the proper operation of semiconductor devices is of crucial
 importance for the reliability of a vast range of products, issues
 concerning quality control are of central relevance to manufacturers.
 This quality control task is concerned with high temperature operating
