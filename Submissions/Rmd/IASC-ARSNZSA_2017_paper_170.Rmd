@@ -1,17 +1,4 @@
-Family structure and academic achievements of high school students in
-Tonga
-
-Losana Vao Latu Latu$^1$, Jennifer Brown$^1$ and Jacki Henderson$^2$
-
-$^1$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, NZ
-
-$^2$ Department of Psychology, University of Canterbury, Christchurch,
-NZ
-
-Abstract
-
-In this study we examine how family structure affects the academic
+<span>**Abstract:**</span> In this study we examine how family structure affects the academic
 achievement of students at the secondary level of education age in
 Tonga. It is a comparative study aiming to find out whether there is a
 significant difference between the academic achievements of students
@@ -32,6 +19,4 @@ schools are government schools and the others are private schools run by
 different religions. In April we surveyed 360 students, 60 from each of
 6 high schools, and present here our preliminary results.
 
-Keywords
-
-Education, policy, stratified sampling
+<span>**Keywords:**</span> Education, policy, stratified sampling
