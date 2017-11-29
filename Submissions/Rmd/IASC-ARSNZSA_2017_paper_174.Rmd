@@ -1,17 +1,4 @@
-<span>**Bayesian Temporal Density Estimation with Autoregressive Species
-Sampling Models [^1]**</span>
-
-Youngin Jo$^1$, Seongil Jo$^2$ and Jaeyong Lee$^3$
-
-$^1 \;$ Kakao corporation, Seongnam, 13494, Republic of Korea
-
-$^2 \;$ Department of Statistics (Institute of Applied Statistics),
-Chonbuk National University, Jeonju, 54896, Republic of Korea
-
-$^3 \;$ Department of Statistics, Seoul National University, Seoul,
-08826, Republic of Korea
-
-<span>**Abstract**</span>. We propose a Bayesian nonparametric (BNP)
+<span>**Abstract:**</span> We propose a Bayesian nonparametric (BNP)
 model, which is built on a class of species sampling models, for
 estimating density functions of temporal data. In particular, we
 introduce species sampling mixture models with temporal dependence. To
@@ -27,7 +14,7 @@ closing price in Korea Composite Stock Price Index (KOSPI), and climate
 variables (daily maximum temperature and precipitation) of around the
 Korean peninsula.
 
-<span>**Keywords**</span>. Autoregressive species sampling models;
+<span>**Keywords:**</span> Autoregressive species sampling models;
 Dependent random probability measures; Mixture models; Temporal
 structured data
 
