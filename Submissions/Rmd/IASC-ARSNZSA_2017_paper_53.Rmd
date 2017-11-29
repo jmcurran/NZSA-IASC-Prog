@@ -1,15 +1,4 @@
-<span>**R - A powerful analysis tool to improve Official Statistics in
-Romania**</span>
-
-Nicoleta Caragea$^1$ and Antoniade Ciprian Alexandru$^2$
-
-$^1 \;$ National Institute of Statistics / Ecological University of
-Bucharest, Bucharest, ROMANIA
-
-$^2 \;$ Ecological University of Bucharest / National Institute of
-Statistics, Bucharest, ROMANIA
-
-<span>**Abstract**</span>. This presentation is focused on how R is used
+<span>**Abstract:**</span> This presentation is focused on how R is used
 in Romanian official statistics to improve the quality of results
 provided by different statistical data sources on the base of
 administrative data. Some benefits for statistical analysis come when it
@@ -25,5 +14,5 @@ researchers from academia and institutes of statistics. It is also a
 continuous work to develop statistics based on Big Data, Romania being
 part of the ESSnet Big Data Project.
 
-<span>**Keywords**</span>. R package, data sources, statistics, matching
+<span>**Keywords:**</span> R package, data sources, statistics, matching
 method, linkage method
