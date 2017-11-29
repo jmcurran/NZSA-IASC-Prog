@@ -1,17 +1,4 @@
-<span>**Tolerance limits for the reliability of semiconductor devices
-using longitudinal data**</span>
-
-Vera Hofer$^1$, Johannes Leitner$^1$, Horst Lewitschnig$^2$ and Thomas
-Nowak$^1$
-
-$^1 \;$ Institute of Statistics and Operations Research, University of
-Graz, Graz, Austria
-
-$^2 \;$ Infineon Technologies Austria AG, Villach, Austria
-
-<span>**Abstract**</span>.
-
-Especially in the automotive industry, semiconductor devices are key
+<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key
 components for the proper functioning of the entire vehicle. Therefore,
 issues concerning the reliability of these components are of crucial
 importance to manufacturers of semiconductor devices.
@@ -46,5 +33,5 @@ support from the European Union’s Horizon 2020 research and innovation
 programme and Austria, Belgium, Germany, Italy, Netherlands, Norway,
 Slovakia, Spain and United Kingdom.
 
-<span>**Keywords**</span>. quality control, tolerance limits, copulas,
+<span>**Keywords:**</span> quality control, tolerance limits, copulas,
 skew normal distribution
