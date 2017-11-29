@@ -1,11 +1,4 @@
-<span>**Intensity Estimation of Spatial Point Processes Based on
-Area-Aggregated Data** </span>
-
-Hsin-Cheng Huang and Chi-Wei Lai
-
-Institute of Statistical Science, Academia Sinica, Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. We consider estimation of intensity function
+<span>**Abstract:**</span> We consider estimation of intensity function
 for spatial point processes based on area-aggregated data. A standard
 approach for estimating the intensity function for a spatial point
 pattern is to use a kernel estimator. However, when data are only
@@ -16,5 +9,5 @@ kernel-based method will be proposed to produce a smooth intensity
 function based on aggregated count data. Some numerical examples will be
 provided to demonstrate the effectiveness of the proposed method.
 
-<span>**Keywords**</span>. Area censoring, inhomogeneous spatial point
+<span>**Keywords:**</span> Area censoring, inhomogeneous spatial point
 processes, kernel density estimation
