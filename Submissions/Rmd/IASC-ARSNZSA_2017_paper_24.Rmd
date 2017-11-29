@@ -1,16 +1,4 @@
-<span>**Identifying Clusters Of Patients With Diabetes Using a Markov
-Birth-Death Process**</span>
-
-Mugdha Manda$^1$, Thomas Lumley$^1$ and Susan Wells$^2$
-
-$^1 \;$ The Department of Statistics, The University of Auckland,
-Auckland 1010, New Zealand
-
-$^2 \;$ Section of Epidemiology and Biostatistics, Faculty of Medical
-and Health Sciences, The University of Auckland, Auckland 1072, New
-Zealand
-
-<span>**Abstract**</span>. Estimating disease trajectories has
+<span>**Abstract:**</span> Estimating disease trajectories has
 increasingly become more essential to clinical practitioners to
 administer effective treatment to their patients. A part of describing
 disease trajectories involves taking patients’ medical histories and
@@ -26,13 +14,12 @@ measurements of HbA$_1c$ and eGFR, using the Markov birth-death process
 proposed by Stephens (2000) to handle the changes in dimensionality as
 clusters were added or removed.
 
-<span>**Keywords**</span>. Diabetes management, longitudinal data,
+<span>**Keywords:**</span> Diabetes management, longitudinal data,
 Markov chain Monte Carlo, birth-death process, mixture model, Bayesian
 analysis, latent clusters, hierarchical models, primary care, clinical
 practice
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Stephens, M. (2000). Bayesian Analysis of Mixture Models with an Unknown
 Number of Components - An Alternative to Reversible Jump Methods. In:
