@@ -1,15 +1,4 @@
-<span>**Author Name Identification for Evaluating Research Performance
-of Institutes**</span>
-
-Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
-
-$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
-Kasumigaoka, Fukuoka 813-8529, Japan
-
-$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
-
-<span>**Abstract**</span>. In this paper, we propose a new framework to
+<span>**Abstract:**</span> In this paper, we propose a new framework to
 extract a complete list of the articles written by researchers who
 belong to a specific research or educational institute from an academic
 document database such as Web of Science and Scopus. In this framework,
@@ -21,11 +10,10 @@ kind of topic modeling, and some techniques and indices such as synonym
 retrieval and inverse document frequency (IDF) are used for enhancing
 the framework.
 
-<span>**Keywords**</span>. Institutional Research, Topic Modeling,
+<span>**Keywords:**</span> Institutional Research, Topic Modeling,
 Latent Dirichlet Allocation
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
 disambiguation based on approximate structure equivalence of cognitive
