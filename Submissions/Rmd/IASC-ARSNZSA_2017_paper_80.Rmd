@@ -18,7 +18,7 @@ metrics, allowing us to identify players who excel in the role of
 opening the batting, which has practical implications in terms of
 batting order and team selection policy.
 
-<span>**Keywords:**</span>. Bayesian survival analysis, hierarchical
+<span>**Keywords:**</span> Bayesian survival analysis, hierarchical
 modelling, cricket
 
 <span>**References:**</span>
