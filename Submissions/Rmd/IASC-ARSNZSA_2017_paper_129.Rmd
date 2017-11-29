@@ -1,12 +1,4 @@
-<span>**Separation of symmetry for square contingency tables with
-ordinal categories**</span>
-
-Kouji Tahata$^1$
-
-$^1 \;$ Department of Information Sciences, Tokyo University of Science,
-2641 Yamazaki, Noda-shi, Chiba-ken, 2788510, JAPAN
-
-<span>**Abstract**</span>. Symmetry and asymmetry models are used to
+<span>**Abstract:**</span> Symmetry and asymmetry models are used to
 analyze a <span>*square*</span> contingency table with ordinal
 categories. Caussinus (1966) pointed out that the symmetry model, which
 indicates the structure of symmetry for cell probabilities, could be
@@ -22,11 +14,10 @@ the sum of those for testing the generalized asymmetry model and the
 moment equality model under some conditions is given. A simulation study
 is presented.
 
-<span>**Keywords**</span>. $f$-divergence, moment equality,
+<span>**Keywords:**</span> $f$-divergence, moment equality,
 orthogonality, quasi-symmetry
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Caussinus, H. (1966). Contribution à l’analyse statistique des tableaux
 de corrélation. <span>*Ann. Fac. Sci. Univ. Toulouse*</span>
