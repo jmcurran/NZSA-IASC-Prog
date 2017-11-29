@@ -1,14 +1,4 @@
-<span>**Online Learning for Bayesian Nonparametrics: Weakly Conjugate
-Approximation**</span>
-
-Yongdai Kim$^1$, Kuhwan Jeong$^1$, Byungyup Kang$^2$ and Hyoju Chung$^2$
-
-$^1 \;$ Department of Statistics, Seoul National University, Seoul,
-South Korea
-
-$^2 \;$ NAVER Corp., Seongnam, South Korea
-
-<span>**Abstract**</span>. We propose a new online learning method for
+<span>**Abstract:**</span> We propose a new online learning method for
 Bayesian nonparametric (BNP) models so called <span>*weakly conjugate
 approximation*</span> (WCA). We consider classes of BNP priors which are
 weakly conjugate. Here, ‘weakly conjugate prior’ means that the
@@ -46,6 +36,6 @@ simulated/real data sets in Dirichlet process mixture models and
 hierarchical Dirichlet processes topic models. The proposed method shows
 better accuracy in our experiments.
 
-<span>**Keywords**</span>. online learning, weakly conjugate
+<span>**Keywords:**</span> online learning, weakly conjugate
 approximation, Dirichlet process mixture model, hierarchical Dirichlet
 processes
