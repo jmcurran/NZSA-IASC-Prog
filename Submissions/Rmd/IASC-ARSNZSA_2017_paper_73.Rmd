@@ -1,11 +1,4 @@
-<span>**Two stage approach\
-to data-driven subgroup identification in clinical trials**</span>
-
-Toshio Shimokawa$^1$ and Kensuke Tanioka$^1$
-
-$^1 \;$ School of Medicine, Wakayama-Medical University, Japan
-
-<span>**Abstract**</span>. A personalized medicine have been improved
+<span>**Abstract:**</span> A personalized medicine have been improved
 through the statistic analysis of Big data such as registry data. In
 these researches, subgroup identification analysis have been focused on.
 The purpose of the analysis is detecting subgroup such that the efficacy
@@ -26,11 +19,10 @@ tend to be large in the second step when CART is used. In this paper, we
 adopt a priori algorithm as the same way of SIDES(Lipkovich et al.,
 2011).
 
-<span>**Keywords**</span>. A priori algorithm, boosting, personalized
+<span>**Keywords:**</span> A priori algorithm, boosting, personalized
 medicine
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Forster, J.C., Taylor, J.M.G and Ruberg, S.J. (2011). *Subgroup
 identification from randomized clinical trial data.* Stat.Med,
