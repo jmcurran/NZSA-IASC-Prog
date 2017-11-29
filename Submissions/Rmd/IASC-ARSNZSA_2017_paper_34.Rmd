@@ -1,11 +1,4 @@
-<span>**On Optimal Group Testing Designs: Prevalence Estimation, Cost
-Considerations, and Dilution Effects**</span>
-
-Shih-Hao Huang
-
-Institute of Statistical Science, Academia Sinica, Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. Group testing has been used for decades to
+<span>**Abstract:**</span> Group testing has been used for decades to
 estimate the prevalence of a rare disease when samples from multiple
 subjects can be pooled and tested as a group. A group testing design is
 specified by the support points (distinct group sizes) and their
@@ -24,11 +17,10 @@ the assay are linked to the group sizes, allowing dilution effects to
 reduce the test performance. (Work done jointly with M.-N. L. Huang, K.
 Shedden, and W. K. Wong.)
 
-<span>**Keywords**</span>. Budget-constrained design, dilution effect,
+<span>**Keywords:**</span> Budget-constrained design, dilution effect,
 $D_s$-optimality, group testing, sensitivity, specificity
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Huang, S.-H., Huang, M.-N. L., Shedden, K. and Wong, W. K. (in press).
 Optimal group testing designs for estimating prevalence with uncertain
