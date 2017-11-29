@@ -3,31 +3,26 @@ designed with clustering (<span>*unsupervised learning*</span>)
 in mind. It is also a name for a program to fit these models,
 written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
 
- Why convert to R?
+Why convert to R? Although written in the 1990s Multimix is easy to convert to modern
+GNU Fortran (gfortran) but there are advantages to having an R
+version available. For users this means a simpler way of reading in
+the data and describing the form of the model. Also for ongoing
+development of improvement and modifications of the Multimix models.
+R’s interactive environment provides a more comfortable place
+for experimentation.
 
-:   Although written in the 1990s Multimix is easy to convert to modern
-    GNU Fortran (gfortran) but there are advantages to having an R
-    version available. For users this means a simpler way of reading in
-    the data and describing the form of the model. Also for ongoing
-    development of improvement and modifications of the Multimix models.
-    R’s interactive environment provides a more comfortable place
-    for experimentation.
+Designing the new program. Rather than attempt any sort of translation of the old code, the new
+R version of Multimix is designed from the beginning as an
+R program. In my talk I will describe some of the design decisions
+made and the reasons for them. A particular concern was that the R
+version be as fast as possible.
 
-Designing the new program
-
-:   Rather than attempt any sort of translation of the old code, the new
-    R version of Multimix is designed from the beginning as an
-    R program. In my talk I will describe some of the design decisions
-    made and the reasons for them. A particular concern was that the R
-    version be as fast as possible.
-
- How to package up the new program?
-
-:   Two versions of Multimix in R have been developed, a
-    <span>*global*</span> version with many global variables employed,
-    and a <span>*nested*</span> version restricting the scope of
-    variables to the surrounding function. The pluses and minuses of
-    each approach will be described.
+How to package up the new program?
+Two versions of Multimix in R have been developed, a
+<span>*global*</span> version with many global variables employed,
+and a <span>*nested*</span> version restricting the scope of
+variables to the surrounding function. The pluses and minuses of
+each approach will be described.
 
 I am conscious that I may not always have made the best design decisions
 and comments from others will be welcomed.
