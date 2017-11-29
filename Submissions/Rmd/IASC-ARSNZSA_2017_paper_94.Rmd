@@ -1,17 +1,4 @@
-<span>**Estimating causal structures for continuous and discrete
-variables** </span>
-
-Mako Yamayoshi$^1$ and Hiroshi Yadohisa$^2$
-
-$^1 \;$ Graduate school of Culture and Information Science, Doshisha
-University, Kyotanabe, Kyoto, JAPAN
-
-$^2 \;$ Faculty of Culture and Information Science, Doshisha University,
-Kyotanabe, Kyoto, JAPAN
-
-<span>**Abstract**</span>.
-
-Structural equation models have been used extensively for continuous
+<span>**Abstract:**</span> Structural equation models have been used extensively for continuous
 variable data to find causal structures. In such a framework, the Linear
 Non- Gaussian Acyclic Model (LiNGAM) could enable finding a whole causal
 model (Shimizu et al., 2006). However, in many desciplines, the data
@@ -27,11 +14,10 @@ existing method, we use the Link function. Using simulation studies, we
 show that the proposed method performs more efficiently for data that
 includes continuous and discrete variables.
 
-<span>**Keywords**</span>. Causal direction, Latent variables, Link
+<span>**Keywords:**</span> Causal direction, Latent variables, Link
 function, SEM, LiNGAM
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
 Characteristics and identification: Second Edition.* Cambridge:
