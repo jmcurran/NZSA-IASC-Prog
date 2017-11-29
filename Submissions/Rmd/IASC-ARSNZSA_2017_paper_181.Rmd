@@ -1,15 +1,4 @@
-<span>**Fitting Additive Hazards Model Using Calibrated Weights for
-Case-Cohort Data**</span>
-
-Hyuntae Kyung$^1$ and Sangwook Kang$^2$
-
-$^1 \;$ Department of Applied Statistics, Yonsei University, Seoul,
-03722, Korea
-
-$^2 \;$ Department of Applied Statistics, Yonsei University, Seoul,
-03722, Korea
-
-<span>**Abstract**</span>.A case-cohort design is an efficient study
+<span>**Abstract:**</span> A case-cohort design is an efficient study
 design for analyzing failure time data by reducing the cost and effort
 of conducting a large cohort study. Estimation of regression
 coefficients is typically done through a weighted estimating equation
@@ -22,5 +11,5 @@ demonstrated to be more efficient, via simulation studies, than the
 usual Horvitz-Thompson type estimator. We illustrate a use of the
 proposed estimators by using the National Wilms Tumor Study data.
 
-<span>**Keywords**</span>. Estimating Equations, Semiparametric Model,
+<span>**Keywords:**</span> Estimating Equations, Semiparametric Model,
 Survey Sampling, Survival Analysis
