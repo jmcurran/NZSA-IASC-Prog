@@ -1,12 +1,4 @@
-<span>**Bayesian Analyses of Non-homogeneous Gaussian Hidden Markov
-Models**</span>
-
-Shin Sato$^1$ and Darfiana Nur$^1$
-
-$^1 \;$ College of Science and Engineering, Flinders University at
-Tonsley, 1284 South Rd, Clovelly Park, SA 5042, Australia
-
-<span>**Abstract**</span>. We investigate a non-homogeneous Gaussian
+<span>**Abstract:**</span> We investigate a non-homogeneous Gaussian
 hidden Markov model where the model assumes the transition probabilities
 between the hidden states depend on each discrete-time. The methodology
 of the statistical inference for the model follows the Bayesian approach
@@ -24,12 +16,11 @@ case study, the model was implemented on a data set of the monthly US
 which the settings are identical to that of Meligkotsidou and
 Dellaportas’s (2011), except for the algorithm.
 
-<span>**Keywords**</span>. Non-homogeneous hidden Markov model, Bayesian
+<span>**Keywords:**</span> Non-homogeneous hidden Markov model, Bayesian
 inference, Markov chain Monte Carlo methods, Metropolis-Hastings
 algorithms
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
 with time-varying transition probabilities. *Business Cycles: Durations,
