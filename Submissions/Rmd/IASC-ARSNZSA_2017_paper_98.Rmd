@@ -10,8 +10,8 @@ such as sales, expenses and salaries, surveyed by the census require
 imputation to avoid bias. Although ratio imputation is a leading
 candidate, it is well known that the ratio estimator is very sensitive
 to outliers; therefore, we need to take appropriate measures for this
-problem.\
-\
+problem.
+
 Ratio imputation is a special case of regression imputation; however,
 the conventional ratio estimator has a heteroscedastic error term, which
 is the obstacle of robustification by means of M-estimation. New robust
@@ -23,16 +23,17 @@ and fast to converge. The proposed robustified ratio estimator broadens
 the conventional definition of the ratio estimator with regards to the
 variance of the error term in addition to effectively alleviating the
 influence of outliers. The application of the robust estimator is
-expected to contribute to the accuracy of the Census results.\
-\
+expected to contribute to the accuracy of the Census results.
+
 An random number simulation to confirm the characteristics of these
 estimators, deciding imputation domains by CART (classification and
 regression tree), model selection and preparing necessary rates by
 domain for the census data processing are conducted within the R
-programming environment.\
+programming environment.
 
 <span>**Keywords:**</span> GNU R, Outlier, Iteratively reweighted least
 squares, Ratio estimator, Official statistics
 
-<span>**Acknowledgement**</span>.\
+<span>**Acknowledgement:**</span>
+
 This work was supported by JSPS KAKENHI Grant Number JP16H02013.
