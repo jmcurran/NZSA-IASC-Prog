@@ -1,17 +1,4 @@
-<span>**A Unified Regularized Group PLS Algorithm Scalable to Big
-Data**</span>
-
-Pierre Lafaye de Micheaux$^1$ and Benoit Liquet$^{2,3}$ and Matthew
-Sutton $^2$
-
-$^1 \;$ School of Mathematics and Statistics, UNSW Sydney, Australia
-
-$^2 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
-
-$^3 \;$ Laboratory of Mathematics and its Applications, University of
-Pau et Pays de L’Adour, UMR CNRS 5142, France
-
-<span>**Abstract**</span>. Partial Least Squares (PLS) methods have been
+<span>**Abstract**</span>: Partial Least Squares (PLS) methods have been
 heavily exploited to analyse the association between two blocs of data.
 These powerful approaches can be applied to data sets where the number
 of variables is greater than the number of observations and in presence
@@ -29,11 +16,10 @@ types of PLS including their regularised versions. Various approaches to
 decrease the computation time are offered, and we show how the whole
 procedure can be scalable to big data sets.
 
-<span>**Keywords**</span>. Big data, High dimensional data, Lasso
+<span>**Keywords:**</span> Big data, High dimensional data, Lasso
 Penalties, Partial Least Squares, Sparsity, SVD
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lafaye de Micheaux, P., Liquet, B. & Sutton, M. (2017), *A Unified
 Parallel Algorithm for Regularized Group PLS Scalable to Big Data*,
