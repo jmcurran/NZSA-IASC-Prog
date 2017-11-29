@@ -1,15 +1,4 @@
-<span>**Bayesian analysis for fitting zero-inflated count data with data
-augmentation**</span>
-
-Beom Seuk Hwang$^1$ and Zhen Chen$^2$
-
-$^1 \;$ Department of Applied Statistics, Chung-Ang University, Seoul,
-Korea
-
-$^2 \;$ Eunice Kennedy Shriver National Institute of Child Health and
-Human Development, MD, 20892 USA
-
-<span>**Abstract**</span>. Count data with excess zeros are common in
+<span>**Abstract:**</span> Count data with excess zeros are common in
 epidemiological studies. Zero-inflated Poisson (ZIP) model or
 zero-inflated negative binomial (ZINB) model can be usually used in
 these cases. From Bayesian perspective, however, the ZIP and ZINB models
@@ -22,5 +11,5 @@ sampling results in tuning-free algorithms in MCMC. We demonstrate how
 the auxiliary mixture sampling can be applied to an epidemiological case
 study.
 
-<span>**Keywords**</span>. Auxiliary mixture sampling, ZIP model, ZINB
+<span>**Keywords:**</span> Auxiliary mixture sampling, ZIP model, ZINB
 model, Markov chain Monte Carlo
