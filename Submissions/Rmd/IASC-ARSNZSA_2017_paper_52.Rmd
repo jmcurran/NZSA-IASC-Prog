@@ -1,11 +1,4 @@
-<span>**Smoothing Nonparametric Regression under Shape
-Restrictions**</span>
-
-Hongbin Guo and Yong Wang
-
-Department of Statistics, University of Auckland
-
-<span>**Abstract**</span>. Shape-restricted regression, in particular
+<span>**Abstract:**</span> Shape-restricted regression, in particular
 under isotonicity and convexity(concavity) constraints, has many
 practical applications. Traditional nonparametric methods to the problem
 using least squares or maximum likelihood result in discrete step
@@ -18,11 +11,10 @@ algorithm that can rapidly find the corresponding estimate will also be
 presented. Numerical studies show that the new estimator outperforms
 major existing methods in almost all cases.
 
-<span>**Keywords**</span>. Nonparametric regression, smooth, shape
+<span>**Keywords:**</span> Nonparametric regression, smooth, shape
 restriction, convex, monotonic
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Groeneboom, P., Jongbloed, G. and Wellner, A. (2001). Estimation of a
 Convex Function: Characterizations and Asymptotic Theory. *Ann.
