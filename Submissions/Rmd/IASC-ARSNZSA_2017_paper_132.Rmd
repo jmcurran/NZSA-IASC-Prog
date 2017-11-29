@@ -1,14 +1,4 @@
-<span>**Bayesian continuous space-time model of Burglaries**</span>
-
-Chaitanya Joshi$^1$ and Paul T. Brown $^1$ and Stephen Joe $^1$ and Dean
-Searle $^2$
-
-$^1 \;$ Department of Mathematics and Statistics, University of Waikato,
-Hamilton.
-
-$^2 \;$ NZ Police, Waikato DHQ, Hamilton.
-
-<span>**Abstract**</span>. Building a predictive model of crime with
+<span>**Abstract:**</span> Building a predictive model of crime with
 good predictive accuracy has a great value in enabling efficient use of
 policing resources and reduction in crime. Building such models is not
 straightforward though due to the dynamic nature of the crime process.
@@ -25,5 +15,5 @@ space and time, but also allows us to include socio-economic factors as
 well as the ’near repeat’ phenomenon. In this talk, we will discuss the
 model building process and the accuracy achieved.
 
-<span>**Keywords**</span>. Bayesian spatio-temporal model, INLA-SPDE,
+<span>**Keywords:**</span> Bayesian spatio-temporal model, INLA-SPDE,
 predicting crime
