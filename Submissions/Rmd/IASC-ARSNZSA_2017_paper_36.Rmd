@@ -1,10 +1,4 @@
-Testing Volatility in Clustered Multiple Time Series: A Nonparametric
-Approach
-
-Erniel B. Barrios and Paolo Victor T. Redondo School of Statistics,
-University of the Philippines Diliman Abstract
-
-We proposed a test for volatility in clustered multiple time series
+<span>**Abstract:**</span> We proposed a test for volatility in clustered multiple time series
 based on sieve bootstrap. Clustering of observations is intended to
 capture contagion effect in multiple time series data, assumed to be
 present in the data generating process where the test is based from. We
@@ -14,5 +8,5 @@ production among Asian countries. The test is potentially robust to some
 distributional assumption but is possibly affected by the nature of
 volatility.
 
-Keywords: multiple time series; volatility; nonparametric test; Sieve
+<span>**Keywords:**</span> multiple time series; volatility; nonparametric test; Sieve
 Bootstrap
