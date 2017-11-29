@@ -14,7 +14,7 @@ structures of data. Furthermore, some statistical applications are
 studied.
 
 <span>**Keywords:**</span> Transformation; Visualization; Decomposition;
-Filter; Time Series;
+Filter; Time Series
 
 <span>**References:**</span>
 
