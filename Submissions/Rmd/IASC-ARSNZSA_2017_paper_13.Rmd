@@ -13,4 +13,4 @@ illustration purposes.
 
 <span>**Keywords:**</span> Bayes estimates, Highest
 posterior density interval, Least square estimation, Maximum likelihood
-estimates, Progressive first failure censoring.
+estimates, Progressive first failure censoring
