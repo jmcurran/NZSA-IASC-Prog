@@ -1536,45 +1536,6 @@ Wang, J. and Hosaka, S. (2017). Cell regression and reference prior,
 Symposium on “*Statistical Modelling and Computational Algorithms*", at
 Nagoya University, Febuary 18–19, 2017.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
-## Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications {-}
-<p style="text-align:center">
-Shih-Feng Huang<br />
-National University of Kaohsiung<br />
-</p>
-<span>**Fluctuation Reduction of Value-at-Risk Estimation and its
-Applications**</span>
-
-Shih-Feng Huang
-
-Department of Applied Mathematics, National University of Kaohsiung,
-Kaohsiung, 81148, Taiwan
-
-<span>**Abstract**</span>. Value-at-Risk (VaR) is a fundamental tool for
-risk management and is also associated with the capital requirements of
-banks. Banks need to adjust their capital levels for satisfying the
-Basel Capital Accord. On the other hand, managements do not like to
-change the capital levels too often. To achieve a balance, this study
-proposes an approach to reduce the fluctuation of VaR estimation. The
-first step is to fit a time series model to the underlying asset returns
-and obtain the conventional VaR process. A new VaR (NVaR) estimation of
-the conventional VaR process is then determined by applying change-point
-detection algorithms and a proposed combination scheme. The capital
-levels computed from the NVaR process are capable of satisfying the
-Basel Accord and reducing the fluctuation of capital levels
-simultaneously. To apply the proposed method to the calculation of
-future capital requirements, an innovative approach for NVaR prediction
-is also proposed by incorporating the concept of CUSUM control charts.
-The return processes of 30 companies on the list of S$\&$P 500 from 2005
-to 2016 are employed for our empirical investigation. Numerical results
-indicate that the proposed NVaR prediction is capable of satisfying the
-Basel Accord and reducing the fluctuation of capital requirements
-simultaneously by using a comparable average amount of capital
-requirements to the conventional VaR estimator.
-
-<span>**Keywords**</span>. Capital requirement, change point detection,
-CUSUM control chart, fluctuation reduction, Value-at-Risk
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 1 (260-005)</p>
 ## Testing For Genetic Associations In Arbitrarily Structured Populations {-}
 <p style="text-align:center">
@@ -1764,6 +1725,38 @@ consistent model selection for high-dimensional sparse linear models.
 
 Ing, C.-K. (2016). Model averaging in high-dimensional regressions.
 *Unpublished Technical Report*.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
+## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {-}
+<p style="text-align:center">
+Zhiwu Hong^1^ and Linlin Niu^2^<br />
+^1^HKUST Business School<br />
+^2^Xiamen University<br />
+</p>
+<span>**Abstract**</span>
+This paper develops a no-arbitrage network of yield curves model for the
+euro area to study the joint dynamics of and risk transmission across
+yield curves of different economies. The model nests 1+M yield curves of
+a benchmark country and M periphery countries with 3+(2+M) state
+factors. The benchmark curve is spanned by three yield factors, which
+are also common basis for all curves. Periphery yield spreads are
+spanned by three factors, including two common risk factors related to
+market liquidity risk and common sovereign credit risk, and a
+country-specific risk factor. Parsimony can be guaranteed as M increases
+with additional yield curve data, and factors can be strongly identified
+with structural restrictions under the no-arbitrage conditions. We
+estimate a 1+5 yield curves model for Germany and GIIPS countries using
+weekly data from 2009 to 2016. The results show that, the German yields
+enjoy a ‘flight to liquidity’ effect under a liquidity shock, which
+pushes down German yields while driving up periphery spreads. However,
+in response to a shock of common sovereign credit risk, yields of all
+countries, including Germany, tend to increase immediately and
+persistently. The weaker is a country’s economic fundamental, the higher
+its risk exposure to shocks. Though spillover effects among periphery
+curves are generally positive, when a Greek shock bursts, the Italian
+risk factor may be temporarily mitigated due to its relative stronger
+economy. The network model can be adapted with a time-varying parameter
+VAR to monitor evolving contributions of factors.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 1 (260-005)</p>
 ## Meta-Analytic Principal Component Analysis In Integrative Omics Application {-}
@@ -1962,38 +1955,6 @@ LA methodology can help increase the modeling flexibility of
 multivariate regression in analyzing complex data.
 
 <span>**Keywords**</span>. Sliced inverse regression, liquid association
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
-## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {-}
-<p style="text-align:center">
-Zhiwu Hong^1^ and Linlin Niu^2^<br />
-^1^HKUST Business School<br />
-^2^Xiamen University<br />
-</p>
-<span>**Abstract**</span>
-This paper develops a no-arbitrage network of yield curves model for the
-euro area to study the joint dynamics of and risk transmission across
-yield curves of different economies. The model nests 1+M yield curves of
-a benchmark country and M periphery countries with 3+(2+M) state
-factors. The benchmark curve is spanned by three yield factors, which
-are also common basis for all curves. Periphery yield spreads are
-spanned by three factors, including two common risk factors related to
-market liquidity risk and common sovereign credit risk, and a
-country-specific risk factor. Parsimony can be guaranteed as M increases
-with additional yield curve data, and factors can be strongly identified
-with structural restrictions under the no-arbitrage conditions. We
-estimate a 1+5 yield curves model for Germany and GIIPS countries using
-weekly data from 2009 to 2016. The results show that, the German yields
-enjoy a ‘flight to liquidity’ effect under a liquidity shock, which
-pushes down German yields while driving up periphery spreads. However,
-in response to a shock of common sovereign credit risk, yields of all
-countries, including Germany, tend to increase immediately and
-persistently. The weaker is a country’s economic fundamental, the higher
-its risk exposure to shocks. Though spillover effects among periphery
-curves are generally positive, when a Greek shock bursts, the Italian
-risk factor may be temporarily mitigated due to its relative stronger
-economy. The network model can be adapted with a time-varying parameter
-VAR to monitor evolving contributions of factors.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 1 (260-005)</p>
 ## Phylogenetic Tree-Based Microbiome Association Test {-}

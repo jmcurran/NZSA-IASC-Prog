@@ -1,10 +1,10 @@
 --- 
-title: "New Zealand Statistical Association and the International Associate of Statistical Computing (Asian Region) Joint Conference 2017"
+title: "New Zealand Statistical Association and the International Association of Statistical Computing (Asian Regional Section) Joint Conference 2017"
 author: Auckland<br />New Zealand
 date: "10-14^th^ December 2017"
 cover-image: "pictures/logo.png"
 output: bookdown::epub_book
-description: Programme and abstracts for NZSA-IASC-ARS Conference 2017
+description: Programme And Abstracts For NZSA-IASC-ARS Conference 2017
 documentclass: book
 github-repo: jmcurran/NZSA-IASC-Prog
 site: bookdown::bookdown_site

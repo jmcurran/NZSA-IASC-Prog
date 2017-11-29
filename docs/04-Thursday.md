@@ -101,51 +101,48 @@ Algorithm for Group-penalized Multiresponse and Multinomial Regression*
 Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Author Name Identification For Evaluating Research Performance Of Institutes {-}
+## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {-}
 <p style="text-align:center">
-Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
-^1^Fukuoka Women's University<br />
-^2^Institute of Statistical Mathematics<br />
+Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
+Hokkaido University<br />
 </p>
-<span>**Author Name Identification for Evaluating Research Performance
-of Institutes**</span>
+<span>**Meta-analysis with symbolic data analysis and its application
+for clinical data**</span>
 
-Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
+Ryo Takagi$^1$, Hiroyuki Minami$^2$, and Masahiro Mizuta$^2$
 
-$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
-Kasumigaoka, Fukuoka 813-8529, Japan
+$^1 \;$ Graduate School of Information Science and Technology, Hokkaido
+University
 
-$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
+$^2 \;$ Laboratory of Advanced Data Science, Information Initiative
+Center, Hokkaido University
 
-<span>**Abstract**</span>. In this paper, we propose a new framework to
-extract a complete list of the articles written by researchers who
-belong to a specific research or educational institute from an academic
-document database such as Web of Science and Scopus. In this framework,
-it is necessary to perform author name identification because the query
-for the database is based on the author’s name to extract documents
-written before the author comming to the current institute. The
-framework is based on the latent dirichlet allocation (LDA), which is a
-kind of topic modeling, and some techniques and indices such as synonym
-retrieval and inverse document frequency (IDF) are used for enhancing
-the framework.
+<span>**Abstract**</span>. We discuss a method of meta-analysis based on
+symbolic data analysis (SDA). Meta-analysis, mainly used in social and
+medical science, is a statistical method of combining scientific studies
+to obtain quantitative results and provides a high level of evidence.
+Differences between the studies are caused by heterogeneity between the
+studies. It is useful to detect relationship among scientific studies. A
+target of analysis on SDA is <span>*concept*</span>, a set of
+individuals. We apply SDA to meta-analysis. In other words, we regard
+scientific studies as concepts. For example, symbolic clustering or
+symbolic MDS are useful to preprocess the scientific studies in
+meta-analysis. In this study, we propose a new approach based on SDA for
+meta-analysis and show the results of the proposed approach using
+clinical datasets.
 
-<span>**Keywords**</span>. Institutional Research, Topic Modeling,
-Latent Dirichlet Allocation
+<span>**Keywords**</span>. symbolic clustering, symbolic MDS, concept in
+SDA
 
 References {#references .unnumbered}
 ----------
 
-Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
-disambiguation based on approximate structure equivalence of cognitive
-maps. *Scientometrics*, 84(3), 763–784.
+Edwin Diday and Monique Noirhomme-Fraiture. (2008). *Symbolic data
+analysis and the SODAS software.* John Wiley & Sons, Ltd.
 
-Strotmann,A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
-for collaboration network analysis and visualization. *Proc. American
-Society for Information Science and Technology*, 46(1), 1–20.
-
-Soler,J.M. (2007). Separating the articles of authors with the same
-name. *Scientometrics*, 72(2), 281–290.
+David Edward Matthews and Vernon Todd Farewell. (2015). *Using and
+understanding medical statistics* (5th, revised and extended edition).
+Karger Publishers.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
 ## Bayesian Static Parameter Inference For Partially Observed Stochastic Systems {-}
@@ -317,37 +314,48 @@ low-sample-size data with noise reduction via geometric representations.
 *Journal of Multivariate Analysis*, **105**, 193–215.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## A Study Of The Influence Of Articles In The Large-Scale Citation Network {-}
+## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {-}
 <p style="text-align:center">
-Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
-^1^Academia Sinica<br />
-^2^Institute of Statistical Mathematics<br />
+Hirohito Sakurai and Masaaki Taguri<br />
+National Center for University Entrance Examinations<br />
 </p>
-<span>**A Study of the Influence of Articles in the Large-Scale Citation
-Network**</span>
+<span>**Comparison of Tests of Mean Difference in Longitudinal Data
+Based on Block Resampling Methods**</span>
 
-Frederick K. H. Phoa and Livia Lin Hsuan Chang\
-<span>*Institute of Statistical Science, Academia Sinica, Taipei 115,
-Taiwan.*</span>\
+Hirohito Sakurai$^1$ and Masaaki Taguri$^1$
 
-> <span>**Abstract:**</span> Nowadays there are many research metrics at
-> the author-, article-, journal-levels, like the impact factors and
-> many others. However, none of them possess a universally meaningful
-> interpretation on the research influence at all levels, not mentioning
-> that many are subject-biased and consider neighboring relations only.
-> In this work, we introduce a new network-based research metric called
-> the network influence. It utilizes all information in the whole
-> network and it is universal to any levels. Due to its statistical
-> origin, this metric is computationally efficient and statistically
-> interpretable even if one applies it to a large-scale network. This
-> work demonstrates the analysis of networks via network influence using
-> a large-scale citation database called the Web of Science. By just
-> considering the articles among statistics community in 2005-2014, the
-> network influence of all articles are calculated and compared,
-> resulting in a top-ten important articles that are slightly different
-> from the list via impact factors. This metric can be easily extended
-> to author citation network and many similar networks embedded in the
-> Web of Science.
+$^1 \;$ National Center for University Entrance Examinations, Tokyo
+153-8501, Japan
+
+<span>**Abstract**</span>. Let us consider a two-sample problem in
+longitudinal data, and discuss comparison of tests of mean difference
+using block resampling methods. The testing methods are based on moving
+block bootstrap (MBB), circular block bootstrap (CBB) and stationary
+bootstrap (SB). These block resampling techniques are used to
+approximate the null distributions of the following four types of test
+statistics: sum of absolute values of difference between two mean
+sequences ($T_1$), sum of squares of difference between two mean
+sequences ($T_2$), area-difference between two mean curves ($T_3$), and
+difference of kernel estimators based on two mean sequences ($S_n$). Our
+testing algorithm generates blocks of observations in each sample
+similar to MBB, CBB or SB, and draws resamples *with replacement* or
+*without replacement* from the mixed blocks which are generated by two
+samples. In the context of block resampling, a resample is usually
+generated *with replacement* from blocks of observations, however our
+discussion also includes block resampling *without replacement* similar
+to permutation analogy for MBB, CBB and SB, with $T_1$, $T_2$, $T_3$ and
+$S_n$, respectively. Monte Carlo simulations are carried out to examine
+the empirical level and power of the testing methods.
+
+<span>**Keywords**</span>. moving block bootstrap, circular block
+bootstrap, stationary bootstrap, with/without replacement, empirical
+level/power
+
+References {#references .unnumbered}
+----------
+
+Lahiri, S. N. (2003). *Resampling Methods for Dependent Data*. New York:
+Springer.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
 ## SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis {-}
@@ -514,51 +522,50 @@ method for high-dimensional data.
 inference, hypothesis testing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
+## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}
 <p style="text-align:center">
-Yuji Mizukami^1^ and Junji Nakano^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Nihon University<br />
+Wataru Sakamoto<br />
+Okayama University<br />
 </p>
-<span>**Structure of Members in the Organization to Induce Innovation:
-Quantitatively Analyze the Capability of the Organization**</span>
+<span>**Analysis of Spatial Data with a Gaussian Mixture Markov Random
+Field Model** </span>
 
-Yuji Mizukami$^1$ and Junji Nakano$^2$
+Wataru Sakamoto
 
-$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
-Japan
+Graduate School of Environmental and Life Science, Okayama University,
+700-8530, Japan
 
-$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
+<span>**Abstract**</span>. In spatial data, detecting regions with
+higher relative risk is of primary interest. A latent Markov random
+field model with Gaussian mixture component is introduced, in which the
+probit or the logit of the mixture weight for each location follows a
+Gaussian Markov random field such as an intrinsic auto-regressive model
+(Besag *et al.*, 1991). A mixture model with spatially correlated
+weights was proposed by Fernández and Green (2002), and our modeling
+with Gaussian mixture Markov random field can be extended to the cases
+of involving covariate and random effects. Parameters are estimated by a
+Bayesian approach, and the posterior mean of the mixture weight for each
+location, which varies smoothly, gives meaningful interpretation for
+spatial structure. Our computation was conducted with R Stan package, in
+which the Hamiltonian Monte Carlo method is implemented. Some
+applications to disease mapping data are illustrated.
 
-<span>**Abstract**</span>. Innovation is the act of creating new value
-by using “new connection”, “new point of view”, “new way of thinking”,
-“new usage method” (Schumpeter 1912). In recent years, the promotion of
-the Innovation has been strongly encouraged. In the field of research,
-attempts are also being made to create new value through connection
-between those fields. Moreover, along with the move to promote
-integration among these research fields, research is being conducted to
-grasp and promote the degree of them. In this research, for the purpose
-of providing indices for measuring the degree of them, we show indices
-quantitatively indicating the degree of fusion in different fields and
-the distance between the fields. Also, we have try to present indices
-for grasping the whole image based on the random graph.
-
-<span>**Keywords**</span>. Research Metrix, Institute Research,
-Co-author analysis
+<span>**Keywords**</span>. Bayesian modeling, spatial cluster detection,
+spatial correlation
 
 References {#references .unnumbered}
 ----------
 
-Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
-Keyton, J. and Börner, K. (2011). *Approaches to understanding and
-measuring interdisciplinary scientific research: A review of the
-literature, Journal of Informetrics*. Vol. 5, No. 1, pp. 14-26.
+Fernández, C. and Green, P. J. (2002). Modelling spatially correlated
+data via mixtures: a Bayesian approach. *J. Roy. Statist. Soc. B*,
+**64**, 805–826.
 
-Mizukami, Y., Mizutani, Y., Honda, K., Suzuki, S., Nakano, J. (2017).
-*An International Research Comparative Study of the Degree of
-Cooperation between disciplines within mathematics and mathematical
-sciences, Behaviormetrika*, **1**, 19 pages, On-line.
+Besag, J., York, J. and Mollié, A. (1991). Bayesian image restoration,
+with two applications in spatial statistics. *Ann. Inst. Statist.
+Math.*, **43**, 1–59.
+
+Rue, H. and Held, L. (2005) *Gaussian Markov Random Fields: Theory and
+Applications.* Chapman and Hall.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
 ## Forward Selection In Regression Models Based On Robust Estimation {-}
@@ -719,59 +726,6 @@ and Zou, 2014; Khare, Oh, and Rajaratnam, 2015).
 
 This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
 Rajaratnam (UC Davis).
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
-## Clustering Of Research Subject Based On Stochastic Block Model {-}
-<p style="text-align:center">
-Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
-^1^Academia Sinica<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Clustering of research subject based on stochastic block
-model**</span>
-
-Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
-Junji Nakano $^1$
-
-$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
-
-$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
-Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. In this paper, we propose a new clustering
-method to measure influence of papers in all areas of science. To see
-structure of entire relationship we apply stochastic block model (SBM)
-on big scale citation network data. SBM generates a matrix which divides
-several blocks which represent relationship among research fields. We
-show this matrix can be used to visual exploratory analysis. When lists
-of papers are mapped this matrix we can get useful information by varied
-locations in visually. Elastic Map is used as dimension reduction method
-to calculate scalar value onto onto the corresponding principal points
-of each papers. We demonstrate that this projection score is can be used
-to evaluate divergence impact of papers across all field. To illustrate
-one application of our method, we analyze 450k+ articles published
-between 1981 and 2016 Web of Science data. In this beta version of our
-system, Edward, probabilistic programming language is used for
-estimation of SBM parameters and calculation of divergence score of
-papers.
-
-<span>**Keywords**</span>. Institutional Research, Stochastic Block
-Model, Elastic Map
-
-References {#references .unnumbered}
-----------
-
-Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
-stochastic block structures. *Journal of the American Statistical
-Association*, 96, 1077–1087.
-
-Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds
-and their Practical Applications. *Computing*, 75(4), 359–379.
-
-Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
-(2016). Edward: A library for probabilistic modeling, inference, and
-criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
 ## Feature Selection In High-Dimensional Models With Complex Block Structures {-}

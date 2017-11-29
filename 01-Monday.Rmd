@@ -124,54 +124,51 @@ Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang 
 functional annotations, variational inference
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
+## Author Name Identification For Evaluating Research Performance Of Institutes {-}
 <p style="text-align:center">
-Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
-^1^Nara Institute of Science and Technology<br />
-^2^Okayama University<br />
+Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
+^1^Fukuoka Women's University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Evaluation of spatial cluster detection method based on all
-geographical linkage patterns**</span>
+<span>**Author Name Identification for Evaluating Research Performance
+of Institutes**</span>
 
-Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
+Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
 
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
+$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
+Kasumigaoka, Fukuoka 813-8529, Japan
 
-$^2 \;$ Graduate School of Information Science, Nara Institute of
-Science and Technology, Nara, Japan
+$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
 
-<span>**Abstract**</span>. Currently, it is becoming easier to analyze
-the various types of spatial data and express them visually on a map.
-However, it is still difficult to estimate the location of spatial
-clusters based on statistical evidence. The spatial scan statistic
-(Kulldorff 1997), which is based on the idea of maximizing the
-likelihood of cluster, has been widely used for spatial cluster
-detection method. It is important how effectively and efficiently we
-find a cluster whose likelihood is high, and to find such a cluster,
-some scan approaches are proposed. However, most of them are limited in
-the shape of a detected cluster, or need an unrealistic computational
-time if the data size is too large. The zero-suppressed binary decision
-diagram (ZDD) (Minato, 1993), one approach to frequent item set mining,
-enables us to extract all of the potential cluster areas at a realistic
-computational cost. In this study, we try a new way of spatial cluster
-detection method to detect a cluster with truly highest likelihood by
-applying the ZDD, and by using them, we compare and evaluate the
-performance of the existing scan methods.
+<span>**Abstract**</span>. In this paper, we propose a new framework to
+extract a complete list of the articles written by researchers who
+belong to a specific research or educational institute from an academic
+document database such as Web of Science and Scopus. In this framework,
+it is necessary to perform author name identification because the query
+for the database is based on the author’s name to extract documents
+written before the author comming to the current institute. The
+framework is based on the latent dirichlet allocation (LDA), which is a
+kind of topic modeling, and some techniques and indices such as synonym
+retrieval and inverse document frequency (IDF) are used for enhancing
+the framework.
 
-1.5mm
-
-<span>**Keywords**</span>. Spatial cluster, Spatial scan statistic, ZDD
+<span>**Keywords**</span>. Institutional Research, Topic Modeling,
+Latent Dirichlet Allocation
 
 References {#references .unnumbered}
 ----------
 
-Kulldorff, M. (1997). A spatial scan statistic. *Communications in
-Statistics: Theory and Methods*, **26**, 1481–1496.
+Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
+disambiguation based on approximate structure equivalence of cognitive
+maps. *Scientometrics*, 84(3), 763–784.
 
-Minato, S. (1993). Zero-suppressed BDDs for set manipulation in
-combinatorial problems. *In: Proceedings of the 30th ACM/IEEE Design
-Automation Conference*, 272–277.
+Strotmann,A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
+for collaboration network analysis and visualization. *Proc. American
+Society for Information Science and Technology*, 46(1), 1–20.
+
+Soler,J.M. (2007). Separating the articles of authors with the same
+name. *Scientometrics*, 72(2), 281–290.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 OGGB4 (260-073)</p>
 ## Clustering Using Nonparametric Mixtures And Mode Identification {-}
@@ -361,51 +358,37 @@ relevant functional annotations. <span>**Keywords**</span>. GWAS,
 functional annotations, variational inference
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## Genetic Approach And Statistical Approach For Association Study On DNA Data {-}
+## A Study Of The Influence Of Articles In The Large-Scale Citation Network {-}
 <p style="text-align:center">
-Makoto Tomita<br />
-Tokyo Medical and Dental University<br />
+Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Genetic Approach and Statistical Approach for Association Study
-on DNA Data**</span>
+<span>**A Study of the Influence of Articles in the Large-Scale Citation
+Network**</span>
 
-Makoto Tomita $^1$
+Frederick K. H. Phoa and Livia Lin Hsuan Chang\
+<span>*Institute of Statistical Science, Academia Sinica, Taipei 115,
+Taiwan.*</span>\
 
-$^1 \;$ Clinical Research Center, Medical Hospital of Tokyo Medical and
-Dental University, Tokyo, 113-8519, Japan
-
-<span>**Abstract**</span>. Genomic information such as genome-wide
-association analysis (GWAS) in DNA data is very large, however if the
-sample size corresponding to it is not enough, as an idea to solve, the
-author considers by a statistical approach and a genetic approach. The
-former will be briefly introduced, and the latter will be mainly
-explained. Basically, the method of focusing genome information becomes
-the center of presentation.
-
-<span>**Keywords**</span>. genome wide association study, linkage
-disequilibrium, statistical power
-
-References {#references .unnumbered}
-----------
-
-Tomita, M. (2013). Focusing Approach Using LD Block and Association
-Study with Haplotype Combination on DNA Data, In: *Proceedings 2013
-Eleventh International Conference on ICT and Knowledge Engineering*,
-5–10. Bangkok: IEEE Conference \#32165.
-
-Tomita, M. (2015). Haplotype estimation, haplotype block identification
-and statistical analysis for DNA data, In: *Conference Program and Book
-of Abstracts, Conference of the International Federation of Classication
-Societies (IFCS-2015)*, 227–228, Bologna.
-
-Tomita, M., Hatsumichi, M. and Kurihara, K. (2008). *Computational
-Statistics and Data Analysis*, **52**(4), 1806–1820.
-
-Tomita, M., Hashimoto, N. and Tanaka, Y. (2011). *Computational
-Statistics and Data Analysis*, **55**(6), 2104–2113.
-
-Tomita, M., Kubota, T. and Ishioka, F. (2015). *PLoS ONE*, **10**(7),
-e0127358.
+> <span>**Abstract:**</span> Nowadays there are many research metrics at
+> the author-, article-, journal-levels, like the impact factors and
+> many others. However, none of them possess a universally meaningful
+> interpretation on the research influence at all levels, not mentioning
+> that many are subject-biased and consider neighboring relations only.
+> In this work, we introduce a new network-based research metric called
+> the network influence. It utilizes all information in the whole
+> network and it is universal to any levels. Due to its statistical
+> origin, this metric is computationally efficient and statistically
+> interpretable even if one applies it to a large-scale network. This
+> work demonstrates the analysis of networks via network influence using
+> a large-scale citation database called the Web of Science. By just
+> considering the articles among statistics community in 2005-2014, the
+> network influence of all articles are calculated and compared,
+> resulting in a top-ten important articles that are slightly different
+> from the list via impact factors. This metric can be easily extended
+> to author citation network and many similar networks embedded in the
+> Web of Science.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 OGGB4 (260-073)</p>
 ## Estimation Of A High-Dimensional Covariance Matrix {-}
@@ -600,57 +583,48 @@ integrating individual-level genotype data and summary statistics in
 genome-wide association studies. In: *Bioinformatics*
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## Symbolic Data Analytical Approach To Unauthorized-Access Logs {-}
+## An Advanced Approach For Time Series Forecasting Using Deep Learning {-}
 <p style="text-align:center">
-Hiroyuki Minami and Masahiro Mizuta<br />
-Hokkaido University<br />
+Balaram Panda<br />
+Inland Revenue Department<br />
 </p>
-<span>**Symbolic data analytical approach to unauthorized-access
-logs**</span>
+<span>**An Advanced Approach for Time Series Forecasting using Deep
+Learning**</span>
 
-Hiroyuki MINAMI and Masahiro MIZUTA
+Balaram Panda$^1$
 
-Information Initiative Center, Hokkaido University, Sapporo 060-0811
-JAPAN
+$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
 
-<span>**Abstract**</span>. We have been annoyed by tons of unwilling
-accesses in many Internet applications including SSH (Secure SHell)
-known as a typical remote access tool and E-mail delivery protocols. An
-attacked server put a report according to the configuration and the log
-files have grown day by day.
+<span>**Abstract**</span>. Time series forecasting is a decade-long
+research and which is being evolving day by day. Due to the recent
+advancement is deep learning technique many of the complex problems have
+been solved using deep learning. Deep learning techniques have shown
+tremendous better performance in supervised learning problem. One of the
+reasons for this success is the ability of deep feedforward network
+methods to learn multiple feature interaction for a single instance.
+However, the time-dependent nature not being captured by deep
+feedforward network till the evolution of RNN(recurrent neural network)
+and LSTM(long short term memory) network architecture. This paper
+reveals the success of LSTM time series in comparison with ARIMA and
+other standard approaches for time series modeling. A sensitivity
+analysis is also conducted to explore the effect of hyper parameter
+tuning on LSTM model to reduce the time series forecasting error. We
+also derive practical advice from our empirical results for those
+interested in getting most out of LSTM time series for modern time
+series forecasting.
 
-Bad accesses might be caused by computer virus and so-called
-<span>*zombie*</span>, a hi-jacked computer. We assume that the actions
-would have their own trends. For example, we sometimes find that a few
-attacks come simultaneously from only 1 site, however, we also find
-several attacks from a set of the sites within 1 minute or 1 day. The
-IP-Addresses might be variable, however, within the assigned range. It
-suggests that the victimizer is just one but gets an IP-Address
-allocation so many times.
-
-To analyze the log files and give an interpretation to them, we
-introduce Symbolic Data Analysis (SDA) to adopt its main idea
-<span>*concept*</span>. If we configure an appropriate
-<span>*concept*</span> whose elements (<span> *individuals*</span> in
-SDA) are IP-Address, port-numbers and attack time span, we can reveal
-some relationship between <span>*concepts*</span> and classify them into
-perspective. The results would give us some useful information to
-protect our Internet environment.
-
-We discuss how we get them and the interpretation appropriately through
-some practical examples.
-
-<span>**Keywords**</span>. Invalid network access, Firewall, Massive
-Data Analysis
+<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
 
 References {#references .unnumbered}
 ----------
 
-Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
+Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
+unsupervised feature learning and deep learning for time-series
+modeling.” Pattern Recognition Letters 42 (2014): 11-24.
 
-Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
-logs by Internet Firewall. *Proceedings of 2016 International Conference
-for JSCS 30th Anniversary in Seattle*.
+Zheng, Yi, et al. “Time series classification using multi-channels deep
+convolutional neural networks.” International Conference on Web-Age
+Information Management. Springer, Cham, 2014.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 OGGB4 (260-073)</p>
 ## Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information {-}
@@ -773,48 +747,111 @@ Keywords: mixed ANCOVA model, nonparametric regression, backfitting,
 bootstrap, random effects, variance components
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## An Advanced Approach For Time Series Forecasting Using Deep Learning {-}
+## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {-}
 <p style="text-align:center">
-Balaram Panda<br />
-Inland Revenue Department<br />
+Can Yang<br />
+Hong Kong University of Science and Technology<br />
 </p>
-<span>**An Advanced Approach for Time Series Forecasting using Deep
-Learning**</span>
+<span>**Adaptive False Discovery Rate regression with application in
+integrative analysis of large-scale genomic data**</span>
 
-Balaram Panda$^1$
+Can YANG$^1$
 
-$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
+$^1 \;$ Department of Mathematics, The Hong Kong University of Science
+and Techonolgy, Clear Water Bay, Hong Kong.
 
-<span>**Abstract**</span>. Time series forecasting is a decade-long
-research and which is being evolving day by day. Due to the recent
-advancement is deep learning technique many of the complex problems have
-been solved using deep learning. Deep learning techniques have shown
-tremendous better performance in supervised learning problem. One of the
-reasons for this success is the ability of deep feedforward network
-methods to learn multiple feature interaction for a single instance.
-However, the time-dependent nature not being captured by deep
-feedforward network till the evolution of RNN(recurrent neural network)
-and LSTM(long short term memory) network architecture. This paper
-reveals the success of LSTM time series in comparison with ARIMA and
-other standard approaches for time series modeling. A sensitivity
-analysis is also conducted to explore the effect of hyper parameter
-tuning on LSTM model to reduce the time series forecasting error. We
-also derive practical advice from our empirical results for those
-interested in getting most out of LSTM time series for modern time
-series forecasting.
+<span>**Abstract**</span>. Recent international projects, such as the
+Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
+the Genotype-Tissue Expression (GTEx) project, have generated vast
+amounts of genomic annotation data, e.g., epigenome and transcriptome.
+There is great demanding of effective statistical approaches to
+integrate genomic annotations with the results from genome-wide
+association studies. In this talk, we introduce a statistical framework,
+named AdaFDR, for integrating multiple annotations to characterize
+functional roles of genetic variants that underlie human complex
+phenotypes. For a given phenotype, AdaFDR can adaptively incorporates
+relevant annotations for prioritization of genetic risk variants,
+allowing nonlinear effects among these annotations, such as interaction
+effects between genomic features. Specifically, we assume that the prior
+probability of a variant associated with the phenotype is a function of
+its annotations $F(X)$, where $X$ is the collection of the annotation
+status and $F(X)$ is an ensemble of decision trees, i.e.,
+$F(X) = \sum_k f_k(X)$ and $f_k(X)$ is a shallow decision tree. We have
+developed an efficient EM-Boosting algorithm for model fitting, where a
+shallow decision tree grows in a gradient-Boosting manner (Friedman J.
+2001) at each EM-iteration. Our framework inherits the nice property of
+gradient boosted trees: (1) The gradient accent property of the Boosting
+algorithm naturally guarantees the convergence of our EM-Boosting
+algorithm. (2) Based on the fitted ensemble $\hat{F}(X)$, we are able to
+rank the importance of annotations, measure the interaction among
+annotations and visualize the model via partial plots (Friedman J.
+2008). Using AdaFDR, we performed integrative analysis of genome-wide
+association studies on human complex phenotypes and genome-wide
+annotation resources, e.g., Roadmap epigenome. The analysis results
+revealed interesting regulatory patterns of risk variants. These
+findings deepen our understanding of genetic architectures of complex
+phenotypes. The statistical framework developed here is also broadly
+applicable to many other areas for integrative analysis of rich data
+sets.
 
-<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
+<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
+functional annotation, genomic data
 
 References {#references .unnumbered}
 ----------
 
-Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
-unsupervised feature learning and deep learning for time-series
-modeling.” Pattern Recognition Letters 42 (2014): 11-24.
+Friedman, Jerome H (2001). Greedy function approximation: a gradient
+boosting machine, *Annals of statistics*, **29:5**,1189–1232.
 
-Zheng, Yi, et al. “Time series classification using multi-channels deep
-convolutional neural networks.” International Conference on Web-Age
-Information Management. Springer, Cham, 2014.
+Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
+Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 4 (260-009)</p>
+## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
+<p style="text-align:center">
+Yuji Mizukami^1^ and Junji Nakano^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Nihon University<br />
+</p>
+<span>**Structure of Members in the Organization to Induce Innovation:
+Quantitatively Analyze the Capability of the Organization**</span>
+
+Yuji Mizukami$^1$ and Junji Nakano$^2$
+
+$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
+Japan
+
+$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
+
+<span>**Abstract**</span>. Innovation is the act of creating new value
+by using “new connection”, “new point of view”, “new way of thinking”,
+“new usage method” (Schumpeter 1912). In recent years, the promotion of
+the Innovation has been strongly encouraged. In the field of research,
+attempts are also being made to create new value through connection
+between those fields. Moreover, along with the move to promote
+integration among these research fields, research is being conducted to
+grasp and promote the degree of them. In this research, for the purpose
+of providing indices for measuring the degree of them, we show indices
+quantitatively indicating the degree of fusion in different fields and
+the distance between the fields. Also, we have try to present indices
+for grasping the whole image based on the random graph.
+
+<span>**Keywords**</span>. Research Metrix, Institute Research,
+Co-author analysis
+
+References {#references .unnumbered}
+----------
+
+Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
+Keyton, J. and Börner, K. (2011). *Approaches to understanding and
+measuring interdisciplinary scientific research: A review of the
+literature, Journal of Informetrics*. Vol. 5, No. 1, pp. 14-26.
+
+Mizukami, Y., Mizutani, Y., Honda, K., Suzuki, S., Nakano, J. (2017).
+*An International Research Comparative Study of the Degree of
+Cooperation between disciplines within mathematics and mathematical
+sciences, Behaviormetrika*, **1**, 19 pages, On-line.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 OGGB4 (260-073)</p>
 ## Vector Generalized Linear Time Series Models {-}
@@ -943,65 +980,58 @@ trends® in Machine Learning 2.1 (2009): 1-127.
 Goodfellow, Ian J., et al. “Maxout networks.” arXiv preprint
 arXiv:1302.4389 (2013).
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 3 (260-055)</p>
-## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {-}
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 4 (260-009)</p>
+## Clustering Of Research Subject Based On Stochastic Block Model {-}
 <p style="text-align:center">
-Can Yang<br />
-Hong Kong University of Science and Technology<br />
+Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Adaptive False Discovery Rate regression with application in
-integrative analysis of large-scale genomic data**</span>
+<span>**Clustering of research subject based on stochastic block
+model**</span>
 
-Can YANG$^1$
+Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
+Junji Nakano $^1$
 
-$^1 \;$ Department of Mathematics, The Hong Kong University of Science
-and Techonolgy, Clear Water Bay, Hong Kong.
+$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
 
-<span>**Abstract**</span>. Recent international projects, such as the
-Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
-the Genotype-Tissue Expression (GTEx) project, have generated vast
-amounts of genomic annotation data, e.g., epigenome and transcriptome.
-There is great demanding of effective statistical approaches to
-integrate genomic annotations with the results from genome-wide
-association studies. In this talk, we introduce a statistical framework,
-named AdaFDR, for integrating multiple annotations to characterize
-functional roles of genetic variants that underlie human complex
-phenotypes. For a given phenotype, AdaFDR can adaptively incorporates
-relevant annotations for prioritization of genetic risk variants,
-allowing nonlinear effects among these annotations, such as interaction
-effects between genomic features. Specifically, we assume that the prior
-probability of a variant associated with the phenotype is a function of
-its annotations $F(X)$, where $X$ is the collection of the annotation
-status and $F(X)$ is an ensemble of decision trees, i.e.,
-$F(X) = \sum_k f_k(X)$ and $f_k(X)$ is a shallow decision tree. We have
-developed an efficient EM-Boosting algorithm for model fitting, where a
-shallow decision tree grows in a gradient-Boosting manner (Friedman J.
-2001) at each EM-iteration. Our framework inherits the nice property of
-gradient boosted trees: (1) The gradient accent property of the Boosting
-algorithm naturally guarantees the convergence of our EM-Boosting
-algorithm. (2) Based on the fitted ensemble $\hat{F}(X)$, we are able to
-rank the importance of annotations, measure the interaction among
-annotations and visualize the model via partial plots (Friedman J.
-2008). Using AdaFDR, we performed integrative analysis of genome-wide
-association studies on human complex phenotypes and genome-wide
-annotation resources, e.g., Roadmap epigenome. The analysis results
-revealed interesting regulatory patterns of risk variants. These
-findings deepen our understanding of genetic architectures of complex
-phenotypes. The statistical framework developed here is also broadly
-applicable to many other areas for integrative analysis of rich data
-sets.
+$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
+Taipei 11529, Taiwan
 
-<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
-functional annotation, genomic data
+<span>**Abstract**</span>. In this paper, we propose a new clustering
+method to measure influence of papers in all areas of science. To see
+structure of entire relationship we apply stochastic block model (SBM)
+on big scale citation network data. SBM generates a matrix which divides
+several blocks which represent relationship among research fields. We
+show this matrix can be used to visual exploratory analysis. When lists
+of papers are mapped this matrix we can get useful information by varied
+locations in visually. Elastic Map is used as dimension reduction method
+to calculate scalar value onto onto the corresponding principal points
+of each papers. We demonstrate that this projection score is can be used
+to evaluate divergence impact of papers across all field. To illustrate
+one application of our method, we analyze 450k+ articles published
+between 1981 and 2016 Web of Science data. In this beta version of our
+system, Edward, probabilistic programming language is used for
+estimation of SBM parameters and calculation of divergence score of
+papers.
+
+<span>**Keywords**</span>. Institutional Research, Stochastic Block
+Model, Elastic Map
 
 References {#references .unnumbered}
 ----------
 
-Friedman, Jerome H (2001). Greedy function approximation: a gradient
-boosting machine, *Annals of statistics*, **29:5**,1189–1232.
+Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
+stochastic block structures. *Journal of the American Statistical
+Association*, 96, 1077–1087.
 
-Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
-Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
+Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds
+and their Practical Applications. *Computing*, 75(4), 359–379.
+
+Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
+(2016). Edward: A library for probabilistic modeling, inference, and
+criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
 ## TBA-SU {-}
@@ -2208,6 +2238,56 @@ Liquet, B., Lafaye de Micheaux, P., Hejblum, B. & Thiebaut, R. (2016),
 *Group and sparse group partial least square approaches applied in
 genomics context*, Bioinformatics 32, 35-42.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
+## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
+<p style="text-align:center">
+Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
+^1^Nara Institute of Science and Technology<br />
+^2^Okayama University<br />
+</p>
+<span>**Evaluation of spatial cluster detection method based on all
+geographical linkage patterns**</span>
+
+Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
+
+$^1 \;$ Graduate School of Environmental and Life Science, Okayama
+University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
+
+$^2 \;$ Graduate School of Information Science, Nara Institute of
+Science and Technology, Nara, Japan
+
+<span>**Abstract**</span>. Currently, it is becoming easier to analyze
+the various types of spatial data and express them visually on a map.
+However, it is still difficult to estimate the location of spatial
+clusters based on statistical evidence. The spatial scan statistic
+(Kulldorff 1997), which is based on the idea of maximizing the
+likelihood of cluster, has been widely used for spatial cluster
+detection method. It is important how effectively and efficiently we
+find a cluster whose likelihood is high, and to find such a cluster,
+some scan approaches are proposed. However, most of them are limited in
+the shape of a detected cluster, or need an unrealistic computational
+time if the data size is too large. The zero-suppressed binary decision
+diagram (ZDD) (Minato, 1993), one approach to frequent item set mining,
+enables us to extract all of the potential cluster areas at a realistic
+computational cost. In this study, we try a new way of spatial cluster
+detection method to detect a cluster with truly highest likelihood by
+applying the ZDD, and by using them, we compare and evaluate the
+performance of the existing scan methods.
+
+1.5mm
+
+<span>**Keywords**</span>. Spatial cluster, Spatial scan statistic, ZDD
+
+References {#references .unnumbered}
+----------
+
+Kulldorff, M. (1997). A spatial scan statistic. *Communications in
+Statistics: Theory and Methods*, **26**, 1481–1496.
+
+Minato, S. (1993). Zero-suppressed BDDs for set manipulation in
+combinatorial problems. *In: Proceedings of the 30th ACM/IEEE Design
+Automation Conference*, 272–277.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 4 (260-009)</p>
 ## Scoring Rules For Prediction And Classification Challenges {-}
 <p style="text-align:center">
@@ -2476,6 +2556,53 @@ Liquet, B., & Saracco, J. (2016), *BIG-SIR a Sliced Inverse Regression
 Approach for Massive Data*, Statistics and Its Interface. Vol 9,
 509-520.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
+## Genetic Approach And Statistical Approach For Association Study On DNA Data {-}
+<p style="text-align:center">
+Makoto Tomita<br />
+Tokyo Medical and Dental University<br />
+</p>
+<span>**Genetic Approach and Statistical Approach for Association Study
+on DNA Data**</span>
+
+Makoto Tomita $^1$
+
+$^1 \;$ Clinical Research Center, Medical Hospital of Tokyo Medical and
+Dental University, Tokyo, 113-8519, Japan
+
+<span>**Abstract**</span>. Genomic information such as genome-wide
+association analysis (GWAS) in DNA data is very large, however if the
+sample size corresponding to it is not enough, as an idea to solve, the
+author considers by a statistical approach and a genetic approach. The
+former will be briefly introduced, and the latter will be mainly
+explained. Basically, the method of focusing genome information becomes
+the center of presentation.
+
+<span>**Keywords**</span>. genome wide association study, linkage
+disequilibrium, statistical power
+
+References {#references .unnumbered}
+----------
+
+Tomita, M. (2013). Focusing Approach Using LD Block and Association
+Study with Haplotype Combination on DNA Data, In: *Proceedings 2013
+Eleventh International Conference on ICT and Knowledge Engineering*,
+5–10. Bangkok: IEEE Conference \#32165.
+
+Tomita, M. (2015). Haplotype estimation, haplotype block identification
+and statistical analysis for DNA data, In: *Conference Program and Book
+of Abstracts, Conference of the International Federation of Classication
+Societies (IFCS-2015)*, 227–228, Bologna.
+
+Tomita, M., Hatsumichi, M. and Kurihara, K. (2008). *Computational
+Statistics and Data Analysis*, **52**(4), 1806–1820.
+
+Tomita, M., Hashimoto, N. and Tanaka, Y. (2011). *Computational
+Statistics and Data Analysis*, **55**(6), 2104–2113.
+
+Tomita, M., Kubota, T. and Ishioka, F. (2015). *PLoS ONE*, **10**(7),
+e0127358.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
 ## Modeling Of Document Abstraction Using Association Rule Based Characterization {-}
 <p style="text-align:center">
@@ -2663,6 +2790,59 @@ Publishing Co.
 
 Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
 Hall/CRC.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
+## Symbolic Data Analytical Approach To Unauthorized-Access Logs {-}
+<p style="text-align:center">
+Hiroyuki Minami and Masahiro Mizuta<br />
+Hokkaido University<br />
+</p>
+<span>**Symbolic data analytical approach to unauthorized-access
+logs**</span>
+
+Hiroyuki MINAMI and Masahiro MIZUTA
+
+Information Initiative Center, Hokkaido University, Sapporo 060-0811
+JAPAN
+
+<span>**Abstract**</span>. We have been annoyed by tons of unwilling
+accesses in many Internet applications including SSH (Secure SHell)
+known as a typical remote access tool and E-mail delivery protocols. An
+attacked server put a report according to the configuration and the log
+files have grown day by day.
+
+Bad accesses might be caused by computer virus and so-called
+<span>*zombie*</span>, a hi-jacked computer. We assume that the actions
+would have their own trends. For example, we sometimes find that a few
+attacks come simultaneously from only 1 site, however, we also find
+several attacks from a set of the sites within 1 minute or 1 day. The
+IP-Addresses might be variable, however, within the assigned range. It
+suggests that the victimizer is just one but gets an IP-Address
+allocation so many times.
+
+To analyze the log files and give an interpretation to them, we
+introduce Symbolic Data Analysis (SDA) to adopt its main idea
+<span>*concept*</span>. If we configure an appropriate
+<span>*concept*</span> whose elements (<span> *individuals*</span> in
+SDA) are IP-Address, port-numbers and attack time span, we can reveal
+some relationship between <span>*concepts*</span> and classify them into
+perspective. The results would give us some useful information to
+protect our Internet environment.
+
+We discuss how we get them and the interpretation appropriately through
+some practical examples.
+
+<span>**Keywords**</span>. Invalid network access, Firewall, Massive
+Data Analysis
+
+References {#references .unnumbered}
+----------
+
+Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
+
+Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
+logs by Internet Firewall. *Proceedings of 2016 International Conference
+for JSCS 30th Anniversary in Seattle*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 4 (260-009)</p>
 ## My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid {-}

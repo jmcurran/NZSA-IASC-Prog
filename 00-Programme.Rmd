@@ -41,7 +41,7 @@
 <td class = "contributed">Calendar-Based Graphics For Visualising People's Daily Schedules<br/>Earo Wang</td>
 <td class = "contributed">Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract<br/>Paolo Victor Redondo</td>
 <td class = "contributed">IGESS: A Statistical Approach To Integrating Individual Level Genotype Data And Summary Statistics In Genome Wide Association Studies<br/>Xiang Wan</td>
-<td class = "contributed">Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns<br/>Fumio Ishioka</td>
+<td class = "contributed">Author Name Identification For Evaluating Research Performance Of Institutes<br/>Tomokazu Fujino</td>
 </tr>
 <tr>
 <td class = "time">1050</td>
@@ -50,7 +50,7 @@
 <td class = "contributed">Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels<br/>Youngseon Lee</td>
 <td class = "contributed">Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency<br/>Erniel Barrios</td>
 <td class = "contributed">Lsmm: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies<br/>Jingsi Ming</td>
-<td class = "contributed">Genetic Approach And Statistical Approach For Association Study On DNA Data<br/>Makoto Tomita</td>
+<td class = "contributed">A Study Of The Influence Of Articles In The Large-Scale Citation Network<br/>Frederick Kin Hing Phoa</td>
 </tr>
 <tr>
 <td class = "time">1110</td>
@@ -59,7 +59,7 @@
 <td class = "contributed">Innovative Bayesian Estimation In The von Mises Distribution<br/>Yuta Kamiya</td>
 <td class = "contributed">Evidence Of Climate Change From Nonparametric Change-Point Analysis<br/>Angela Nalica</td>
 <td class = "contributed">Joint Analysis Of Individual Level Genotype Data And Summary Statistics By Leveraging Pleiotropy<br/>Can Yang</td>
-<td class = "contributed">Symbolic Data Analytical Approach To Unauthorized-Access Logs<br/>Hiroyuki Minami</td>
+<td class = "contributed">An Advanced Approach For Time Series Forecasting Using Deep Learning<br/>Balaram Panda</td>
 </tr>
 <tr>
 <td class = "time">1130</td>
@@ -67,8 +67,8 @@
 <td class = "contributed">Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information<br/>Timothy Bilton</td>
 <td class = "contributed">A Simple Method For Grouping Patients Based On Historical Doses<br/>Shengli Tzeng</td>
 <td class = "contributed">Semiparametric Mixed Analysis Of Covariance Model<br/>Joseph Ryan Lansangan</td>
-<td class = "contributed">An Advanced Approach For Time Series Forecasting Using Deep Learning<br/>Balaram Panda</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data<br/>Can Yang</td>
+<td class = "contributed">Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization<br/>Yuji Mizukami</td>
 </tr>
 <tr>
 <td class = "time">1150</td>
@@ -76,8 +76,8 @@
 <td class = "contributed">Vector Generalized Linear Time Series Models<br/>Victor Miranda</td>
 <td class = "contributed">Local Canonical Correlation Analysis For Multimodal Labeled Data<br/>Seigo Mizutani</td>
 <td class = "contributed">A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data<br/>Balaram Panda</td>
-<td class = "contributed">Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data<br/>Can Yang</td>
 <td class = "contributed">NA</td>
+<td class = "contributed">Clustering Of Research Subject Based On Stochastic Block Model<br/>Keisuke Honda</td>
 </tr>
 <tr>
 <td class = "time">1210</td>
@@ -151,7 +151,7 @@
 <td class = "contributed">Robustness Of Temperature Reconstruction For Past 500 Years<br/>Matthew Schofield</td>
 <td class = "contributed">Nonparametric Causal Inference By The Kernel Method<br/>Yuchi Matsuoka</td>
 <td class = "contributed">A Unified Regularized Group Pls Algorithm Scalable To Big Data<br/>Pierre Lafaye de Micheaux</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns<br/>Fumio Ishioka</td>
 <td class = "contributed">Scoring Rules For Prediction And Classification Challenges<br/>Matt Parry</td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@
 <td class = "contributed">Real-Time Transit Network Modelling For Improved Arrival Time Predictions<br/>Tom Elliott</td>
 <td class = "contributed">Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data<br/>Matthew Sutton</td>
 <td class = "contributed">BIG-SIR A Sliced Inverse Regression Approach For Massive Data<br/>Benoit Liquet</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Genetic Approach And Statistical Approach For Association Study On DNA Data<br/>Makoto Tomita</td>
 <td class = "contributed">Modeling Of Document Abstraction Using Association Rule Based Characterization<br/>Ken Nittono</td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@
 <td class = "contributed">Bayesian Survival Analysis Of Batsmen In Test Cricket<br/>Oliver Stevenson</td>
 <td class = "contributed">Covariate Discretisation On Big Data<br/>Hon Hwang</td>
 <td class = "contributed">Visualization And Statistical Modeling Of Financial Big Data<br/>Masayuki Jimichi</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Symbolic Data Analytical Approach To Unauthorized-Access Logs<br/>Hiroyuki Minami</td>
 <td class = "contributed">My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid<br/>Robert Borotkanics</td>
 </tr>
 </tbody>
@@ -419,7 +419,7 @@
 </tr>
 <tr>
 <td class = "time">1430</td>
-<td class = "contributed">Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications<br/>Shih-Feng Huang</td>
+<td class = "contributed">"Bayesian Structure Selection For Vector Autoregression Model<br/>Ray-Bing Chen"</td>
 <td class = "contributed">Testing For Genetic Associations In Arbitrarily Structured Populations<br/>Minsun Song</td>
 <td class = "contributed">Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation<br/>Beomseuk Hwang</td>
 <td class = "contributed">Regularized Noise-Reduction Methodology For High-Dimensional Data<br/>Kazuyoshi Yata</td>
@@ -428,7 +428,7 @@
 </tr>
 <tr>
 <td class = "time">1450</td>
-<td class = "contributed">"Bayesian Structure Selection For Vector Autoregression Model<br/>Ray-Bing Chen"</td>
+<td class = "contributed">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</td>
 <td class = "contributed">Meta-Analytic Principal Component Analysis In Integrative Omics Application<br/>George Tseng</td>
 <td class = "contributed">Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction<br/>Michio Yamamoto</td>
 <td class = "contributed">Selecting The Number Of Principal Components<br/>Yunjin Choi</td>
@@ -437,7 +437,7 @@
 </tr>
 <tr>
 <td class = "time">1510</td>
-<td class = "contributed">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</td>
+<td class = "contributed">NA</td>
 <td class = "contributed">Phylogenetic Tree-Based Microbiome Association Test<br/>Sungho Won</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator<br/>Joong-Ho Won</td>
@@ -523,7 +523,7 @@
 <td class = "contributed">Penalized Vector Generalized Additive Models<br/>Thomas Yee</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Cross Covariance Estimation For Integration Of Multi-Omics Data<br/>Hyungwon Choi</td>
-<td class = "contributed">Author Name Identification For Evaluating Research Performance Of Institutes<br/>Tomokazu Fujino</td>
+<td class = "contributed">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</td>
 <td class = "contributed">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</td>
 <td class = "contributed">Testing For Genetic Associations In Arbitrarily Structured Populations<br/>Minsun Song</td>
 </tr>
@@ -532,7 +532,7 @@
 <td class = "contributed">Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators<br/>Chihhao Chang</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Regularized Noise-Reduction Methodology For High-Dimensional Data<br/>Kazuyoshi Yata</td>
-<td class = "contributed">A Study Of The Influence Of Articles In The Large-Scale Citation Network<br/>Frederick Kin Hing Phoa</td>
+<td class = "contributed">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</td>
 <td class = "contributed">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</td>
 <td class = "contributed">Meta-Analytic Principal Component Analysis In Integrative Omics Application<br/>George Tseng</td>
 </tr>
@@ -541,7 +541,7 @@
 <td class = "contributed">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Selecting The Number Of Principal Components<br/>Yunjin Choi</td>
-<td class = "contributed">Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization<br/>Yuji Mizukami</td>
+<td class = "contributed">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</td>
 <td class = "contributed">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</td>
 <td class = "contributed">Phylogenetic Tree-Based Microbiome Association Test<br/>Sungho Won</td>
 </tr>
@@ -550,7 +550,7 @@
 <td class = "contributed">Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models<br/>Yuichi Hirose</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator<br/>Joong-Ho Won</td>
-<td class = "contributed">Clustering Of Research Subject Based On Stochastic Block Model<br/>Keisuke Honda</td>
+<td class = "contributed">NA</td>
 <td class = "contributed">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</td>
 <td class = "contributed">Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series<br/>Kyungduk Ko</td>
 </tr>
