@@ -1,12 +1,4 @@
-<span>**Model-based clustering for multivariate categorical data with
-dimension reduction**</span>
-
-Michio Yamamoto$^1$
-
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, Okayama, Japan
-
-<span>**Abstract**</span>. A novel model-based clustering procedure for
+<span>**Abstract:**</span> A novel model-based clustering procedure for
 multivariate categorical data is proposed. The proposed model assumes
 that each response probability has a low-dimensional representation of
 the cluster structure, which is constructed by weights for categorical
@@ -25,11 +17,10 @@ penalized likelihood criterion, we develop an expectation-maximization
 shown that there is trade-off relation between the convergence rate of
 the algorithm and the cluster recovery.
 
-<span>**Keywords**</span>. clustering, categorical data, dimension
+<span>**Keywords:**</span> clustering, categorical data, dimension
 reduction, EM algorithm, sparse estimation
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Cutler, A., Breiman, L. (1994). Archetypal analysis. *Technometrics*,
 **36**, 338–347.
