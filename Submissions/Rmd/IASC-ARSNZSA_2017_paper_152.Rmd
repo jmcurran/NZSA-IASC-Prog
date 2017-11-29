@@ -1,11 +1,4 @@
-<span>**Statistical challenges for proteogenomic data analysis**</span>
-
-Yusuke Matsui
-
-Division of Systems Biology, Nagoya University Graduate School of
-Medicine, Japan
-
-<span>**Abstract**</span>. Large-scale integrated cancer genome and
+<span>**Abstract:**</span> Large-scale integrated cancer genome and
 proteome characterization efforts including the cancer genome atlas and
 clinical proteomic tumor analysis consortium have opened unprecedented
 opportunities to reveal the comprehensive understandings of cancer
@@ -28,11 +21,10 @@ clinical data. We will present the progression of our current work as
 well as discussing the statistical approaches, using actual ongoing
 clinical dataset.
 
-<span>**Keywords**</span>. Bioinformatics, Proteogenomics, Cancer,
+<span>**Keywords:**</span> Bioinformatics, Proteogenomics, Cancer,
 Multi-omics data, Data analysis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Philipp, M., <span>*et al.*</span> (2016) Proteogenomics connects
 somatic mutations to signalling in breast cancer. *Nature*, 534:55–62.
