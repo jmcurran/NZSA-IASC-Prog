@@ -1,13 +1,4 @@
-Modified Gene Shaving Algorithm - a Dimension Reduction and Clustering
-Method
-
-Donna Mae Santos2 Erniel Barrios1 Joseph Ryan Lansangan1 1University of
-the Philippines Diliman, Quezon City, Philippines 2Quirino State
-University Diffun, Quirino Philippines
-
-Abstract
-
-High dimensional data exist in digital images, financial time series and
+<span>**Abstract:**</span> High dimensional data exist in digital images, financial time series and
 gene expression microarrays. Dealing with high dimensionality has become
 a challenge, where the difficulty lies on how to visualize and explore
 the high dimensional function or data set. Gene shaving is a statistical
@@ -29,6 +20,6 @@ exploration and identification of a group of variables worth for further
 investigation, as well as clustering/groups of variables for
 understanding variable structures/relationships.
 
-Keywords: High dimensional data, Cluster of Variables, Gene Shaving,
+<span>**Keywords:**</span> High dimensional data, Cluster of Variables, Gene Shaving,
 Principal Component Analysis, Sparse Principal Component Analysis,
 Dimension Reduction
