@@ -1,15 +1,4 @@
-<span>**Canonical Covariance Analysis for Mixed Numerical and
-Categorical Three-way Three-mode Data**</span>
-
-Jun Tsuchida$^1$ and Hiroshi Yadohisa$^2$
-
-$^1 \;$ Graduate School of Culture and Information Science, Doshisha
-University, 1-3 Tataramiyakodani, Kyotanave, Kyoto, Japan
-
-$^2 \;$ Department of Culture and Information Science, Doshisha
-University, 1-3 Tataramiyakodani, Kyotanave, Kyoto, Japan
-
-<span>**Abstract**</span>. Three-mode three-way data (objects $\times$
+<span>**Abstract:**</span> Three-mode three-way data (objects $\times$
 variable $\times$ conditions) have been observed in many areas of
 research. For example, panel data often include values for the same
 objects and variables at different times. Given two three-mode three-way
@@ -26,11 +15,10 @@ numerical and categorical variables. We use an optimal scaling method
 because the values of a categorical variable could not be compared with
 the value of a numerical variable.
 
-<span>**Keywords**</span>. Alternative least squares, Dimensional
-reduction, Optimal scaling,Quantification method
+<span>**Keywords:**</span> Alternative least squares, Dimensional
+reduction, Optimal scaling, Quantification method
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Young, F. W. (1981). Quantitative analysis of qualitative data.
 *Psychometrika*, **46**, pp. 357–388
