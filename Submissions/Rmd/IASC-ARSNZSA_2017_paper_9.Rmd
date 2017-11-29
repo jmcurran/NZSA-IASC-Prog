@@ -5,4 +5,4 @@ overview of the options, including creating excellent documentation
 (with roxygen2) and vignettes (with rmarkdown), creating a package
 website (with pkgdown), and promoting your work on social media.
 
-<span>**Keywords:**</span> R packages, websites.
+<span>**Keywords:**</span> R packages, websites
