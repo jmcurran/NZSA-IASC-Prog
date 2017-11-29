@@ -6,5 +6,7 @@ existence of a change-point (assuming that location of the change is
 known) based on nonparametric bootstrap. The method is used in verifying
 whether the southern oscillation index exhibits change-point which is
 taken as an evidence of climate change. There is indeed an evidence of
-climate change in the period. Keywords: change-point analysis, block
+climate change in the period.
+
+<span>**Keywords:**</span> change-point analysis, block
 bootstrap, southern oscillation index (SOI)
