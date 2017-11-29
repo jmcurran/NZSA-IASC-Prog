@@ -1,4 +1,4 @@
-<span>**Abstract:**</span>. We have been annoyed by tons of unwilling
+<span>**Abstract:**</span> We have been annoyed by tons of unwilling
 accesses in many Internet applications including SSH (Secure SHell)
 known as a typical remote access tool and E-mail delivery protocols. An
 attacked server put a report according to the configuration and the log
