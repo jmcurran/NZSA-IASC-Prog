@@ -1,10 +1,4 @@
-Factors Influencing on Growth of Garment Industry in Bangladesh Md.
-Shahidul Islam, Mohammad Sazzad Mosharrof School of Engineering,
-Computer and Mathematical Sciences Auckland University of Technology,
-Auckland New Zealand, 1010 Email: shahidul.islam@aut.ac.nz ;
-sshahid01921@gmail.com
-
-Abstract If globalization provides the backdrop for drama, then the
+<span>**Abstract:**</span> If globalization provides the backdrop for drama, then the
 achievements of the garment industry in Bangladesh are indeed dramatic.
 The garment industry particularly has played a pioneering role in the
 development of industrial sector of Bangladesh and has grown rapidly for
@@ -42,5 +36,7 @@ strongly suggest that the performance of manufacturers and traders as
 well as production technologies are very potential for the high growth
 of industrial development. It has a great opportunity to earn a lot of
 foreign currency through developing garment industry and contribute
-economic development. Keywords: Bangladesh Garments, Growth of Garment
+economic development.
+
+<span>**Keywords:**</span> Bangladesh Garments, Growth of Garment
 Industry, Performance of Manufacturers and Traders, Statistical Model
