@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-In this paper we propose a bi-level variable selection approach, Bivas,
+<span>**Abstract:**</span> In this paper we propose a bi-level variable selection approach, Bivas,
 for linear regression under the Bayesian framework. This model assumes
 that each variable is assigned to a pre-specified group where only a
 subset of the groups truly contribute to the response variable. Besides,
