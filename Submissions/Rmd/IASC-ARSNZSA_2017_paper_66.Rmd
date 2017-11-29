@@ -1,11 +1,7 @@
-<span>**Abstract:**</span>.
-
- Multimix
-
-:   is the name for a class of multivariate finite mixture models
-    designed with clustering (<span>*unsupervised learning*</span>)
-    in mind. It is also a name for a program to fit these models,
-    written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
+<span>**Abstract:**</span> Multimix is the name for a class of multivariate finite mixture models
+designed with clustering (<span>*unsupervised learning*</span>)
+in mind. It is also a name for a program to fit these models,
+written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
 
  Why convert to R?
 
