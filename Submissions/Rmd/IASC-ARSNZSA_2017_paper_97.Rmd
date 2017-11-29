@@ -1,12 +1,4 @@
-<span>**Analysis of Spatial Data with a Gaussian Mixture Markov Random
-Field Model** </span>
-
-Wataru Sakamoto
-
-Graduate School of Environmental and Life Science, Okayama University,
-700-8530, Japan
-
-<span>**Abstract**</span>. In spatial data, detecting regions with
+<span>**Abstract:**</span> In spatial data, detecting regions with
 higher relative risk is of primary interest. A latent Markov random
 field model with Gaussian mixture component is introduced, in which the
 probit or the logit of the mixture weight for each location follows a
@@ -21,11 +13,10 @@ spatial structure. Our computation was conducted with R Stan package, in
 which the Hamiltonian Monte Carlo method is implemented. Some
 applications to disease mapping data are illustrated.
 
-<span>**Keywords**</span>. Bayesian modeling, spatial cluster detection,
+<span>**Keywords:**</span> Bayesian modeling, spatial cluster detection,
 spatial correlation
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Fernández, C. and Green, P. J. (2002). Modelling spatially correlated
 data via mixtures: a Bayesian approach. *J. Roy. Statist. Soc. B*,
