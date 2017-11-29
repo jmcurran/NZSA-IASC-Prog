@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-For some scientists, seeing a statistician in the corridor is the
+<span>**Abstract:**</span> For some scientists, seeing a statistician in the corridor is the
 equivalent of coming face to face with the grim reaper. They fear being
 beaten over the head with a Stat101 textbook as you try to hammer into
 them the importance of replication, randomisation or an appropriate
