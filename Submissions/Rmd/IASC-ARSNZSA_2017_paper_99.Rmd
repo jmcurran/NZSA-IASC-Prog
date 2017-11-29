@@ -14,4 +14,4 @@ individual-level data analysis.
 
 <span>**Keywords:**</span> Summary statistics; Genome-wide association
 study; Probabilistic model; Gibbs sampling; Heritability;
-Co-heritability.
+Co-heritability
