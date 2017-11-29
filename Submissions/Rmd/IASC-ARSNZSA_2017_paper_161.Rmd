@@ -1,18 +1,4 @@
-<span>**Joint Analysis of Individual Level Genotype Data and Summary
-Statistics by Leveraging Pleiotropy**</span>
-
-Mingwei Dai$^1$, Can Yang$^2$ and Jin Liu$^3$
-
-$^1 \;$ School of Mathematics and Statistics, Xi’an Jiaotong University,
-Xi’an, China
-
-$^2 \;$ Department of Mathematics, Hong Kong University of Science and
-Technology, Hong Kong
-
-$^3 \;$ Centre of Quantitative Medicine, Duke-NUS Medical School,
-Singapore
-
-<span>**Abstract**</span>. Results from Genome-wide association studies
+<span>**Abstract:**</span> Results from Genome-wide association studies
 (GWAS) suggest that a complex phenotype is often affected by many
 variants with small effects, known as “polygenicity”. Tens of thousands
 of samples are often required to ensure statistical power of identifying
@@ -40,11 +26,10 @@ summary statistics from other studies. LEP was able to significantly
 increase the statistical power of identifying risk variants and improve
 the risk prediction accuracy by jointly analyzing autoimmune diseases.
 
-<span>**Keywords**</span>. GWAS, pleiotropy, polygenicity, summary
+<span>**Keywords:**</span> GWAS, pleiotropy, polygenicity, summary
 statistics, variational inference
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Solovieff N, Cotsapas C, Lee P H, et al. (2013) Pleiotropy in complex
 traits: challenges and strategies In: *Nature reviews. Genetics* 14(7):
