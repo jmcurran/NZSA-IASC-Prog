@@ -1,6 +1,4 @@
-**Abstract**
-
-Complex multiple seasonality is an important emerging challenge in time
+<span>**Abstract:**</span> Complex multiple seasonality is an important emerging challenge in time
 series forecasting. We propose a framework that segregates the task into
 two stages. In the first stage, the time series is aggregated at the low
 frequency level (such as daily or weekly) and suitable methods such as
@@ -22,6 +20,6 @@ will be facilitated. Forecast combination may also be integrated with
 the developed routine. The schematics will be presented along with
 demonstration of the package in several real data sets.
 
-Keywords: Additive seasonality, ARIMA, forecast combination, high
+<span>**Keywords:**</span> Additive seasonality, ARIMA, forecast combination, high
 frequency, low frequency, multiplicative seasonality, polynomial
-seasonality, regression, TBATS, trigonometric seasonality.
+seasonality, regression, TBATS, trigonometric seasonality
