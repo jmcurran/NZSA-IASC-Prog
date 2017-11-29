@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-In 2004, Aitken and Lucy published an article detailing a two-level
+<span>**Abstract:**</span> In 2004, Aitken and Lucy published an article detailing a two-level
 likelihood ratio for multivariate trace evidence. This model has been
 adopted in a number of forensic disciplines such as the interpretation
 of glass, drugs (MDMA), and ink. Modern instrumentation is capable of
