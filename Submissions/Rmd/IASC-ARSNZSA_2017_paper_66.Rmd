@@ -1,11 +1,4 @@
-<span>**Bringing Multimix from Fortran to R**</span>
-
-Murray Jorgensen$^1$
-
-$^1 \;$ Department of Mathematical Sciences, Auckland University of
-Technology, 55 Wellesley St E, Auckland, 1010, New Zealand
-
-<span>**Abstract**</span>.
+<span>**Abstract:**</span>.
 
  Multimix
 
@@ -43,5 +36,5 @@ Designing the new program
 I am conscious that I may not always have made the best design decisions
 and comments from others will be welcomed.
 
-<span>**Keywords**</span>. multivariate finite mixture models,
+<span>**Keywords:**</span> multivariate finite mixture models,
 clustering, package, global, local
