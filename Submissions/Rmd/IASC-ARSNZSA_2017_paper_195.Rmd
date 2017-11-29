@@ -1,8 +1,4 @@
-Tick-by-tick effect on the inference of ultra-high frequency data
-
-Zhi LIU University of Macau
-
-Abstract: In the inference of ultra-high frequency data, the existing
+<span>**Abstract:**</span> In the inference of ultra-high frequency data, the existing
 methods are challenged by the tick-by-tick effect, namely, the
 transactions recorded simultaneously at a time point. In this talk, we
 will discuss how it influences the estimation of integrated volatility
