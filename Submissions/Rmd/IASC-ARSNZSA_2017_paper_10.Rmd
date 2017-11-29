@@ -1,12 +1,4 @@
-<span>**Incorporating genetic networks into case-control association
-studies with high-dimensional DNA methylation data**</span>
-
-Hokeun Sun$^1$
-
-$^1 \;$ Department of Statistics, Pusan National University, Busan
-46241, Korea
-
-<span>**Abstract**</span>. In human genetic association studies with
+<span>**Abstract:**</span> In human genetic association studies with
 high-dimensional microarray data, it has been well known that
 statistical methods utilizing prior biological network knowledge such as
 genetic pathways and signaling pathways can outperform other methods
@@ -29,5 +21,5 @@ terms of true positive selection. We also applied it to the 450K DNA
 methylation array data of the four breast invasive carcinoma cancer
 subtypes from The Cancer Genome Atlas (TCGA) project.
 
-<span>**Keywords**</span>. Independent component analysis, network-based
+<span>**Keywords:**</span> Independent component analysis, network-based
 regularization, genetic network, DNA methylation, high-dimensional data
