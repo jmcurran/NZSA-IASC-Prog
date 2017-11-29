@@ -1,10 +1,4 @@
-<span>**Abstract**</span>
-Modelling the distribution of lifetime using compound time-homogenous
-Poisson process
-
-Kien Trung Tran Victoria University of Wellington
-
-Modelling the distribution of lifetime has traditionally been done by
+<span>**Abstract:**</span> Modelling the distribution of lifetime has traditionally been done by
 constructing a deterministic function for the survival function and/or
 force of mortality. This paper outlines previous research and presents
 the author’s initial attempts to model the force of mortality and
@@ -30,11 +24,11 @@ random variable, then we can model the survival function of New Zealand
 population much better than several existing well-known specifications
 such as Weibull.
 
-Keyword: Distribution of lifetime, force of mortality, survival
+<span>**Keywords:**</span> Distribution of lifetime, force of mortality, survival
 function, time-homogenous compound Poisson process, innate lifetime, R
 simulation
 
-References
+<span>**References:**</span>
 
 Khmaladze, E (2013). Statistical methods with application to demography
 and life insurance. CRC Press.
