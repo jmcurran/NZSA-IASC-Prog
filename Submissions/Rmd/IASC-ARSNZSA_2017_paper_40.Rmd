@@ -1,12 +1,4 @@
-<span>**Genetic Approach and Statistical Approach for Association Study
-on DNA Data**</span>
-
-Makoto Tomita $^1$
-
-$^1 \;$ Clinical Research Center, Medical Hospital of Tokyo Medical and
-Dental University, Tokyo, 113-8519, Japan
-
-<span>**Abstract**</span>. Genomic information such as genome-wide
+<span>**Abstract:**</span> Genomic information such as genome-wide
 association analysis (GWAS) in DNA data is very large, however if the
 sample size corresponding to it is not enough, as an idea to solve, the
 author considers by a statistical approach and a genetic approach. The
@@ -14,11 +6,10 @@ former will be briefly introduced, and the latter will be mainly
 explained. Basically, the method of focusing genome information becomes
 the center of presentation.
 
-<span>**Keywords**</span>. genome wide association study, linkage
+<span>**Keywords:**</span> genome wide association study, linkage
 disequilibrium, statistical power
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tomita, M. (2013). Focusing Approach Using LD Block and Association
 Study with Haplotype Combination on DNA Data, In: *Proceedings 2013
