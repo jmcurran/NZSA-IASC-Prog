@@ -1,10 +1,4 @@
-<span>**Vector Generalized Linear Time Series Models**</span>
-
-Victor Miranda$^1$ and Thomas Yee$^1$
-
-$^1 \;$ Department of Statistics, University of Auckland, Auckland, NZ.
-
-<span>**Abstract**</span>. Since the introduction of the ARMA class in
+<span>**Abstract:**</span> Since the introduction of the ARMA class in
 the early 1970s many time series (TS) extensions have been proposed,
 e.g., vector ARMA and GARCH-type models for heteroscedasticity. The
 result has been a plethora of models having pockets of substructure but
@@ -22,10 +16,9 @@ implementation in , and properties such as stationarity, parameters
 depending on covariates, expected information matrices and cointegrated
 TS are surveyed.
 
-<span>**Keywords**</span>. VGLM, time series, Fisher scoring.
+<span>**Keywords:**</span> VGLM, time series, Fisher scoring.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Yee, T. W. (2015) *Vector Generalized Linear and Additive Models: With
 an Implementation in R.* New York, USA: Springer.
