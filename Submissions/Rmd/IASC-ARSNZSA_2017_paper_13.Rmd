@@ -1,9 +1,4 @@
-<span>*Department of Mathematics, Indian Institute of Technology Patna,
-Bihta-801106, India*</span>\
-
-<span>**Abstract**</span>
-
-In this work we consider a two-parameter distribution with bathtub shape
+<span>**Abstract:**</span> In this work we consider a two-parameter distribution with bathtub shape
 under progressive first failure censoring. We obtain maximum likelihood
 estimates of unknown parameters and then compute observed Fisher
 information matrix. Further we consider a non linear regression model to
@@ -14,11 +9,8 @@ method and Metropolis-Hastings algorithm against gamma prior
 distributions. One- and two-sample prediction problems are discussed
 under Bayesian framework. We study the performance of proposed methods
 using Monte Carlo Simulations and finally analyze a real data set for
-illustration purposes.\
+illustration purposes.
 
-<span>**<span>Keywords:</span>**</span> Bayes estimates, Highest
+<span>**Keywords:**</span> Bayes estimates, Highest
 posterior density interval, Least square estimation, Maximum likelihood
 estimates, Progressive first failure censoring.
-
-Email: tanmay.pma13@iitp.ac.in\
-Phone: +91-9093251231
