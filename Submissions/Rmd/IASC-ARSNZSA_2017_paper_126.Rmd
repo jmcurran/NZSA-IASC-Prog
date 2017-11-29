@@ -1,4 +1,4 @@
-<span>**Abstract:**</span>. The Nested Sampling algorithm, invented in
+<span>**Abstract:**</span> The Nested Sampling algorithm, invented in
 the mid-2000s by John Skilling, represented a major advance in Bayesian
 computation. Whereas Markov Chain Monte Carlo (MCMC) methods are usually
 effective for sampling posterior distributions, Nested Sampling also
@@ -15,7 +15,7 @@ derived quantities. I will present an example from experimental design,
 where one wants to optimise the relevance of the data for inference of a
 parameter.
 
-<span>**Keywords:**</span>. Bayesian inference, Nested Sampling, Markov
+<span>**Keywords:**</span> Bayesian inference, Nested Sampling, Markov
 Chain Monte Carlo, Information theory
 
 <span>**References:**</span>
