@@ -1,17 +1,4 @@
-<span>**Imputation of the 2016 Economic Census for Business Activity in
-Japan**</span>
-
-Kazumi WADA$^1$, Hiroe TSUBAKI$^2$, Yukako TOKO$^1$ and\
-Hidemine SEKINO$^3$
-
-$^1 \;$ National Statistics Center, Japan
-
-$^2 \;$ National Statistics Center, Japan / The Institute of Statistical
-Mathematics
-
-$^3 \;$ The Statistics Bureau, Japan
-
-<span>**Abstract**</span>.\
+<span>**Abstract:**</span>
 R has been used in the field of official statistics in Japan for over
 ten years. This presentation takes up the case of the 2016 Economic
 Census for Business Activity. The Census aims to identify the structure
@@ -44,7 +31,7 @@ regression tree), model selection and preparing necessary rates by
 domain for the census data processing are conducted within the R
 programming environment.\
 
-<span>**Keywords**</span>. GNU R, Outlier, Iteratively reweighted least
+<span>**Keywords:**</span> GNU R, Outlier, Iteratively reweighted least
 squares, Ratio estimator, Official statistics
 
 <span>**Acknowledgement**</span>.\
