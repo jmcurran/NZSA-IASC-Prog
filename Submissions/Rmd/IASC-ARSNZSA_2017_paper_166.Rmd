@@ -1,14 +1,4 @@
-<span>**Cross covariance estimation for integration of multi-omics
-data**</span>
-
-Johan Lim$^1$, Hiromi Koh$^2$, and Hyungwon Choi$^{2}$
-
-$^1 \;$ Department of Statistics, Seoul National University, Seoul,
-Korea
-
-$^2 \;$ School of Public Health, National University of Singapore
-
-<span>**Abstract**</span>. In integrative analysis of multiple types of
+<span>**Abstract:**</span> In integrative analysis of multiple types of
 -omics data, it is often of interest to infer associations between two
 different types of molecules. The prevailing analysis methods depend on
 ensemble of brute-force pairwise univariate association tests between
@@ -33,10 +23,9 @@ regulation and the rest. We applied the method to epigenetic regulation
 analysis of mRNA expression by DNA methylation in the The Cancer Genome
 Atlas invasive breast cancer cohort.
 
-<span>**Keywords**</span>. Cross covariance matrix, data integration.
+<span>**Keywords:**</span> Cross covariance matrix, data integration.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Simon, N., Friedman, J. and Hastie, T. (2013). *A Blockwise Descent
 Algorithm for Group-penalized Multiresponse and Multinomial Regression*
