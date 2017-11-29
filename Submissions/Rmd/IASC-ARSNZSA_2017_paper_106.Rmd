@@ -1,16 +1,4 @@
-<span>**Consistency of Linear Mixed-Effects Model Selection with
-Inconsistent Covariance Parameter Estimators**</span>
-
-ChihHao Chang$^1$, HsinCheng Huang$^2$ and ChingKang Ing$^3$
-
-$^1 \;$ Institute of Statistics, National University of Kaohsiung,
-Taiwan
-
-$^2 \;$ Institute of Statistical Science, Academia Sinica, Taiwan
-
-$^3 \;$ Institute of Statistics, National Tsing Hua Univeristy, Taiwan
-
-<span>**Abstract**</span>. For linear mixed-effects models with data
+<span>**Abstract:**</span> For linear mixed-effects models with data
 collected within one cluster, the maximum likelihood estimators of
 covariance parameters cannot be estimated consistently. Hence the
 asymptotic behaviors of likelihood-based information criteria, such as
@@ -24,8 +12,7 @@ covariance parameters when the number of clusters is fixed. Furthermore,
 the asymptotic behaviors of the generalized information criterion, which
 includes AIC as special cases, are well studied in our research.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Fan, Y. and Li, R. (2012). Variable selection in linear mixed effects
 models. In: *The Annals of Statistics*, **40**, 2043 - 2068.
