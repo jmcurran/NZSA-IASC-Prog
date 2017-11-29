@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-This paper develops a simple method to construct confidence bands,
+<span>**Abstract:**</span> This paper develops a simple method to construct confidence bands,
 centered at a principal component analysis (PCA) based estimator, for
 the slope function in a functional linear regression model with a scalar
 response variable and a functional predictor variable. The PCA- based
