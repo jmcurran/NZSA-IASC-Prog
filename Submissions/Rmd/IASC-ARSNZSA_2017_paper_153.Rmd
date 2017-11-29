@@ -1,12 +1,4 @@
-<span>**Enhancing the Flexibility of Regression Modelling by Liquid
-Association**</span>
-
-Ker-Chau Li$^1$
-
-$^1 \;$ Institute of Statistical Science, Academia Sinica, Taipei,
-Taiwan
-
-<span>**Abstract**</span>. Multivariate regression aims at the study of
+<span>**Abstract:**</span> Multivariate regression aims at the study of
 the relationship between one set of input variables X and one set of
 output variables Y. Challenges occur when no parametric model is known
 and yet the number of variables is large. To overcome the difficulties,
@@ -17,4 +9,4 @@ varies. In this talk, I will describe a framework to illustrate how the
 LA methodology can help increase the modeling flexibility of
 multivariate regression in analyzing complex data.
 
-<span>**Keywords**</span>. Sliced inverse regression, liquid association
+<span>**Keywords:**</span> Sliced inverse regression, liquid association
