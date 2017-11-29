@@ -1,12 +1,4 @@
-<span>**Comparison of Tests of Mean Difference in Longitudinal Data
-Based on Block Resampling Methods**</span>
-
-Hirohito Sakurai$^1$ and Masaaki Taguri$^1$
-
-$^1 \;$ National Center for University Entrance Examinations, Tokyo
-153-8501, Japan
-
-<span>**Abstract**</span>. Let us consider a two-sample problem in
+<span>**Abstract:**</span> Let us consider a two-sample problem in
 longitudinal data, and discuss comparison of tests of mean difference
 using block resampling methods. The testing methods are based on moving
 block bootstrap (MBB), circular block bootstrap (CBB) and stationary
@@ -26,12 +18,11 @@ to permutation analogy for MBB, CBB and SB, with $T_1$, $T_2$, $T_3$ and
 $S_n$, respectively. Monte Carlo simulations are carried out to examine
 the empirical level and power of the testing methods.
 
-<span>**Keywords**</span>. moving block bootstrap, circular block
+<span>**Keywords:**</span> moving block bootstrap, circular block
 bootstrap, stationary bootstrap, with/without replacement, empirical
 level/power
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lahiri, S. N. (2003). *Resampling Methods for Dependent Data*. New York:
 Springer.
