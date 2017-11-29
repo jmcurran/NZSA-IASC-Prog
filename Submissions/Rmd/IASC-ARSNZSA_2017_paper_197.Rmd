@@ -1,0 +1,7 @@
+<span>**Abstract:**</span> We view the locations and times of a collection of crime events as a space-time point pattern modeled as either a nonhomogeneous Poisson process or a more general log Gaussian Cox process. We need to specify a space-time intensity. Viewing time as circular, necessitates a valid separable and nonseparable covariance functions over a bounded spatial region crossed with circular time. Additionally, crimes are classified by crime type and each crime event is marked by day of the year which we convert to day of the week.
+
+We present marked point pattern models to accommodate such data. Our specifications
+take the form of hierarchical models which we fit within a Bayesian framework. We consider
+model comparison between the nonhomogeneous Poisson process and the log Gaussian Cox
+process as well as separable vs. nonseparable covariance specifications. Our motivating
+dataset is a collection of crime events for the city of San Francisco during the year 2012.

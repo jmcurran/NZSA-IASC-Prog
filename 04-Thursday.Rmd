@@ -1,4 +1,12 @@
 # Programme And Abstracts For Thursday 14^th^ Of December {-}
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+## TBA-JB {-}
+<p style="text-align:center">
+Jenny Bryan<br />
+University of British Columbia<br />
+</p>
+<span>**Abstract:**</span> TBA
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
 ## Penalized Vector Generalized Additive Models {-}
 <p style="text-align:center">
@@ -39,53 +47,6 @@ References {#references .unnumbered}
 
 Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
 an Implementation in R*. New York, USA: Springer.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB4 (260-073)</p>
-## Author Name Identification For Evaluating Research Performance Of Institutes {-}
-<p style="text-align:center">
-Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
-^1^Fukuoka Women's University<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Author Name Identification for Evaluating Research Performance
-of Institutes**</span>
-
-Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
-
-$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
-Kasumigaoka, Fukuoka 813-8529, Japan
-
-$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
-
-<span>**Abstract**</span>. In this paper, we propose a new framework to
-extract a complete list of the articles written by researchers who
-belong to a specific research or educational institute from an academic
-document database such as Web of Science and Scopus. In this framework,
-it is necessary to perform author name identification because the query
-for the database is based on the author’s name to extract documents
-written before the author comming to the current institute. The
-framework is based on the latent dirichlet allocation (LDA), which is a
-kind of topic modeling, and some techniques and indices such as synonym
-retrieval and inverse document frequency (IDF) are used for enhancing
-the framework.
-
-<span>**Keywords**</span>. Institutional Research, Topic Modeling,
-Latent Dirichlet Allocation
-
-References {#references .unnumbered}
-----------
-
-Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
-disambiguation based on approximate structure equivalence of cognitive
-maps. *Scientometrics*, 84(3), 763–784.
-
-Strotmann,A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
-for collaboration network analysis and visualization. *Proc. American
-Society for Information Science and Technology*, 46(1), 1–20.
-
-Soler,J.M. (2007). Separating the articles of authors with the same
-name. *Scientometrics*, 72(2), 281–290.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB5 (260-051)</p>
 ## Cross Covariance Estimation For Integration Of Multi-Omics Data {-}
@@ -140,54 +101,51 @@ Algorithm for Group-penalized Multiresponse and Multinomial Regression*
 Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
+## Author Name Identification For Evaluating Research Performance Of Institutes {-}
 <p style="text-align:center">
-Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
-^1^Nara Institute of Science and Technology<br />
-^2^Okayama University<br />
+Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
+^1^Fukuoka Women's University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Evaluation of spatial cluster detection method based on all
-geographical linkage patterns**</span>
+<span>**Author Name Identification for Evaluating Research Performance
+of Institutes**</span>
 
-Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
+Tomokazu Fujino$^1$, Keisuke Honda$^2$ and Hiroka Hamada$^2$
 
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
+$^1 \;$ Department of Environmental Science, Fukuoka Women’s University,
+Kasumigaoka, Fukuoka 813-8529, Japan
 
-$^2 \;$ Graduate School of Information Science, Nara Institute of
-Science and Technology, Nara, Japan
+$^2 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
 
-<span>**Abstract**</span>. Currently, it is becoming easier to analyze
-the various types of spatial data and express them visually on a map.
-However, it is still difficult to estimate the location of spatial
-clusters based on statistical evidence. The spatial scan statistic
-(Kulldorff 1997), which is based on the idea of maximizing the
-likelihood of cluster, has been widely used for spatial cluster
-detection method. It is important how effectively and efficiently we
-find a cluster whose likelihood is high, and to find such a cluster,
-some scan approaches are proposed. However, most of them are limited in
-the shape of a detected cluster, or need an unrealistic computational
-time if the data size is too large. The zero-suppressed binary decision
-diagram (ZDD) (Minato, 1993), one approach to frequent item set mining,
-enables us to extract all of the potential cluster areas at a realistic
-computational cost. In this study, we try a new way of spatial cluster
-detection method to detect a cluster with truly highest likelihood by
-applying the ZDD, and by using them, we compare and evaluate the
-performance of the existing scan methods.
+<span>**Abstract**</span>. In this paper, we propose a new framework to
+extract a complete list of the articles written by researchers who
+belong to a specific research or educational institute from an academic
+document database such as Web of Science and Scopus. In this framework,
+it is necessary to perform author name identification because the query
+for the database is based on the author’s name to extract documents
+written before the author comming to the current institute. The
+framework is based on the latent dirichlet allocation (LDA), which is a
+kind of topic modeling, and some techniques and indices such as synonym
+retrieval and inverse document frequency (IDF) are used for enhancing
+the framework.
 
-1.5mm
-
-<span>**Keywords**</span>. Spatial cluster, Spatial scan statistic, ZDD
+<span>**Keywords**</span>. Institutional Research, Topic Modeling,
+Latent Dirichlet Allocation
 
 References {#references .unnumbered}
 ----------
 
-Kulldorff, M. (1997). A spatial scan statistic. *Communications in
-Statistics: Theory and Methods*, **26**, 1481–1496.
+Tang, L. and Walsh,J.P. (2010). Bibliometric fingerprints: name
+disambiguation based on approximate structure equivalence of cognitive
+maps. *Scientometrics*, 84(3), 763–784.
 
-Minato, S. (1993). Zero-suppressed BDDs for set manipulation in
-combinatorial problems. *In: Proceedings of the 30th ACM/IEEE Design
-Automation Conference*, 272–277.
+Strotmann,A., Zhao,D. and Bubela,T. (2009). Author name disambiguation
+for collaboration network analysis and visualization. *Proc. American
+Society for Information Science and Technology*, 46(1), 1–20.
+
+Soler,J.M. (2007). Separating the articles of authors with the same
+name. *Scientometrics*, 72(2), 281–290.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
 ## Bayesian Static Parameter Inference For Partially Observed Stochastic Systems {-}
@@ -317,39 +275,6 @@ Sun, Y., Zhang, W. and Tong, H. (2007). Estimation of the covariance
 matrix of random effects in longitudinal studies. In: *The Annals of
 Statistics*, **35**, 2795-2814.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB4 (260-073)</p>
-## A Study Of The Influence Of Articles In The Large-Scale Citation Network {-}
-<p style="text-align:center">
-Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
-^1^Academia Sinica<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**A Study of the Influence of Articles in the Large-Scale Citation
-Network**</span>
-
-Frederick K. H. Phoa and Livia Lin Hsuan Chang\
-<span>*Institute of Statistical Science, Academia Sinica, Taipei 115,
-Taiwan.*</span>\
-
-> <span>**Abstract:**</span> Nowadays there are many research metrics at
-> the author-, article-, journal-levels, like the impact factors and
-> many others. However, none of them possess a universally meaningful
-> interpretation on the research influence at all levels, not mentioning
-> that many are subject-biased and consider neighboring relations only.
-> In this work, we introduce a new network-based research metric called
-> the network influence. It utilizes all information in the whole
-> network and it is universal to any levels. Due to its statistical
-> origin, this metric is computationally efficient and statistically
-> interpretable even if one applies it to a large-scale network. This
-> work demonstrates the analysis of networks via network influence using
-> a large-scale citation database called the Web of Science. By just
-> considering the articles among statistics community in 2005-2014, the
-> network influence of all articles are calculated and compared,
-> resulting in a top-ten important articles that are slightly different
-> from the list via impact factors. This metric can be easily extended
-> to author citation network and many similar networks embedded in the
-> Web of Science.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB5 (260-051)</p>
 ## Regularized Noise-Reduction Methodology For High-Dimensional Data {-}
 <p style="text-align:center">
@@ -392,51 +317,37 @@ low-sample-size data with noise reduction via geometric representations.
 *Journal of Multivariate Analysis*, **105**, 193–215.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## Genetic Approach And Statistical Approach For Association Study On DNA Data {-}
+## A Study Of The Influence Of Articles In The Large-Scale Citation Network {-}
 <p style="text-align:center">
-Makoto Tomita<br />
-Tokyo Medical and Dental University<br />
+Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Genetic Approach and Statistical Approach for Association Study
-on DNA Data**</span>
+<span>**A Study of the Influence of Articles in the Large-Scale Citation
+Network**</span>
 
-Makoto Tomita $^1$
+Frederick K. H. Phoa and Livia Lin Hsuan Chang\
+<span>*Institute of Statistical Science, Academia Sinica, Taipei 115,
+Taiwan.*</span>\
 
-$^1 \;$ Clinical Research Center, Medical Hospital of Tokyo Medical and
-Dental University, Tokyo, 113-8519, Japan
-
-<span>**Abstract**</span>. Genomic information such as genome-wide
-association analysis (GWAS) in DNA data is very large, however if the
-sample size corresponding to it is not enough, as an idea to solve, the
-author considers by a statistical approach and a genetic approach. The
-former will be briefly introduced, and the latter will be mainly
-explained. Basically, the method of focusing genome information becomes
-the center of presentation.
-
-<span>**Keywords**</span>. genome wide association study, linkage
-disequilibrium, statistical power
-
-References {#references .unnumbered}
-----------
-
-Tomita, M. (2013). Focusing Approach Using LD Block and Association
-Study with Haplotype Combination on DNA Data, In: *Proceedings 2013
-Eleventh International Conference on ICT and Knowledge Engineering*,
-5–10. Bangkok: IEEE Conference \#32165.
-
-Tomita, M. (2015). Haplotype estimation, haplotype block identification
-and statistical analysis for DNA data, In: *Conference Program and Book
-of Abstracts, Conference of the International Federation of Classication
-Societies (IFCS-2015)*, 227–228, Bologna.
-
-Tomita, M., Hatsumichi, M. and Kurihara, K. (2008). *Computational
-Statistics and Data Analysis*, **52**(4), 1806–1820.
-
-Tomita, M., Hashimoto, N. and Tanaka, Y. (2011). *Computational
-Statistics and Data Analysis*, **55**(6), 2104–2113.
-
-Tomita, M., Kubota, T. and Ishioka, F. (2015). *PLoS ONE*, **10**(7),
-e0127358.
+> <span>**Abstract:**</span> Nowadays there are many research metrics at
+> the author-, article-, journal-levels, like the impact factors and
+> many others. However, none of them possess a universally meaningful
+> interpretation on the research influence at all levels, not mentioning
+> that many are subject-biased and consider neighboring relations only.
+> In this work, we introduce a new network-based research metric called
+> the network influence. It utilizes all information in the whole
+> network and it is universal to any levels. Due to its statistical
+> origin, this metric is computationally efficient and statistically
+> interpretable even if one applies it to a large-scale network. This
+> work demonstrates the analysis of networks via network influence using
+> a large-scale citation database called the Web of Science. By just
+> considering the articles among statistics community in 2005-2014, the
+> network influence of all articles are calculated and compared,
+> resulting in a top-ten important articles that are slightly different
+> from the list via impact factors. This metric can be easily extended
+> to author citation network and many similar networks embedded in the
+> Web of Science.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
 ## SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis {-}
@@ -568,59 +479,6 @@ Kuiper, R.M., Hoijtink, H., Silvapulle, M.J. (2011). An Akaike-type
 information criterion for model selection under inequality constraints.
 *Biometrika*, **98**, 495–501.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## Clustering Of Research Subject Based On Stochastic Block Model {-}
-<p style="text-align:center">
-Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
-^1^Academia Sinica<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Clustering of research subject based on stochastic block
-model**</span>
-
-Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
-Junji Nakano $^1$
-
-$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
-
-$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
-Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. In this paper, we propose a new clustering
-method to measure influence of papers in all areas of science. To see
-structure of entire relationship we apply stochastic block model (SBM)
-on big scale citation network data. SBM generates a matrix which divides
-several blocks which represent relationship among research fields. We
-show this matrix can be used to visual exploratory analysis. When lists
-of papers are mapped this matrix we can get useful information by varied
-locations in visually. Elastic Map is used as dimension reduction method
-to calculate scalar value onto onto the corresponding principal points
-of each papers. We demonstrate that this projection score is can be used
-to evaluate divergence impact of papers across all field. To illustrate
-one application of our method, we analyze 450k+ articles published
-between 1981 and 2016 Web of Science data. In this beta version of our
-system, Edward, probabilistic programming language is used for
-estimation of SBM parameters and calculation of divergence score of
-papers.
-
-<span>**Keywords**</span>. Institutional Research, Stochastic Block
-Model, Elastic Map
-
-References {#references .unnumbered}
-----------
-
-Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
-stochastic block structures. *Journal of the American Statistical
-Association*, 96, 1077–1087.
-
-Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds
-and their Practical Applications. *Computing*, 75(4), 359–379.
-
-Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
-(2016). Edward: A library for probabilistic modeling, inference, and
-criticism. *arXiv preprint arXiv:1610.09787*.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p>
 ## Selecting The Number Of Principal Components {-}
 <p style="text-align:center">
@@ -656,57 +514,51 @@ method for high-dimensional data.
 inference, hypothesis testing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Symbolic Data Analytical Approach To Unauthorized-Access Logs {-}
+## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
 <p style="text-align:center">
-Hiroyuki Minami and Masahiro Mizuta<br />
-Hokkaido University<br />
+Yuji Mizukami^1^ and Junji Nakano^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Nihon University<br />
 </p>
-<span>**Symbolic data analytical approach to unauthorized-access
-logs**</span>
+<span>**Structure of Members in the Organization to Induce Innovation:
+Quantitatively Analyze the Capability of the Organization**</span>
 
-Hiroyuki MINAMI and Masahiro MIZUTA
+Yuji Mizukami$^1$ and Junji Nakano$^2$
 
-Information Initiative Center, Hokkaido University, Sapporo 060-0811
-JAPAN
+$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
+Japan
 
-<span>**Abstract**</span>. We have been annoyed by tons of unwilling
-accesses in many Internet applications including SSH (Secure SHell)
-known as a typical remote access tool and E-mail delivery protocols. An
-attacked server put a report according to the configuration and the log
-files have grown day by day.
+$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
+Tachikawa, Tokyo 190-8562, Japan
 
-Bad accesses might be caused by computer virus and so-called
-<span>*zombie*</span>, a hi-jacked computer. We assume that the actions
-would have their own trends. For example, we sometimes find that a few
-attacks come simultaneously from only 1 site, however, we also find
-several attacks from a set of the sites within 1 minute or 1 day. The
-IP-Addresses might be variable, however, within the assigned range. It
-suggests that the victimizer is just one but gets an IP-Address
-allocation so many times.
+<span>**Abstract**</span>. Innovation is the act of creating new value
+by using “new connection”, “new point of view”, “new way of thinking”,
+“new usage method” (Schumpeter 1912). In recent years, the promotion of
+the Innovation has been strongly encouraged. In the field of research,
+attempts are also being made to create new value through connection
+between those fields. Moreover, along with the move to promote
+integration among these research fields, research is being conducted to
+grasp and promote the degree of them. In this research, for the purpose
+of providing indices for measuring the degree of them, we show indices
+quantitatively indicating the degree of fusion in different fields and
+the distance between the fields. Also, we have try to present indices
+for grasping the whole image based on the random graph.
 
-To analyze the log files and give an interpretation to them, we
-introduce Symbolic Data Analysis (SDA) to adopt its main idea
-<span>*concept*</span>. If we configure an appropriate
-<span>*concept*</span> whose elements (<span> *individuals*</span> in
-SDA) are IP-Address, port-numbers and attack time span, we can reveal
-some relationship between <span>*concepts*</span> and classify them into
-perspective. The results would give us some useful information to
-protect our Internet environment.
-
-We discuss how we get them and the interpretation appropriately through
-some practical examples.
-
-<span>**Keywords**</span>. Invalid network access, Firewall, Massive
-Data Analysis
+<span>**Keywords**</span>. Research Metrix, Institute Research,
+Co-author analysis
 
 References {#references .unnumbered}
 ----------
 
-Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
+Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
+Keyton, J. and Börner, K. (2011). *Approaches to understanding and
+measuring interdisciplinary scientific research: A review of the
+literature, Journal of Informetrics*. Vol. 5, No. 1, pp. 14-26.
 
-Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
-logs by Internet Firewall. *Proceedings of 2016 International Conference
-for JSCS 30th Anniversary in Seattle*.
+Mizukami, Y., Mizutani, Y., Honda, K., Suzuki, S., Nakano, J. (2017).
+*An International Research Comparative Study of the Degree of
+Cooperation between disciplines within mathematics and mathematical
+sciences, Behaviormetrika*, **1**, 19 pages, On-line.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
 ## Forward Selection In Regression Models Based On Robust Estimation {-}
@@ -826,53 +678,6 @@ in semi-parametric profile likelihood estimation.* Bernoulli **22**
 semiparametric approach.* Australian & New Zealand Journal of Statistics
 <span>**58**</span>, 153–172.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 OGGB4 (260-073)</p>
-## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
-<p style="text-align:center">
-Yuji Mizukami^1^ and Junji Nakano^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Nihon University<br />
-</p>
-<span>**Structure of Members in the Organization to Induce Innovation:
-Quantitatively Analyze the Capability of the Organization**</span>
-
-Yuji Mizukami$^1$ and Junji Nakano$^2$
-
-$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
-Japan
-
-$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-<span>**Abstract**</span>. Innovation is the act of creating new value
-by using “new connection”, “new point of view”, “new way of thinking”,
-“new usage method” (Schumpeter 1912). In recent years, the promotion of
-the Innovation has been strongly encouraged. In the field of research,
-attempts are also being made to create new value through connection
-between those fields. Moreover, along with the move to promote
-integration among these research fields, research is being conducted to
-grasp and promote the degree of them. In this research, for the purpose
-of providing indices for measuring the degree of them, we show indices
-quantitatively indicating the degree of fusion in different fields and
-the distance between the fields. Also, we have try to present indices
-for grasping the whole image based on the random graph.
-
-<span>**Keywords**</span>. Research Metrix, Institute Research,
-Co-author analysis
-
-References {#references .unnumbered}
-----------
-
-Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
-Keyton, J. and Börner, K. (2011). *Approaches to understanding and
-measuring interdisciplinary scientific research: A review of the
-literature, Journal of Informetrics*. Vol. 5, No. 1, pp. 14-26.
-
-Mizukami, Y., Mizutani, Y., Honda, K., Suzuki, S., Nakano, J. (2017).
-*An International Research Comparative Study of the Degree of
-Cooperation between disciplines within mathematics and mathematical
-sciences, Behaviormetrika*, **1**, 19 pages, On-line.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 OGGB5 (260-051)</p>
 ## Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator {-}
 <p style="text-align:center">
@@ -916,53 +721,57 @@ This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
 Rajaratnam (UC Davis).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
-## Statistical Challenges For Proteogenomic Data Analysis {-}
+## Clustering Of Research Subject Based On Stochastic Block Model {-}
 <p style="text-align:center">
-Yusuke Matsui<br />
-Nagoya University Graduate School of Medicine<br />
+Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
+^1^Academia Sinica<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Statistical challenges for proteogenomic data analysis**</span>
+<span>**Clustering of research subject based on stochastic block
+model**</span>
 
-Yusuke Matsui
+Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
+Junji Nakano $^1$
 
-Division of Systems Biology, Nagoya University Graduate School of
-Medicine, Japan
+$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
+Japan
 
-<span>**Abstract**</span>. Large-scale integrated cancer genome and
-proteome characterization efforts including the cancer genome atlas and
-clinical proteomic tumor analysis consortium have opened unprecedented
-opportunities to reveal the comprehensive understandings of cancer
-biology. An important challenge is organizing our knowledge how the
-genomic events drive the proteome and phosphoproteome to form phenotypic
-characteristics.
+$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
+Taipei 11529, Taiwan
 
-However, connecting the genome and the proteome is not straightforward
-since measuring technologies for the genome and the proteome are quite
-different and thus the coverage that can be measured is different.
-Besides, the proteome data usually include massive amount of missing
-values. These issues include several statistical problems - massive
-missing data imputation, statistical models to connect the distinct
-datasets from different measurement technologies, and interpretable
-statistical models that can explain clinical outcomes.
+<span>**Abstract**</span>. In this paper, we propose a new clustering
+method to measure influence of papers in all areas of science. To see
+structure of entire relationship we apply stochastic block model (SBM)
+on big scale citation network data. SBM generates a matrix which divides
+several blocks which represent relationship among research fields. We
+show this matrix can be used to visual exploratory analysis. When lists
+of papers are mapped this matrix we can get useful information by varied
+locations in visually. Elastic Map is used as dimension reduction method
+to calculate scalar value onto onto the corresponding principal points
+of each papers. We demonstrate that this projection score is can be used
+to evaluate divergence impact of papers across all field. To illustrate
+one application of our method, we analyze 450k+ articles published
+between 1981 and 2016 Web of Science data. In this beta version of our
+system, Edward, probabilistic programming language is used for
+estimation of SBM parameters and calculation of divergence score of
+papers.
 
-Currently, we are developing proteogenomic data analysis approaches
-including the systematic workflow (pipeline) for the cancer protegenomic
-clinical data. We will present the progression of our current work as
-well as discussing the statistical approaches, using actual ongoing
-clinical dataset.
-
-<span>**Keywords**</span>. Bioinformatics, Proteogenomics, Cancer,
-Multi-omics data, Data analysis
+<span>**Keywords**</span>. Institutional Research, Stochastic Block
+Model, Elastic Map
 
 References {#references .unnumbered}
 ----------
 
-Philipp, M., <span>*et al.*</span> (2016) Proteogenomics connects
-somatic mutations to signalling in breast cancer. *Nature*, 534:55–62.
+Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
+stochastic block structures. *Journal of the American Statistical
+Association*, 96, 1077–1087.
 
-Hui, Z., <span>*et al.*</span> (2016) Integrated Proteogenomic
-Characterization of Human High-Grade Serous Ovarian Cancer. *Cell*,
-166:755–765.
+Gorban,A. and Zinovyev,A. (2005). Elastic Principal Graphs and Manifolds
+and their Practical Applications. *Computing*, 75(4), 359–379.
+
+Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
+(2016). Edward: A library for probabilistic modeling, inference, and
+criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
 ## Feature Selection In High-Dimensional Models With Complex Block Structures {-}

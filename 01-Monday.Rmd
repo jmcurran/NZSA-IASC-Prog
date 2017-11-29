@@ -1,16 +1,19 @@
 # Programme And Abstracts For Monday 11^th^ Of December {-}
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+## TBA-LT {-}
+<p style="text-align:center">
+Luke Tierney<br />
+University of Iowa<br />
+</p>
+<span>**Abstract:**</span> TBA
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 OGGB4 (260-073)</p>
 ## Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys {-}
 <p style="text-align:center">
 Andrew Adiguna Halim, Arindam Basu, and Raymond Kirk<br />
 Unversity of Canterbury<br />
 </p>
-Title: Area level deprivation is independently associated with body mass
-index: Analysis of NZ Health Surveys
-
-Author: Andrew Adiguna Halim Arindam Basu Ray Kirk
-
-Abstract: Obesity is a growing public health problem in New Zealand but
+<span>**Abstract:**</span> Obesity is a growing public health problem in New Zealand but
 the trends of its determinants are unclear. We obtained the
 confidentialised unit record files (CURF) of the New Zealand Health
 Surveys (NZHS) from the Statistics New Zealand, containing multiple sets
@@ -30,10 +33,8 @@ BMI tertile in adults and BMI category in children compared with those
 living in the lowest deprivation quintile after adjusting for other
 confounding variables. For adults and children the ORs (95
 
-Keywords: obesity, BMI, dietary guideline, deprivation, r statistics,
+<span>**Keywords:**</span> obesity, BMI, dietary guideline, deprivation, r statistics,
 proportional odds regression, survey complex design.
-
-Contact Details: Andrew Adiguna Halim aha164@uclive.ac.nz 0211412636
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 OGGB5 (260-051)</p>
 ## Calendar-Based Graphics For Visualising People's Daily Schedules {-}
@@ -117,46 +118,60 @@ Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang 
 ^3^Hong Kong University of Science and Technology<br />
 ^4^Xi'an Jiaotong University<br />
 </p>
-<span>**LSMM: A statistical approach to integrating functional
-annotations with genome-wide association studies**</span>
+<span>**Abstract**</span>. Recent genome-wide association studies (GWAS) suggests that a complex phenotype is often affected by many variants with small effects, known as "polygenicity". Tens of thousands of samples are often required to ensure statistical power of identifying these variants with small effects. In this study, we propose a statistical approach, IGESS, to increasing statistical power of identifying risk variants and improving accuracy of risk prediction by integrating individual level genotype data and summary statistics. An efficient algorithm based on variational inference is developed to handle genome-wide-scale analysis. Through comprehensive simulation studies, we demonstrated the advantages of IGESS over the methods which take either individual level data or summary statistics data as input. We applied IGESS to perform integrative analysis of Crohn's Disease from WTCCC and summary statistics from other studies. IGESS was able to significantly increase statistical power of identifying risk variants and improve risk prediction accuracy.
 
-Jingsi Ming$^1$, Mingwei Dai$^{2,5}$, Mingxuan Cai$^1$, Xiang Wan$^3$,
-Jin Liu$^4$ and Can Yang$^5$
-
-$^1 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-$^2 \;$ School of Mathematics and Statistics, Xi’an Jiaotong University,
-Xi’an, China
-
-$^3 \;$ Department of Computer Science, Hong Kong Baptist University,
-Hong Kong
-
-$^4 \;$ Centre for Quantitative Medicine, Duke-NUS Medical School,
-Singapore
-
-$^5 \;$ Department of Mathematics, The Hong Kong University of Science
-and Technology, Hong Kong
-
-<span>**Abstract**</span>. Thousands of risk variants underlying complex
-phenotypes have been identified in genome-wide association studies
-(GWAS). However, there are two major challenges towards fully
-characterizing the biological basis of complex diseases. First, many
-complex traits are suggested to be highly polygenic, whereas a large
-proportion of risk variants with small effects remains unknown. Second,
-the functional roles of the majority of GWAS hits in the non-coding
-region is largely unclear. In this paper, we propose a latent sparse
-mixed model (LSMM) to address the challenges by integrating functional
-annotations with summary statistics from GWAS. An efficient variational
-expectation-maximization (EM) algorithm is developed. We conducted
-comprehensive simulation studies and then applied it to 30 GWAS of
-complex phenotypes integrating 9 genic annotation categories and 127
-tissue-specific functional annotations from the Roadmap project. The
-results demonstrate that LSMM is not only able to increase the
-statistical power to identify risk variants, but also provide a deeper
-understanding of genetic architecture of complex traits by detecting
-relevant functional annotations. <span>**Keywords**</span>. GWAS,
+<span>**Keywords**</span>. GWAS,
 functional annotations, variational inference
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
+## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
+<p style="text-align:center">
+Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
+^1^Nara Institute of Science and Technology<br />
+^2^Okayama University<br />
+</p>
+<span>**Evaluation of spatial cluster detection method based on all
+geographical linkage patterns**</span>
+
+Fumio Ishioka$^1$, Jun Kawahara$^2$ and Koji Kurihara$^1$
+
+$^1 \;$ Graduate School of Environmental and Life Science, Okayama
+University, 3-1-1, Tsushima-naka, Kita-ku, Okayama, Japan
+
+$^2 \;$ Graduate School of Information Science, Nara Institute of
+Science and Technology, Nara, Japan
+
+<span>**Abstract**</span>. Currently, it is becoming easier to analyze
+the various types of spatial data and express them visually on a map.
+However, it is still difficult to estimate the location of spatial
+clusters based on statistical evidence. The spatial scan statistic
+(Kulldorff 1997), which is based on the idea of maximizing the
+likelihood of cluster, has been widely used for spatial cluster
+detection method. It is important how effectively and efficiently we
+find a cluster whose likelihood is high, and to find such a cluster,
+some scan approaches are proposed. However, most of them are limited in
+the shape of a detected cluster, or need an unrealistic computational
+time if the data size is too large. The zero-suppressed binary decision
+diagram (ZDD) (Minato, 1993), one approach to frequent item set mining,
+enables us to extract all of the potential cluster areas at a realistic
+computational cost. In this study, we try a new way of spatial cluster
+detection method to detect a cluster with truly highest likelihood by
+applying the ZDD, and by using them, we compare and evaluate the
+performance of the existing scan methods.
+
+1.5mm
+
+<span>**Keywords**</span>. Spatial cluster, Spatial scan statistic, ZDD
+
+References {#references .unnumbered}
+----------
+
+Kulldorff, M. (1997). A spatial scan statistic. *Communications in
+Statistics: Theory and Methods*, **26**, 1481–1496.
+
+Minato, S. (1993). Zero-suppressed BDDs for set manipulation in
+combinatorial problems. *In: Proceedings of the 30th ACM/IEEE Design
+Automation Conference*, 272–277.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 OGGB4 (260-073)</p>
 ## Clustering Using Nonparametric Mixtures And Mode Identification {-}
@@ -344,6 +359,53 @@ statistical power to identify risk variants, but also provide a deeper
 understanding of genetic architecture of complex traits by detecting
 relevant functional annotations. <span>**Keywords**</span>. GWAS,
 functional annotations, variational inference
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
+## Genetic Approach And Statistical Approach For Association Study On DNA Data {-}
+<p style="text-align:center">
+Makoto Tomita<br />
+Tokyo Medical and Dental University<br />
+</p>
+<span>**Genetic Approach and Statistical Approach for Association Study
+on DNA Data**</span>
+
+Makoto Tomita $^1$
+
+$^1 \;$ Clinical Research Center, Medical Hospital of Tokyo Medical and
+Dental University, Tokyo, 113-8519, Japan
+
+<span>**Abstract**</span>. Genomic information such as genome-wide
+association analysis (GWAS) in DNA data is very large, however if the
+sample size corresponding to it is not enough, as an idea to solve, the
+author considers by a statistical approach and a genetic approach. The
+former will be briefly introduced, and the latter will be mainly
+explained. Basically, the method of focusing genome information becomes
+the center of presentation.
+
+<span>**Keywords**</span>. genome wide association study, linkage
+disequilibrium, statistical power
+
+References {#references .unnumbered}
+----------
+
+Tomita, M. (2013). Focusing Approach Using LD Block and Association
+Study with Haplotype Combination on DNA Data, In: *Proceedings 2013
+Eleventh International Conference on ICT and Knowledge Engineering*,
+5–10. Bangkok: IEEE Conference \#32165.
+
+Tomita, M. (2015). Haplotype estimation, haplotype block identification
+and statistical analysis for DNA data, In: *Conference Program and Book
+of Abstracts, Conference of the International Federation of Classication
+Societies (IFCS-2015)*, 227–228, Bologna.
+
+Tomita, M., Hatsumichi, M. and Kurihara, K. (2008). *Computational
+Statistics and Data Analysis*, **52**(4), 1806–1820.
+
+Tomita, M., Hashimoto, N. and Tanaka, Y. (2011). *Computational
+Statistics and Data Analysis*, **55**(6), 2104–2113.
+
+Tomita, M., Kubota, T. and Ishioka, F. (2015). *PLoS ONE*, **10**(7),
+e0127358.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 OGGB4 (260-073)</p>
 ## Estimation Of A High-Dimensional Covariance Matrix {-}
@@ -537,6 +599,59 @@ Dai M, Ming J, Cai M, et al. (2017). IGESS: a statistical approach to
 integrating individual-level genotype data and summary statistics in
 genome-wide association studies. In: *Bioinformatics*
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
+## Symbolic Data Analytical Approach To Unauthorized-Access Logs {-}
+<p style="text-align:center">
+Hiroyuki Minami and Masahiro Mizuta<br />
+Hokkaido University<br />
+</p>
+<span>**Symbolic data analytical approach to unauthorized-access
+logs**</span>
+
+Hiroyuki MINAMI and Masahiro MIZUTA
+
+Information Initiative Center, Hokkaido University, Sapporo 060-0811
+JAPAN
+
+<span>**Abstract**</span>. We have been annoyed by tons of unwilling
+accesses in many Internet applications including SSH (Secure SHell)
+known as a typical remote access tool and E-mail delivery protocols. An
+attacked server put a report according to the configuration and the log
+files have grown day by day.
+
+Bad accesses might be caused by computer virus and so-called
+<span>*zombie*</span>, a hi-jacked computer. We assume that the actions
+would have their own trends. For example, we sometimes find that a few
+attacks come simultaneously from only 1 site, however, we also find
+several attacks from a set of the sites within 1 minute or 1 day. The
+IP-Addresses might be variable, however, within the assigned range. It
+suggests that the victimizer is just one but gets an IP-Address
+allocation so many times.
+
+To analyze the log files and give an interpretation to them, we
+introduce Symbolic Data Analysis (SDA) to adopt its main idea
+<span>*concept*</span>. If we configure an appropriate
+<span>*concept*</span> whose elements (<span> *individuals*</span> in
+SDA) are IP-Address, port-numbers and attack time span, we can reveal
+some relationship between <span>*concepts*</span> and classify them into
+perspective. The results would give us some useful information to
+protect our Internet environment.
+
+We discuss how we get them and the interpretation appropriately through
+some practical examples.
+
+<span>**Keywords**</span>. Invalid network access, Firewall, Massive
+Data Analysis
+
+References {#references .unnumbered}
+----------
+
+Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
+
+Minami, H. and Mizuta, M. (2016). A study on the Analysis of the refused
+logs by Internet Firewall. *Proceedings of 2016 International Conference
+for JSCS 30th Anniversary in Seattle*.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 OGGB4 (260-073)</p>
 ## Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information {-}
 <p style="text-align:center">
@@ -658,64 +773,48 @@ Keywords: mixed ANCOVA model, nonparametric regression, backfitting,
 bootstrap, random effects, variance components
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {-}
+## An Advanced Approach For Time Series Forecasting Using Deep Learning {-}
 <p style="text-align:center">
-Can Yang<br />
-Hong Kong University of Science and Technology<br />
+Balaram Panda<br />
+Inland Revenue Department<br />
 </p>
-<span>**Adaptive False Discovery Rate regression with application in
-integrative analysis of large-scale genomic data**</span>
+<span>**An Advanced Approach for Time Series Forecasting using Deep
+Learning**</span>
 
-Can YANG$^1$
+Balaram Panda$^1$
 
-$^1 \;$ Department of Mathematics, The Hong Kong University of Science
-and Techonolgy, Clear Water Bay, Hong Kong.
+$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
 
-<span>**Abstract**</span>. Recent international projects, such as the
-Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
-the Genotype-Tissue Expression (GTEx) project, have generated vast
-amounts of genomic annotation data, e.g., epigenome and transcriptome.
-There is great demanding of effective statistical approaches to
-integrate genomic annotations with the results from genome-wide
-association studies. In this talk, we introduce a statistical framework,
-named AdaFDR, for integrating multiple annotations to characterize
-functional roles of genetic variants that underlie human complex
-phenotypes. For a given phenotype, AdaFDR can adaptively incorporates
-relevant annotations for prioritization of genetic risk variants,
-allowing nonlinear effects among these annotations, such as interaction
-effects between genomic features. Specifically, we assume that the prior
-probability of a variant associated with the phenotype is a function of
-its annotations $F(X)$, where $X$ is the collection of the annotation
-status and $F(X)$ is an ensemble of decision trees, i.e.,
-$F(X) = \sum_k f_k(X)$ and $f_k(X)$ is a shallow decision tree. We have
-developed an efficient EM-Boosting algorithm for model fitting, where a
-shallow decision tree grows in a gradient-Boosting manner (Friedman J.
-2001) at each EM-iteration. Our framework inherits the nice property of
-gradient boosted trees: (1) The gradient accent property of the Boosting
-algorithm naturally guarantees the convergence of our EM-Boosting
-algorithm. (2) Based on the fitted ensemble $\hat{F}(X)$, we are able to
-rank the importance of annotations, measure the interaction among
-annotations and visualize the model via partial plots (Friedman J.
-2008). Using AdaFDR, we performed integrative analysis of genome-wide
-association studies on human complex phenotypes and genome-wide
-annotation resources, e.g., Roadmap epigenome. The analysis results
-revealed interesting regulatory patterns of risk variants. These
-findings deepen our understanding of genetic architectures of complex
-phenotypes. The statistical framework developed here is also broadly
-applicable to many other areas for integrative analysis of rich data
-sets.
+<span>**Abstract**</span>. Time series forecasting is a decade-long
+research and which is being evolving day by day. Due to the recent
+advancement is deep learning technique many of the complex problems have
+been solved using deep learning. Deep learning techniques have shown
+tremendous better performance in supervised learning problem. One of the
+reasons for this success is the ability of deep feedforward network
+methods to learn multiple feature interaction for a single instance.
+However, the time-dependent nature not being captured by deep
+feedforward network till the evolution of RNN(recurrent neural network)
+and LSTM(long short term memory) network architecture. This paper
+reveals the success of LSTM time series in comparison with ARIMA and
+other standard approaches for time series modeling. A sensitivity
+analysis is also conducted to explore the effect of hyper parameter
+tuning on LSTM model to reduce the time series forecasting error. We
+also derive practical advice from our empirical results for those
+interested in getting most out of LSTM time series for modern time
+series forecasting.
 
-<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
-functional annotation, genomic data
+<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
 
 References {#references .unnumbered}
 ----------
 
-Friedman, Jerome H (2001). Greedy function approximation: a gradient
-boosting machine, *Annals of statistics*, **29:5**,1189–1232.
+Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
+unsupervised feature learning and deep learning for time-series
+modeling.” Pattern Recognition Letters 42 (2014): 11-24.
 
-Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
-Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
+Zheng, Yi, et al. “Time series classification using multi-channels deep
+convolutional neural networks.” International Conference on Web-Age
+Information Management. Springer, Cham, 2014.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 OGGB4 (260-073)</p>
 ## Vector Generalized Linear Time Series Models {-}
@@ -807,6 +906,110 @@ analysis., 73-102.
 
 Hotelling, H. (1936). Relations between two sets of variates.
 *Biometrika*, **28**, 321-377.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
+## A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data {-}
+<p style="text-align:center">
+Balaram Panda and Habib Baluwala<br />
+Inland Revenue Department<br />
+</p>
+<span>**Abstract**</span>. Recently, deep learning techniques have shown
+remarkably strong performance in problems involving unstructured data
+(ex. text, image, and video). One of the reasons for this success is the
+ability of deep learning methods to learn multiple levels of abstraction
+and feature interaction. However, the advantages of using deep learning
+techniques for structured/ event/transactional data has not been studied
+in detail. The purpose of this paper is to review the advantages and
+limitations of using deep feed forward networks on structured data. This
+is achieved by comparing the performance of deep feed forward networks
+with conventional machine learning techniques applied on a large
+structured dataset for classification problem. The paper also describes
+methodologies for optimizing the deep feed forward networks to achieve
+better accuracy and different approaches to reduce over fitting for deep
+feed forward network. A sensitivity analysis is conducted to explore the
+effect of hyper parameter tuning on model performance. We also derive
+practical advice from our extensive empirical results for those
+interested in getting most out of deep feed forward networks for real
+world settings.
+
+<span>**Keywords**</span>. Deep Learning, deep feed forward networks,
+machine learning, R, Tensorflow, Python
+
+<span>**References**</span>
+
+Bengio, Yoshua. “Learning deep architectures for AI.” Foundations and
+trends® in Machine Learning 2.1 (2009): 1-127.
+
+Goodfellow, Ian J., et al. “Maxout networks.” arXiv preprint
+arXiv:1302.4389 (2013).
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 3 (260-055)</p>
+## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {-}
+<p style="text-align:center">
+Can Yang<br />
+Hong Kong University of Science and Technology<br />
+</p>
+<span>**Adaptive False Discovery Rate regression with application in
+integrative analysis of large-scale genomic data**</span>
+
+Can YANG$^1$
+
+$^1 \;$ Department of Mathematics, The Hong Kong University of Science
+and Techonolgy, Clear Water Bay, Hong Kong.
+
+<span>**Abstract**</span>. Recent international projects, such as the
+Encyclopedia of DNA Elements (ENCODE) project, the Roadmap project and
+the Genotype-Tissue Expression (GTEx) project, have generated vast
+amounts of genomic annotation data, e.g., epigenome and transcriptome.
+There is great demanding of effective statistical approaches to
+integrate genomic annotations with the results from genome-wide
+association studies. In this talk, we introduce a statistical framework,
+named AdaFDR, for integrating multiple annotations to characterize
+functional roles of genetic variants that underlie human complex
+phenotypes. For a given phenotype, AdaFDR can adaptively incorporates
+relevant annotations for prioritization of genetic risk variants,
+allowing nonlinear effects among these annotations, such as interaction
+effects between genomic features. Specifically, we assume that the prior
+probability of a variant associated with the phenotype is a function of
+its annotations $F(X)$, where $X$ is the collection of the annotation
+status and $F(X)$ is an ensemble of decision trees, i.e.,
+$F(X) = \sum_k f_k(X)$ and $f_k(X)$ is a shallow decision tree. We have
+developed an efficient EM-Boosting algorithm for model fitting, where a
+shallow decision tree grows in a gradient-Boosting manner (Friedman J.
+2001) at each EM-iteration. Our framework inherits the nice property of
+gradient boosted trees: (1) The gradient accent property of the Boosting
+algorithm naturally guarantees the convergence of our EM-Boosting
+algorithm. (2) Based on the fitted ensemble $\hat{F}(X)$, we are able to
+rank the importance of annotations, measure the interaction among
+annotations and visualize the model via partial plots (Friedman J.
+2008). Using AdaFDR, we performed integrative analysis of genome-wide
+association studies on human complex phenotypes and genome-wide
+annotation resources, e.g., Roadmap epigenome. The analysis results
+revealed interesting regulatory patterns of risk variants. These
+findings deepen our understanding of genetic architectures of complex
+phenotypes. The statistical framework developed here is also broadly
+applicable to many other areas for integrative analysis of rich data
+sets.
+
+<span>**Keywords**</span>. False Discovery Rate, integrative analysis,
+functional annotation, genomic data
+
+References {#references .unnumbered}
+----------
+
+Friedman, Jerome H (2001). Greedy function approximation: a gradient
+boosting machine, *Annals of statistics*, **29:5**,1189–1232.
+
+Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
+Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
+## TBA-SU {-}
+<p style="text-align:center">
+Simon Urbanek<br />
+AT&amp;T Labs<br />
+</p>
+<span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 098 Lecture Theatre (260-098)</p>
 ## Canonical Covariance Analysis For Mixed Numerical And Categorical Three-Way Three-Mode Data {-}
@@ -2005,50 +2208,6 @@ Liquet, B., Lafaye de Micheaux, P., Hejblum, B. & Thiebaut, R. (2016),
 *Group and sparse group partial least square approaches applied in
 genomics context*, Bioinformatics 32, 35-42.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
-## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {-}
-<p style="text-align:center">
-Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
-Hokkaido University<br />
-</p>
-<span>**Meta-analysis with symbolic data analysis and its application
-for clinical data**</span>
-
-Ryo Takagi$^1$, Hiroyuki Minami$^2$, and Masahiro Mizuta$^2$
-
-$^1 \;$ Graduate School of Information Science and Technology, Hokkaido
-University
-
-$^2 \;$ Laboratory of Advanced Data Science, Information Initiative
-Center, Hokkaido University
-
-<span>**Abstract**</span>. We discuss a method of meta-analysis based on
-symbolic data analysis (SDA). Meta-analysis, mainly used in social and
-medical science, is a statistical method of combining scientific studies
-to obtain quantitative results and provides a high level of evidence.
-Differences between the studies are caused by heterogeneity between the
-studies. It is useful to detect relationship among scientific studies. A
-target of analysis on SDA is <span>*concept*</span>, a set of
-individuals. We apply SDA to meta-analysis. In other words, we regard
-scientific studies as concepts. For example, symbolic clustering or
-symbolic MDS are useful to preprocess the scientific studies in
-meta-analysis. In this study, we propose a new approach based on SDA for
-meta-analysis and show the results of the proposed approach using
-clinical datasets.
-
-<span>**Keywords**</span>. symbolic clustering, symbolic MDS, concept in
-SDA
-
-References {#references .unnumbered}
-----------
-
-Edwin Diday and Monique Noirhomme-Fraiture. (2008). *Symbolic data
-analysis and the SODAS software.* John Wiley & Sons, Ltd.
-
-David Edward Matthews and Vernon Todd Farewell. (2015). *Using and
-understanding medical statistics* (5th, revised and extended edition).
-Karger Publishers.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 4 (260-009)</p>
 ## Scoring Rules For Prediction And Classification Challenges {-}
 <p style="text-align:center">
@@ -2317,50 +2476,6 @@ Liquet, B., & Saracco, J. (2016), *BIG-SIR a Sliced Inverse Regression
 Approach for Massive Data*, Statistics and Its Interface. Vol 9,
 509-520.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
-## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {-}
-<p style="text-align:center">
-Hirohito Sakurai and Masaaki Taguri<br />
-National Center for University Entrance Examinations<br />
-</p>
-<span>**Comparison of Tests of Mean Difference in Longitudinal Data
-Based on Block Resampling Methods**</span>
-
-Hirohito Sakurai$^1$ and Masaaki Taguri$^1$
-
-$^1 \;$ National Center for University Entrance Examinations, Tokyo
-153-8501, Japan
-
-<span>**Abstract**</span>. Let us consider a two-sample problem in
-longitudinal data, and discuss comparison of tests of mean difference
-using block resampling methods. The testing methods are based on moving
-block bootstrap (MBB), circular block bootstrap (CBB) and stationary
-bootstrap (SB). These block resampling techniques are used to
-approximate the null distributions of the following four types of test
-statistics: sum of absolute values of difference between two mean
-sequences ($T_1$), sum of squares of difference between two mean
-sequences ($T_2$), area-difference between two mean curves ($T_3$), and
-difference of kernel estimators based on two mean sequences ($S_n$). Our
-testing algorithm generates blocks of observations in each sample
-similar to MBB, CBB or SB, and draws resamples *with replacement* or
-*without replacement* from the mixed blocks which are generated by two
-samples. In the context of block resampling, a resample is usually
-generated *with replacement* from blocks of observations, however our
-discussion also includes block resampling *without replacement* similar
-to permutation analogy for MBB, CBB and SB, with $T_1$, $T_2$, $T_3$ and
-$S_n$, respectively. Monte Carlo simulations are carried out to examine
-the empirical level and power of the testing methods.
-
-<span>**Keywords**</span>. moving block bootstrap, circular block
-bootstrap, stationary bootstrap, with/without replacement, empirical
-level/power
-
-References {#references .unnumbered}
-----------
-
-Lahiri, S. N. (2003). *Resampling Methods for Dependent Data*. New York:
-Springer.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
 ## Modeling Of Document Abstraction Using Association Rule Based Characterization {-}
 <p style="text-align:center">
@@ -2548,52 +2663,6 @@ Publishing Co.
 
 Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
 Hall/CRC.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
-## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}
-<p style="text-align:center">
-Wataru Sakamoto<br />
-Okayama University<br />
-</p>
-<span>**Analysis of Spatial Data with a Gaussian Mixture Markov Random
-Field Model** </span>
-
-Wataru Sakamoto
-
-Graduate School of Environmental and Life Science, Okayama University,
-700-8530, Japan
-
-<span>**Abstract**</span>. In spatial data, detecting regions with
-higher relative risk is of primary interest. A latent Markov random
-field model with Gaussian mixture component is introduced, in which the
-probit or the logit of the mixture weight for each location follows a
-Gaussian Markov random field such as an intrinsic auto-regressive model
-(Besag *et al.*, 1991). A mixture model with spatially correlated
-weights was proposed by Fernández and Green (2002), and our modeling
-with Gaussian mixture Markov random field can be extended to the cases
-of involving covariate and random effects. Parameters are estimated by a
-Bayesian approach, and the posterior mean of the mixture weight for each
-location, which varies smoothly, gives meaningful interpretation for
-spatial structure. Our computation was conducted with R Stan package, in
-which the Hamiltonian Monte Carlo method is implemented. Some
-applications to disease mapping data are illustrated.
-
-<span>**Keywords**</span>. Bayesian modeling, spatial cluster detection,
-spatial correlation
-
-References {#references .unnumbered}
-----------
-
-Fernández, C. and Green, P. J. (2002). Modelling spatially correlated
-data via mixtures: a Bayesian approach. *J. Roy. Statist. Soc. B*,
-**64**, 805–826.
-
-Besag, J., York, J. and Mollié, A. (1991). Bayesian image restoration,
-with two applications in spatial statistics. *Ann. Inst. Statist.
-Math.*, **43**, 1–59.
-
-Rue, H. and Held, L. (2005) *Gaussian Markov Random Fields: Theory and
-Applications.* Chapman and Hall.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 4 (260-009)</p>
 ## My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid {-}

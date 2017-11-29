@@ -1,40 +1,4 @@
-<span>**LSMM: A statistical approach to integrating functional
-annotations with genome-wide association studies**</span>
+<span>**Abstract**</span>. Recent genome-wide association studies (GWAS) suggests that a complex phenotype is often affected by many variants with small effects, known as "polygenicity". Tens of thousands of samples are often required to ensure statistical power of identifying these variants with small effects. In this study, we propose a statistical approach, IGESS, to increasing statistical power of identifying risk variants and improving accuracy of risk prediction by integrating individual level genotype data and summary statistics. An efficient algorithm based on variational inference is developed to handle genome-wide-scale analysis. Through comprehensive simulation studies, we demonstrated the advantages of IGESS over the methods which take either individual level data or summary statistics data as input. We applied IGESS to perform integrative analysis of Crohn's Disease from WTCCC and summary statistics from other studies. IGESS was able to significantly increase statistical power of identifying risk variants and improve risk prediction accuracy.
 
-Jingsi Ming$^1$, Mingwei Dai$^{2,5}$, Mingxuan Cai$^1$, Xiang Wan$^3$,
-Jin Liu$^4$ and Can Yang$^5$
-
-$^1 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-$^2 \;$ School of Mathematics and Statistics, Xi’an Jiaotong University,
-Xi’an, China
-
-$^3 \;$ Department of Computer Science, Hong Kong Baptist University,
-Hong Kong
-
-$^4 \;$ Centre for Quantitative Medicine, Duke-NUS Medical School,
-Singapore
-
-$^5 \;$ Department of Mathematics, The Hong Kong University of Science
-and Technology, Hong Kong
-
-<span>**Abstract**</span>. Thousands of risk variants underlying complex
-phenotypes have been identified in genome-wide association studies
-(GWAS). However, there are two major challenges towards fully
-characterizing the biological basis of complex diseases. First, many
-complex traits are suggested to be highly polygenic, whereas a large
-proportion of risk variants with small effects remains unknown. Second,
-the functional roles of the majority of GWAS hits in the non-coding
-region is largely unclear. In this paper, we propose a latent sparse
-mixed model (LSMM) to address the challenges by integrating functional
-annotations with summary statistics from GWAS. An efficient variational
-expectation-maximization (EM) algorithm is developed. We conducted
-comprehensive simulation studies and then applied it to 30 GWAS of
-complex phenotypes integrating 9 genic annotation categories and 127
-tissue-specific functional annotations from the Roadmap project. The
-results demonstrate that LSMM is not only able to increase the
-statistical power to identify risk variants, but also provide a deeper
-understanding of genetic architecture of complex traits by detecting
-relevant functional annotations. <span>**Keywords**</span>. GWAS,
+<span>**Keywords**</span>. GWAS,
 functional annotations, variational inference

@@ -495,7 +495,7 @@ and comments from others will be welcomed.
 clustering, package, global, local
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## SPECIFICATION OF GARCH MODEL UNDER ASYMMETRIC ERROR INNOVATIONS {-}
+## Specification Of GARCH Model Under Asymmetric Error Innovations {-}
 <p style="text-align:center">
 Oyebimpe Adeniji, Olarenwaju Shittu, and Kazeeem Adepoju<br />
 University of Ibadan<br />
@@ -1239,6 +1239,20 @@ start which refines into a detailed picture at the end. Mean based
 models are like television pictures whereas variance based models are
 like Progressive Graphics File pictures. The advantages and
 disadvantages of the two methods will be discussed.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
+## Space And Circular Time Log Gaussian Cox Processes With Application To Crime Event Data {-}
+<p style="text-align:center">
+Alan Gelfand<br />
+Duke University<br />
+</p>
+<span>**Abstract:**</span> We view the locations and times of a collection of crime events as a space-time point pattern modeled as either a nonhomogeneous Poisson process or a more general log Gaussian Cox process. We need to specify a space-time intensity. Viewing time as circular, necessitates a valid separable and nonseparable covariance functions over a bounded spatial region crossed with circular time. Additionally, crimes are classified by crime type and each crime event is marked by day of the year which we convert to day of the week.
+
+We present marked point pattern models to accommodate such data. Our specifications
+take the form of hierarchical models which we fit within a Bayesian framework. We consider
+model comparison between the nonhomogeneous Poisson process and the log Gaussian Cox
+process as well as separable vs. nonseparable covariance specifications. Our motivating
+dataset is a collection of crime events for the city of San Francisco during the year 2012.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 098 Lecture Theatre (260-098)</p>
 ## Cluster-Wise Regression Models Combined By A Quasi-Linear Function {-}
@@ -2596,7 +2610,7 @@ Lebart, L., Morineau, A. and Warwick, K. M. (1984). <span>*Multivariate
 Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
-## TESTING FOR PRESENCE OF CLUSTERING EFFECT IN MULTILEVEL MODEL WITH HIGH-DIMENSIONAL PREDICTORS {-}
+## Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors {-}
 <p style="text-align:center">
 Frances Claire San Juan^1^, Erniel Barrios^2^, and Joseph Ryan Lansangan^2^<br />
 ^1^Cirrolytix Research Services<br />

@@ -1,0 +1,19 @@
+Could Do Better ... A Report Card for Statistical Computing
+Ross Ihaka & Brendan McArdle
+
+Since the introduction of R, research in Statistical Computing has
+plateaued. Although R is, at best, a stop-gap system, there appears to
+be very little active research on creating better computing
+environments for Statistics.
+
+When work on R commenced there were a multitude of software systems
+for statistical data analysis in use and under development. There was
+friendly competition and collaboration between developers. While R can
+be seen as providing a useful unification for users, its success and
+dominance can be viewed as now holding back research and the
+development of new systems.
+
+In this talk we'll examine what might be behind this and also look at
+some research aimed at exploring some of the design space for new
+systems. The aim is to show constructively that new work in the area
+is still possible.

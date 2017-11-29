@@ -1,50 +1,26 @@
 # Programme And Abstracts For Tuesday 12^th^ Of December {-}
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
-## R&D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis {-}
+<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+## Could Do Better &Hellip; A Report Card For Statistical Computing {-}
 <p style="text-align:center">
-Benjamin Montmartin^1^, Marcos Herrera^2^, and Nadine Massard^3^<br />
-^1^CONICET<br />
-^2^GAEL<br />
-^3^GREDEG CNRS<br />
+Ross Ihaka and Brendon McArdle<br />
+University of Auckland<br />
 </p>
-<span>**R&D policy regimes in France: New evidence from a
-spatio-temporal analysis**</span>
+<span>**Abstract:**</span> Since the introduction of R, research in Statistical Computing has
+plateaued. Although R is, at best, a stop-gap system, there appears to
+be very little active research on creating better computing
+environments for Statistics.
 
-Benjamin Montmartin$^1$, Marcos Herrera$^2$ and Nadine Massard$^3$
+When work on R commenced there were a multitude of software systems
+for statistical data analysis in use and under development. There was
+friendly competition and collaboration between developers. While R can
+be seen as providing a useful unification for users, its success and
+dominance can be viewed as now holding back research and the
+development of new systems.
 
-$^1 \;$ University Cote d’Azur, CNRS, GREDEG UMR 7321; Valbonne, FRANCE
-
-$^2 \;$ CONICET - IELDE, National University of Salta, Salta, Argentina
-
-$^3 \;$ University Grenoble Alpes, UMR GAEL, Grenoble, France
-
-<span>**Abstract**</span>. Using a unique database containing
-information on the amount of R&D tax credits and regional, national and
-European subsidies received by firms in French NUTS3 regions over the
-period 2001-2011, we provide new evidence on the efficiency of R&D
-policies taking into account spatial dependency across regions. By
-estimating a spatial Durbin model with regimes and fixed effects, we
-show that in a context of yardstick competition between regions,
-national subsidies are the only instrument that displays total leverage
-effect. For other instruments internal and external effects balance each
-other resulting in insignificant total effects. Structural breaks
-corresponding to tax credit reforms are also revealed.
-
-<span>**Keywords**</span>. Additionality, French policy mix, Spatial
-panel, Structural break
-
-References {#references .unnumbered}
-----------
-
-Pesaran, M. H. (2007). A simple panel unit root test in the presence of
-cross-section dependence In: *Journal of Applied Econometrics*, **22**,
-265–312.
-
-Hendry, D. F. (1979). Predictive failure and econometric modelling in
-macroeconomics: The transactions demand for money. In: *P. Ormerod
-(Ed.), Economic Modelling: Current Issues and Problems in Macroeconomic
-Modelling in the UK and the US*, **9**, 217–242. Heinemann Education
-Books, London.
+In this talk we'll examine what might be behind this and also look at
+some research aimed at exploring some of the design space for new
+systems. The aim is to show constructively that new work in the area
+is still possible.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB4 (260-073)</p>
 ## Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data {-}
@@ -97,50 +73,48 @@ ArXiv preprint link: https://arxiv.org/pdf/1709.02897
 Scientometrics, Network analysis, Scopus, New Zealand
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data {-}
+## Family Structure And Academic Achievements Of High School Students In Tonga {-}
 <p style="text-align:center">
-Balaram Panda and Habib Baluwala<br />
-Inland Revenue Department<br />
+Losana Vao Latu Latu<br />
+University of Canterbury<br />
 </p>
-<span>**A Practitioners Guide to Deep Learning for Predictive Analytics
-on Structured Data**</span>
+Family structure and academic achievements of high school students in
+Tonga
 
-Balaram Panda$^1$ and Habib Baluwala Ph.D.(University of Oxford)$^2$
+Losana Vao Latu Latu$^1$, Jennifer Brown$^1$ and Jacki Henderson$^2$
 
-$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
+$^1$ School of Mathematics and Statistics, University of Canterbury,
+Christchurch, NZ
 
-$^2 \;$ Data Scientist, Inland Revenue Department, New Zealand
+$^2$ Department of Psychology, University of Canterbury, Christchurch,
+NZ
 
-<span>**Abstract**</span>. Recently, deep learning techniques have shown
-remarkably strong performance in problems involving unstructured data
-(ex. text, image, and video). One of the reasons for this success is the
-ability of deep learning methods to learn multiple levels of abstraction
-and feature interaction. However, the advantages of using deep learning
-techniques for structured/ event/transactional data has not been studied
-in detail. The purpose of this paper is to review the advantages and
-limitations of using deep feed forward networks on structured data. This
-is achieved by comparing the performance of deep feed forward networks
-with conventional machine learning techniques applied on a large
-structured dataset for classification problem. The paper also describes
-methodologies for optimizing the deep feed forward networks to achieve
-better accuracy and different approaches to reduce over fitting for deep
-feed forward network. A sensitivity analysis is conducted to explore the
-effect of hyper parameter tuning on model performance. We also derive
-practical advice from our extensive empirical results for those
-interested in getting most out of deep feed forward networks for real
-world settings.
+Abstract
 
-<span>**Keywords**</span>. Deep Learning, deep feed forward networks,
-machine learning, R, Tensorflow, Python
+In this study we examine how family structure affects the academic
+achievement of students at the secondary level of education age in
+Tonga. It is a comparative study aiming to find out whether there is a
+significant difference between the academic achievements of students
+from a traditional family and those from a non-traditional family. We
+define a Tongan traditional family as being two biological parents (or
+adoptive parents from birth), one male and one female where as
+non-traditional family can be a single parent family, or the student has
+no parent present (for example they are staying with relatives or
+friends). In our study we are looking at what are the key drivers of
+success and trying to understand the relationship between academic
+achievements and family structure. We hope the study will provide
+evidence-based information to aid the administrators, other educators
+and parents to adopt the best practices and actions for the students.
+The target population for this study is the high school students age 13
+to 18 in Tonga. The study is limited to the high schools in the main
+island of Tonga- Tongatapu which has 12 high schools where two high
+schools are government schools and the others are private schools run by
+different religions. In April we surveyed 360 students, 60 from each of
+6 high schools, and present here our preliminary results.
 
-References {#references .unnumbered}
-----------
+Keywords
 
-Bengio, Yoshua. “Learning deep architectures for AI.” Foundations and
-trends® in Machine Learning 2.1 (2009): 1-127.
-
-Goodfellow, Ian J., et al. “Maxout networks.” arXiv preprint
-arXiv:1302.4389 (2013).
+Education, policy, stratified sampling
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
 ## Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition {-}
@@ -367,48 +341,48 @@ of the same sequence type reveals multiple loci of different ancestral
 lineage. *PLoS One*, **6**(11):e27121.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## Family Structure And Academic Achievements Of High School Students In Tonga {-}
+## Latent Variable Models And Multivariate Binomial Data {-}
 <p style="text-align:center">
-Losana Vao Latu Latu<br />
-University of Canterbury<br />
+John Holmes<br />
+University of Otago<br />
 </p>
-Family structure and academic achievements of high school students in
-Tonga
+<span>**Latent variable models and multivariate binomial data**</span>
 
-Losana Vao Latu Latu$^1$, Jennifer Brown$^1$ and Jacki Henderson$^2$
+John Holmes$^1$
 
-$^1$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, NZ
+$^1 \;$ Department of Mathematics and Statistics, University of Otago,
+Dunedin, P.O. Box 56, New Zealand
 
-$^2$ Department of Psychology, University of Canterbury, Christchurch,
-NZ
+<span>**Abstract**</span>. A large body of work has been devoted to
+latent variable models applicable to multivariate binary data. However
+little work has been put into extending these models to cases where the
+observed data is multivariate binomial. In this paper, we will first
+show that models that use either a logit or probit link function, offer
+the same level of modelling flexibility in the binary case, but only the
+logit link fits into a data augmentation approach that compactly extends
+from binary to binomial. Secondly, we will demonstrate that multivariate
+binomial data provides greater flexibility in how the link function can
+be represented. Lastly, we will consider properties of the implied
+distribution of latent probabilities under a logit link.
 
-Abstract
+<span>**Keywords**</span>. Multivariate binomial data, principal
+components/factor analysis, item response theory, link functions,
+logit-normal distributions
 
-In this study we examine how family structure affects the academic
-achievement of students at the secondary level of education age in
-Tonga. It is a comparative study aiming to find out whether there is a
-significant difference between the academic achievements of students
-from a traditional family and those from a non-traditional family. We
-define a Tongan traditional family as being two biological parents (or
-adoptive parents from birth), one male and one female where as
-non-traditional family can be a single parent family, or the student has
-no parent present (for example they are staying with relatives or
-friends). In our study we are looking at what are the key drivers of
-success and trying to understand the relationship between academic
-achievements and family structure. We hope the study will provide
-evidence-based information to aid the administrators, other educators
-and parents to adopt the best practices and actions for the students.
-The target population for this study is the high school students age 13
-to 18 in Tonga. The study is limited to the high schools in the main
-island of Tonga- Tongatapu which has 12 high schools where two high
-schools are government schools and the others are private schools run by
-different religions. In April we surveyed 360 students, 60 from each of
-6 high schools, and present here our preliminary results.
+References {#references .unnumbered}
+----------
 
-Keywords
+(ed.) Bartholomew, D. J. and Knott, M. and Moustaki, I. (2011). *Latent
+Variable Models and Factor Analysis: A Unified Approach*. Chichester:
+John Wiley & Sons.
 
-Education, policy, stratified sampling
+Johnson, N.L. (1949). Systems of Frequency Curves Generated by Methods
+of Translation. *Biometrika*, **36**, 149–276.
+
+Polson, N. G. and Scott, J. G. and Windle, J. (2013). Bayesian inference
+for logistic models using <span>P<span>ó</span>lya</span>-gamma latent
+variables. *Journal of the American Statistical Association*, **108**,
+1339–1349.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
 ## Identifying Clusters Of Patients With Diabetes Using A Markov Birth-Death Process {-}
@@ -613,48 +587,52 @@ extend the analysis to allow for complex survey designs with unequal
 weights, stratification and clustering.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## Latent Variable Models And Multivariate Binomial Data {-}
+## An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift {-}
 <p style="text-align:center">
-John Holmes<br />
-University of Otago<br />
+Takahiro Ido^1^, Shinpei Imori^1^, and Hidetoshi Shimodaira^2^<br />
+^1^Kyoto University<br />
+^2^Osaka University<br />
 </p>
-<span>**Latent variable models and multivariate binomial data**</span>
+<span>**An information criterion for prediction with auxiliary variables
+under covariate shift**</span>
 
-John Holmes$^1$
+Takahiro Ido$^1$, Shinpei Imori$^{12}$and Hidetoshi Shimodaira$^{23}$
 
-$^1 \;$ Department of Mathematics and Statistics, University of Otago,
-Dunedin, P.O. Box 56, New Zealand
+$^1 \;$ Graduate School of Engineering Science, Osaka University, 1-3
+Machikaneyama, Toyonaka, Osaka, 560-8531, Japan
 
-<span>**Abstract**</span>. A large body of work has been devoted to
-latent variable models applicable to multivariate binary data. However
-little work has been put into extending these models to cases where the
-observed data is multivariate binomial. In this paper, we will first
-show that models that use either a logit or probit link function, offer
-the same level of modelling flexibility in the binary case, but only the
-logit link fits into a data augmentation approach that compactly extends
-from binary to binomial. Secondly, we will demonstrate that multivariate
-binomial data provides greater flexibility in how the link function can
-be represented. Lastly, we will consider properties of the implied
-distribution of latent probabilities under a logit link.
+$^2 \;$ RIKEN Center for Advanced Intelligence Project (AIP), 1-4-1
+Nihonbashi, Chuo-ku, Tokyo, 103-0027, Japan
 
-<span>**Keywords**</span>. Multivariate binomial data, principal
-components/factor analysis, item response theory, link functions,
-logit-normal distributions
+$^3 \;$ Graduate School of Informatics, Kyoto University, Yoshida
+Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
 
-References {#references .unnumbered}
-----------
+<span>**Abstract**</span>. It is beneficial for modeling data of
+interest to exploit secondary information. The secondary information is
+called auxiliary variables, which may not be observed in testing data
+because they are not of primary interest. In this paper, we incorporate
+the auxiliary variables into a framework of supervised learning.
+Furthermore, we consider a covariate shift situation that allows a
+density function of covariates to change between testing and training
+data. It is known that the Maximum Log-likelihood Estimate (MLE) is not
+a good estimator under model misspecification and the covariate shift.
+This problem can be resolved by the Maximum Weighted Log-likelihood
+Estimate (MWLE).
 
-(ed.) Bartholomew, D. J. and Knott, M. and Moustaki, I. (2011). *Latent
-Variable Models and Factor Analysis: A Unified Approach*. Chichester:
-John Wiley & Sons.
+When we have multiple candidate models, it needs to select the best
+candidate model where its optimality is measured by the expected
+Kullback-Leibler (KL) divergence. The Akaike information criterion (AIC)
+is a well known criterion based on the KL divergence and using the MLE.
+Therefore, its validity is not guaranteed when the MWLE is used under
+the covariate shift. An information criterion under the covariate shift
+was proposed in Shimodaira (2000, JSPI) but this criterion does not take
+use of the auxiliary variables into account. Hence, we resolve this
+problem by deriving a new criterion. In addition, simulations are
+conducted to examine the improvement.
 
-Johnson, N.L. (1949). Systems of Frequency Curves Generated by Methods
-of Translation. *Biometrika*, **36**, 149–276.
-
-Polson, N. G. and Scott, J. G. and Windle, J. (2013). Bayesian inference
-for logistic models using <span>P<span>ó</span>lya</span>-gamma latent
-variables. *Journal of the American Statistical Association*, **108**,
-1339–1349.
+<span>**Keywords**</span>. Auxiliary variables; Covariate shift;
+Information criterion; Kullback-Leibler divergence; Misspecification;
+Predictions.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Analysis Of A Brief Telephone Intervention For Problem Gambling And Examining The Impact On Co-Existing Depression? {-}
@@ -838,54 +816,6 @@ talk, I will describe a study where we attempt to quantify the effects
 of this this approach on the resulting likelihood ratios using data
 obtained from SEM-EDX instrument.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift {-}
-<p style="text-align:center">
-Takahiro Ido^1^, Shinpei Imori^1^, and Hidetoshi Shimodaira^2^<br />
-^1^Kyoto University<br />
-^2^Osaka University<br />
-</p>
-<span>**An information criterion for prediction with auxiliary variables
-under covariate shift**</span>
-
-Takahiro Ido$^1$, Shinpei Imori$^{12}$and Hidetoshi Shimodaira$^{23}$
-
-$^1 \;$ Graduate School of Engineering Science, Osaka University, 1-3
-Machikaneyama, Toyonaka, Osaka, 560-8531, Japan
-
-$^2 \;$ RIKEN Center for Advanced Intelligence Project (AIP), 1-4-1
-Nihonbashi, Chuo-ku, Tokyo, 103-0027, Japan
-
-$^3 \;$ Graduate School of Informatics, Kyoto University, Yoshida
-Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
-
-<span>**Abstract**</span>. It is beneficial for modeling data of
-interest to exploit secondary information. The secondary information is
-called auxiliary variables, which may not be observed in testing data
-because they are not of primary interest. In this paper, we incorporate
-the auxiliary variables into a framework of supervised learning.
-Furthermore, we consider a covariate shift situation that allows a
-density function of covariates to change between testing and training
-data. It is known that the Maximum Log-likelihood Estimate (MLE) is not
-a good estimator under model misspecification and the covariate shift.
-This problem can be resolved by the Maximum Weighted Log-likelihood
-Estimate (MWLE).
-
-When we have multiple candidate models, it needs to select the best
-candidate model where its optimality is measured by the expected
-Kullback-Leibler (KL) divergence. The Akaike information criterion (AIC)
-is a well known criterion based on the KL divergence and using the MLE.
-Therefore, its validity is not guaranteed when the MWLE is used under
-the covariate shift. An information criterion under the covariate shift
-was proposed in Shimodaira (2000, JSPI) but this criterion does not take
-use of the auxiliary variables into account. Hence, we resolve this
-problem by deriving a new criterion. In addition, simulations are
-conducted to examine the improvement.
-
-<span>**Keywords**</span>. Auxiliary variables; Covariate shift;
-Information criterion; Kullback-Leibler divergence; Misspecification;
-Predictions.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
 ## Adjusting For Linkage Bias In The Analysis Of Record-Linked Data {-}
 <p style="text-align:center">
@@ -1044,50 +974,6 @@ University of Canterbury<br />
 There are five species of fishes of the genus Galaxias that make up
 whitebait catches in New Zealand, although one species (G. maculatus)
 makes up &gt;90
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 OGGB5 (260-051)</p>
-## An Advanced Approach For Time Series Forecasting Using Deep Learning {-}
-<p style="text-align:center">
-Balaram Panda<br />
-Inland Revenue Department<br />
-</p>
-<span>**An Advanced Approach for Time Series Forecasting using Deep
-Learning**</span>
-
-Balaram Panda$^1$
-
-$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
-
-<span>**Abstract**</span>. Time series forecasting is a decade-long
-research and which is being evolving day by day. Due to the recent
-advancement is deep learning technique many of the complex problems have
-been solved using deep learning. Deep learning techniques have shown
-tremendous better performance in supervised learning problem. One of the
-reasons for this success is the ability of deep feedforward network
-methods to learn multiple feature interaction for a single instance.
-However, the time-dependent nature not being captured by deep
-feedforward network till the evolution of RNN(recurrent neural network)
-and LSTM(long short term memory) network architecture. This paper
-reveals the success of LSTM time series in comparison with ARIMA and
-other standard approaches for time series modeling. A sensitivity
-analysis is also conducted to explore the effect of hyper parameter
-tuning on LSTM model to reduce the time series forecasting error. We
-also derive practical advice from our empirical results for those
-interested in getting most out of LSTM time series for modern time
-series forecasting.
-
-<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
-
-References {#references .unnumbered}
-----------
-
-Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
-unsupervised feature learning and deep learning for time-series
-modeling.” Pattern Recognition Letters 42 (2014): 11-24.
-
-Zheng, Yi, et al. “Time series classification using multi-channels deep
-convolutional neural networks.” International Conference on Web-Age
-Information Management. Springer, Cham, 2014.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
 ## Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles {-}
