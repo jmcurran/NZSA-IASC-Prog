@@ -1,15 +1,4 @@
-<span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
-Time Series**</span>
-
-Kyungduk Ko$^1$ and Chul Eung Kim$^2$
-
-$^1 \;$ Department of Mathematics, Boise State University, Boise, ID
-83725, USA
-
-$^2 \;$ Department of Applied Statistics, Yeonsei University, Seoul,
-Korea
-
-<span>**Abstract**</span>. We consider a power transformation through
+<span>**Abstract:**</span> We consider a power transformation through
 the well-known Box-cox transformation to induce normality from
 non-Gaussian long memory processes and propose a Bayesian method to
 simultaneously estimate the transformation parameter and long memory
@@ -20,11 +9,10 @@ data domain. For a joint estimation of the parameters of interest,
 posterior estimations are carried out via Markov chain Monte Carlo
 (MCMC). An application to German stock return data is presented.
 
-<span>**Keywords**</span>. Box-Cox transformation, Discrete wavelet
+<span>**Keywords:**</span> Box-Cox transformation, Discrete wavelet
 transform, Long memory, MCMC, Normality
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Dahlhaus, R. (1990). Efficient location and regression estimation for
 long range dependent regression models. *Annuals of Statistics*, 23,
