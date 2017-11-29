@@ -20,11 +20,9 @@ distribution; Non-inferiority; Superiority.
 
 <span>**References:**</span>
 
-:   Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
-    procedure of one-sided test in clinical trials with
-    multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
+Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
+procedure of one-sided test in clinical trials with
+multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
 
-:   Westfall PH and Troendle JF. (2008). Multiple testing with
-    minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
-
-
+Westfall PH and Troendle JF. (2008). Multiple testing with
+minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
