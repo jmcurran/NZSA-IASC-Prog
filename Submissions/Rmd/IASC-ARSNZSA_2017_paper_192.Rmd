@@ -1,13 +1,4 @@
-NZSA Abstract
-
-My knee still hurts; the statistical pathway to the development of a
-clinical decision aid
-
-Borotkanics R, Rice DA, Kluger M, McNair PJ, , Lewis G, Somogyi A,
-Barret, D, Walker M. Auckland University of Technology, Waitemata
-District Health Board and University of Adelaide
-
-Total knee arthroplasty (TKA) is considered an effective intervention to
+<span>**Abstract:**</span> Total knee arthroplasty (TKA) is considered an effective intervention to
 improve physical function and reduce joint pain in those with end stage
 knee arthritis, yet up to 34 What is reported herein is the
 methodological approaches applied to tease out the various nuances of
@@ -30,5 +21,5 @@ effect of changing pain thresholds on model accuracy. Finally, the
 conversion of a superior logistic model into a probabilistic function,
 of potential utility for clinicians is illustrated.
 
-Keywords: total knee arthroplasty; logistic regression; clinical
+<span>**Keywords:**</span> total knee arthroplasty; logistic regression; clinical
 decision support
