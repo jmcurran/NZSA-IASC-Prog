@@ -1,18 +1,4 @@
-<span>**Genetic map estimation using hidden Markov models in the
-presence of partially observed information**</span>
-
-Timothy P. Bilton^1,2^, Matthew R. Schofield^1^, Ken G. Dodds^2^ and
-Michael A. Black^3^\
-
-$^1 \;$ Department of Mathematics and Statistics, University of Otago,
-Dunedin, New Zealand
-
-$^2 \;$ Invermay Agricultural Centre, AgResearch, Mosgiel, New Zealand
-
-$^3 \;$ Department of Biochemistry, University of Otago, Dunedin, New
-Zealand
-
-<span>**Abstract**</span>. A genetic linkage map shows the relative
+<span>**Abstract:**</span> A genetic linkage map shows the relative
 position of and genetic distance between markers, positions of the
 genome that exhibit variation, and underpins the study of species’
 genomes in a number of scientific applications. Genetic maps are
@@ -32,5 +18,5 @@ estimates, even in situations where a large proportion of the data is
 only partially observed. Our methodology has been implemented in the R
 package GusMap.
 
-<span>**Keywords**</span>. hidden Markov models, linkage mapping,
+<span>**Keywords:**</span> hidden Markov models, linkage mapping,
 partially observed data, confidence intervals
