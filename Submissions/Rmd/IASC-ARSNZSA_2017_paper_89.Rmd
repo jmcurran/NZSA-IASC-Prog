@@ -20,4 +20,4 @@ ASDs. Real example data are visualized by our software and interpreted
 intuitively.
 
 <span>**Keywords:**</span> Apache Hadoop, Apache Spark, Parallel
-coordinate plot, Symbolic data analysis.
+coordinate plot, Symbolic data analysis
