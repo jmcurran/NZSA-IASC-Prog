@@ -1,12 +1,4 @@
-<span>**Bayesian Static Parameter Inference for Partially Observed
-Stochastic Systems**</span>
-
-YAXIAN XU$^1$ and AJAY JASRA$^1$
-
-$^1 \;$ Department of Statistics & Applied Probability, National
-University of Singapore, Singapore, 117546, SG.
-
-<span>**Abstract**</span>. We consider Bayesian static parameter
+<span>**Abstract:**</span> We consider Bayesian static parameter
 estimation for partially observed stochastic systems with discrete-time
 observations. This is a very important problem, but is very
 computationally challenging as the associated posterior distributions
@@ -27,11 +19,10 @@ parameter and hidden space and then correcting by an importance sampling
 method. Our method is illustrated numerically to be preferable for
 inference of parameters for a partially observed SPDE.
 
-<span>**Keywords**</span>. Multi-index Monte Carlo, Markov chain Monte
+<span>**Keywords:**</span> Multi-index Monte Carlo, Markov chain Monte
 Carlo, stochastic partial differential equations
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Christophe Andrieu, Arnaud Doucet, and Roman Holenstein. (2010).
 Particle markov chain monte carlo methods. *Journal of the Royal
