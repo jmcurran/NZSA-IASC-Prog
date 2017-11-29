@@ -1,12 +1,4 @@
-<span>**Abstract**</span>
-New Zealand Crime and Victims Survey: filling the knowledge gaps
-
-Dr Andrew Butcher, Dr Michael Slyuzberg (corresponding author)
-
-New Zealand Ministry of Justice, Justice Centre, 19 Aitken Street, DX SX
-10088, Wellington
-
-The key objective of the Ministry of Justice is to ensure that New
+<span>**Abstract:**</span> The key objective of the Ministry of Justice is to ensure that New
 Zealand has a strong justice system that contributes to a safe and just
 society. To achieve this objective, the ministry and the wider Justice
 Sector need to know whether they are focusing their efforts in the right
