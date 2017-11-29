@@ -1,15 +1,4 @@
-<span>**Model-checking for regressions: a local smoothing-based global
-smoothing test**</span>
-
-Lingzhu Li$^1$ and Lixing Zhu$^2$
-
-$^1 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-$^2 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-<span>**Abstract**</span>. As the two kinds of methods for model
+<span>**Abstract:**</span> As the two kinds of methods for model
 specification problem, local smoothing tests and global smoothing tests
 exhibit different characteristics. Compared with global smoothing tests,
 local smoothing tests can only detect local alternatives distinct from
@@ -24,11 +13,10 @@ test statistic is derived and the asymptotic properties are
 investigated. Simulations and a real data analysis are conducted to
 evaluate the performance of the test in finite sample cases.
 
-<span>**Keywords**</span>. Global smoothing test, projection-based
+<span>**Keywords:**</span> Global smoothing test, projection-based
 methods, local smoothing test
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Zheng, J. X. (1996). *Journal of Econometrics: A consistent test of
 functional form via nonparametric estimation techniques*, **75(2)**,
