@@ -25,7 +25,7 @@ we illustrate our proposed approach on a massive airline data set.
 
 <span>**Keywords:**</span> High performance computing, Effective
 Dimension Reduction (EDR), Parallel programming, R software, Sliced
-Inverse Regression (SIR).
+Inverse Regression (SIR)
 
 <span>**References:**</span>
 
