@@ -1,17 +1,4 @@
-<span>**Abstract**</span>
-<span>**Simultaneous test for mean vectors and covariance matrices in
-high-dimensional settings**</span>
-
-Takahiro Nishiyama$^1$ and Masashi Hyodo$^2$
-
-$^1 \;$ Department of Business Administration, Senshu University, 2-1-1,
-Higashimita, Tama-ku, Kawasaki-shi, Kanagawa 214-8580, Japan
-
-$^2 \;$ Department of Mathematical Sciences, Graduate School of
-Engineering, Osaka Prefecture University, 1-1 Gakuen-cho, Naka-ku,
-Sakai, Osaka 599-8531, Japan
-
-Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
+<span>**Abstract:**</span> Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
 $\ldots$, ${\mbox{\boldmath ${X}$}}_{gn_g}$ be i.i.d. random samples of
 size $n_{g}$ from a $p$-dimensional population $\Pi_g$
 ($g \in \{1, 2\}$) with
@@ -33,11 +20,10 @@ statistic and investigate the asymptotic sizes and powers of the
 proposed test. Finally, we study the finite sample and dimension
 performance of this test via Monte Carlo simulations.
 
-<span>**Keywords**</span>. Asymptotic distribution, High-dimensional
+<span>**Keywords:**</span> Asymptotic distribution, High-dimensional
 data analysis, Testing hypothesis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Chen, S.X. and Qin, Y.L. (2010). A two-sample test for high dimensional
 data with applications to gene-set testing. *Ann. Statist.*, **38**,
