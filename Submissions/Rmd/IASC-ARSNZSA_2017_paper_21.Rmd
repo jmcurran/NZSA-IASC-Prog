@@ -1,15 +1,4 @@
-<span>**Clustering using Nonparametric Mixtures and Mode
-Identification**</span>
-
-Shengwei Hu$^1$ and Yong Wang$^2$
-
-$^1 \;$ Department of Statistics, the University of Auckland, New
-Zealand
-
-$^2 \;$ Department of Statistics, the University of Auckland, New
-Zealand
-
-<span>**Abstract**</span>. Clustering aims to partition a set of
+<span>**Abstract:**</span> Clustering aims to partition a set of
 observations into a proper number of clusters with similar objects
 allocated to the same group. Current partitioning methods mainly include
 those based on some measure of distance or probability distribution.
@@ -26,11 +15,10 @@ sequentially until the optimal number of clusters is reached. The
 performance of the proposed method is investigated on both simulated and
 real datasets.
 
-<span>**Keywords**</span>. Clustering, Nonparametric mixtures, Mode
+<span>**Keywords:**</span> Clustering, Nonparametric mixtures, Mode
 identification
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Wang, X. and Wang, Y.: *Nonparametric multivariate density estimation
 using mixtures*. Stat. Comput. **25**, 349–-364 (2015).

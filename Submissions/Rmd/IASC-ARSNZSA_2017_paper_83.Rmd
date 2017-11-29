@@ -1,11 +1,4 @@
-<span>**Abstract**</span>
-Rolling survival extrapolation algorithm for estimating life years lost
-among subjects exposed to long-term air pollution
-
-Jing-Shiang Hwang and Tsuey-Hwa Hu Institute of Statistical Science,
-Academia Sinica, Taiwan
-
-Measure of expected years of life lost (EYLL) of a cohort of subjects
+<span>**Abstract:**</span> Measure of expected years of life lost (EYLL) of a cohort of subjects
 living with specific conditions would be useful for quantifying and
 thereby comparing the societal burden of different conditions. One
 promising approach of estimating EYLL is based on relative survival
@@ -33,5 +26,5 @@ that elderly people living in a worse local air pollution for decades
 long had more expected years of life lost after adjusting social
 economic status.
 
-Keywords: Life expectancy, expected years of life lost, air pollution
+<span>**Keywords:**</span> Life expectancy, expected years of life lost, air pollution
 health effects, particulate matter

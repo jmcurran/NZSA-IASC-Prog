@@ -1,8 +1,4 @@
-<span>**Abstract**</span>
-Title: R in Industry-Application on Pipe Renewal Planning Speaker: Glenn
-Thomas, Data Scientist, Harmonic Analytics
-
-R has become an increasingly used tool in industry to practically help
+<span>**Abstract:**</span> R has become an increasingly used tool in industry to practically help
 councils and organisations with their asset management challenges. We
 will demonstrate some of the practical tools Harmonic Analytics has
 developed using R to assist in asset management.

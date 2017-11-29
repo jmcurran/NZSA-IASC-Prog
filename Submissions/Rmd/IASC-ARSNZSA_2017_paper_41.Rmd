@@ -1,7 +1,4 @@
-Abstract
-========
-
-The requirement for predictions to be made earlier in the growing season
+<span>**Abstract:**</span> The requirement for predictions to be made earlier in the growing season
 has become more important, as the opportunity to plan for the wine
 production and export earlier in the season becomes desirable. The issue
 with this is there is less information available to those wishing to

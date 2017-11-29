@@ -1,17 +1,4 @@
-<span>**Innovative Bayesian Estimation in the von-Mises
-Distribution**</span>
-
-Yuta Kamiya$^1$ , Toshinari Kamakura$^2$ and Takemi Yanagimoto$^3$
-
-$^1 \;$ Graduate School of Industrial and Systems Engineering, Chuo
-University, Japan
-
-$^2 \;$ Department of Industrial and Systems Engineering, Chuo
-University, Japan
-
-$^3 \;$ Institute of Statistical Mathematics, Japan
-
-<span>**Abstract**</span>. In spite of recent growing interest in
+<span>**Abstract:**</span> In spite of recent growing interest in
 applying the von-Mises distribution to circular data in various
 scientific fields, researches on the parameter estimation are
 surprisingly sparse. The standard estimators are the MLE and the maximum
@@ -29,11 +16,10 @@ procedures, including Bayesian estimator under an informative prior
 based on the reference prior. The proposed estimator is examined by
 applying to practical datasets.
 
-<span>**Keywords**</span>. von-Mises distribution, bayesian estimation,
+<span>**Keywords:**</span> von-Mises distribution, bayesian estimation,
 canonical parameter
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Fisher, Nicholas I. <span>*Statistical analysis of circular
 data.*</span> Cambridge University Press, 1995.

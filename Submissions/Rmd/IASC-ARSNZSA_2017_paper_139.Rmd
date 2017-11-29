@@ -1,11 +1,4 @@
-<span>**Nonparametric causal inference by the kernel method**</span>
-
-Yuchi Matsuoka$^1$ and Etsuo Hamada$^1$
-
-$^1 \;$ Graduate School of Engineering Science, Osaka University,\
-1-3 Machikaneyama-cho, Toyonaka, Osaka, Japan
-
-<span>**Abstract**</span>. Rubin causal model is a statistical model to
+<span>**Abstract:**</span> Rubin causal model is a statistical model to
 estimate the effect of a treatment on the outcome based on the framework
 of potential outcomes. To estimate a causal effect based on Rubin causal
 model, propensity score plays a central role. In particular, matching
@@ -28,5 +21,5 @@ from the imbalance of covariates. In numerical simulations, we confirm
 that our method can reduce the bias in misspecified settings. We also
 describe several asymptotic properties of our estimator.
 
-<span>**Keywords**</span>. Rubin causal model, Propensity score, Kernel
+<span>**Keywords:**</span> Rubin causal model, Propensity score, Kernel
 method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion

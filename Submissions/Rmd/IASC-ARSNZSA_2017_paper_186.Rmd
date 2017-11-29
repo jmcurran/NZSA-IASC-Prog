@@ -1,14 +1,4 @@
-<span>**Phylogenetic Tree-based Microbiome Association Test**</span>
-
-Sungho Won$^{1,2}$
-
-$^1 \;$ Department of Public Health Science, Seoul National University,
-Seoul, Korea
-
-$^2 \;$ Interdisciplinary Program for Bioinformatics, College of Natural
-Science, Seoul National University, Seoul
-
-<span>**Abstract**</span>. Microbial metagenomics data has large
+<span>**Abstract:**</span> Microbial metagenomics data has large
 inter-subject variation and operational taxonomic units (OTU) for each
 species are usually very sparse. Because of these problems,
 non-parametric approaches such as Mann-Whitney U test and Wilcoxon
@@ -28,5 +18,5 @@ existing methods for considered scenarios. Furthermore it was applied to
 atopic diseases and found that community profiles of Enterococcus is
 associated.
 
-<span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
+<span>**Keywords:**</span> NGS; phylogenetic treel Microbiome
 Association Test

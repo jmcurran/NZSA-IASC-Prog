@@ -1,11 +1,4 @@
-<span>**Applying Active Learning Procedure to Drug Consumption
-Data**</span>
-
-Bao-Shiang Ke$^1$ and Yuan-chin Ivan Chang$^2$
-
-$^2 \;$ Institute of Statistical Science Academia Sinica, Taipei, Taiwan
-
-<span>**Abstract**</span>. We apply the method of active learning to
+<span>**Abstract:**</span> We apply the method of active learning to
 build a binary classification model for drug consumption data. Due to
 the nature of active learning, subject selection is an major issue is
 its learning process. There are many kinds of subject selection schemes
@@ -23,21 +16,13 @@ index to locate the most informative samples, sequentially, such that
 the learning procedure can achieve the target efficiently. We then apply
 our procedure to drug consumption data sets.
 
-<span>**Keywords**</span>. ROC curve, area under curve, active learning,
+<span>**Keywords:**</span> ROC curve, area under curve, active learning,
 influential index
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
-Calders and Jaroszewicz, 2007
+Calders, T. and Jaroszewicz, S. (2007).
+Efficient auc optimization for classification. In <span>*Knowledge
+Discovery in Databases: PKDD 2007*</span>, pages 42–53. Springer.
 
-:   <span>Calders2007</span> Calders, T. and Jaroszewicz, S. (2007).
-    Efficient auc optimization for classification. In <span>*Knowledge
-    Discovery in Databases: PKDD 2007*</span>, pages 42–53. Springer.
-
-Hampel, 1974
-
-:   <span>hampel</span> Hampel, F. R. (1974). The influence curve and
-    its role in robust estimation. , 69(346):383–393.
-
-
+Hampel, F. R. (1974). The influence curve and its role in robust estimation. , 69(346):383–393.

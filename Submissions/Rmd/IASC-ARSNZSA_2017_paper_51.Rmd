@@ -1,14 +1,4 @@
-<span>**An Incomplete-data Fisher Scoring Method with an Acceleration
-Method** </span>
-
-Keiji Takai$^1$
-
-$^1 \;$ Faculty of Business and Commerce, Kansai University, 3-3-35
-Yamate, Suita, Osaka, JAPAN
-
-<span>**Abstract**</span>.
-
-Incomplete data complicate conventional statistical analyses because the
+<span>**Abstract:**</span> Incomplete data complicate conventional statistical analyses because the
 analyses presume complete data are always available. The primary problem
 is the complication of the parameter estimation. The parameter
 estimation is based on the observed-data log-likelihood function that
@@ -30,11 +20,10 @@ standard error with the functions used only for the acceleration. The
 convergence rate is faster than the EM algorithm. In the talk, I provide
 the convergence theorem and practical examples.
 
-<span>**Keywords**</span>. Incomplete data, EM algorithm, Fisher
+<span>**Keywords:**</span> Incomplete data, EM algorithm, Fisher
 scoring, acceleration method
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
 Characteristics and identification: Second Edition.* Cambridge:

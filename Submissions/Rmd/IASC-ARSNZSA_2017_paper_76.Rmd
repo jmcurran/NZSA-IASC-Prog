@@ -1,14 +1,4 @@
-<span>**A simple method for grouping patients based on historical
-doses**</span>
-
-ShengLi Tzeng$^1$
-
-$^1 \;$ Department of Public Health, China Medical University, Taichung,
-40402, Taiwan
-
-<span>**Abstract**</span>
-
-Monitoring dose patterns over time helps physicians and patients learn
+<span>**Abstract:**</span> Monitoring dose patterns over time helps physicians and patients learn
 more about metabolic change, disease evolution, etc. One way to turn
 such longitudinal data into clinically useful information is through
 cluster analysis, which aims to separate the “profiles of doses” among
@@ -29,11 +19,10 @@ effectiveness of our proposal is shown by simulations comparing it to
 other dissimilarity measures and by a real application to methadone
 dosage maintenance levels.
 
-<span>**Keywords**</span>. Clustering, longitudinal data, smoothing
+<span>**Keywords:**</span> Clustering, longitudinal data, smoothing
 splines, outliers
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lin, Chien-Ju, Christian Hennig, and Chieh-Liang Huang. (2016).
 Clustering and a dissimilarity measure for methadone dosage time series.

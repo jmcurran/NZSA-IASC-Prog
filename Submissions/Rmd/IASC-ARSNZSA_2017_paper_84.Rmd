@@ -1,17 +1,4 @@
-<span>**Analysing Scientific Collaborations of New Zealand Institutions
-using Scopus Bibliometric Data**</span>
-
-Samin Aref$^1$, David Friggens$^2$ and Shaun Hendy$^3$
-
-$^1 \;$ Department of Computer Science and Te Pūnaha Matatini,
-University of Auckland, New Zealand
-
-$^2 \;$ Ministry of Business Innovation & Employment, New Zealand
-
-$^3 \;$ Department of Physics and Te Pūnaha Matatini, University of
-Auckland, New Zealand
-
-<span>**Abstract**</span>. Scientific collaborations are among the main
+<span>**Abstract:**</span> Scientific collaborations are among the main
 enablers of development in small national science systems. Although
 analysing scientific collaborations is a well-established subject in
 scientometrics, evaluations of collaborative activities of countries
@@ -38,5 +25,5 @@ Employment.
 
 ArXiv preprint link: https://arxiv.org/pdf/1709.02897
 
-<span>**Keywords**</span>. Big data modelling, Scientific collaboration,
+<span>**Keywords:**</span> Big data modelling, Scientific collaboration,
 Scientometrics, Network analysis, Scopus, New Zealand

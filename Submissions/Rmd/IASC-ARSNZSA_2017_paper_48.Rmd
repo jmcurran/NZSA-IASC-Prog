@@ -1,12 +1,4 @@
-<span>**Selecting Generalised Linear Models Under Inequality
-Constraints**</span>
-
-Daniel Gerhard
-
-School of Mathematics & Statistics, University of Canterbury,
-Christchurch, NZ
-
-<span>**Abstract**</span>. Model selection by information criteria can
+<span>**Abstract:**</span> Model selection by information criteria can
 be used to identify a single best model or for inference based on
 weighted support from a set of competing models, incorporating model
 selection uncertainty into parameter estimates and estimates of
@@ -26,10 +18,9 @@ distribution of the exponential family for the response. The methodology
 is illustrated using the open source environment R with the add-on
 package `goric`.
 
-<span>**Keywords**</span>. Model selection, Order-restriction, GLM
+<span>**Keywords:**</span> Model selection, Order-restriction, GLM
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Anraku, K. (1999). An information criterion for parameters under a
 simple order restriction. *Biometrika*, **86**, 141–152.

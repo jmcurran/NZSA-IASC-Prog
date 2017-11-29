@@ -1,11 +1,4 @@
-<span>**Estimation of a High-Dimensional Covariance Matrix**</span>
-
-Xiangjie Xue$^*$ and Yong Wang$^*$
-
-$^* \;$ Department of Statistics, The University of Auckland, New
-Zealand.
-
-<span>**Abstract**</span>. The estimation of covariance or precision
+<span>**Abstract:**</span> The estimation of covariance or precision
 (inverse covariance) matrices plays a prominent role in multivariate
 analysis. The usual estimator, the sample covariance matrix, is known to
 be unstable and ill-conditioned in high-dimensional setting. In the past
@@ -23,11 +16,10 @@ estimator of the correlation matrix. Preliminary simulation results show
 that the new estimator has some advantages over various thresholding
 methods in estimating sparse covariance matrices.
 
-<span>**Keywords**</span>. Big Data, Multivariate Analysis, Statistical
+<span>**Keywords:**</span> Big Data, Multivariate Analysis, Statistical
 Inference
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Efron, B., 2010. *Correlated $z$-values and the accuracy of large-scale
 statistical estimates*. J Am Stat Assoc **105**, 1042 - 1055.

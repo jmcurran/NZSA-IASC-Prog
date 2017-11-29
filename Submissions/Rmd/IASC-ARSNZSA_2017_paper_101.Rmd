@@ -1,14 +1,4 @@
-<span>**Pattern Prediction for Time Series Data with Change
-Points**</span>
-
-Satoshi Goto$^1$ and Hiroshi Yadohisa$^1$
-
-$^1 \;$ Faculty of Culture and Information Science, Doshisha University,
-Kyoto, JAPAN
-
-<span>**Abstract**</span>.
-
-Recently, there have been various types of time series data, such as
+<span>**Abstract:**</span> Recently, there have been various types of time series data, such as
 daily stock prices and Web-click logs, that have complicated the
 structure. In several cases, because of the complexity, time series data
 cannot satisfy the stationary process assumption. REGIMECAST (Matsubara
@@ -29,15 +19,14 @@ flexible representation, as it represents non-stationary processes with
 a non-linear state space model. We also provide empirical examples using
 a variety of real datasets.
 
-<span>**Keywords**</span>. anomaly detection, change-point detection,
+<span>**Keywords:**</span> anomaly detection, change-point detection,
 non-linear state space model, pattern discovery, REGIMECAST
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
-:   Y. Matsubara and Y. Sakurai (2016). Regime shifts in streams:
-    Real-time forecasting of co-evolving time sequences,
-    <span>*Proceedings of the 22nd ACM SIGKDD International Conference
-    on Knowledge Discovery and Data Mining*</span>, 13–17, 2016.
+Y. Matsubara and Y. Sakurai (2016). Regime shifts in streams:
+Real-time forecasting of co-evolving time sequences,
+<span>*Proceedings of the 22nd ACM SIGKDD International Conference
+on Knowledge Discovery and Data Mining*</span>, 13–17, 2016.
 
 

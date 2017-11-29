@@ -1,12 +1,4 @@
-<span>**Three-Dimensional Data Visualization Education with Virtual
-Reality**</span>
-
-J. E. Lee$^1$, S. Ahn$^1$ and D. H. Jang$^1$
-
-$^1 \;$ Department of Statistics, Pukyong National University, 45,
-Yongso-ro, Nam-gu, Busan 48513, Korea. E-mail: dhjang@pknu.ac.kr
-
-<span>**Abstract**</span>. A variety of data visualization methods are
+<span>**Abstract:**</span> A variety of data visualization methods are
 utilizing to analyze huge amount of data. Among various methods, a
 three-dimensional image requires the rotation of the image to show
 stereo image on the two-dimensional screen. This study discusses data
@@ -16,11 +8,10 @@ to improve the restriction of the three-dimensional image display with
 virtual reality. This investigation can be useful to explore
 three-dimensional data structure more clearly.
 
-<span>**Keywords**</span>. Data visualization education, Virtual
+<span>**Keywords:**</span> Data visualization education, Virtual
 reality, Stereo image, R package
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Bowman, A. (2015). *rpanel*: Simple interactive controls for R using the
 tcltk library. R package version 1.1-3.

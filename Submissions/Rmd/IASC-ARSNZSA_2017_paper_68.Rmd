@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-A three-stage framework is developed for fitting a mixture of
+<span>**Abstract:**</span> A three-stage framework is developed for fitting a mixture of
 regressions for high dimensional data. The method combines a
 hierarchical agglomerative grouping algorithm, regression-based
 clustering, and a sequential, group-wise sparse estimation called

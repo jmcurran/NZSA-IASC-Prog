@@ -1,6 +1,4 @@
-Presenting Flexi: A Statistical Program for Fitting Variance Models
-Martin Upsdell, AgResearch, Ruakura Research Centre, Hamilton, New
-Zealand Abstract Flexi is a statistical program designed to fit variance
+<span>**Abstract:**</span> Flexi is a statistical program designed to fit variance
 based models. In this talk I will explore the advantages and
 disadvantages of the variance based model compared to the more commonly
 adopted mean based approach. Several examples will be given where the

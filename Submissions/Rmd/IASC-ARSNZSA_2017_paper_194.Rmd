@@ -1,21 +1,14 @@
-<span>**R for Everything**</span>
-
-Jared P. Lander$^1$
-
-$^1 \;$ Lander Analytics and Columbia University New York, NY USA
-
-<span>**Abstract**</span>. Everyone knows I love R. So much that I never
+<span>**Abstract:**</span> Everyone knows I love R. So much that I never
 want to leave the friendly environs of R and RStudio. Want to download a
 file? Use `download.file`. Want to create a directory? Use `dir.create`.
 Sending an email? `gmailr`. Using Git? `git2r`. Building this slideshow?
 `rmarkdown`. Writing a book? `knitr`. Let’s take a look at everyday
 activities that can be done in R.
 
-<span>**Keywords**</span>. R, RMarkdown, knitr, email, football, git,
+<span>**Keywords:**</span> R, RMarkdown, knitr, email, football, git,
 download, data, plotting, modeling, logistic regression
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lander, J. (2017). *R for Everyone, Second Edition.* New York:
 Addison-Wesley.

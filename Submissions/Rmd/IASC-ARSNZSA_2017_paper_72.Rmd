@@ -1,15 +1,4 @@
-<span>**Detecting Change-Points in the Stress-Strength Reliability
-$P(X<Y)$**</span>
-
-Hang Xu$^1$, Philip L.H. Yu$^1$ and Mayer Alvo$^2$
-
-$^1 \;$ Department of Statistics and Actuarial Science, The University
-of Hong Kong, Hong Kong
-
-$^2 \;$ Department of Mathematics and Statistics, University of Ottawa,
-Canada
-
-<span>**Abstract**</span>. We address the statistical problem of
+<span>**Abstract:**</span> We address the statistical problem of
 detecting change-points in the stress-strength reliability $R=P(X<Y)$ in
 a sequence of paired variables $(X,Y)$. Without specifying their
 underlying distributions, we embed this non-parametric problem into a
@@ -27,5 +16,5 @@ of the variables. Applications to real data demonstrate the usefulness
 of our proposed methodology for detecting the change-points in the
 stress-strength reliability R.
 
-<span>**Keywords**</span>. Multiple change-points detection;
+<span>**Keywords:**</span> Multiple change-points detection;
 Stress-strength model; Dynamic programming

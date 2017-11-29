@@ -1,14 +1,4 @@
-<span>**Comparison of Exact and Approximate Testing Procedures in
-Clinical Trials with Multiple Binary Endpoints**</span>
-
-Takuma Ishihara$^1$ and Kouji Yamamoto$^1$
-
-$^1 \;$ Department of Medical Statistics Osaka City University Graduate
-School of Medicine, Japan
-
-<span>**Abstract**</span>.
-
-In confirmatory clinical trials, the efficacy of a test treatment are
+<span>**Abstract:**</span> In confirmatory clinical trials, the efficacy of a test treatment are
 sometimes assessed by using multiple primary endpoints. We consider a
 trial in which the efficacy of a test treatment is confirmed only when
 it is superior to control for at least one of the endpoints and not
@@ -25,17 +15,14 @@ Finally, we compare an exact and approximate testing procedures proposed
 above. The performance of the proposed procedures was examined through
 Monte Carlo simulations.
 
-<span>**Keywords**</span>. Clinical trial; Multivariate Bernoulli
+<span>**Keywords:**</span> Clinical trial; Multivariate Bernoulli
 distribution; Non-inferiority; Superiority.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
-:   Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
-    procedure of one-sided test in clinical trials with
-    multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
+Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
+procedure of one-sided test in clinical trials with
+multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
 
-:   Westfall PH and Troendle JF. (2008). Multiple testing with
-    minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
-
-
+Westfall PH and Troendle JF. (2008). Multiple testing with
+minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.

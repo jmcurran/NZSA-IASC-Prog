@@ -1,12 +1,4 @@
-<span>**Calendar-based graphics for visualising people’s daily
-schedules**</span>
-
-Earo Wang$^1$, Dianne Cook$^1$ and Rob J Hyndman$^1$
-
-$^1 \;$ Department of Econometrics and Business Statistics, Monash
-University, VIC 3800, Australia
-
-<span>**Abstract**</span>. This paper describes a `frame_calendar`
+<span>**Abstract:**</span> This paper describes a `frame_calendar`
 function that organises and displays temporal data, collected on
 sub-daily resolution, into a calendar layout. Calendars are broadly used
 in society to display temporal information, and events. The
@@ -23,11 +15,10 @@ weekends, holidays, and special events. The layout algorithm has several
 format options and variations. It is implemented in the R package
 <span>**sugrrants**</span>.
 
-<span>**Keywords**</span>. data visualisation, statistical graphics,
+<span>**Keywords:**</span> data visualisation, statistical graphics,
 time series, R package, grammar of graphics
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Van Wijk JJ, Van Selow ER (1999). Cluster and Calendar Based
 Visualization of Time Series Data. In *Information Visualization,

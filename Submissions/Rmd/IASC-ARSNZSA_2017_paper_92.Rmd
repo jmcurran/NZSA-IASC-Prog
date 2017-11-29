@@ -1,16 +1,4 @@
-<span>**BIG-SIR a Sliced Inverse Regression approach for massive
-data**</span>
-
-Benoit Liquet$^{1,2}$ and Jerome Saracco $^3$
-
-$^1 \;$ Laboratory of Mathematics and its Applications, University of
-Pau et Pays de L’Adour, UMR CNRS 5142, France
-
-$^2 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
-
-$^3 \;$ University of Bordeaux, Talence, France
-
-<span>**Abstract**</span>. In a massive data setting, we focus on a
+<span>**Abstract:**</span> In a massive data setting, we focus on a
 semiparametric regression model involving a real dependent variable $Y$
 and a $p$-dimensional covariable $X$. This model includes a dimension
 reduction of X via an index $X'\beta$. The Effective Dimension Reduction
@@ -35,12 +23,11 @@ both speed and memory. Results are visualised using the
 bin-summarise-smooth approach through the `bigvis` R package. Finally,
 we illustrate our proposed approach on a massive airline data set.
 
-<span>**Keywords**</span>. High performance computing, Effective
+<span>**Keywords:**</span> High performance computing, Effective
 Dimension Reduction (EDR), Parallel programming, R software, Sliced
-Inverse Regression (SIR).
+Inverse Regression (SIR)
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Liquet, B., & Saracco, J. (2016), *BIG-SIR a Sliced Inverse Regression
 Approach for Massive Data*, Statistics and Its Interface. Vol 9,

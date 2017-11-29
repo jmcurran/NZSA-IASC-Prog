@@ -1,12 +1,4 @@
-<span>**An EWMA Chart for Monitoring Covariance Matrix Based on
-Dissimilarity Index**</span>
-
-Longcheen Huwang
-
-Institute of Statistics, National Tsing Hua University, Hsinchu 30043,\
-Taiwan
-
-<span>**Abstract**</span>. In this talk, we propose an EWMA chart for
+<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
 monitoring covariance matrix based on the dissimilarity index of two
 matrices. It is different from the conventional EWMA charts for
 monitoring covariance matrix which are either based on comparing the sum
@@ -24,11 +16,10 @@ has the actual IC average run length not less than the nominal one with
 a certain probability. Finally, we use an example to demonstrate the
 applicability and implementation of the proposed chart.
 
-<span>**Keywords**</span>. Average run length, dissimilarity index,
+<span>**Keywords:**</span> Average run length, dissimilarity index,
 EWMA; out-of-control
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
 weighted moving covariance matrix. <span>*Technometrics*</span>,

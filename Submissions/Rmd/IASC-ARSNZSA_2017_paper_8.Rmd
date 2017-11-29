@@ -1,11 +1,4 @@
-<span>**Lattice Polytope Samplers**</span>
-
-Martin L. Hazelton$^1$
-
-$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
-North 4410, New Zealand
-
-<span>**Abstract**</span>. Statistical inverse problems occur when we
+<span>**Abstract:**</span> Statistical inverse problems occur when we
 wish to learn about some random process that is observed only
 indirectly. Inference in such situations typically involves sampling
 possible values for the latent variables of interest conditional on the
@@ -28,11 +21,10 @@ addresses some of the theoretical issues, but has significant practical
 limitations. In this talk I shall discuss some preliminary findings
 based on a more geometric approach to sampler design.
 
-<span>**Keywords**</span>. lattice bases, Markov bases, MCMC,
+<span>**Keywords:**</span> lattice bases, Markov bases, MCMC,
 statistical linear inverse problem
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Diaconis, P., and Sturmfels, B. (1998). Algebraic algorithms for
 sampling from conditional distributions. *The Annals of Statistics*

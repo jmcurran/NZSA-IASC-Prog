@@ -1,16 +1,4 @@
-<span>**Adaptive Model Checking for Functional Single-Index
-Models**</span>
-
-Feifei CHEN$^1$, Qing JIANG$^2$, and Zhenghui FENG$^3$
-
-$^1 \;$ School of Statistics, The Renmin University, Beijing, China
-
-$^2 \;$ School of Statistics, Beijing Normal University, Beijing, China
-
-$^3 \;$ School of Economics and the Wang Yanan Institute for Studies in
-Economics, Xiamen University, Xiamen, China
-
-<span>**Abstract**</span>. In this paper, a model-adaptive test
+<span>**Abstract:**</span> In this paper, a model-adaptive test
 statistic is proposed to do model checking for functional single-index
 models. Dimension reduction methods are included to handle the curse of
 dimensionality. The test statistic consists of two parts: the first term
@@ -20,5 +8,5 @@ at a fast rate. Monte Carlo method is used to find the critical value
 under null hypothesis. Simulation studies show the performance of our
 proposed test procedure.
 
-<span>**Keywords**</span>. Functional single-index models, dimension
+<span>**Keywords:**</span> Functional single-index models, dimension
 reduction, model checking

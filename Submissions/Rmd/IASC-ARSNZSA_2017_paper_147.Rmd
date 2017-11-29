@@ -1,18 +1,4 @@
-<span>**An information criterion for prediction with auxiliary variables
-under covariate shift**</span>
-
-Takahiro Ido$^1$, Shinpei Imori$^{12}$and Hidetoshi Shimodaira$^{23}$
-
-$^1 \;$ Graduate School of Engineering Science, Osaka University, 1-3
-Machikaneyama, Toyonaka, Osaka, 560-8531, Japan
-
-$^2 \;$ RIKEN Center for Advanced Intelligence Project (AIP), 1-4-1
-Nihonbashi, Chuo-ku, Tokyo, 103-0027, Japan
-
-$^3 \;$ Graduate School of Informatics, Kyoto University, Yoshida
-Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
-
-<span>**Abstract**</span>. It is beneficial for modeling data of
+<span>**Abstract:**</span> It is beneficial for modeling data of
 interest to exploit secondary information. The secondary information is
 called auxiliary variables, which may not be observed in testing data
 because they are not of primary interest. In this paper, we incorporate
@@ -35,6 +21,6 @@ use of the auxiliary variables into account. Hence, we resolve this
 problem by deriving a new criterion. In addition, simulations are
 conducted to examine the improvement.
 
-<span>**Keywords**</span>. Auxiliary variables; Covariate shift;
+<span>**Keywords:**</span> Auxiliary variables; Covariate shift;
 Information criterion; Kullback-Leibler divergence; Misspecification;
 Predictions.

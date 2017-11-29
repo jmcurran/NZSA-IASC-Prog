@@ -1,11 +1,4 @@
-<span>**Deep Learning High-Dimensional Covariance Matrices**</span>
-
-Philip L.H. Yu$^1$ and Yaohua Tang$^1$
-
-$^1 \;$ Department of Statistics and Actuarial Science, The University
-of Hong Kong, Hong Kong, China
-
-<span>**Abstract**</span>. Modeling and forecasting covariance matrices
+<span>**Abstract:**</span> Modeling and forecasting covariance matrices
 of asset returns play a crucial role in finance. The availability of
 high frequency intraday data enables the modeling of the realized
 covariance matrix directly. However, most models in the literature
@@ -17,11 +10,10 @@ provides superior accuracy compared with several advanced statistical
 methods. The model could handle both low-dimensional and
 high-dimensional realized covariance matrices.
 
-<span>**Keywords**</span>. Deep learning, Realized covariance matrix,
+<span>**Keywords:**</span> Deep learning, Realized covariance matrix,
 Convolutional neural network
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 LeCun, Y., Bottou, L., Bengio, Y. and Haffner, P. (1998). Gradient-based
 learning applied to document recognition. In *Proceedings of the IEEE*,

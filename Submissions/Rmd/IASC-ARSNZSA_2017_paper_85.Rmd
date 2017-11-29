@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-Traumatic Brain Injury (TBI) is a major cause of death and disability.
+<span>**Abstract:**</span> Traumatic Brain Injury (TBI) is a major cause of death and disability.
 While moderate and severe forms of TBI develop the most significant
 impairments even mild TBI may be followed by persisting post-concussion
 symptoms, neurocognitive problems and mental health disorders such as

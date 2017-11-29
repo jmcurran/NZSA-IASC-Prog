@@ -1,12 +1,4 @@
-<span>**Regression with random effects for analysing correlated survival
-data: application to disease recurrences**</span>
-
-Richard Tawiah$^1$, Suzanne Chambers$^1$ and Shu-Kay Ng$^1$
-
-$^1 \;$ Menzies Health Institute Queensland, Griffith University, QLD,
-Australia
-
-<span>**Abstract**</span>. Correlated failure time data arise in many
+<span>**Abstract:**</span> Correlated failure time data arise in many
 biomedical studies, due to multiple occurrences of the same disease in
 an individual patient. To account for this correlation phenomenon, we
 formulate a random effect (frailty) survival model with an
@@ -39,5 +31,5 @@ random effect is merely used. However, in the multilevel context bias in
 the variance parameter of random hospital effect increases as the true
 magnitude of variation in hospital effects increases.
 
-<span>**Keywords**</span>. Frailty model, random effect, correlated
+<span>**Keywords:**</span> Frailty model, random effect, correlated
 survival times, recurrent event, GLMM, bladder cancer, CGD

@@ -1,12 +1,4 @@
-<span>**The Uncomfortable Entrepreneurs: Bad Working Conditions and
-Entrepreneurial Commitment**</span>
-
-Catherine Laffineur$^1$
-
-$^1 \;$ Department of Economics, University Cote d’Azur, National Center
-of Scientific Research, GREDEG-CNRS, France
-
-<span>**Abstract**</span>. In contrast to previous model dividing
+<span>**Abstract:**</span> In contrast to previous model dividing
 necessity entrepreneurs as individuals facing push factors due to lack
 of employment, we consider the possibility of push factors faced by
 employed individuals (Folta et al. (2010)). The theoretical model yields
@@ -26,11 +18,10 @@ have strong implication for how we interpret and analyze necessity
 entrepreneurs and provide novel insights into the role of occupational
 experience in the process of venture emergence.
 
-<span>**Keywords**</span>. Keywords: Entrepreneurship, Motivation,
+<span>**Keywords:**</span> Entrepreneurship, Motivation,
 Occupational characteristics, Employment choice.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Folta, T. B., Delmar, F., & Wennberg, K. 2010. Hybrid entrepreneurship.
 *Management Science*, 56(2), 253-269.

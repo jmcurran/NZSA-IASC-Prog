@@ -1,12 +1,4 @@
-<span> **Regularized Noise-Reduction Methodology for High-Dimensional
-Data** </span>
-
-Kazuyoshi Yata$^1$ and Makoto Aoshima$^1$
-
-$^1 \;$ Institute of Mathematics, University of Tsukuba, Ibaraki
-305-8571, Japan
-
-<span>**Abstract**</span>. In this talk, we consider principal component
+<span>**Abstract:**</span> In this talk, we consider principal component
 analysis (PCA) methods in high-dimensional settings. We first consider
 asymptotic properties of the conventional estimator of eigenvalues. We
 show that the estimator is affected by the high-dimensional noise
@@ -23,11 +15,10 @@ propose a regularized NR method. We show that it holds the consistency
 property of the Euclid norm. Finally, we check the performance of the
 new NR method by using microarray data sets.
 
-<span>**Keywords**</span>. eigenstructure, large $p$ small $n$, PCA,
+<span>**Keywords:**</span> eigenstructure, large $p$ small $n$, PCA,
 spiked model
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Yata, K. and Aoshima. M. (2012). Effective PCA for high-dimension,
 low-sample-size data with noise reduction via geometric representations.

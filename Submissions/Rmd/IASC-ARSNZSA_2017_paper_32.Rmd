@@ -1,11 +1,4 @@
-<span>**gridSVG: Then and Now**</span>
-
-Paul Murrell $^1$
-
-$^1 $ Department of Statistics, The University of Auckland, Auckland,
-New Zealand
-
-<span>**Abstract**</span>. The <span><span>**gridSVG**</span></span>
+<span>**Abstract:**</span> The <span><span>**gridSVG**</span></span>
 package[@RJ-2014-013] was first developed in 2003 to experiment with
 features of the SVG format that were not available through a normal R
 graphics device[@R], such as hyperlinks and animation. A number of
@@ -24,4 +17,4 @@ have seen <span><span>**gridSVG**</span></span>’s patient wait for
 relevance ultimately rewarded and its desperate need for speed finally
 satisfied.
 
-<span>**Keywords**</span>. R, statistical graphics, SVG, accessibility
+<span>**Keywords:**</span> R, statistical graphics, SVG, accessibility

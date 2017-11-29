@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-In livestock, a primary goal is the identification of individuals’
+<span>**Abstract:**</span> In livestock, a primary goal is the identification of individuals’
 breeding values - a measure of their genetic worth. This identification
 can be used to aid with selective breeding, but is non trivial due to
 how large data can be.

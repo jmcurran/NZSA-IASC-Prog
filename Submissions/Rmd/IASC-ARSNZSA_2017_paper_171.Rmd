@@ -1,18 +1,4 @@
-<span>**Hierarchical Structural Component Analysis of Gene-Environment
-Interactions**</span>
-
-Sungkyoung Choi$^1$ , Seungyeoun Lee$^2$, and Taesung Park$^3$
-
-$^1 \;$ 1Department of Pharmacology, Yonsei University College of
-Medicine, Seoul, Korea
-
-$^2 \;$ Department of Mathematics and Statistics, Sejong University,
-Seoul, Korea
-
-$^3 \;$ Department of Statistics, Seoul National University, Seoul,
-Korea
-
-<span>**Abstract**</span>. Gene-environment interactions (GEI) are known
+<span>**Abstract:**</span> Gene-environment interactions (GEI) are known
 to be one possible avenue for addressing the missing heritability
 problem in genome-wide association studies (GWAS). Although many
 statistical methods have been proposed for identifying and analyzing
@@ -31,4 +17,4 @@ cohort data of the Korea Associated Resource (KARE) consortium to
 identify GEIs between genes and alcohol intake on the blood pressure
 traits.
 
-<span>**Keywords**</span>. Gene-environment interaction, SNP, gene, GWAS
+<span>**Keywords:**</span> Gene-environment interaction, SNP, gene, GWAS

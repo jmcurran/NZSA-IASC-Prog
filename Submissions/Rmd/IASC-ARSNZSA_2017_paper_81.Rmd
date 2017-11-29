@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-This paper develops a no-arbitrage network of yield curves model for the
+<span>**Abstract:**</span> This paper develops a no-arbitrage network of yield curves model for the
 euro area to study the joint dynamics of and risk transmission across
 yield curves of different economies. The model nests 1+M yield curves of
 a benchmark country and M periphery countries with 3+(2+M) state

@@ -1,12 +1,4 @@
-<span>**Mixed models for complex survey data**</span>
-
-Xudong Huang $^1$ and Thomas Lumley$^2$
-
-$^1 \;$ Department of Statistics, University of Auckland, New Zealand
-
-$^2 \;$ Department of Statistics, University of Auckland, New Zealand
-
-<span>**Abstract**</span>. I want to fit a mixed model to a population
+<span>**Abstract:**</span> I want to fit a mixed model to a population
 distribution, but I have data from a complex (multistage) sample. The
 sampling is informative, that is, the model holding for the population
 is different from the model holding for the (biased) sample. Ignoring
@@ -19,11 +11,10 @@ particular, consistency and asymptotic normality can be established.
 Variance estimation in this problem is challenging. I will talk about a
 variance estimator and how to show it is consistent.
 
-<span>**Keywords**</span>. Mixed model, Complex sampling, Pairwise
+<span>**Keywords:**</span> Mixed model, Complex sampling, Pairwise
 composite likelihood
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Yi, G. , Rao, J. and Li, H.(2016). *A weighted composite likelihood
 approach for analysis of survey data under two-level models.* Statistica

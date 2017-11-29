@@ -1,11 +1,4 @@
-<span>**Visual support for imbalanced classification**</span>
-
-Adalbert F.X. Wilhelm$^1$
-
-$^1 \;$ Department of Psychology and Methods, Jacobs University, Bremen,
-Germany
-
-<span>**Abstract**</span>. Visualisation techniques are widely used to
+<span>**Abstract:**</span> Visualisation techniques are widely used to
 successfully enhance the knowledge discovery in data base processes and
 a broad spectrum of visualisation approaches for classification problems
 exist. A core aim of applying visual techniques in the data analysis
@@ -35,5 +28,5 @@ derived from ensemble methods. Here, a specific emphasis is put at the
 interplay between graphical representations and applying data level
 methods and algorithmic level methods to handle class imbalances.
 
-<span>**Keywords**</span>. cost-sensitive learning, ensemble methods,
+<span>**Keywords:**</span> cost-sensitive learning, ensemble methods,
 over/under-sampling

@@ -1,15 +1,4 @@
-<span>**Structure of Members in the Organization to Induce Innovation:
-Quantitatively Analyze the Capability of the Organization**</span>
-
-Yuji Mizukami$^1$ and Junji Nakano$^2$
-
-$^1 \;$ Nihon University, 1-2-1 Izumicho, Narashino, Chiba 275-8575,
-Japan
-
-$^2 \;$ Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-<span>**Abstract**</span>. Innovation is the act of creating new value
+<span>**Abstract:**</span> Innovation is the act of creating new value
 by using “new connection”, “new point of view”, “new way of thinking”,
 “new usage method” (Schumpeter 1912). In recent years, the promotion of
 the Innovation has been strongly encouraged. In the field of research,
@@ -22,11 +11,10 @@ quantitatively indicating the degree of fusion in different fields and
 the distance between the fields. Also, we have try to present indices
 for grasping the whole image based on the random graph.
 
-<span>**Keywords**</span>. Research Metrix, Institute Research,
+<span>**Keywords:**</span> Research Metrix, Institute Research,
 Co-author analysis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Wagner, C. S., Roessner, J. D., Bobb, K., Klein, J. T., Boyack, K. W.,
 Keyton, J. and Börner, K. (2011). *Approaches to understanding and

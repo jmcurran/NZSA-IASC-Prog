@@ -1,4 +1,4 @@
-Abstract: Missing data in Randomised Control Trials is usually
+<span>**Abstract:**</span> Missing data in Randomised Control Trials is usually
 unavoidable, but can present considerable issues to analysis in an
 Intention-to-Treat (ITT) setting. Multiple imputation is often regarded
 as the most appropriate method of handling missing data when compared

@@ -1,15 +1,4 @@
-<span>**Robust Principal Expectile Component Analysis**</span>
-
-Liang-Ching Lin$^{*1}$, Ray Bing Chen$^1$, Mong-Na Lo Huang$^2$ and
-Meihui Guo$^2$
-
-$^1  \;$ Department of Statistics, National Cheng Kung University,
-Tainan, Taiwan
-
-$^2 \;$ Department of Applied Mathematics, National Sun Yat-sen
-University, Kaohsiung, Taiwan
-
-<span>**Abstract**</span>. Principal component analysis (PCA) is widely
+<span>**Abstract:**</span> Principal component analysis (PCA) is widely
 used in dimensionality reduction for high-dimensional data. It
 identifies principal components by sequentially maximizing the component
 score variance around the mean. However, in many applications, one is
@@ -24,11 +13,10 @@ particle swarm optimization (PSO), is used to find HPECs. As a
 demonstration, HPEC is applied to real and simulated data with
 encouraging results.
 
-<span>**Keywords**</span>. asymmetric norm, expectile, Huber’s
+<span>**Keywords:**</span> asymmetric norm, expectile, Huber’s
 criterion, particle swarm optimization, principle component
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tran, N. M., Burdejová, P., Osipenko, M. and Hárdle, W. K. (2016).
 *Principal Component Analysis in an Asymmetric Norm.* SFB 649 Discussion

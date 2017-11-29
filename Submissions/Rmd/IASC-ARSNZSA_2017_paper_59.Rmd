@@ -1,12 +1,4 @@
-<span>**Empirical comparison of some algorithms for automatic univariate
-ARMA modeling using RcmdrPlugin.SPSS**</span>
-
-Dedi Rosadi
-
-Department of Mathematics, Computational Statistics Research Grup,
-Universitas Gadjah Mada, INDONESIA
-
-<span>**Abstract**</span>. In some application of time series modeling,
+<span>**Abstract:**</span> In some application of time series modeling,
 it is necessary to obtain forecast of various types of data
 automatically and possibly, in real-time. For instances, to forecast
 large number of univariate series every day, or to do a real-time
@@ -30,11 +22,10 @@ and the tool. From some empirical studies, we found that for ARMA data,
 the method based on genetic algorithm performs better than the other
 approaches.
 
-<span>**Keywords**</span>. Automatic ARMA modeling, genetic algorithm,
+<span>**Keywords:**</span> Automatic ARMA modeling, genetic algorithm,
 exponential smoothing, X-13-ARIMA, R-GUI
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Abo-Hammour, Z. E. S., Alsmadi, O. M., Al-Smadi, A. M., Zaqout, M. I., &
 Saraireh, M. S. (2012). ARMA model order and parameter estimation using

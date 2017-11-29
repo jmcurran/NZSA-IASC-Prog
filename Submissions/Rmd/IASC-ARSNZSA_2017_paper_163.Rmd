@@ -1,14 +1,4 @@
-<span>**Spline-based Drift Models for High Temperature Operating Life
-Tests**</span>
-
-Vera Hofer$^1$ and Thomas Nowak$^1$
-
-$^1 \;$ Institute of Statistics and Operations Research, University of
-Graz, Graz, Austria
-
-<span>**Abstract**</span>.
-
-Since the proper operation of semiconductor devices is of crucial
+<span>**Abstract:**</span> Since the proper operation of semiconductor devices is of crucial
 importance for the reliability of a vast range of products, issues
 concerning quality control are of central relevance to manufacturers.
 This quality control task is concerned with high temperature operating
@@ -45,5 +35,5 @@ support from the European Union’s Horizon 2020 research and innovation
 programme and Austria, Belgium, Germany, Italy, Netherlands, Norway,
 Slovakia, Spain and United Kingdom.
 
-<span>**Keywords**</span>. quality control, tolerance limits, splines,
+<span>**Keywords:**</span> quality control, tolerance limits, splines,
 reliability engineering

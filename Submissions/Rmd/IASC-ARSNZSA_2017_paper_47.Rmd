@@ -1,15 +1,4 @@
-<span>**How does the textile set describe geometric structures of
-data?**</span>
-
-Ushio Tanaka$^1$ and Tomonari Sei$^2$
-
-$^1 \;$ Department of Mathematics and Information Sciences, Osaka
-Prefecture University, Osaka, Japan
-
-$^2 \;$ Department of Mathematical Informatics, The University of Tokyo,
-Tokyo, Japan
-
-<span>**Abstract**</span>. The textile set is defined from the textile
+<span>**Abstract:**</span> The textile set is defined from the textile
 plot proposed by Kumasaka and Shibata (2007, 2008), which is a powerful
 tool for visualizing high dimensional data. The textile plot is based on
 a parallel coordinate plot, where the ordering, locations and scales of
@@ -20,11 +9,10 @@ delineate a parallel coordinate plot. Using the geometric properties of
 the textile set derived by Sei and Tanaka (2015), we show that the
 textile set describes an intrinsically geometric structures of data.
 
-<span>**Keywords**</span>. Parallel coordinate plot, Textile set,
+<span>**Keywords:**</span> Parallel coordinate plot, Textile set,
 Differentiable manifold
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Kumasaka, N. and Shibata, R. (2007). The Textile Plot Environment,
 *Proceedings of the Institute of Statistical Mathematics*, **55**,

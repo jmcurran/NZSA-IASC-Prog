@@ -1,12 +1,4 @@
-<span>**Abstract**</span>
-New Zealand Crime and Victims Survey: filling the knowledge gaps
-
-Dr Andrew Butcher, Dr Michael Slyuzberg (corresponding author)
-
-New Zealand Ministry of Justice, Justice Centre, 19 Aitken Street, DX SX
-10088, Wellington
-
-The key objective of the Ministry of Justice is to ensure that New
+<span>**Abstract:**</span> The key objective of the Ministry of Justice is to ensure that New
 Zealand has a strong justice system that contributes to a safe and just
 society. To achieve this objective, the ministry and the wider Justice
 Sector need to know whether they are focusing their efforts in the right
@@ -17,21 +9,21 @@ The New Zealand Crime and Victims Survey (NZCVS) is introduced to fill
 this knowledge gap. The survey which is currently on the pilot phase was
 designed to meet the recommendations of Statistics New Zealand and key
 stakeholders’ demand. It will interview about 8,000 of New Zealand
-residents aged from 15 years old and aims to: \* provide information
+residents aged from 15 years old and aims to: provide information
 about the extent (volumes and prevalence) and nature of crime and
-victimisation in New Zealand \* provide geographical break-down of
-victimisation \* provide extensive victims’ demographics \* measure how
-much crime gets reported to Police \* understand the experiences of
-victims \* measure crime trends in New Zealand.
+victimisation in New Zealand; provide geographical break-down of
+victimisation; provide extensive victims’ demographics; measure how
+much crime gets reported to Police; understand the experiences of
+victims; measure crime trends in New Zealand.
 
 The paper summarises the core requirements to NZCVS obtained from
 extended discussions with key stakeholders and describes key design
 features to be implemented in order to meet these requirements. These
-key requirements include, but are not limited to: \* Measuring the
-extent and nature of reported and unreported crime across New Zealand \*
-Providing in-depth story-telling of victims’ experiences \* Providing
+key requirements include, but are not limited to: Measuring the
+extent and nature of reported and unreported crime across New Zealand;
+Providing in-depth story-telling of victims’ experiences; Providing
 frequent and timely information to support Investment Approach for
-Justice and wider decision making \* Reducing information gaps by
+Justice and wider decision making; Reducing information gaps by
 matching the NZCVS with administrative data in Statistics New Zealand’s
 Integrated Data Infrastructure (IDI).
 

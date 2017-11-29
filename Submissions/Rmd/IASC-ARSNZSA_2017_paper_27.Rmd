@@ -1,12 +1,4 @@
-<span>**Fluctuation Reduction of Value-at-Risk Estimation and its
-Applications**</span>
-
-Shih-Feng Huang
-
-Department of Applied Mathematics, National University of Kaohsiung,
-Kaohsiung, 81148, Taiwan
-
-<span>**Abstract**</span>. Value-at-Risk (VaR) is a fundamental tool for
+<span>**Abstract:**</span> Value-at-Risk (VaR) is a fundamental tool for
 risk management and is also associated with the capital requirements of
 banks. Banks need to adjust their capital levels for satisfying the
 Basel Capital Accord. On the other hand, managements do not like to
@@ -28,5 +20,5 @@ Basel Accord and reducing the fluctuation of capital requirements
 simultaneously by using a comparable average amount of capital
 requirements to the conventional VaR estimator.
 
-<span>**Keywords**</span>. Capital requirement, change point detection,
+<span>**Keywords:**</span> Capital requirement, change point detection,
 CUSUM control chart, fluctuation reduction, Value-at-Risk

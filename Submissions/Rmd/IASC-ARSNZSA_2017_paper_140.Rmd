@@ -1,17 +1,4 @@
-<span>**Sparse Group-subgroup Partial Least Squares with Application to
-Genomic Data**</span>
-
-Matthew Sutton$^1$ and Rodolphe Thiébaut$^3$ and Benoit Liquet$^{2,1}$
-
-$^1 \;$ ACEMS, Queensland University of Technology, Brisbane, Australia
-
-$^2 \;$ Laboratory of Mathematics and its Applications, University of
-Pau et Pays de L’Adour, UMR CNRS 5142, France.
-
-$^3 \;$ Inria, SISTM, Talence and Inserm, U1219, Bordeaux, Bordeaux
-University, Bordeaux and Vaccine Research Institute, Creteil, France.
-
-<span>**Abstract**</span>. Integrative analysis of high dimensional
+<span>**Abstract:**</span> Integrative analysis of high dimensional
 omics datasets has been studied by many authors in recent years. By
 incorporating prior known relationships among the variables, these
 analyses have been successful in elucidating the relationships between
@@ -28,11 +15,10 @@ unsupervised problems. Simulation studies are performed to investigate
 the performance of our methods over alternative sparse approaches. Our
 method has been implemented in a comprehensive R package called sgsPLS.
 
-<span>**Keywords**</span>. genomics, group variable selection, latent
+<span>**Keywords:**</span> genomics, group variable selection, latent
 variable modelling, partial least squares, singular value decomposition
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Chaussabel, D. et al. (2008). A modular analysis framework for blood
 genomics studies: application to systemic lupus erythematosus.

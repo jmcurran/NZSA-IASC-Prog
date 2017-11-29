@@ -1,10 +1,4 @@
-<span>**Improving the production cycle at Stats NZ with RStudio**</span>
-
-Gareth Minshall$^1$ and Chris Hansen$^1$
-
-$^1 \;$ Stats NZ, New Zealand
-
-<span>**Abstract**</span>. Stats NZ are looking to move away from the
+<span>**Abstract:**</span> Stats NZ are looking to move away from the
 collection and publication of stand-alone surveys to making use of a
 wide range of data sources and estimation strategies. A key component to
 enabling this change is to develop the infrastructure which allows
@@ -16,7 +10,9 @@ Stats NZ, and give examples demonstrating the types of innovation
 RStudio has enabled at Stats NZ to improve the way we produce and
 disseminate statistics.
 
-<span>**Keywords**</span>. Shiny, R Markdown, Official Statistics
+<span>**Keywords:**</span> Shiny, R Markdown, Official Statistics
 
-<span>**Acknowledgement**</span>. This work was supported by JSPS
+<span>**Acknowledgement:**</span>
+
+This work was supported by JSPS
 KAKENHI Grant Number JP16H02013.

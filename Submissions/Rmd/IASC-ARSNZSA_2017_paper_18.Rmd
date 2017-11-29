@@ -1,11 +1,4 @@
-<span>**Test for Genomic Imprinting Effects on the X Chromosome**</span>
-
-Wing Kam Fung$^1$
-
-$^1 \;$ Department of Statistics and Actuarial Science, The University
-of Hong Kong, Hong Kong
-
-<span>**Abstract**</span>. Genomic imprinting is an epigenetic
+<span>**Abstract:**</span> Genomic imprinting is an epigenetic
 phenomenon that the expression of an allele copy depends on its parental
 origin. This mechanism has been found to play an important role in many
 diseases. Methods for detecting imprinting effects have been developed
@@ -30,5 +23,5 @@ incomplete nuclear families, C-XPAT is more powerful than XPAT using
 only complete nuclear families. For practical use, these proposed
 methods are applied to analyze the rheumatoid arthritis data.
 
-<span>**Keywords**</span>. Imprinting effects, X chromosome, qualitative
+<span>**Keywords:**</span> Imprinting effects, X chromosome, qualitative
 traits, nuclear family

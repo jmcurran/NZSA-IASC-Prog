@@ -1,11 +1,4 @@
-<span>**Computing Entropies with Nested Sampling**</span>
-
-Brendon J. Brewer$^1$
-
-$^1 \;$ Department of Statistics, The University of Auckland, Private
-Bag 92019, Auckland 1142, New Zealand
-
-<span>**Abstract**</span>. The Nested Sampling algorithm, invented in
+<span>**Abstract:**</span> The Nested Sampling algorithm, invented in
 the mid-2000s by John Skilling, represented a major advance in Bayesian
 computation. Whereas Markov Chain Monte Carlo (MCMC) methods are usually
 effective for sampling posterior distributions, Nested Sampling also
@@ -22,11 +15,10 @@ derived quantities. I will present an example from experimental design,
 where one wants to optimise the relevance of the data for inference of a
 parameter.
 
-<span>**Keywords**</span>. Bayesian inference, Nested Sampling, Markov
+<span>**Keywords:**</span> Bayesian inference, Nested Sampling, Markov
 Chain Monte Carlo, Information theory
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Brewer, B. J. (2017). *Computing Entropies with Nested Sampling.*
 Entropy, 19, 422.

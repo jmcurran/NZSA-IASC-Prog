@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-Epidemiologists often wish to determine the population impact of an
+<span>**Abstract:**</span> Epidemiologists often wish to determine the population impact of an
 intervention to remove or reduce a risk factor. Population attributable
 type measures, such as the population attributable risk (PAR) and
 population attributable fraction (PAF), provide a means of assessing

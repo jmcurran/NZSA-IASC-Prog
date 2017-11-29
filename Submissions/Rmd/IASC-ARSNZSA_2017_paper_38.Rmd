@@ -1,15 +1,4 @@
-<span>**Variable Selection Algorithms**</span>
-
-Fangyao Li$^1$, Christopher M. Triggs$^1$, Bogdan Dumitrescu$^2$,
-Ciprian Doru Giurcăneanu$^1$
-
-$^1 \;$ Department of Statistics, University of Auckland, Auckland 1142,
-New Zealand
-
-$^2 \;$ Department of Automatic Control and Computers, University
-Politehnica of Bucharest, 060042 Bucharest, Romania
-
-<span>**Abstract**</span>. The matching pursuit algorithm (MPA) is an
+<span>**Abstract:**</span> The matching pursuit algorithm (MPA) is an
 efficient solution for high dimensional variable selection (Bühlmann and
 van de Geer, 2011). There is, however, no widely accepted stopping rule
 for MPA. (Li et al., 2017) have given novel stopping rules based on
@@ -21,11 +10,10 @@ df between successive MPA iterations. A simulation study with data
 generated from different models compares the mean integrated square
 error of the different ITC and cross validation (Sancetta, 2016).
 
-<span>**Keywords**</span>. Matching pursuit algorithm, degrees of
+<span>**Keywords:**</span> Matching pursuit algorithm, degrees of
 freedom, hat matrix
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 A.Sancetta (2016). *Greedy algorithms for prediction*. Bernoulli, vol.
 22, pp. 1227 - 1277.

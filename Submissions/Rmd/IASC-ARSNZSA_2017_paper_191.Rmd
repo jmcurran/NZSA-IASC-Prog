@@ -1,11 +1,4 @@
-<span>**Latent variable models and multivariate binomial data**</span>
-
-John Holmes$^1$
-
-$^1 \;$ Department of Mathematics and Statistics, University of Otago,
-Dunedin, P.O. Box 56, New Zealand
-
-<span>**Abstract**</span>. A large body of work has been devoted to
+<span>**Abstract:**</span> A large body of work has been devoted to
 latent variable models applicable to multivariate binary data. However
 little work has been put into extending these models to cases where the
 observed data is multivariate binomial. In this paper, we will first
@@ -17,12 +10,11 @@ binomial data provides greater flexibility in how the link function can
 be represented. Lastly, we will consider properties of the implied
 distribution of latent probabilities under a logit link.
 
-<span>**Keywords**</span>. Multivariate binomial data, principal
+<span>**Keywords:**</span> Multivariate binomial data, principal
 components/factor analysis, item response theory, link functions,
 logit-normal distributions
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 (ed.) Bartholomew, D. J. and Knott, M. and Moustaki, I. (2011). *Latent
 Variable Models and Factor Analysis: A Unified Approach*. Chichester:

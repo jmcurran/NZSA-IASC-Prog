@@ -1,16 +1,4 @@
-<span>**Clustering of research subject based on stochastic block
-model**</span>
-
-Hiroka Hamada$^1$, Keisuke Honda$^1$, Frederick Kin Hing Phoa$^2$ and
-Junji Nakano $^1$
-
-$^1 \;$ Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562,
-Japan
-
-$^2 \;$ Institute of Statistical Science, Academia Sinica, Nankang,
-Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. In this paper, we propose a new clustering
+<span>**Abstract:**</span> In this paper, we propose a new clustering
 method to measure influence of papers in all areas of science. To see
 structure of entire relationship we apply stochastic block model (SBM)
 on big scale citation network data. SBM generates a matrix which divides
@@ -27,11 +15,10 @@ system, Edward, probabilistic programming language is used for
 estimation of SBM parameters and calculation of divergence score of
 papers.
 
-<span>**Keywords**</span>. Institutional Research, Stochastic Block
+<span>**Keywords:**</span> Institutional Research, Stochastic Block
 Model, Elastic Map
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Nowicki,K. and Snijders,T. (2001). Estimation and prediction for
 stochastic block structures. *Journal of the American Statistical

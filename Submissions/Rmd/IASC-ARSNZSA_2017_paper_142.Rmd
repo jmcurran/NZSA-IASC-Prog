@@ -1,15 +1,4 @@
-<span>**Covariate Discretisation on Big Data**</span>
-
-Hon Hwang$^{1,2}$, Stephen Wright$^{2,3}$, and Louise Ryan$^{1,2}$
-
-$^1 \;$ The University of Technology Sydney (UTS)
-
-$^2 \;$ The Australian Research Council (ARC) Centre of Excellence for
-Mathematical and Statistical Frontiers (ACEMS)
-
-$^3 \;$ Australian Red Cross Blood Service
-
-<span>**Abstract**</span>. Distributed Computing Systems such as Hadoop
+<span>**Abstract:**</span> Distributed Computing Systems such as Hadoop
 and Spark allow statistical analysis to be performed on arbitrary large
 datasets. However, when performing statistical analysis on these
 systems, the data communication between the nodes of a distributed
@@ -33,5 +22,5 @@ that are closer to estimates obtained from using the complete data. In
 addition, the standard errors from our method reflect more accurately
 the uncertainty arising from using coarsened data.
 
-<span>**Keywords**</span>. EM algorithm, coarsened data, regression, big
+<span>**Keywords:**</span> EM algorithm, coarsened data, regression, big
 data

@@ -1,19 +1,4 @@
-<span>**Clusterwise low-rank correlation analysis based on
-majorization**</span>
-
-Kensuke Tanioka$^{1*}$, Satoru Hiwa$^2$,\
-Tomoyuki Hiroyasu$^2$ and Hiroshi Yadohisa$^3$
-
-$^1 \;$ Clinical Study Support Center, Wakayama Medical University
-Hospital, Wakayama, Japan
-
-$^2 \;$ Department of Biomedical Information, Doshisha University,
-Kyoto, Japan
-
-$^3 \;$ Department of Culture and Information Science, Doshisha
-University, , Kyoto, Japan
-
-<span>**Abstract**</span>. Given correlation matrices between variables
+<span>**Abstract:**</span> Given correlation matrices between variables
 of subjects and these classes of subjects, it is important to get the
 distinctive local networks for each class. For example, in fMRI data
 analysis, such the situation is observed. In concretely, each
@@ -27,10 +12,9 @@ and Simon and Abell (2010). Through the proposed method, we can get the
 distinctive sparse correlation matrices corresponding to classes, while
 we have to determine the number of clusters.
 
-<span>**Keywords**</span>. sparse estimation, clustering variables, ALS
+<span>**Keywords:**</span> sparse estimation, clustering variables, ALS
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Pietersz, R., and Groenen, J.F (2004). *Rank Reduction of Correlation
 Matrices by Majorization.* Quant.Finance, <span>**4**</span>: 649–662.

@@ -1,4 +1,4 @@
-<span>**Abstract**</span>. Recently, deep learning techniques have shown
+<span>**Abstract:**</span> Recently, deep learning techniques have shown
 remarkably strong performance in problems involving unstructured data
 (ex. text, image, and video). One of the reasons for this success is the
 ability of deep learning methods to learn multiple levels of abstraction
@@ -17,10 +17,10 @@ practical advice from our extensive empirical results for those
 interested in getting most out of deep feed forward networks for real
 world settings.
 
-<span>**Keywords**</span>. Deep Learning, deep feed forward networks,
+<span>**Keywords:**</span> Deep Learning, deep feed forward networks,
 machine learning, R, Tensorflow, Python
 
-<span>**References**</span>
+<span>**References:**</span>
 
 Bengio, Yoshua. “Learning deep architectures for AI.” Foundations and
 trends® in Machine Learning 2.1 (2009): 1-127.

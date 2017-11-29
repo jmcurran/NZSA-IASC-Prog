@@ -1,11 +1,4 @@
-<span>**An Advanced Approach for Time Series Forecasting using Deep
-Learning**</span>
-
-Balaram Panda$^1$
-
-$^1 \;$ Data Scientist, Inland Revenue Department, New Zealand
-
-<span>**Abstract**</span>. Time series forecasting is a decade-long
+<span>**Abstract:**</span> Time series forecasting is a decade-long
 research and which is being evolving day by day. Due to the recent
 advancement is deep learning technique many of the complex problems have
 been solved using deep learning. Deep learning techniques have shown
@@ -23,10 +16,9 @@ also derive practical advice from our empirical results for those
 interested in getting most out of LSTM time series for modern time
 series forecasting.
 
-<span>**Keywords**</span>. Deep Learning, Time Series, LSTM, RNN
+<span>**Keywords:**</span> Deep Learning, Time Series, LSTM, RNN
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Längkvist, Martin, Lars Karlsson, and Amy Loutfi. “A review of
 unsupervised feature learning and deep learning for time-series

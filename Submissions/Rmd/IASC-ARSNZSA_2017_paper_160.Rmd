@@ -1,16 +1,4 @@
-<span>**Abstract**</span>
-<span>**Statistical Modelling and Analysis of Cosmic Microwave
-Background Data**</span>
-
-Andriy Olenko
-
-Department of Mathematics and Statistics, La Trobe University, Bundoora,
-Victoria 3086, Australia
-
-<span>**Keywords**</span>. random fields, spatial statistics, cosmic
-microwave background data, R package
-
-Analysis of the Cosmic Microwave Background (CMB) radiation is a
+<span>**Abstract:**</span> Analysis of the Cosmic Microwave Background (CMB) radiation is a
 remarkable research area in cosmology whose results won two Nobel prizes
 in physics in 1978 and 2006 for the discovery of the CMB radiation and
 its anisotropy. Spurred on by a wealth of satellite data, intensive
@@ -32,8 +20,10 @@ N.Leonenko (Cardiff university), P.Broadbridge, D. Fryer, Yu.G. Wang (La
 Trobe University). This research was supported under the Australian
 Research Council’s Discovery Project DP160101366.
 
-References {#references .unnumbered}
-----------
+<span>**Keywords:**</span> random fields, spatial statistics, cosmic
+microwave background data, R package
+
+<span>**References:**</span>
 
 Anh, Vo, Broadbridge, P., Olenko, A., Wang Yu.G. On approximation for
 fractional stochastic partial differential equations on the sphere.

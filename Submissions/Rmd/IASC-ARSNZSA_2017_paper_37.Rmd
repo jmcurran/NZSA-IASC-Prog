@@ -1,15 +1,4 @@
-<span>**Bayesian curve fitting for discontinuous function using
-overcomplete representation with multiple kernels**</span>
-
-Youngseon Lee$^1$, Shuhei Mano$^2$ and Jaeyong Lee$^1$
-
-$^1 \;$ Department of Statistics, College of Natural Science, Seoul
-National University, 56-1 Mountain, Sillim-dong, Gwanak-gu, Seoul, Korea
-
-$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-<span>**Abstract**</span>. We propose a new Bayesian methodology for
+<span>**Abstract:**</span> We propose a new Bayesian methodology for
 estimating discontinuous functions. In this model, the estimated
 function is expressed by the overcomplete representation with multiple
 kernels. Therefore, the complex shape of functions can be expressed by
@@ -22,12 +11,11 @@ analysis show that this model is suitable for fitting discontinuous
 functions. We also proved theoretical properties about the support of
 the function space having jumps in this paper.
 
-<span>**Keywords**</span>. Bayesian, nonparametric regression,
+<span>**Keywords:**</span> Bayesian, nonparametric regression,
 discontinuous curve fitting, overcomplete, multiple kernel, Levy random
 field
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Chu, J. H., Clyde, M. A., and Liang, F. (2009). Bayesian function
 estimation using continuous wavelet dictionaries, *Statistica Sinica*,

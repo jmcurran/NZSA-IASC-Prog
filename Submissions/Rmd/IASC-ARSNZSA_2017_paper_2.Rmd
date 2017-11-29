@@ -19,4 +19,4 @@ living in the lowest deprivation quintile after adjusting for other
 confounding variables. For adults and children the ORs (95
 
 <span>**Keywords:**</span> obesity, BMI, dietary guideline, deprivation, r statistics,
-proportional odds regression, survey complex design.
+proportional odds regression, survey complex design

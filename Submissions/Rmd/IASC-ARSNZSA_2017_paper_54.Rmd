@@ -1,15 +1,4 @@
-**Statistical Disclosure Control with R:\
-Traditional Methods and\
-**
-
-Synthetic Data
-
-Matthias Templ$^1$
-
-$^1 \;$ Institute for Data Analysis and Process Design, Zurich
-University of Applied Sciences, Winterthur, CH-8404, Switzerland
-
-<span>**Abstract**</span>. The demand for and volume of data from
+<span>**Abstract:**</span> The demand for and volume of data from
 surveys, registers or other sources containing sensible information on
 persons or enterprises have increased significantly over the last
 several years. At the same time, privacy protection principles and
@@ -29,11 +18,10 @@ be provided as public-use files. The strength and weakness of the
 methods are highlighted and an (brief) application to the Euorpean
 Statistics of Income and Living Condition Survey is given.
 
-<span>**Keywords**</span>. Statistical Disclosure Control,
+<span>**Keywords:**</span> Statistical Disclosure Control,
 Anonymization, Disclosure Risk, Synthetic Data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Templ, M. (2017). *Statistical Disclosure Control for Microdata. Methods
 and Applications in R*, Springer International Publishing.

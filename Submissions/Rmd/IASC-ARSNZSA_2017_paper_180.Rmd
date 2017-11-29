@@ -1,15 +1,4 @@
-<span>**Meta-analytic Principal Component Analysis in Integrative Omics
-Application**</span>
-
-SungHwan Kim$^1$ and George C. Tseng$^2$
-
-$^1 \;$ Department of Statistics, Keimyung Univerisity, Deagu 42601,
-South Korea
-
-$^2 \;$ Department of Biostatistics, University of Pittsburgh,
-Pittsburgh 15213, USA
-
-<span>**Abstract**</span>. With the prevalent usage of microarray and
+<span>**Abstract:**</span> With the prevalent usage of microarray and
 massively parallel sequencing, numerous high-throughput omics datasets
 have become available in the public domain. Integrating abundant
 information among omics datasets is critical to elucidate biological
@@ -26,11 +15,10 @@ metabolism, and a TCGA pan-cancer methylation study. The result shows
 improved accuracy, robustness and exploratory visualization of the
 proposed framework.
 
-<span>**Keywords**</span>. principal component analysis, meta-analysis,
+<span>**Keywords:**</span> principal component analysis, meta-analysis,
 omics data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Flury (1984) *Common principal components in k groups.* Journal of the
 American Statistical Association, 79, 892–898.

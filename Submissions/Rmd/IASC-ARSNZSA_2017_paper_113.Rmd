@@ -1,16 +1,4 @@
-<span>**Statistical models for the source attribution of zoonotic
-diseases: A study of campylobacteriosis**</span>
-
-Sih-Jing Liao$^1$, Jonathan Marshall$^1$, Martin L. Hazelton$^1$ and
-Nigel P. French$^2$
-
-$^1 \;$ Institute of Fundamental Sciences-Statistics, Massey University,
-Private Bag 11222, Palmerston North, New Zealand
-
-$^2 \;$ mEpiLab, Hopkirk Research Institute, Massey University, Private
-Bag 11222, Palmerston North, New Zealand
-
-<span>**Abstract**</span>. Preventing and controlling zoonoses with a
+<span>**Abstract:**</span> Preventing and controlling zoonoses with a
 public health policy depends on the knowledge scientists have about the
 transmitted pathogens. Modelling jointly the epidemiological data and
 genetic information provides a methodology for tracing back the source
@@ -30,11 +18,10 @@ probabilities follow linear trends against level of rurality; and iii)
 poultry is the dominant source of campylobacteriosis in urban centres,
 whereas ruminants are the most attributable source when in rural areas.
 
-<span>**Keywords**</span>. source attribution, *Campylobacter*,
+<span>**Keywords:**</span> source attribution, *Campylobacter*,
 multinomial model, Dirichlet prior, HPD interval, DIC
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Bronowski, C., James, C.E. and Winstanley, C. (2014). Role of
 environmental survival in transmission of *Campylobacter jejuni*. *FEMS

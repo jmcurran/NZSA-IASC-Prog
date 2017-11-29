@@ -1,12 +1,4 @@
-<span>**A new approach to distribution free tests in contingency
-tables**</span>
-
-Thuong T. M. Nguyen$^1$
-
-$^1$ School of Mathematics and Statistics, Victoria University of
-Wellington, Wellington, 6140, New Zealand
-
-<span>**Abstract**</span>. We will discuss in this talk a new
+<span>**Abstract:**</span> We will discuss in this talk a new
 construction for a class of distribution free goodness of fit tests for
 the classical problem: testing independence in contingency tables. The
 point is that this problem has been stayed with only one asymptotically
@@ -15,11 +7,10 @@ test. We will show that our class of new distribution free goodness of
 fit tests is very wide and discuss the cases where the new tests perform
 better than the conventional chi-square test.
 
-<span>**Keywords**</span>. Contingency tables, distribution free,
+<span>**Keywords:**</span> Contingency tables, distribution free,
 goodness of fit tests
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Khmaladze, E., (2013). Note on distribution free testing for discrete
 distribution, *Annals of Statistics*, **41**, 2979–2993

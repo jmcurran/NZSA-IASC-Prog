@@ -1,5 +1,4 @@
-<span>**Abstract**</span>
-It is always a good idea to plot your data before fitting any models,
+<span>**Abstract:**</span> It is always a good idea to plot your data before fitting any models,
 making any predictions, or drawing any conclusions. But how do you
 actually plot data on thousands of smart meters, each comprising
 thousands of observations over time? We cannot simply produce time plots

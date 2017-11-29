@@ -1,15 +1,4 @@
-<span>**Feature selection in high-dimensional models with complex block
-structures**</span>
-
-Zehua Chen${}^1$ and Shan Luo${}^2$
-
-${}^1$ Department of Statistics & Applied Probability, NUS, 6 Science
-Drive 2, Singapore 117546
-
-${}^2$ Department of Mathematics, Shanghai Jiaotong University,
-Shanghai, P. R. China
-
-<span>**Abstract**</span>. We consider feature selection in multivariate
+<span>**Abstract:**</span> We consider feature selection in multivariate
 regression models where the response variables as well as the covariates
 are high-dimensional and both have intrinsic group structures. The
 models arise naturally in many biology studies for detecting
@@ -27,11 +16,10 @@ possesses the property of selection consistency. Compared with a group
 penalization approach, our method is more accurate and demands much less
 computation.
 
-<span>**Keywords**</span>. Canonical correlation, correlation principle,
+<span>**Keywords:**</span> Canonical correlation, correlation principle,
 grouped data, simultaneous feature selection, selection consistency
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Luo, S., and Chen, Z. (2017). *Sequential group feature selection by
 correlation principle in sparse high-dimensional models with complex

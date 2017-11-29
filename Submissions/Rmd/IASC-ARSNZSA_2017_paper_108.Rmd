@@ -1,15 +1,4 @@
-<span>**High Dimensional Asymptotics for the Naive Canonical Correlation
-Coefficient**</span>
-
-Mitsuru Tamatani$^1$ and Kanta Naito$^2$
-
-$^1 \;$ Faculty of Culture and Information Science, Doshisha University,
-Japan
-
-$^2 \;$ Graduate school of science and engineering, Shimane University,
-Japan
-
-<span>**Abstract**</span>. In this talk we investigate the asymptotic
+<span>**Abstract:**</span> In this talk we investigate the asymptotic
 behavior of the estimated naive canonical correlation coefficient under
 the normality assumption and High Dimension Low Sample Size (HDLSS)
 settings. In general, canonical correlation matrix is associated with
@@ -24,11 +13,10 @@ normality of the estimated naive canonical correlation coefficient, and
 compare the results of our numerical studies to the theoretical
 asymptotic results.
 
-<span>**Keywords**</span>. High dimension low sample size, Naive
+<span>**Keywords:**</span> High dimension low sample size, Naive
 canonical correlation coefficient, Asymptotic normality
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tamatani, M., Koch, I. and Naito, K. (2012). *Journal of Multivariate
 Analysis*, **111**, 350–367.

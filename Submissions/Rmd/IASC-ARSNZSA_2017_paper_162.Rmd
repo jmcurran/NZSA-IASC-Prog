@@ -1,11 +1,4 @@
-<span>**Adjusting for Linkage Bias in the Analysis of Record-Linked
-Data** </span>
-
-Patrick Graham$^1$
-
-$^1 \;$ Statistical Methods, Stats NZ, Christchurch, New Zealand
-
-<span>**Abstract**</span>. Data formed from record-linkage of two or
+<span>**Abstract:**</span> Data formed from record-linkage of two or
 more datasets are an increasingly important source of data for public
 health and social science research. For example, a study cohort may be
 linked to administrative data in order to add outcome or covariate
@@ -38,5 +31,5 @@ and that multiple imputation can be more efficient than conditional
 maximum likelihood. Extensions to the case of non-ignorable linkage are
 also considered.
 
-<span>**Keywords**</span>. Record linkage, Missing data, Bayesian
+<span>**Keywords:**</span> Record linkage, Missing data, Bayesian
 inference, Gibbs sampler, Multiple imputation
