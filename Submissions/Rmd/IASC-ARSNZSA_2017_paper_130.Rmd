@@ -1,12 +1,4 @@
-<span>**Elastic-Band Transform : A New Approach to Multiscale
-Visualization**</span>
-
-Guebin Choi$^1$ and Hee-Seok Oh$^1$
-
-$^1 \;$ Department of Statistics Seoul National University Seoul 08826,
-Korea
-
-<span>**Abstract**</span>. This paper presents a new transformation
+<span>**Abstract:**</span> This paper presents a new transformation
 technique for multiscale visualization of one-dimensional data such as
 time series and functional data under the concept of the scale-space
 approach. The proposed method uses a range of regular observations (eye
@@ -21,11 +13,10 @@ the measures are developed for understanding and detecting important
 structures of data. Furthermore, some statistical applications are
 studied.
 
-<span>**Keywords**</span>. Transformation; Visualization; Decomposition;
+<span>**Keywords:**</span> Transformation; Visualization; Decomposition;
 Filter; Time Series;
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Chaudhuri, P. and Marron, J. S. (1999). SiZer for exploration of
 structures in curves. <span>*Journal of the American Statistical
