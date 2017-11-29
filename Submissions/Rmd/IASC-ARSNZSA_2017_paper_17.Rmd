@@ -1,12 +1,4 @@
-<span>**Analysis of Multivariate Binary Longitudinal Data: Metabolic
-Syndrome During Menopausal Transition**</span>
-
-Geoff Jones$^1$
-
-$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
-North, NZ
-
-<span>**Abstract**</span>. Metabolic syndrome (MetS) is a major
+<span>**Abstract:**</span> Metabolic syndrome (MetS) is a major
 multifactorial condition that predisposes adults to type 2 diabetes and
 cardiovascular disease. It is defined as having at least three of five
 cardiometabolic risk components: 1) high fasting triglyceride level, 2)
@@ -19,5 +11,5 @@ women underwent the menopausal transition (MT). A model is sought to
 examine the interdependent progression of the five MetS components and
 the influence of demographic covariates.
 
-<span>**Keywords**</span>. Multivariate binary data, longitudinal
+<span>**Keywords:**</span> Multivariate binary data, longitudinal
 analysis, metabolic syndrome
