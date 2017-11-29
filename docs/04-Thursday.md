@@ -48,58 +48,6 @@ References {#references .unnumbered}
 Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
 an Implementation in R*. New York, USA: Springer.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## Cross Covariance Estimation For Integration Of Multi-Omics Data {-}
-<p style="text-align:center">
-Johan Lim^1^, Hiromi Koh^2^, and Hyungwon Choi^2^<br />
-^1^National University of Singapore<br />
-^2^Seoul National University<br />
-</p>
-<span>**Cross covariance estimation for integration of multi-omics
-data**</span>
-
-Johan Lim$^1$, Hiromi Koh$^2$, and Hyungwon Choi$^{2}$
-
-$^1 \;$ Department of Statistics, Seoul National University, Seoul,
-Korea
-
-$^2 \;$ School of Public Health, National University of Singapore
-
-<span>**Abstract**</span>. In integrative analysis of multiple types of
--omics data, it is often of interest to infer associations between two
-different types of molecules. The prevailing analysis methods depend on
-ensemble of brute-force pairwise univariate association tests between
-the two types, best exemplified by expression quantitative loci (eQTL)
-mapping. In a nutshell, this problem can be generally framed as a sparse
-cross-covariance matrix. In this work, we propose a two-stage estimator
-of cross covariance matrix ${\mathbf{\Sigma_{XY}}}$ between $p$-vector
-${\mathbf{X}}$ and $q$-vector ${\mathbf{Y}}$, assuming that the two
-variables have regulatory relationships and that we know a group
-structure in the variables in ${\mathbf{X}}$. We first decompose the
-covariance matrix of ${\mathbf{X}}$, ${\mathbf{\Sigma_{XX}}}$, into
-systematic covariance consistent with the functional group information
-${\mathbf{\Sigma_{XX}}}^{(G)}$ and the residual covariance not explained
-by the group information ${\mathbf{\Sigma_{XX}}}^{(R)}$. Following this
-decomposition, we estimate the cross covariance matrix by multi-response
-group lasso, yielding
-${\mathbf{\Sigma_{XY}}}= {\mathbf{\Sigma_{XX}}}{\mathbf{B}}_{(p \times q)} = ({\mathbf{\Sigma_{XX}}}^{(G)} + {\mathbf{\Sigma_{XX}}}^{(R)}) {\mathbf{B}}_{(p \times q)}$.
-As a result of this decomposition, ${\mathbf{\Sigma_{XY}}}$ can also be
-expressed as the sum of a systematic term and a residual term, breaking
-down the cross-covariance into a fraction attributable to pathway-level
-regulation and the rest. We applied the method to epigenetic regulation
-analysis of mRNA expression by DNA methylation in the The Cancer Genome
-Atlas invasive breast cancer cohort.
-
-<span>**Keywords**</span>. Cross covariance matrix, data integration.
-
-References {#references .unnumbered}
-----------
-
-Simon, N., Friedman, J. and Hastie, T. (2013). *A Blockwise Descent
-Algorithm for Group-penalized Multiresponse and Multinomial Regression*
-
-Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
 ## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {-}
 <p style="text-align:center">
@@ -193,36 +141,6 @@ Haji-Ali, A. L., Nobile, F. & Tempone, R. (2016). Multi-Index Monte
 Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
 767–806.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## Testing For Genetic Associations In Arbitrarily Structured Populations {-}
-<p style="text-align:center">
-Minsun Song<br />
-Sookmyung Women's University<br />
-</p>
-<span>**Testing for genetic associations in arbitrarily structured
-populations**</span>
-
-Minsun Song$^1$
-
-$^1 \;$ Department of Statistics, Sookmyung Women’s University, Seoul,
-04310, Korea
-
-<span>**Abstract**</span>.We present a new statistical test of
-association between a trait and genetic markers, which we theoretically
-and practically prove to be robust to arbitrarily complex population
-structure. The statistical test involves a set of parameters that can be
-directly estimated from large-scale genotyping data, such as those
-measured in genome-wide associations studies. We also derive a new set
-of methodologies, called a genotype-conditional association test, shown
-to provide accurate association tests in populations with complex
-structures, manifested in both the genetic and non-genetic contributions
-to the trait. We demonstrate the proposed method on a large simulation
-study and on the real data. Our proposed framework provides a
-substantially different approach to the problem from existing methods.
-
-<span>**Keywords**</span>. Genome-wide association studies, Latent
-variable, Population structure
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
 ## Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators {-}
 <p style="text-align:center">
@@ -271,47 +189,6 @@ Linear Mixed Models. In: *Statistical Science*, **28**, 135-167.
 Sun, Y., Zhang, W. and Tong, H. (2007). Estimation of the covariance
 matrix of random effects in longitudinal studies. In: *The Annals of
 Statistics*, **35**, 2795-2814.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## Regularized Noise-Reduction Methodology For High-Dimensional Data {-}
-<p style="text-align:center">
-Kazuyoshi Yata and Makoto Aoshima<br />
-University of Tsukuba<br />
-</p>
-<span> **Regularized Noise-Reduction Methodology for High-Dimensional
-Data** </span>
-
-Kazuyoshi Yata$^1$ and Makoto Aoshima$^1$
-
-$^1 \;$ Institute of Mathematics, University of Tsukuba, Ibaraki
-305-8571, Japan
-
-<span>**Abstract**</span>. In this talk, we consider principal component
-analysis (PCA) methods in high-dimensional settings. We first consider
-asymptotic properties of the conventional estimator of eigenvalues. We
-show that the estimator is affected by the high-dimensional noise
-structure directly, so that it becomes inconsistent. In order to
-overcome such difficulties in a high-dimensional situation, Yata and
-Aoshima (2012) developed a new PCA method called the noise-reduction
-(NR) methodology. We show that the NR method can enjoy consistency
-properties not only for eigenvalues but also for PC directions in
-high-dimensional settings. The estimator of the PC directions by the NR
-method has a consistency property in terms of an inner product. However,
-it does not hold a consistency property in terms of the Euclid norm.
-With the help of a thresholding method, we modify the estimator and
-propose a regularized NR method. We show that it holds the consistency
-property of the Euclid norm. Finally, we check the performance of the
-new NR method by using microarray data sets.
-
-<span>**Keywords**</span>. eigenstructure, large $p$ small $n$, PCA,
-spiked model
-
-References {#references .unnumbered}
-----------
-
-Yata, K. and Aoshima. M. (2012). Effective PCA for high-dimension,
-low-sample-size data with noise reduction via geometric representations.
-*Journal of Multivariate Analysis*, **105**, 193–215.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
 ## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {-}
@@ -394,53 +271,6 @@ individual-level data analysis.
 study; Probabilistic model; Gibbs sampling; Heritability;
 Co-heritability.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## Meta-Analytic Principal Component Analysis In Integrative Omics Application {-}
-<p style="text-align:center">
-Sunghwan Kim^1^ and George Tseng^2^<br />
-^1^Keimyung University<br />
-^2^University of Pittsburgh<br />
-</p>
-<span>**Meta-analytic Principal Component Analysis in Integrative Omics
-Application**</span>
-
-SungHwan Kim$^1$ and George C. Tseng$^2$
-
-$^1 \;$ Department of Statistics, Keimyung Univerisity, Deagu 42601,
-South Korea
-
-$^2 \;$ Department of Biostatistics, University of Pittsburgh,
-Pittsburgh 15213, USA
-
-<span>**Abstract**</span>. With the prevalent usage of microarray and
-massively parallel sequencing, numerous high-throughput omics datasets
-have become available in the public domain. Integrating abundant
-information among omics datasets is critical to elucidate biological
-mechanisms. Due to the high- dimensional nature of the data, methods
-such as principal component analysis (PCA) have been widely applied,
-aiming at effective dimension reduction and exploratory visualization.
-In this paper, we combine multiple omics datasets of identical or
-similar biological hypothesis and introduce two variations of
-meta-analytic framework of PCA, namely MetaPCA. Regularization is
-further incorporated to facilitate sparse feature selection in MetaPCA.
-We apply MetaPCA and sparse MetaPCA to simulations, three transcriptomic
-meta-analysis studies in yeast cell cycle, prostate cancer, mouse
-metabolism, and a TCGA pan-cancer methylation study. The result shows
-improved accuracy, robustness and exploratory visualization of the
-proposed framework.
-
-<span>**Keywords**</span>. principal component analysis, meta-analysis,
-omics data
-
-References {#references .unnumbered}
-----------
-
-Flury (1984) *Common principal components in k groups.* Journal of the
-American Statistical Association, 79, 892–898.
-
-Krzanowski (1979) *Between-groups comparison of principal components.*
-Journal of the American Statistical Association, 74, 703–707
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
 ## Selecting Generalised Linear Models Under Inequality Constraints {-}
 <p style="text-align:center">
@@ -486,40 +316,6 @@ simple order restriction. *Biometrika*, **86**, 141–152.
 Kuiper, R.M., Hoijtink, H., Silvapulle, M.J. (2011). An Akaike-type
 information criterion for model selection under inequality constraints.
 *Biometrika*, **98**, 495–501.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## Selecting The Number Of Principal Components {-}
-<p style="text-align:center">
-Yunjin Choi<br />
-National University of Singapore<br />
-</p>
-<span>**Selecting the number of principal components**</span>
-
-Yunjin Choi$^1$
-
-$^1 \;$ Department of Statistics and Applied Probability, National
-University of Singapore, 129801, Singapore
-
-<span>**Abstract**</span>. Principal Component Analysis (PCA) is one of
-the most popular methods in multivariate data analysis, which can be
-applied to covariance matrices. Despite the popularity of the method,
-there is no widely adopted standard approach to select the number of
-principal components to retain. To address this issue, we propose a
-novel method utilizing the hypothesis testing framework and test whether
-the currently selected principal components capture all the
-statistically significant signals in the given data set. While existing
-hypothesis testing approaches do not enjoy the exact type 1 error
-property and lose power under some scenarios, the proposed method
-provides an exact type 1 error control along with decent size of power
-in detecting signals. Central to our work is the post-selection
-inference framework which facilitates valid inference after data-driven
-model selection; the proposed hypothesis testing method provides exact
-type 1 error controls by conditioning on the selection event which leads
-to the inference. We also introduce a possible extension of the proposed
-method for high-dimensional data.
-
-<span>**Keywords**</span>. Principal component analysis, post-selection
-inference, hypothesis testing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}
@@ -602,45 +398,6 @@ estimation.
 <span>**Keywords**</span>. Feature selection, robust estimation,
 sequential method.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## Phylogenetic Tree-Based Microbiome Association Test {-}
-<p style="text-align:center">
-Sungho Won<br />
-Seoul National University<br />
-</p>
-<span>**Phylogenetic Tree-based Microbiome Association Test**</span>
-
-Sungho Won$^{1,2}$
-
-$^1 \;$ Department of Public Health Science, Seoul National University,
-Seoul, Korea
-
-$^2 \;$ Interdisciplinary Program for Bioinformatics, College of Natural
-Science, Seoul National University, Seoul
-
-<span>**Abstract**</span>. Microbial metagenomics data has large
-inter-subject variation and operational taxonomic units (OTU) for each
-species are usually very sparse. Because of these problems,
-non-parametric approaches such as Mann-Whitney U test and Wilcoxon
-rank-sum test have been utilized. However these approaches suffer from
-low statistical powers for association analyses and thus investigation
-on efficient statistical analyses is necessary. Main goal in my thesis
-is to propose phylogenetic Tree-based Microbiome Association Test (TMAT)
-for association analyses between microbiome abundances of each OTU and
-disease phenotype. Phylogenetic tree reveals similarity between
-different OTUs, and thus was used to provide TMAT. TMAT calculates score
-test statistics for each node and test statistics for all nodes are
-combined into a single statistics by minimum p-value or Fisher’s combing
-p-value method. TMAT was compared with existing methods with extensive
-simulations. Simulation studies show that TMAT preserves the nominal
-type-1 error and its statistical powers were usually much better than
-existing methods for considered scenarios. Furthermore it was applied to
-atopic diseases and found that community profiles of Enterococcus is
-associated.
-
-<span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
-Association Test
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
 ## Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models {-}
 <p style="text-align:center">
@@ -684,48 +441,6 @@ in semi-parametric profile likelihood estimation.* Bernoulli **22**
 *Joint modeling of survival and longitudinal ordered data using a
 semiparametric approach.* Australian & New Zealand Journal of Statistics
 <span>**58**</span>, 153–172.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator {-}
-<p style="text-align:center">
-Joong-Ho Won<br />
-Seoul National University<br />
-</p>
-<span>**Abstract**</span>
-High dimensional covariance estimation and graphical models is a
-contemporary topic in statistics and machine learning having widespread
-applications. The problem is notoriously difficult in high dimensions as
-the traditional estimate is not even positive definite. An important
-line of research in this regard is to shrink the extreme spectrum of the
-covariance matrix estimators. A separate line of research in the
-literature has considered sparse inverse covariance estimation which in
-turn gives rise to graphical models. In practice, however, a sparse
-covariance or inverse covariance matrix which is simultaneously
-well-conditioned and at the same time computationally tractable is
-desired. There has been little research at the confluence of these three
-topics. In this paper we consider imposing a condition number constraint
-to various types of losses used in covariance and inverse covariance
-matrix estimation. This extends the approach by Won, Lim, Kim, and
-Rajaratnam (2013) on multivariate Gaussian log likelihood. When the loss
-function can be decomposed as a sum of an orthogonally invariant
-function of the estimate and its inner product with a function of the
-sample covariance matrix, we show that a solution path algorithm can be
-derived, involving a series of ordinary differential equations. The path
-algorithm is at- tractive because it provides the entire family of
-estimates for all possible values of the condition number bound, at the
-same computational cost of a single estimate with a fixed upper bound.
-An important finding is that the proximal operator for the condition
-number constraint, which turns out to be very useful in regularizing
-loss functions that are not orthogonally invariant and may yield
-non-positive-definite estimates, can be efficiently computed by this
-path algorithm. As a concrete illustration of its practical importance,
-we develop an operator-splitting algorithm that imposes a guarantee of
-well-conditioning as well as positive definiteness to recently proposed
-convex pseudo-likelihood based graphical model selection methods (Zhang
-and Zou, 2014; Khare, Oh, and Rajaratnam, 2015).
-
-This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
-Rajaratnam (UC Davis).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
 ## Feature Selection In High-Dimensional Models With Complex Block Structures {-}
@@ -776,52 +491,6 @@ block structures*. Manuscript, submitted.
 Li, Y., Nan, B. and Zhu, J. (2015). *Multivariate sparse group lasso for
 the multivariate multiple linear regression with an arbitrary group
 structure.* *Biometrics* **71(2)**, 354–363.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 4 (260-009)</p>
-## Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series {-}
-<p style="text-align:center">
-Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
-^1^Boise State University<br />
-^2^Yonsei University<br />
-</p>
-<span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
-Time Series**</span>
-
-Kyungduk Ko$^1$ and Chul Eung Kim$^2$
-
-$^1 \;$ Department of Mathematics, Boise State University, Boise, ID
-83725, USA
-
-$^2 \;$ Department of Applied Statistics, Yeonsei University, Seoul,
-Korea
-
-<span>**Abstract**</span>. We consider a power transformation through
-the well-known Box-cox transformation to induce normality from
-non-Gaussian long memory processes and propose a Bayesian method to
-simultaneously estimate the transformation parameter and long memory
-parameter. To ease computational burdens due to the dense
-variance-covariance matrix of long memory time series, we base our
-statistical inference on the wavelet domain rather than the original
-data domain. For a joint estimation of the parameters of interest,
-posterior estimations are carried out via Markov chain Monte Carlo
-(MCMC). An application to German stock return data is presented.
-
-<span>**Keywords**</span>. Box-Cox transformation, Discrete wavelet
-transform, Long memory, MCMC, Normality
-
-References {#references .unnumbered}
-----------
-
-Dahlhaus, R. (1990). Efficient location and regression estimation for
-long range dependent regression models. *Annuals of Statistics*, 23,
-1029–1047.
-
-Ko, K. and Lee, J. (2008). Confidence intervals for long memory
-regressions. *Statistics and Probability Letters*, 78, 1894–1902.
-
-Lee, J. and Ko, K. (2007). One-way analysis of variance with long memory
-errors and its application to stock return data. *Applied Stochastic
-Models in Business and Industry*, **23**, 493–502.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 OGGB4 (260-073)</p>
 ## Dissimilarities Between Groups Of Data {-}
@@ -895,55 +564,6 @@ algebra computation.
 
 <span>**Keywords**</span>. Double precision, floating-point arithmetic,
 MPACK
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 Case Room 3 (260-055)</p>
-## Cluster-Wise Regression Models Combined By A Quasi-Linear Function {-}
-<p style="text-align:center">
-Kenichi Hayashi^1^, Katsuhiro Omae^2^, and Shinto Eguchi^3^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Keio University<br />
-^3^The Graduate University for Advanced Studies<br />
-</p>
-<span>**Cluster-wise regression models combined by a quasi-linear
-function** </span>
-
-Kenichi Hayashi$^{1*}$, Katsuhiro Omae$^{2}$ and Shinto Eguchi$^3$
-
-$^1 \;$ Department of Mathematics, Keio University, Yokohama, Japan
-
-$^2 \;$ Department of Statistical Science, The Graduate University for
-Advanced Studies, Tokyo, Japan
-
-$^3 \;$ The Institute of Statistical Mathematics, Tokyo, Japan
-
-<span>**Abstract**</span>. Suppose that there are multiple heterogeneous
-subgroups in a dataset. In the “Big data” era, this would be a natural
-assumption for many fields of application such as medicine, biology,
-marketing, psychology, etc. Then, conventional linear regression models
-result in not only poor prediction performance but also misleading
-interpretation of analyses. In this study, we propose an extension of
-cluster-wise regression models
-$\phi^{-1}\left(\sum_{k=1}^Kp_k(\vec{x})\phi(\vec{\beta}_k^\top\vec{x})\right)$,
-where $\phi$ is a strictly increasing function,
-$\vec{x}\in\mathbb{R}^d$, $\vec{\beta}_k$ is a regression coefficient
-for $k$th cluster and $p_k(\vec{x})$ is a non-negative function
-satisfying $\sum_{k=1}^Kp_k(\vec{x})=1$ for any $\vec{x}$. We show that
-the proposed model has flexibility in clustering and “averaging”
-multiple regressors and hence includes the existing methods such as
-Späth (1981), DeSarbo et al. (1989) as special cases.
-
-<span>**Keywords**</span>. Cluster-wise regression, Generalized linear
-models, Population heterogeneity
-
-References {#references .unnumbered}
-----------
-
-DeSarbo, W.S., Oliver, R.L., and Rangaswamy, A. (1989). A simulated
-annealing methodology for clusterwise linear regression.
-*Psychometrika*, **54**, 707–736.
-
-Späth, H. (1979). Algorithm 39: Clusterwise linear regression.
-*Computing*, **22**, 367–373.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 Case Room 4 (260-009)</p>
 ## Mobile Learning In Teaching Bioinformatics For Medical Doctors {-}
@@ -1076,54 +696,6 @@ Payne, R.W. and Welham, S.J. (1990). A comparison of algorithms for
 combination of information in generally balanced designs. In:
 *COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
 Heidelberg: Physica-Verlag.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 3 (260-055)</p>
-## Clusterwise Low-Rank Correlation Analysis Based On Majorization {-}
-<p style="text-align:center">
-Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2^<br />
-^1^Doshisha University<br />
-^2^Wakayama Medical University<br />
-</p>
-<span>**Clusterwise low-rank correlation analysis based on
-majorization**</span>
-
-Kensuke Tanioka$^{1*}$, Satoru Hiwa$^2$,\
-Tomoyuki Hiroyasu$^2$ and Hiroshi Yadohisa$^3$
-
-$^1 \;$ Clinical Study Support Center, Wakayama Medical University
-Hospital, Wakayama, Japan
-
-$^2 \;$ Department of Biomedical Information, Doshisha University,
-Kyoto, Japan
-
-$^3 \;$ Department of Culture and Information Science, Doshisha
-University, , Kyoto, Japan
-
-<span>**Abstract**</span>. Given correlation matrices between variables
-of subjects and these classes of subjects, it is important to get the
-distinctive local networks for each class. For example, in fMRI data
-analysis, such the situation is observed. In concretely, each
-correlation matrix between regions of interests for his/her brain is
-observed, and each information of class is get through the experiment.
-In this presentation, to achieve the purpose, we proposed simultaneous
-analysis for both clustering of variables and low-rank approximation of
-correlation matrices corresponding to each class. For the estimation, we
-adopt the majorization algorithm based on Pietersz and Groenen (2004)
-and Simon and Abell (2010). Through the proposed method, we can get the
-distinctive sparse correlation matrices corresponding to classes, while
-we have to determine the number of clusters.
-
-<span>**Keywords**</span>. sparse estimation, clustering variables, ALS
-
-References {#references .unnumbered}
-----------
-
-Pietersz, R., and Groenen, J.F (2004). *Rank Reduction of Correlation
-Matrices by Majorization.* Quant.Finance, <span>**4**</span>: 649–662.
-
-Simon, D., and Abell, J. (2010). *Majorization Algorithm for Constrained
-Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
-<span>**432**</span>, 1152-1164.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 4 (260-009)</p>
 ## Towards An Informal Test For Goodness-Of-Fit {-}

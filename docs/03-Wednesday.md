@@ -525,49 +525,51 @@ Keywords: GARCH , Nigeria stock index , Maximum Lilkelihood Estimation
 (MLE) and Beta Skewed -t distributions.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach {-}
+## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {-}
 <p style="text-align:center">
-Thi Thu Huong Pham, Darfiana Nur, and Alan Branford<br />
+Shin Sato and Darfiana Nur<br />
 Flinders University<br />
 </p>
-<span>**The joint models for nonlinear longitudinal and time-to-event
-data using penalized splines: A Bayesian approach**</span>
+<span>**Bayesian Analyses of Non-homogeneous Gaussian Hidden Markov
+Models**</span>
 
-Pham Thi Thu Huong$^1$ and Darfiana Nur$^1$ and Alan Branford$^1$
+Shin Sato$^1$ and Darfiana Nur$^1$
 
-$^1 \;$ The College of Science and Engineering, Flinders University of
-Australia at Tonsley, 1284 South Road, Tonsley, SA 5042, Australia
+$^1 \;$ College of Science and Engineering, Flinders University at
+Tonsley, 1284 South Rd, Clovelly Park, SA 5042, Australia
 
-<span>**Abstract**</span>. The joint models for longitudinal data and
-time-to-event data have been introduced to measure the association
-between longitudinal data and survival time in clinical, epidemiological
-and educational studies.. The main aim of this talk is to estimate the
-parameters in the joint models using a Bayesian approach for nonlinear
-longitudinal data and time-to-event data using penalized splines. To
-perform this analysis, the joint posterior distribution of hazard rate
-at baseline, survival and longitudinal coefficient and random effects
-parameters is first being introduced followed by derivation of the
-conditional posterior distributions for each of parameter. Based on
-these target posterior distributions, the samples of parameters are
-simulated using Metropolis, Metropolis Hastings and Gibbs sampler
-algorithms. An R program is written to implement the analysis. Finally,
-the prior sensitivity analysis for the baseline hazard rate and
-association parameters is performed following by simulations studies and
-a case study.
+<span>**Abstract**</span>. We investigate a non-homogeneous Gaussian
+hidden Markov model where the model assumes the transition probabilities
+between the hidden states depend on each discrete-time. The methodology
+of the statistical inference for the model follows the Bayesian approach
+implementing the Markov chain Monte Carlo (MCMC) methods for parameter
+estimation. The methods include: the Metropolis-Hastings, the delayed
+rejection Metropolis-Hastings, the multiple-try Metropolis-Hastings, and
+the adaptive Metropolis algorithms.
 
-<span>**Keywords**</span>. Bayesian analysis, Joint models, Longitudinal
-data, MCMC algorithms, Prior sensitivity analysis, Survival data
+For simulation studies, we have successfully implemented all the
+algorithms proposed on the simulated data set that was investigated by
+Diebold et al. (1994), although we had been faced with the difficulties
+of estimating each parameter due to the large noises in the data. For a
+case study, the model was implemented on a data set of the monthly US
+3-month treasury bill rates with six financial exogenous variables in
+which the settings are identical to that of Meligkotsidou and
+Dellaportas’s (2011), except for the algorithm.
+
+<span>**Keywords**</span>. Non-homogeneous hidden Markov model, Bayesian
+inference, Markov chain Monte Carlo methods, Metropolis-Hastings
+algorithms
 
 References {#references .unnumbered}
 ----------
 
-D. Rizopoulos, D. (2014). The R package JMbayes for fitting joint models
-for longitudinal and time-to- event data using MCMC. *Journal of
-Statistical Software,* 72(7):1 – 45.
+Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
+with time-varying transition probabilities. *Business Cycles: Durations,
+Dynamics, and Forecasting*, 144–165.
 
-Brown, E. R., J. G. Ibrahim, J. G., DeGruttola, V. (2005). A flexible
-B-spline model for multiple longitudinal biomarkers and
-survival.*Biometrics,* 61(1):64 – 73.
+Spezia, L. (2006). Bayesian analysis of non-homogeneous hidden markov
+models. *Journal of Statistical Computation and Simulation*, **76**(8),
+713–725.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Statistical Disclosure Control With R: Traditional Methods And Synthetic Data {-}
@@ -804,51 +806,54 @@ Rosadi, D. (2016). Automatic ARIMA Modeling using RcmdrPlugin.SPSS,
 Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {-}
+## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {-}
 <p style="text-align:center">
-Shin Sato and Darfiana Nur<br />
-Flinders University<br />
+Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Mie University Hospital<br />
 </p>
-<span>**Bayesian Analyses of Non-homogeneous Gaussian Hidden Markov
-Models**</span>
+<span>**Performance of Bayesian Credible Interval for Binomial
+Proportion using Logit Transformation**</span>
 
-Shin Sato$^1$ and Darfiana Nur$^1$
+Toru Ogura$^1$ and Takemi Yanagimoto$^2$
 
-$^1 \;$ College of Science and Engineering, Flinders University at
-Tonsley, 1284 South Rd, Clovelly Park, SA 5042, Australia
+$^1 \;$ Clinical Research Support Center, Mie University Hospital,
+2-174, Edobashi, Tsu, Mie, Japan
 
-<span>**Abstract**</span>. We investigate a non-homogeneous Gaussian
-hidden Markov model where the model assumes the transition probabilities
-between the hidden states depend on each discrete-time. The methodology
-of the statistical inference for the model follows the Bayesian approach
-implementing the Markov chain Monte Carlo (MCMC) methods for parameter
-estimation. The methods include: the Metropolis-Hastings, the delayed
-rejection Metropolis-Hastings, the multiple-try Metropolis-Hastings, and
-the adaptive Metropolis algorithms.
+$^2 \;$ Institute of Statistical Mathematics, 10-3, Midori-cho,
+Tachikawa, Tokyo, Japan
 
-For simulation studies, we have successfully implemented all the
-algorithms proposed on the simulated data set that was investigated by
-Diebold et al. (1994), although we had been faced with the difficulties
-of estimating each parameter due to the large noises in the data. For a
-case study, the model was implemented on a data set of the monthly US
-3-month treasury bill rates with six financial exogenous variables in
-which the settings are identical to that of Meligkotsidou and
-Dellaportas’s (2011), except for the algorithm.
+<span>**Abstract**</span>. The confidence or the credible interval of
+the binomial proportion $p$ is one of most widely employed statistical
+analysis methods, and a variety of methods have been proposed. The
+Bayesian credible interval attracts recent researches’ attentions. One
+of the promising methods is the highest posterior density (HPD)
+interval, which implies the shortest possible interval enclosing
+$100(1-\alpha)$% of the probability density function. The HPD interval
+is often used because it is narrow compared to other credible intervals.
+However, the HPD interval has some drawbacks when the binomial
+proportion is a small. To dissolve them, we calculate first a credible
+interval by the HPD interval of the logit transformed parameter,
+$\theta=\log\{p/(1-p)\}$, instead of $p$. Note that $\theta$ and $p$ are
+the canonical and the mean parameters of the binomial distribution in
+the exponential family, respectively. Writing the HPD interval of
+$\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible
+interval of $p$ as
+$(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
+It is explored in depth, and numerical comparison studies are conducted
+to confirm its favorable performance, especially when the observed
+number is small, such as 0 or 1. Practical datasets are analyzed to
+examine the potential usefulness for applications in medical fields.
 
-<span>**Keywords**</span>. Non-homogeneous hidden Markov model, Bayesian
-inference, Markov chain Monte Carlo methods, Metropolis-Hastings
-algorithms
+<span>**Keywords**</span>. Bayesian credible interval, binomial
+proportion, highest posterior density interval, logit transformation,
+zero count
 
 References {#references .unnumbered}
 ----------
 
-Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
-with time-varying transition probabilities. *Business Cycles: Durations,
-Dynamics, and Forecasting*, 144–165.
-
-Spezia, L. (2006). Bayesian analysis of non-homogeneous hidden markov
-models. *Journal of Statistical Computation and Simulation*, **76**(8),
-713–725.
+Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
+Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
 ## Imputation Of The 2016 Economic Census For Business Activity In Japan {-}
@@ -1076,56 +1081,6 @@ demonstration of the package in several real data sets.
 Keywords: Additive seasonality, ARIMA, forecast combination, high
 frequency, low frequency, multiplicative seasonality, polynomial
 seasonality, regression, TBATS, trigonometric seasonality.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 OGGB5 (260-051)</p>
-## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {-}
-<p style="text-align:center">
-Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Mie University Hospital<br />
-</p>
-<span>**Performance of Bayesian Credible Interval for Binomial
-Proportion using Logit Transformation**</span>
-
-Toru Ogura$^1$ and Takemi Yanagimoto$^2$
-
-$^1 \;$ Clinical Research Support Center, Mie University Hospital,
-2-174, Edobashi, Tsu, Mie, Japan
-
-$^2 \;$ Institute of Statistical Mathematics, 10-3, Midori-cho,
-Tachikawa, Tokyo, Japan
-
-<span>**Abstract**</span>. The confidence or the credible interval of
-the binomial proportion $p$ is one of most widely employed statistical
-analysis methods, and a variety of methods have been proposed. The
-Bayesian credible interval attracts recent researches’ attentions. One
-of the promising methods is the highest posterior density (HPD)
-interval, which implies the shortest possible interval enclosing
-$100(1-\alpha)$% of the probability density function. The HPD interval
-is often used because it is narrow compared to other credible intervals.
-However, the HPD interval has some drawbacks when the binomial
-proportion is a small. To dissolve them, we calculate first a credible
-interval by the HPD interval of the logit transformed parameter,
-$\theta=\log\{p/(1-p)\}$, instead of $p$. Note that $\theta$ and $p$ are
-the canonical and the mean parameters of the binomial distribution in
-the exponential family, respectively. Writing the HPD interval of
-$\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible
-interval of $p$ as
-$(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
-It is explored in depth, and numerical comparison studies are conducted
-to confirm its favorable performance, especially when the observed
-number is small, such as 0 or 1. Practical datasets are analyzed to
-examine the potential usefulness for applications in medical fields.
-
-<span>**Keywords**</span>. Bayesian credible interval, binomial
-proportion, highest posterior density interval, logit transformation,
-zero count
-
-References {#references .unnumbered}
-----------
-
-Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
-Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
 ## Analysis Of Official Microdata Using Secure Statistical Computation System {-}
@@ -1536,6 +1491,54 @@ Wang, J. and Hosaka, S. (2017). Cell regression and reference prior,
 Symposium on “*Statistical Modelling and Computational Algorithms*", at
 Nagoya University, Febuary 18–19, 2017.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
+## An Overview Of The Correspondence Analysis Family {-}
+<p style="text-align:center">
+Eric Beh<br />
+University of Newcastle<br />
+</p>
+<span>**An Overview of the Correspondence Analysis Family**</span>
+
+Eric J. Beh$^1$
+
+$^1 \;$ School of Mathematical & Physical Sciences, University of
+Newcastle, Callaghan, NSW 2308, Australia
+
+<span>**Abstract**</span>.
+
+Correspondence analysis (CA) is well known to be a member of the family
+of multivariate analysis techniques and is concerned with the
+visualisation of the association between two or more categorical
+variables. The classic texts of Greenacre (1984) and Lebart, Morineau
+and Warwick (1984), for example, provide an excellent technical,
+practical and historical account of development of CA up to that period.
+What is less well known is that the literature on CA extends well beyond
+the traditional approaches that can be found in many multivariate texts
+and often there are disciplines that redefine the way in which it is
+performed. For example, the various fields of ecology have successfully
+germinated variants including <span>*canonical correspondence
+analysis*</span> and <span>*detrended correspondence analysis*</span>.
+However the scope, and literature, of CA is not confined to these
+examples. Beh and Lombardo (2014, Section 1.6.3) and provide a
+comprehensive list of members of the “family” which, now, number about
+50 members. I shall provide an overview of some of the popular, and
+not-so-popular, members of the CA family.
+
+<span>**Keywords**</span>. Correspondence analysis, Multiple CA, Family
+of analyses
+
+References {#references .unnumbered}
+----------
+
+Beh, E. J. and Lombardo, R. (2014). <span>*Correspondence Analysis:
+Theory, Practice and New Strategies*</span>. Chichester: Wiley.
+
+Greenacre, M. J. (1984), <span>*Theory and Applications of
+Correspondence Analysis*</span>. London: Academic Press.
+
+Lebart, L., Morineau, A. and Warwick, K. M. (1984). <span>*Multivariate
+Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 1 (260-005)</p>
 ## Testing For Genetic Associations In Arbitrarily Structured Populations {-}
 <p style="text-align:center">
@@ -1567,38 +1570,29 @@ substantially different approach to the problem from existing methods.
 variable, Population structure
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 OGGB5 (260-051)</p>
-## Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation {-}
+## Threshold Determination For The Meteorological Data Quality Control In Korea {-}
 <p style="text-align:center">
-Beomseuk Hwang^1^ and Zhen Chen^2^<br />
-^1^Chung-Ang University<br />
-^2^National Institutes of Health<br />
+Yung-Seop Lee^1^, Hee-Kyung Kim^1^, and Myungjin Hyun^2^<br />
+^1^Dongguk University<br />
+^2^KMA National Climate Data Center<br />
 </p>
-<span>**Bayesian analysis for fitting zero-inflated count data with data
-augmentation**</span>
-
-Beom Seuk Hwang$^1$ and Zhen Chen$^2$
-
-$^1 \;$ Department of Applied Statistics, Chung-Ang University, Seoul,
-Korea
-
-$^2 \;$ Eunice Kennedy Shriver National Institute of Child Health and
-Human Development, MD, 20892 USA
-
-<span>**Abstract**</span>. Count data with excess zeros are common in
-epidemiological studies. Zero-inflated Poisson (ZIP) model or
-zero-inflated negative binomial (ZINB) model can be usually used in
-these cases. From Bayesian perspective, however, the ZIP and ZINB models
-are not straightforward to fit, usually requiring manual tunings in the
-Markov chain Monte Carlo algorithm. We consider the auxiliary mixture
-sampling through several data augmentations that effectively transform
-the non-linear and non-Gaussian problem in zero-inflated regression
-model into a set of linear and Gaussian one. The auxiliary mixture
-sampling results in tuning-free algorithms in MCMC. We demonstrate how
-the auxiliary mixture sampling can be applied to an epidemiological case
-study.
-
-<span>**Keywords**</span>. Auxiliary mixture sampling, ZIP model, ZINB
-model, Markov chain Monte Carlo
+**Abstract:** The raw meteorological data need to be cleaned since they
+are from the diverse sources such as ASOS(Automated Synoptic Observing
+System) and AWS(Automatic Weather Station). The meteorological data in
+South Korea is observed from about 100 ASOS and 500 AWS. In order to
+produce the high qualified meteorological data, several data quality
+control algorithms are applied. In this study, cluster analysis for
+almost 600 meteorological sites is applied depending on their climatic
+characteristics. After clustering, we propose the several threshold
+algorithms in the given cluster. The proposed threshold values for data
+quality control algorithms will be adequate to Korea climate condition
+by cluster and month. Thresholds of QC algorithms, which are step test,
+persistence test and climate range test, are determined. Through these
+algorithms and threshold, the qualified meteorological data can be
+produced for the improved forecast accuracy.\
+\
+**Key Words:** meteorological data quality control, threshold values,
+cluster analysis, step test, persistence test, climate range test.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 2 (260-057)</p>
 ## Regularized Noise-Reduction Methodology For High-Dimensional Data {-}
@@ -1727,36 +1721,50 @@ Ing, C.-K. (2016). Model averaging in high-dimensional regressions.
 *Unpublished Technical Report*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
-## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {-}
+## Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction {-}
 <p style="text-align:center">
-Zhiwu Hong^1^ and Linlin Niu^2^<br />
-^1^HKUST Business School<br />
-^2^Xiamen University<br />
+Michio Yamamoto<br />
+Okayama University<br />
 </p>
-<span>**Abstract**</span>
-This paper develops a no-arbitrage network of yield curves model for the
-euro area to study the joint dynamics of and risk transmission across
-yield curves of different economies. The model nests 1+M yield curves of
-a benchmark country and M periphery countries with 3+(2+M) state
-factors. The benchmark curve is spanned by three yield factors, which
-are also common basis for all curves. Periphery yield spreads are
-spanned by three factors, including two common risk factors related to
-market liquidity risk and common sovereign credit risk, and a
-country-specific risk factor. Parsimony can be guaranteed as M increases
-with additional yield curve data, and factors can be strongly identified
-with structural restrictions under the no-arbitrage conditions. We
-estimate a 1+5 yield curves model for Germany and GIIPS countries using
-weekly data from 2009 to 2016. The results show that, the German yields
-enjoy a ‘flight to liquidity’ effect under a liquidity shock, which
-pushes down German yields while driving up periphery spreads. However,
-in response to a shock of common sovereign credit risk, yields of all
-countries, including Germany, tend to increase immediately and
-persistently. The weaker is a country’s economic fundamental, the higher
-its risk exposure to shocks. Though spillover effects among periphery
-curves are generally positive, when a Greek shock bursts, the Italian
-risk factor may be temporarily mitigated due to its relative stronger
-economy. The network model can be adapted with a time-varying parameter
-VAR to monitor evolving contributions of factors.
+<span>**Model-based clustering for multivariate categorical data with
+dimension reduction**</span>
+
+Michio Yamamoto$^1$
+
+$^1 \;$ Graduate School of Environmental and Life Science, Okayama
+University, Okayama, Japan
+
+<span>**Abstract**</span>. A novel model-based clustering procedure for
+multivariate categorical data is proposed. The proposed model assumes
+that each response probability has a low-dimensional representation of
+the cluster structure, which is constructed by weights for categorical
+variables and scores for cluster representatives. For the visualization
+of the cluster structure, we define low-dimensional scores for
+individuals as convex combinations of scores for cluster
+representatives, which may be interpretable in a similar manner to the
+archetypal analysis developed by Cutler and Breiman (1994). Because the
+proposed model has the so-called rotational indeterminacy, it is needed
+to conduct rotation methods after parameter estimation to obtain
+interpretable results. Instead of this two-step approach, we develop a
+penalized likelihood procedure that imposes a sparsity-inducing penalty
+on the weights for categorical variables. To optimize the proposed
+penalized likelihood criterion, we develop an expectation-maximization
+(EM) algorithm with gradient projection and coordinate descent. It is
+shown that there is trade-off relation between the convergence rate of
+the algorithm and the cluster recovery.
+
+<span>**Keywords**</span>. clustering, categorical data, dimension
+reduction, EM algorithm, sparse estimation
+
+References {#references .unnumbered}
+----------
+
+Cutler, A., Breiman, L. (1994). Archetypal analysis. *Technometrics*,
+**36**, 338–347.
+
+Yamamoto, M., Hayashi, K. (2015). Clustering of multivariate binary data
+with dimension reduction via $L_{1}$-regularized likelihood
+maximization. *Pattern Recognition*, **48**, 3959–3968.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 1 (260-005)</p>
 ## Meta-Analytic Principal Component Analysis In Integrative Omics Application {-}
@@ -1806,50 +1814,37 @@ Krzanowski (1979) *Between-groups comparison of principal components.*
 Journal of the American Statistical Association, 74, 703–707
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 OGGB5 (260-051)</p>
-## Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction {-}
+## Fitting Additive Hazards Model Using Calibrated Weights For Case-Cohort Data {-}
 <p style="text-align:center">
-Michio Yamamoto<br />
-Okayama University<br />
+Hyuntae Kyung and Sangwook Kang<br />
+Yonsei University<br />
 </p>
-<span>**Model-based clustering for multivariate categorical data with
-dimension reduction**</span>
+<span>**Fitting Additive Hazards Model Using Calibrated Weights for
+Case-Cohort Data**</span>
 
-Michio Yamamoto$^1$
+Hyuntae Kyung$^1$ and Sangwook Kang$^2$
 
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, Okayama, Japan
+$^1 \;$ Department of Applied Statistics, Yonsei University, Seoul,
+03722, Korea
 
-<span>**Abstract**</span>. A novel model-based clustering procedure for
-multivariate categorical data is proposed. The proposed model assumes
-that each response probability has a low-dimensional representation of
-the cluster structure, which is constructed by weights for categorical
-variables and scores for cluster representatives. For the visualization
-of the cluster structure, we define low-dimensional scores for
-individuals as convex combinations of scores for cluster
-representatives, which may be interpretable in a similar manner to the
-archetypal analysis developed by Cutler and Breiman (1994). Because the
-proposed model has the so-called rotational indeterminacy, it is needed
-to conduct rotation methods after parameter estimation to obtain
-interpretable results. Instead of this two-step approach, we develop a
-penalized likelihood procedure that imposes a sparsity-inducing penalty
-on the weights for categorical variables. To optimize the proposed
-penalized likelihood criterion, we develop an expectation-maximization
-(EM) algorithm with gradient projection and coordinate descent. It is
-shown that there is trade-off relation between the convergence rate of
-the algorithm and the cluster recovery.
+$^2 \;$ Department of Applied Statistics, Yonsei University, Seoul,
+03722, Korea
 
-<span>**Keywords**</span>. clustering, categorical data, dimension
-reduction, EM algorithm, sparse estimation
+<span>**Abstract**</span>.A case-cohort design is an efficient study
+design for analyzing failure time data by reducing the cost and effort
+of conducting a large cohort study. Estimation of regression
+coefficients is typically done through a weighted estimating equation
+approach whose weight is the inverse of the sampling probabilities.
+Several techniques to enhance the efficiency by estimating weights or
+calibrating weights based on auxiliary variables have been developed for
+Cox models. In this paper, we propose to extend these methodologies to
+semiparametric additive hazards models. The proposed estimators are
+demonstrated to be more efficient, via simulation studies, than the
+usual Horvitz-Thompson type estimator. We illustrate a use of the
+proposed estimators by using the National Wilms Tumor Study data.
 
-References {#references .unnumbered}
-----------
-
-Cutler, A., Breiman, L. (1994). Archetypal analysis. *Technometrics*,
-**36**, 338–347.
-
-Yamamoto, M., Hayashi, K. (2015). Clustering of multivariate binary data
-with dimension reduction via $L_{1}$-regularized likelihood
-maximization. *Pattern Recognition*, **48**, 3959–3968.
+<span>**Keywords**</span>. Estimating Equations, Semiparametric Model,
+Survey Sampling, Survival Analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 2 (260-057)</p>
 ## Selecting The Number Of Principal Components {-}
@@ -1956,6 +1951,54 @@ multivariate regression in analyzing complex data.
 
 <span>**Keywords**</span>. Sliced inverse regression, liquid association
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
+## Clusterwise Low-Rank Correlation Analysis Based On Majorization {-}
+<p style="text-align:center">
+Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2^<br />
+^1^Doshisha University<br />
+^2^Wakayama Medical University<br />
+</p>
+<span>**Clusterwise low-rank correlation analysis based on
+majorization**</span>
+
+Kensuke Tanioka$^{1*}$, Satoru Hiwa$^2$,\
+Tomoyuki Hiroyasu$^2$ and Hiroshi Yadohisa$^3$
+
+$^1 \;$ Clinical Study Support Center, Wakayama Medical University
+Hospital, Wakayama, Japan
+
+$^2 \;$ Department of Biomedical Information, Doshisha University,
+Kyoto, Japan
+
+$^3 \;$ Department of Culture and Information Science, Doshisha
+University, , Kyoto, Japan
+
+<span>**Abstract**</span>. Given correlation matrices between variables
+of subjects and these classes of subjects, it is important to get the
+distinctive local networks for each class. For example, in fMRI data
+analysis, such the situation is observed. In concretely, each
+correlation matrix between regions of interests for his/her brain is
+observed, and each information of class is get through the experiment.
+In this presentation, to achieve the purpose, we proposed simultaneous
+analysis for both clustering of variables and low-rank approximation of
+correlation matrices corresponding to each class. For the estimation, we
+adopt the majorization algorithm based on Pietersz and Groenen (2004)
+and Simon and Abell (2010). Through the proposed method, we can get the
+distinctive sparse correlation matrices corresponding to classes, while
+we have to determine the number of clusters.
+
+<span>**Keywords**</span>. sparse estimation, clustering variables, ALS
+
+References {#references .unnumbered}
+----------
+
+Pietersz, R., and Groenen, J.F (2004). *Rank Reduction of Correlation
+Matrices by Majorization.* Quant.Finance, <span>**4**</span>: 649–662.
+
+Simon, D., and Abell, J. (2010). *Majorization Algorithm for Constrained
+Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
+<span>**432**</span>, 1152-1164.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 1 (260-005)</p>
 ## Phylogenetic Tree-Based Microbiome Association Test {-}
 <p style="text-align:center">
@@ -1994,6 +2037,40 @@ associated.
 
 <span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
 Association Test
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 OGGB5 (260-051)</p>
+## Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation {-}
+<p style="text-align:center">
+Beomseuk Hwang^1^ and Zhen Chen^2^<br />
+^1^Chung-Ang University<br />
+^2^National Institutes of Health<br />
+</p>
+<span>**Bayesian analysis for fitting zero-inflated count data with data
+augmentation**</span>
+
+Beom Seuk Hwang$^1$ and Zhen Chen$^2$
+
+$^1 \;$ Department of Applied Statistics, Chung-Ang University, Seoul,
+Korea
+
+$^2 \;$ Eunice Kennedy Shriver National Institute of Child Health and
+Human Development, MD, 20892 USA
+
+<span>**Abstract**</span>. Count data with excess zeros are common in
+epidemiological studies. Zero-inflated Poisson (ZIP) model or
+zero-inflated negative binomial (ZINB) model can be usually used in
+these cases. From Bayesian perspective, however, the ZIP and ZINB models
+are not straightforward to fit, usually requiring manual tunings in the
+Markov chain Monte Carlo algorithm. We consider the auxiliary mixture
+sampling through several data augmentations that effectively transform
+the non-linear and non-Gaussian problem in zero-inflated regression
+model into a set of linear and Gaussian one. The auxiliary mixture
+sampling results in tuning-free algorithms in MCMC. We demonstrate how
+the auxiliary mixture sampling can be applied to an epidemiological case
+study.
+
+<span>**Keywords**</span>. Auxiliary mixture sampling, ZIP model, ZINB
+model, Markov chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 2 (260-057)</p>
 ## Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator {-}
@@ -2521,54 +2598,6 @@ Saigusa, Y., Tahata, K. and Tomizawa, S. (2015). Orthogonal
 decomposition of symmetry model using the ordinal quasi-symmetry model
 based on $f$-divergence for square contingency tables. <span>*Statist.
 Probab. Lett.*</span> <span>**101**</span>, 33–37.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 Case Room 2 (260-057)</p>
-## An Overview Of The Correspondence Analysis Family {-}
-<p style="text-align:center">
-Eric Beh<br />
-University of Newcastle<br />
-</p>
-<span>**An Overview of the Correspondence Analysis Family**</span>
-
-Eric J. Beh$^1$
-
-$^1 \;$ School of Mathematical & Physical Sciences, University of
-Newcastle, Callaghan, NSW 2308, Australia
-
-<span>**Abstract**</span>.
-
-Correspondence analysis (CA) is well known to be a member of the family
-of multivariate analysis techniques and is concerned with the
-visualisation of the association between two or more categorical
-variables. The classic texts of Greenacre (1984) and Lebart, Morineau
-and Warwick (1984), for example, provide an excellent technical,
-practical and historical account of development of CA up to that period.
-What is less well known is that the literature on CA extends well beyond
-the traditional approaches that can be found in many multivariate texts
-and often there are disciplines that redefine the way in which it is
-performed. For example, the various fields of ecology have successfully
-germinated variants including <span>*canonical correspondence
-analysis*</span> and <span>*detrended correspondence analysis*</span>.
-However the scope, and literature, of CA is not confined to these
-examples. Beh and Lombardo (2014, Section 1.6.3) and provide a
-comprehensive list of members of the “family” which, now, number about
-50 members. I shall provide an overview of some of the popular, and
-not-so-popular, members of the CA family.
-
-<span>**Keywords**</span>. Correspondence analysis, Multiple CA, Family
-of analyses
-
-References {#references .unnumbered}
-----------
-
-Beh, E. J. and Lombardo, R. (2014). <span>*Correspondence Analysis:
-Theory, Practice and New Strategies*</span>. Chichester: Wiley.
-
-Greenacre, M. J. (1984), <span>*Theory and Applications of
-Correspondence Analysis*</span>. London: Academic Press.
-
-Lebart, L., Morineau, A. and Warwick, K. M. (1984). <span>*Multivariate
-Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
 ## Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors {-}

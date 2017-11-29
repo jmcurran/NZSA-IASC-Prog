@@ -1266,36 +1266,6 @@ proposed test procedure.
 <span>**Keywords**</span>. Functional single-index models, dimension
 reduction, model checking
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 Case Room 4 (260-009)</p>
-## Testing For Genetic Associations In Arbitrarily Structured Populations {-}
-<p style="text-align:center">
-Minsun Song<br />
-Sookmyung Women's University<br />
-</p>
-<span>**Testing for genetic associations in arbitrarily structured
-populations**</span>
-
-Minsun Song$^1$
-
-$^1 \;$ Department of Statistics, Sookmyung Women’s University, Seoul,
-04310, Korea
-
-<span>**Abstract**</span>.We present a new statistical test of
-association between a trait and genetic markers, which we theoretically
-and practically prove to be robust to arbitrarily complex population
-structure. The statistical test involves a set of parameters that can be
-directly estimated from large-scale genotyping data, such as those
-measured in genome-wide associations studies. We also derive a new set
-of methodologies, called a genotype-conditional association test, shown
-to provide accurate association tests in populations with complex
-structures, manifested in both the genetic and non-genetic contributions
-to the trait. We demonstrate the proposed method on a large simulation
-study and on the real data. Our proposed framework provides a
-substantially different approach to the problem from existing methods.
-
-<span>**Keywords**</span>. Genome-wide association studies, Latent
-variable, Population structure
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
 ## On Optimal Group Testing Designs: Prevalence Estimation, Cost Considerations, And Dilution Effects {-}
 <p style="text-align:center">
@@ -1501,53 +1471,6 @@ requirements to the conventional VaR estimator.
 
 <span>**Keywords**</span>. Capital requirement, change point detection,
 CUSUM control chart, fluctuation reduction, Value-at-Risk
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 Case Room 4 (260-009)</p>
-## Meta-Analytic Principal Component Analysis In Integrative Omics Application {-}
-<p style="text-align:center">
-Sunghwan Kim^1^ and George Tseng^2^<br />
-^1^Keimyung University<br />
-^2^University of Pittsburgh<br />
-</p>
-<span>**Meta-analytic Principal Component Analysis in Integrative Omics
-Application**</span>
-
-SungHwan Kim$^1$ and George C. Tseng$^2$
-
-$^1 \;$ Department of Statistics, Keimyung Univerisity, Deagu 42601,
-South Korea
-
-$^2 \;$ Department of Biostatistics, University of Pittsburgh,
-Pittsburgh 15213, USA
-
-<span>**Abstract**</span>. With the prevalent usage of microarray and
-massively parallel sequencing, numerous high-throughput omics datasets
-have become available in the public domain. Integrating abundant
-information among omics datasets is critical to elucidate biological
-mechanisms. Due to the high- dimensional nature of the data, methods
-such as principal component analysis (PCA) have been widely applied,
-aiming at effective dimension reduction and exploratory visualization.
-In this paper, we combine multiple omics datasets of identical or
-similar biological hypothesis and introduce two variations of
-meta-analytic framework of PCA, namely MetaPCA. Regularization is
-further incorporated to facilitate sparse feature selection in MetaPCA.
-We apply MetaPCA and sparse MetaPCA to simulations, three transcriptomic
-meta-analysis studies in yeast cell cycle, prostate cancer, mouse
-metabolism, and a TCGA pan-cancer methylation study. The result shows
-improved accuracy, robustness and exploratory visualization of the
-proposed framework.
-
-<span>**Keywords**</span>. principal component analysis, meta-analysis,
-omics data
-
-References {#references .unnumbered}
-----------
-
-Flury (1984) *Common principal components in k groups.* Journal of the
-American Statistical Association, 79, 892–898.
-
-Krzanowski (1979) *Between-groups comparison of principal components.*
-Journal of the American Statistical Association, 74, 703–707
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
 ## Estimation Of Animal Density From Acoustic Detections {-}
@@ -1782,45 +1705,6 @@ of the proposed Bayesian approaches.
 
 <span>**Keywords**</span>. Bayesian variable selection, time series,
 universal grouping, segmentized grouping
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 Case Room 4 (260-009)</p>
-## Phylogenetic Tree-Based Microbiome Association Test {-}
-<p style="text-align:center">
-Sungho Won<br />
-Seoul National University<br />
-</p>
-<span>**Phylogenetic Tree-based Microbiome Association Test**</span>
-
-Sungho Won$^{1,2}$
-
-$^1 \;$ Department of Public Health Science, Seoul National University,
-Seoul, Korea
-
-$^2 \;$ Interdisciplinary Program for Bioinformatics, College of Natural
-Science, Seoul National University, Seoul
-
-<span>**Abstract**</span>. Microbial metagenomics data has large
-inter-subject variation and operational taxonomic units (OTU) for each
-species are usually very sparse. Because of these problems,
-non-parametric approaches such as Mann-Whitney U test and Wilcoxon
-rank-sum test have been utilized. However these approaches suffer from
-low statistical powers for association analyses and thus investigation
-on efficient statistical analyses is necessary. Main goal in my thesis
-is to propose phylogenetic Tree-based Microbiome Association Test (TMAT)
-for association analyses between microbiome abundances of each OTU and
-disease phenotype. Phylogenetic tree reveals similarity between
-different OTUs, and thus was used to provide TMAT. TMAT calculates score
-test statistics for each node and test statistics for all nodes are
-combined into a single statistics by minimum p-value or Fisher’s combing
-p-value method. TMAT was compared with existing methods with extensive
-simulations. Simulation studies show that TMAT preserves the nominal
-type-1 error and its statistical powers were usually much better than
-existing methods for considered scenarios. Furthermore it was applied to
-atopic diseases and found that community profiles of Enterococcus is
-associated.
-
-<span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
-Association Test
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
 ## Talk Data To Me {-}
@@ -2060,52 +1944,6 @@ curves are generally positive, when a Greek shock bursts, the Italian
 risk factor may be temporarily mitigated due to its relative stronger
 economy. The network model can be adapted with a time-varying parameter
 VAR to monitor evolving contributions of factors.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 Case Room 4 (260-009)</p>
-## Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series {-}
-<p style="text-align:center">
-Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
-^1^Boise State University<br />
-^2^Yonsei University<br />
-</p>
-<span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
-Time Series**</span>
-
-Kyungduk Ko$^1$ and Chul Eung Kim$^2$
-
-$^1 \;$ Department of Mathematics, Boise State University, Boise, ID
-83725, USA
-
-$^2 \;$ Department of Applied Statistics, Yeonsei University, Seoul,
-Korea
-
-<span>**Abstract**</span>. We consider a power transformation through
-the well-known Box-cox transformation to induce normality from
-non-Gaussian long memory processes and propose a Bayesian method to
-simultaneously estimate the transformation parameter and long memory
-parameter. To ease computational burdens due to the dense
-variance-covariance matrix of long memory time series, we base our
-statistical inference on the wavelet domain rather than the original
-data domain. For a joint estimation of the parameters of interest,
-posterior estimations are carried out via Markov chain Monte Carlo
-(MCMC). An application to German stock return data is presented.
-
-<span>**Keywords**</span>. Box-Cox transformation, Discrete wavelet
-transform, Long memory, MCMC, Normality
-
-References {#references .unnumbered}
-----------
-
-Dahlhaus, R. (1990). Efficient location and regression estimation for
-long range dependent regression models. *Annuals of Statistics*, 23,
-1029–1047.
-
-Ko, K. and Lee, J. (2008). Confidence intervals for long memory
-regressions. *Statistics and Probability Letters*, 78, 1894–1902.
-
-Lee, J. and Ko, K. (2007). One-way analysis of variance with long memory
-errors and its application to stock return data. *Applied Stochastic
-Models in Business and Industry*, **23**, 493–502.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 OGGB4 (260-073)</p>
 ## Robustness Of Temperature Reconstruction For Past 500 Years {-}
