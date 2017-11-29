@@ -1,13 +1,4 @@
-<span>**An Overview of the Correspondence Analysis Family**</span>
-
-Eric J. Beh$^1$
-
-$^1 \;$ School of Mathematical & Physical Sciences, University of
-Newcastle, Callaghan, NSW 2308, Australia
-
-<span>**Abstract**</span>.
-
-Correspondence analysis (CA) is well known to be a member of the family
+<span>**Abstract:**</span> Correspondence analysis (CA) is well known to be a member of the family
 of multivariate analysis techniques and is concerned with the
 visualisation of the association between two or more categorical
 variables. The classic texts of Greenacre (1984) and Lebart, Morineau
@@ -25,11 +16,10 @@ comprehensive list of members of the “family” which, now, number about
 50 members. I shall provide an overview of some of the popular, and
 not-so-popular, members of the CA family.
 
-<span>**Keywords**</span>. Correspondence analysis, Multiple CA, Family
+<span>**Keywords:**</span> Correspondence analysis, Multiple CA, Family
 of analyses
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Beh, E. J. and Lombardo, R. (2014). <span>*Correspondence Analysis:
 Theory, Practice and New Strategies*</span>. Chichester: Wiley.
