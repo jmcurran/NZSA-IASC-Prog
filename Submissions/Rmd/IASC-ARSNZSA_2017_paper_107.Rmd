@@ -1,6 +1,4 @@
-ABSTRACT
-
-As big data become more accessible with the boom of data analyzing
+<span>**Abstract:**</span> As big data become more accessible with the boom of data analyzing
 software, creating value through analytics has grown in demand. Dealing
 with large data sets in anomaly detection problems, accurate tagging of
 anomalies is oftentimes lacking and expensive. Unsupervised learning via
