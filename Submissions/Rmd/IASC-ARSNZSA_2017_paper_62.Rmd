@@ -1,11 +1,4 @@
-<span>**Random Search Global Optimization using Random Forests**</span>
-
-B. L. Robertson$^1$, C. J. Price$^1$ and M. Reale$^1$
-
-$^1 \;$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, NZ
-
-<span>**Abstract**</span>. The purpose of a global optimization
+<span>**Abstract:**</span> The purpose of a global optimization
 algorithm is to efficiently find an objective function’s global minimum.
 In this talk we consider bound constrained global optimization, where
 the search is performed in a box, denoted $\Omega$. The global
@@ -36,5 +29,5 @@ forest partition and sampling phases was an effective strategy for
 solving a variety of global optimization test problems. The authors are
 currently refining the method and extending the set of test problems.
 
-<span>**Keywords**</span>. Bound constrained optimization,
+<span>**Keywords:**</span> Bound constrained optimization,
 classification and regression trees (CART), stochastic optimization
