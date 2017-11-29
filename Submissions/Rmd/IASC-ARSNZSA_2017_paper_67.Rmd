@@ -1,17 +1,4 @@
-<span>**Geographically Weighted Principal Component Analysis for
-Spatio-temporal Statistical Dataset**</span>
-
-Narumasa Tsutsumida$^1$, Paul Harris$^2$, and Alexis Comber$^3$,
-
-$^1 \;$ Graduate School of Global Environmental Studies, Kyoto
-University, Sakyo, Kyoto 6068501, JAPAN
-
-$^2 \;$ Sustainable Agricultural Sciences, Rothamsted Research, North
-Wyke, Okehampton, Devon, EX20 2SB, UK
-
-$^3 \;$ School of Geography, University of Leeds, Leeds LS2 9JT, UK
-
-<span>**Abstract**</span>. Spatio-temporal statistical datasets are
+<span>**Abstract:**</span> Spatio-temporal statistical datasets are
 becoming widely available for social, ecomonic, and environmental
 researches, however it is often difficult to summarize it and undermine
 hidden spatial/temporal patterns due to its complexity. Geographically
@@ -26,11 +13,10 @@ As a case study we use annual goat population statistics across 341
 administrative units in Mongolia in 1990-2012, and show spatiotemporal
 variations in data, especially influenced by natural disasters.
 
-<span>**Keywords**</span>. Geographically weighted model,
+<span>**Keywords:**</span> Geographically weighted model,
 Spatio-temporal data, Parameter optimization
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tsutsumida N., P. Harris, , A. Comber. 2017. The Application of a
 Geographically Weighted Principal Component Analysis for Exploring
