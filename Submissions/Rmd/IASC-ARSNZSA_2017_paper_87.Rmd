@@ -1,12 +1,4 @@
-<span>**Symbolic data analytical approach to unauthorized-access
-logs**</span>
-
-Hiroyuki MINAMI and Masahiro MIZUTA
-
-Information Initiative Center, Hokkaido University, Sapporo 060-0811
-JAPAN
-
-<span>**Abstract**</span>. We have been annoyed by tons of unwilling
+<span>**Abstract:**</span>. We have been annoyed by tons of unwilling
 accesses in many Internet applications including SSH (Secure SHell)
 known as a typical remote access tool and E-mail delivery protocols. An
 attacked server put a report according to the configuration and the log
@@ -33,11 +25,10 @@ protect our Internet environment.
 We discuss how we get them and the interpretation appropriately through
 some practical examples.
 
-<span>**Keywords**</span>. Invalid network access, Firewall, Massive
+<span>**Keywords:**</span> Invalid network access, Firewall, Massive
 Data Analysis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Collins, M. (2014). *Network Security Through Data Analysis*. O’Reilly.
 
