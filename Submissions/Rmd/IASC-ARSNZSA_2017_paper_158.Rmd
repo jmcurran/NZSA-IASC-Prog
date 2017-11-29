@@ -1,20 +1,7 @@
-<span>**A smoothing filter modelling approach for time series**</span>
-
-Granville Tunnicliffe Wilson$^1$, Marco Reale$^2$ and John Haywood$^3$
-
-$^1 \;$ Department of Mathematics and Statistics, Lancaster University,
-Lancaster, LA1 4YF, UK
-
-$^2 \;$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, Private Bag 4800, New Zealand
-
-$^3 \;$ School of Mathematics and Statistics, Victoria University of
-Wellington, PO Box 600, Wellington 6140 New Zealand
-
-<span>**Abstract**</span>. We introduce different representations of a
+<span>**Abstract:**</span> We introduce different representations of a
 new model for time series based on repeated application of a filter to
 the original data. They can represent correlation structure to higher
 lags with fewer coefficients and they can provide a robust prediction at
 higher lead times.
 
-<span>**Keywords**</span>. Time series, smooting, parsimonious models
+<span>**Keywords:**</span> Time series, smooting, parsimonious models
