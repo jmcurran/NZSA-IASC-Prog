@@ -1,13 +1,4 @@
-<span>**Including covariate estimation error when predicting species
-distributions: a simulation exercise using Template Model
-Builder**</span>
-
-Andrea Havron$^1$ and Russell Millar$^1$
-
-$^1 \;$ Department of Statistics, University of Auckland, Auckland,
-1010, NZ
-
-<span>**Abstract**</span>. Ecological managers often require knowledge
+<span>**Abstract:**</span> Ecological managers often require knowledge
 about species distributions across a spatial region in order to
 facilitate best management practices. Statistical models are frequently
 used to infer relationships between species observations (eg. presence,
@@ -29,11 +20,10 @@ biomass for a spatial region. We intend to demonstrate this method and
 compare our predictions to those from a model where regional covariate
 information is supplied from a kriging model.
 
-<span>**Keywords**</span>. spatial model, predicting covariates,
+<span>**Keywords:**</span> spatial model, predicting covariates,
 Template Model Builder
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Kristensen, K.,Nielsen, A., Berg, C.W., Skuag, H. and Bell, B. (2015).
 TMB: Automatic Differentiation and Laplace Approximation. In: *Journal
