@@ -1961,6 +1961,14 @@ distribution free testing, *Bernoulli*, **22**, 563–588
 Nguyen, T.T.M., (2017). A new approach to distribution free tests in
 contingency tables, *Metrika*, **80**, 153–170
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
+## A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models {-}
+<p style="text-align:center">
+Li-Hsien Sun<br />
+National Central University<br />
+</p>
+<span>**Abstract:**</span> We study the non-standardized Student's *t*-distribution for fitting serially correlated observations where serial dependence is described by the copula-based Markov chain. Due to the computational difficulty of obtaining maximum likelihood estimates, alternatively, we develop Bayes inference using the empirical Bayes method through the resampling procedure. We provide the simulations to examine the performance and also analyze the stock price data in empirical studies for illustration. 
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
 ## Modified Gene Shaving Algorithm - A Dimension REduction And Clustering Method {-}
 <p style="text-align:center">

@@ -471,7 +471,7 @@
 <td class = "contributed">Computing Entropies With Nested Sampling<br/>Brendon Brewer</td>
 <td class = "contributed">Spline-Based Drift Models For High Temperature Operating Life Tests<br/>Thomas Nowak</td>
 <td class = "contributed">A New Approach To Distribution Free Tests In Contingency Tables<br/>Thuong Nguyen</td>
-<td class = "contributed"></td>
+<td class = "contributed">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models<br/>Li-Hsien Sun</td>
 <td class = "contributed">Modified Gene Shaving Algorithm - A Dimension Reduction And Clustering Method<br/>Donna Mae Santos</td>
 <td class = "contributed"></td>
 </tr>
