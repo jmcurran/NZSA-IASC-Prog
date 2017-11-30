@@ -1,11 +1,17 @@
 # Programme And Abstracts For Thursday 14^th^ Of December {-}
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Thursday 14<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## TBA-JB {-}
+## ALTREP: Alternate Representations Of Basic R Objects {-}
 <p style="text-align:center">
-Jenny Bryan<br />
-University of British Columbia<br />
+Luke Tierney<br />
+University of Iowa<br />
 </p>
-<span>**Abstract:**</span> TBA
+<span>**Abstract:**</span> The ALTREP provide framework provides infrastructure to support for
+alternate representations of basic R objects. Some examples include R
+vectors with data in memory-mapped files, compact representation of
+arithmetic sequences, deferred computations, and adding meta-data to
+objects. This talk will outline the framework, present some examples
+of its use, and describe the current state of incorporating the
+framework into the R distribution.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
 ## Penalized Vector Generalized Additive Models {-}
@@ -469,43 +475,6 @@ analysis. *Computational Statistics and Data Analysis*, **55**, 143–153.
 Mori, Y., Kuroda, M. and Makino, N. (2016). *Nonlinear principal
 component analysis and its Applications*. JSS Research Series in
 Statistics, Springer.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {-}
-<p style="text-align:center">
-Longcheen Huwang<br />
-National Tsing Hua University<br />
-</p>
-<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
-monitoring covariance matrix based on the dissimilarity index of two
-matrices. It is different from the conventional EWMA charts for
-monitoring covariance matrix which are either based on comparing the sum
-or product or both of the eigenvalues of the estimated EWMA covariance
-matrix with those of the IC covariance matrix. The proposed chart
-essentially monitors covariance matrix by comparing the individual
-eigenvalues of the estimated EWMA covariance matrix with those of the
-estimated covariance matrix from the IC phase I data. We evaluate the
-performance of the proposed chart by comparing it with the best existing
-chart under the multivariate normal process. Furthermore, to prevent the
-control limit of the proposed EMMA chart using the limited IC phase I
-data from having extensively excessive false alarms, we use a bootstrap
-method to adjust the control limit to guarantee that the proposed chart
-has the actual IC average run length not less than the nominal one with
-a certain probability. Finally, we use an example to demonstrate the
-applicability and implementation of the proposed chart.
-
-<span>**Keywords:**</span> Average run length, dissimilarity index,
-EWMA; out-of-control
-
-<span>**References:**</span>
-
-Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
-weighted moving covariance matrix. <span>*Technometrics*</span>,
-<span>**50**</span>, 155-166.
-
-Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
-monitoring based on dissimilarity of process data. <span>*AIChE
-Journal*</span>, <span>**48**</span>, 1231-1240.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}

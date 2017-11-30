@@ -1,9 +1,9 @@
 # Programme And Abstracts For Monday 11^th^ Of December {-}
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## TBA-LT {-}
+## TBA-SU {-}
 <p style="text-align:center">
-Luke Tierney<br />
-University of Iowa<br />
+Simon Urbanek<br />
+AT&amp;T Labs<br />
 </p>
 <span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>
@@ -816,10 +816,10 @@ Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
 criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
-## TBA-SU {-}
+## TBA-JB {-}
 <p style="text-align:center">
-Simon Urbanek<br />
-AT&amp;T Labs<br />
+Jenny Bryan<br />
+University of British Columbia<br />
 </p>
 <span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>

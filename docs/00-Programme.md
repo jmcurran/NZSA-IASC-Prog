@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6">TBA-LT<br/>Luke Tierney, University of Iowa, USA<br/>098 Lecture Theatre (260-098)</td>
+<td class = "keynote" colspan = "6">TBA-SU<br/>Simon Urbanek, AT&T Labs, USA<br/>098 Lecture Theatre (260-098)</td>
 </tr>
 <tr>
 <td class = "time">1000</td>
@@ -85,7 +85,7 @@
 </tr>
 <tr>
 <td class = "time">1320</td>
-<td class = "keynote" colspan = "6">TBA-SU<br/>Simon Urbanek, AT&T Labs, USA<br/>098 Lecture Theatre (260-098)</td>
+<td class = "keynote" colspan = "6">TBA-JB<br/>Jenny Bryan, University of British Columbia<br/>098 Lecture Theatre (260-098)</td>
 </tr>
 <tr>
 <td class = "time"></td>
@@ -191,7 +191,7 @@
 </tr>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6">Could Do Better &Hellip; A Report Card For Statistical Computing<br/>Ross Ihaka, University of Auckland<br/>098 Lecture Theatre (260-098)</td>
+<td class = "keynote" colspan = "6">Could Do Better &hellip; A Report Card For Statistical Computing<br/>Ross Ihaka, University of Auckland<br/>098 Lecture Theatre (260-098)</td>
 </tr>
 <tr>
 <td class = "time">1000</td>
@@ -237,7 +237,7 @@
 <td class = "time">1130</td>
 <td class = "contributed">Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset<br/>Narumasa Tsutsumida</td>
 <td class = "contributed">Dimensionality Reduction Of Multivariate Data For Bayesian Analysis<br/>Anjali Gupta</td>
-<td class = "contributed"></td>
+<td class = "contributed">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</td>
 <td class = "contributed">Adjusting For Linkage Bias In The Analysis Of Record-Linked Data<br/>Patrick Graham</td>
 <td class = "contributed">Bayesian Semiparametric Hierarchical Models For Longitudinal Data Analysis With Application To Dose-Response Studies<br/>Taeryon Choi</td>
 <td class = "contributed">Optimizing Junior Rugby Weight Limits<br/>Emma Campbell</td>
@@ -480,7 +480,7 @@
 <td class = "contributed"></td>
 <td class = "contributed">A Simple Method To Construct Confidence Bands In Functional Linear Regression<br/>Kengo Kato</td>
 <td class = "contributed">Separation Of Symmetry For Square Contingency Tables With Ordinal Categories<br/>Kouji Tahata</td>
-<td class = "contributed"></td>
+<td class = "contributed">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</td>
 <td class = "contributed">Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors<br/>Frances Claire San Juan</td>
 <td class = "contributed"></td>
 </tr>
@@ -503,7 +503,7 @@
 </tr>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6">TBA-JB<br/>Jenny Bryan, University of British Columbia<br/>098 Lecture Theatre (260-098)</td>
+<td class = "keynote" colspan = "6">ALTREP: Alternate Representations Of Basic R Objects<br/>Luke Tierney, University of Iowa, USA<br/>098 Lecture Theatre (260-098)</td>
 </tr>
 <tr>
 <td class = "time">1000</td>
@@ -540,7 +540,7 @@
 <td class = "time">1110</td>
 <td class = "contributed">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</td>
 <td class = "contributed">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</td>
-<td class = "contributed">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</td>
+<td class = "contributed"></td>
 <td class = "contributed">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</td>
 <td class = "contributed">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</td>
 <td class = "contributed">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</td>
@@ -549,7 +549,7 @@
 <td class = "time">1130</td>
 <td class = "contributed">Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models<br/>Yuichi Hirose</td>
 <td class = "contributed"></td>
-<td class = "contributed">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</td>
+<td class = "contributed"></td>
 <td class = "contributed"></td>
 <td class = "contributed">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</td>
 <td class = "contributed"></td>

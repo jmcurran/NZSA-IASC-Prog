@@ -1,6 +1,6 @@
 # Programme And Abstracts For Tuesday 12^th^ Of December {-}
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## Could Do Better &Hellip; A Report Card For Statistical Computing {-}
+## Could Do Better &hellip; A Report Card For Statistical Computing {-}
 <p style="text-align:center">
 Ross Ihaka and Brendon McArdle<br />
 University of Auckland<br />
@@ -655,6 +655,43 @@ quite common in high dimensional machine learning problems. In this
 talk, I will describe a study where we attempt to quantify the effects
 of this this approach on the resulting likelihood ratios using data
 obtained from SEM-EDX instrument.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 OGGB5 (260-051)</p>
+## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {-}
+<p style="text-align:center">
+Longcheen Huwang<br />
+National Tsing Hua University<br />
+</p>
+<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
+monitoring covariance matrix based on the dissimilarity index of two
+matrices. It is different from the conventional EWMA charts for
+monitoring covariance matrix which are either based on comparing the sum
+or product or both of the eigenvalues of the estimated EWMA covariance
+matrix with those of the IC covariance matrix. The proposed chart
+essentially monitors covariance matrix by comparing the individual
+eigenvalues of the estimated EWMA covariance matrix with those of the
+estimated covariance matrix from the IC phase I data. We evaluate the
+performance of the proposed chart by comparing it with the best existing
+chart under the multivariate normal process. Furthermore, to prevent the
+control limit of the proposed EMMA chart using the limited IC phase I
+data from having extensively excessive false alarms, we use a bootstrap
+method to adjust the control limit to guarantee that the proposed chart
+has the actual IC average run length not less than the nominal one with
+a certain probability. Finally, we use an example to demonstrate the
+applicability and implementation of the proposed chart.
+
+<span>**Keywords:**</span> Average run length, dissimilarity index,
+EWMA; out-of-control
+
+<span>**References:**</span>
+
+Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
+weighted moving covariance matrix. <span>*Technometrics*</span>,
+<span>**50**</span>, 155-166.
+
+Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
+monitoring based on dissimilarity of process data. <span>*AIChE
+Journal*</span>, <span>**48**</span>, 1231-1240.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
 ## Adjusting For Linkage Bias In The Analysis Of Record-Linked Data {-}

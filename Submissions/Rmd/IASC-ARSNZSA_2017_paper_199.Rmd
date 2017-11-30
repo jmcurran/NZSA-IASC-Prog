@@ -1,1 +1,7 @@
-<span>**Abstract:**</span> TBA
+<span>**Abstract:**</span> The ALTREP provide framework provides infrastructure to support for
+alternate representations of basic R objects. Some examples include R
+vectors with data in memory-mapped files, compact representation of
+arithmetic sequences, deferred computations, and adding meta-data to
+objects. This talk will outline the framework, present some examples
+of its use, and describe the current state of incorporating the
+framework into the R distribution.
