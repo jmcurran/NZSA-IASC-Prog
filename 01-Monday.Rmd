@@ -7,6 +7,38 @@ AT&amp;T Labs<br />
 </p>
 <span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
+## Robust Principal Expectile Component Analysis {-}
+<p style="text-align:center">
+Liang-Ching Lin^1^, Ray Bing Chen^1^, Mong-Na Lo Huang^2^, and Meihui Guo^2^<br />
+^1^National Cheng Kung University<br />
+^2^National Sun Yat-sen University<br />
+</p>
+<span>**Abstract:**</span> Principal component analysis (PCA) is widely
+used in dimensionality reduction for high-dimensional data. It
+identifies principal components by sequentially maximizing the component
+score variance around the mean. However, in many applications, one is
+interested in capturing the tail variations of the data rather than
+variation around the center. To capture the tail characteristics, Tran
+et al. (2016), based on an asymmetric $L_2$ norm, proposed principle
+expectile components (PECs). In this study, we introduce a new method
+called Huber-type principal expectile component (HPEC) using an
+asymmetric Huber norm to produce robust PECs. The statistical properties
+of HPECs are derived, and a derivative free optimization approach,
+particle swarm optimization (PSO), is used to find HPECs. As a
+demonstration, HPEC is applied to real and simulated data with
+encouraging results.
+
+<span>**Keywords:**</span> asymmetric norm, expectile, Huber’s
+criterion, particle swarm optimization, principle component
+
+<span>**References:**</span>
+
+Tran, N. M., Burdejová, P., Osipenko, M. and Hárdle, W. K. (2016).
+*Principal Component Analysis in an Asymmetric Norm.* SFB 649 Discussion
+Paper 2016-040, Sonderforschungsbereich 649, Humboldt Universitát zu
+Berlin, Germany.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 OGGB4 (260-073)</p>
 ## Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys {-}
 <p style="text-align:center">
@@ -142,6 +174,34 @@ Society for Information Science and Technology*, 46(1), 1–20.
 
 Soler, J. M. (2007). Separating the articles of authors with the same
 name. *Scientometrics*, 72(2), 281–290.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
+## A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing {-}
+<p style="text-align:center">
+Yu-Chung Wei^1^ and Guan-Hua Huang^2^<br />
+^1^Feng Chia University<br />
+^2^National Chiao Tung University<br />
+</p>
+<span>**Abstract:**</span> Copy number variations (CNVs) are genomic
+structural mutations with abnormal gene fragment copies. Current CNV
+detection algorithms for next generation sequencing (NGS) are developed
+for specific genome targets, including whole genome sequencing and
+targeted exome sequencing based on the differently data types and
+corresponding assumptions. Many whole genome tools assume the continuity
+of search space and reads uniform coverage across the genome. However,
+these assumptions break down in the exome capture because of
+discontinuous segments and exome specific functional biases. In order to
+develop a method adapting to both data types, we specify the large
+unconsidered genomic fragments as gaps to preserve the truly location
+information. A Bayesian hierarchical model was built and an efficient
+reversible jump Markov chain Monte Carlo inference algorithm was
+utilized to incorporate the gap information. The performance of gap
+settings for the Bayesian procedure was evaluated and compared with
+competing approaches using both simulations and real data.
+
+<span>**Keywords:**</span> Bayesian inference, Bioinformatics, copy
+number variation, next generation sequencing, reversible jump Markov
+chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 OGGB4 (260-073)</p>
 ## Clustering Using Nonparametric Mixtures And Mode Identification {-}
@@ -1500,34 +1560,6 @@ Rioul, O. and Vetterli, M. (1991). Wavelets and signal processing.
 
 Vogt, M., & Dette, H. (2015). Detecting gradual changes in locally
 stationary processes. The Annals of Statistics, 43(2), 713-740.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 Case Room 2 (260-057)</p>
-## A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing {-}
-<p style="text-align:center">
-Yu-Chung Wei^1^ and Guan-Hua Huang^2^<br />
-^1^Feng Chia University<br />
-^2^National Chiao Tung University<br />
-</p>
-<span>**Abstract:**</span> Copy number variations (CNVs) are genomic
-structural mutations with abnormal gene fragment copies. Current CNV
-detection algorithms for next generation sequencing (NGS) are developed
-for specific genome targets, including whole genome sequencing and
-targeted exome sequencing based on the differently data types and
-corresponding assumptions. Many whole genome tools assume the continuity
-of search space and reads uniform coverage across the genome. However,
-these assumptions break down in the exome capture because of
-discontinuous segments and exome specific functional biases. In order to
-develop a method adapting to both data types, we specify the large
-unconsidered genomic fragments as gaps to preserve the truly location
-information. A Bayesian hierarchical model was built and an efficient
-reversible jump Markov chain Monte Carlo inference algorithm was
-utilized to incorporate the gap information. The performance of gap
-settings for the Bayesian procedure was evaluated and compared with
-competing approaches using both simulations and real data.
-
-<span>**Keywords:**</span> Bayesian inference, Bioinformatics, copy
-number variation, next generation sequencing, reversible jump Markov
-chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 Case Room 3 (260-055)</p>
 ## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {-}

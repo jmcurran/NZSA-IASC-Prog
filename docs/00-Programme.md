@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td class = "time">1030</td>
-<td class = "contributed"></td>
+<td class = "contributed">Robust Principal Expectile Component Analysis<br/>Liang-Ching Lin</td>
 <td class = "contributed">Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys<br/>Andrew Adiguna Halim</td>
 <td class = "contributed">Calendar-Based Graphics For Visualising People's Daily Schedules<br/>Earo Wang</td>
 <td class = "contributed">Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract<br/>Paolo Victor Redondo</td>
@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td class = "time">1050</td>
-<td class = "contributed"></td>
+<td class = "contributed">A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing<br/>Yu-Chung Wei</td>
 <td class = "contributed">Clustering Using Nonparametric Mixtures And Mode Identification<br/>Shengwei Hu</td>
 <td class = "contributed">Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels<br/>Youngseon Lee</td>
 <td class = "contributed">Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency<br/>Erniel Barrios</td>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td class = "time">1110</td>
-<td class = "contributed"></td>
+<td class = "contributed">Estimating Links Of A Network From Time To Event Data Tso‐Jung Yen</td>
 <td class = "contributed">Estimation Of A High-Dimensional Covariance Matrix<br/>Xiangjie Xue</td>
 <td class = "contributed">Innovative Bayesian Estimation In The von Mises Distribution<br/>Yuta Kamiya</td>
 <td class = "contributed">Evidence Of Climate Change From Nonparametric Change-Point Analysis<br/>Angela Nalica</td>
@@ -128,7 +128,7 @@
 <td class = "contributed">Talk Data To Me<br/>Lisa Hall</td>
 <td class = "contributed">Smooth Nonparametric Regression Under Shape Restrictions<br/>Hongbin Guo</td>
 <td class = "contributed">Elastic-Band Transform: A New Approach To Multiscale Visualization<br/>Hee-Seok Oh</td>
-<td class = "contributed">A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing<br/>Yu-Chung Wei</td>
+<td class = "contributed"></td>
 <td class = "contributed">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</td>
 <td class = "contributed"></td>
 </tr>
@@ -361,7 +361,7 @@
 <td class = "contributed">Probabilistic Outlier Detection And Visualization Of Smart Meter Data<br/>Rob Hyndman</td>
 <td class = "contributed">The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach<br/>Thi Thu Huong Pham</td>
 <td class = "contributed">R – A Powerful Analysis Tool To Improve Official Statistics In Romania<br/>Nicoleta Caragea</td>
-<td class = "contributed">Robust Principal Expectile Component Analysis<br/>Liang-Ching Lin</td>
+<td class = "contributed">A Max-Type Multivariate Two-Sample Baumgartner Statistic<br/>Hidetoshi Murakami</td>
 <td class = "contributed">Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM<br/>Elizabeth Chou</td>
 </tr>
 <tr>
@@ -370,7 +370,7 @@
 <td class = "contributed">Specification Of GARCH Model Under Asymmetric Error Innovations<br/>Oyebimpe Adeniji</td>
 <td class = "contributed">Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models<br/>Shin Sato</td>
 <td class = "contributed">Statistical Disclosure Control With R: Traditional Methods And Synthetic Data<br/>Matthias Templ</td>
-<td class = "contributed">A Max-Type Multivariate Two-Sample Baumgartner Statistic<br/>Hidetoshi Murakami</td>
+<td class = "contributed">Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings<br/>Takahiro Nishiyama</td>
 <td class = "contributed">Deep Learning High-Dimensional Covariance Matrices<br/>Philip Yu</td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@
 <td class = "contributed">Empirical Comparison Of Some Algorithms For Automatic Univariate ARMA Modeling Using Rcmdrplugin.SPSS<br/>Dedi Rosadi</td>
 <td class = "contributed">Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation<br/>Toru Ogura</td>
 <td class = "contributed">Imputation Of The 2016 Economic Census For Business Activity In Japan<br/>Kazumi Wada</td>
-<td class = "contributed">Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings<br/>Takahiro Nishiyama</td>
+<td class = "contributed">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</td>
 <td class = "contributed">Applying Active Learning Procedure To Drug Consumption Data<br/>Yuan-Chin Chang</td>
 </tr>
 <tr>
@@ -388,7 +388,7 @@
 <td class = "contributed">R Package For New Two-Stage Methods In Forecasting Time Series With Multiple Seasonality<br/>Shubhabrata Das</td>
 <td class = "contributed"></td>
 <td class = "contributed">Analysis Of Official Microdata Using Secure Statistical Computation System<br/>Kiyomi Shirakawa</td>
-<td class = "contributed">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</td>
+<td class = "contributed"></td>
 <td class = "contributed">Presenting Flexi, A Statistical Program For Fitting Variance Models<br/>Martin Upsdell</td>
 </tr>
 <tr>
@@ -556,47 +556,11 @@
 </tr>
 <tr>
 <td class = "time">1200</td>
-<td class = "mealbreak" colspan = "6">Lunch (1 hour 10 minutes)</td>
-</tr>
-<tr>
-<td class = "time"></td>
-<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
-<td class = "sessionheader">OGGB4(260-073)</td>
-<td class = "sessionheader">OGGB5(260-051)</td>
-<td class = "sessionheader">Case Room 2(260-057)</td>
-<td class = "sessionheader">Case Room 3(260-055)</td>
-<td class = "sessionheader">Case Room 4(260-009)</td>
-</tr>
-<tr>
-<td class = "time">1310</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-</tr>
-<tr>
-<td class = "time">1330</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-</tr>
-<tr>
-<td class = "time">1350</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
-</tr>
-<tr>
-<td class = "time">1410</td>
 <td class = "confclose" colspan = "6">Closing Ceremony<br/>098 Lecture Theatre (260-098)</td>
+</tr>
+<tr>
+<td class = "time">1220</td>
+<td class = "mealbreak" colspan = "6">Lunch (1 hour 10 minutes)</td>
 </tr>
 </tbody>
 </table>
