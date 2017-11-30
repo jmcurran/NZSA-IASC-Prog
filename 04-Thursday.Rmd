@@ -39,6 +39,58 @@ O-splines, P-splines, Vector generalized additive models, VGAM R package
 Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
 an Implementation in R*. New York, USA: Springer.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB4 (260-073)</p>
+## A Package For Multiple Precision Floating-Point Computation On R {-}
+<p style="text-align:center">
+Ei-Ji Nakama^1^ and Junji Nakano^2^<br />
+^1^COM-ONE Ltd.<br />
+^2^Institute of Statistical Mathematics<br />
+</p>
+<span>**Abstract:**</span> As recent requirements for numerical
+computation performed by R become larger and more complicated, errors
+from floating-point arithmetic become problematic. In R, double
+precision floating-point arithmetic is usually performed, but it may not
+be adequate or precise for some situations. To avoid and detect errors
+of double precision floating-point arithmetic, multiple precision
+arithmetic is useful. Several multiple precision arithmetic packages
+exist on R, but their abilities are limited. Therefore we provide
+another multiple precision arithmetic package Rmpenv, which can handle
+multiple precision arithmetic for real and complex numbers, matrix
+product and inversion, etc. We also provide a syntactic sugar to make
+easy the multiple precision computation on R. We utilize a free and open
+source MPACK library for multiple precision arithmetic and linear
+algebra computation.
+
+<span>**Keywords:**</span> Double precision, floating-point arithmetic,
+MPACK
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB5 (260-051)</p>
+## Dissimilarities Between Groups Of Data {-}
+<p style="text-align:center">
+Nobuo Shimizu^1^, Junji Nakano^1^, and Yoshikazu Yamamoto^2^<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Tokushima Bunri University<br />
+</p>
+<span>**Abstract:**</span> We often have “big data” expressed by both
+continuous real variables and categorical variables. When their sizes
+are huge, it is almost impossible to see and check each individual data.
+Then we divide them into small number of groups which have clear domain
+meanings. We express each group by using information up to second order
+moments. For example, means, variances and covariances are used to
+summarize many continuous real variables, and a Burt matrix which
+consists of contingency tables by pairs of categorical variables are
+used to summarize many categorical variables. We call such a set of
+descriptive statistics “aggregated symbolic data (ASD)”.
+
+We here propose dissimilarities between two ASDs by utilizing
+pseudo-likelihood ratio test statistic and chi-squared test statistic.
+Former one is theoretically derived and the latter one is heuristically
+given. We adopt two dissimilarities for clustering districts in Tokyo by
+ASD derived from huge real estate data.
+
+<span>**Keywords:**</span> Aggregated symbolic data, Chi-squared test
+statistic, clustering, pseudo-likelihood ratio test statistic
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
 ## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {-}
 <p style="text-align:center">
@@ -111,6 +163,34 @@ Haji-Ali, A. L., Nobile, F. & Tempone, R. (2016). Multi-Index Monte
 Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
 767–806.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
+## Mobile Learning In Teaching Bioinformatics For Medical Doctors {-}
+<p style="text-align:center">
+Taerim Lee^1^ and Jung Jin Lee^2^<br />
+^1^Korea National Open University<br />
+^2^Soongsil University<br />
+</p>
+<span>**Abstract:**</span> This paper describes an implementation of mobile learning initiative in
+Bioinformatics Training & Education Center (BITEC) for medical doctors
+supported from Ministry of Welfare and Public Health Korea. This project
+was initiated by Dept. of Bioinformatics & Statistics KNOU and Dept. of
+Medical Informatics of SNU Medical College for training medical doctors.
+The high penetration rates of mobile phone subscriptions and the rapid
+growing of handheld users show that it is viable for making inroads
+towards the usage of mobile devices as an alternative learning mode for
+distance learning. The mobile learning initiative is aimed to encourage
+learning and interactions in distance learning communities aiming to
+bridge the transactional distances faced by the learners and adopt
+mobility as the key tool in Bioinformatics courses delivery. The BITEC
+m-Learning initiative focuses on introducing Bioinformatics using
+handheld devices to be made easily accessible through the use of mobile
+devices for ODL Bioinformatics learners who are very busy medical
+doctors in ubiquitous learning environment. The m-Learning approach is
+considered as a learning alternative to support distance learners mainly
+working doctors and medical researchers in Korea. This research paper
+discusses the implementation of the mobile e-Book approach which has
+better affordable, accessible and flexible educational media.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
 ## Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators {-}
 <p style="text-align:center">
@@ -146,6 +226,89 @@ Linear Mixed Models. In: *Statistical Science*, **28**, 135-167.
 Sun, Y., Zhang, W. and Tong, H. (2007). Estimation of the covariance
 matrix of random effects in longitudinal studies. In: *The Annals of
 Statistics*, **35**, 2795-2814.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB4 (260-073)</p>
+## An Incomplete-Data Fisher Scoring With An Acceleration Method {-}
+<p style="text-align:center">
+Keiji Takai<br />
+Kansai University<br />
+</p>
+<span>**Abstract:**</span> Incomplete data complicate conventional statistical analyses because the
+analyses presume complete data are always available. The primary problem
+is the complication of the parameter estimation. The parameter
+estimation is based on the observed-data log-likelihood function that
+consists of the sum of the logarithm of the marginalized likelihood with
+respect to the missing values, and thus the log-likelihood function
+becomes complicated to handle. The EM algorithm was proposed to make it
+easy to handle the log-likelihood function. However, the EM algorithm
+still has some problems that are often criticized (McLachlan and
+Krishnan, 2002); namely, slow convergence and unavailability of the
+standard error.
+
+In my talk, I propose an incomplete-data Fisher scoring (IFS) method
+with an acceleration method to overcome these problems. The IFS method
+takes a Newton-Raphson type iteration, but it produces exactly the
+identical sequence or an approximate sequence to the sequence produced
+by the EM algorithm. The notable feature of the IFS is that the IFS can
+accelerate itself by adjusting its steplength and can produce the
+standard error with the functions used only for the acceleration. The
+convergence rate is faster than the EM algorithm. In the talk, I provide
+the convergence theorem and practical examples.
+
+<span>**Keywords:**</span> Incomplete data, EM algorithm, Fisher
+scoring, acceleration method
+
+<span>**References:**</span>
+
+Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
+Characteristics and identification: Second Edition.* Cambridge:
+Cambridge University Press.
+
+McLachlan, G., and Krishnan, T. (2002). The EM algorithm and extensions,
+2nd Edition. Wiley.
+
+(ed.) Barnett, V., Payne, R. and Steiner, R. (1995). *Agricultural
+Sustainability: Economic, Environmental and Statistical Considerations*.
+Chichester: Wiley.
+
+Payne, R.W. (1997). *Algorithm AS314 Inversion of matrices Statistics*,
+**46**, 295–298.
+
+Payne, R.W. and Welham, S.J. (1990). A comparison of algorithms for
+combination of information in generally balanced designs. In:
+*COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
+Heidelberg: Physica-Verlag.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB5 (260-051)</p>
+## Interactive Visualization Of Aggregated Symbolic Data {-}
+<p style="text-align:center">
+Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
+^1^Tokushima Bunri University<br />
+^2^Institute of Statistical Mathematics<br />
+</p>
+<span>**Abstract:**</span> When we have new “big data”, the first step
+may be to visualize them. For visualizing continuous multivariate data,
+interactive parallel coordinate plot is known to be appropriate.
+However, the number of data is huge and some variables are categorical,
+a simple parallel coordinate plot is not available. We propose to divide
+big data into rather small groups and summarize them as aggregated
+symbolic data (ASD), and visualize them by triangular arranged parallel
+coordinate plots.
+
+We have developed a statistical graphics software for this purpose. Our
+software equips interactive operations such as selection and linked
+highlighting, and is written by Java, R, and big data processing
+technologies such as Apache Hadoop and Apache Spark.
+
+Aggregated symbolic data is a set of descriptive statistics calculated
+by up to second order moments of variables in each group. We also
+propose further summarization of ASD to describe characteristics of each
+variable and a pair of variables for visualizing the difference among
+ASDs. Real example data are visualized by our software and interpreted
+intuitively.
+
+<span>**Keywords:**</span> Apache Hadoop, Apache Spark, Parallel
+coordinate plot, Symbolic data analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
 ## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {-}
@@ -207,6 +370,31 @@ individual-level data analysis.
 study; Probabilistic model; Gibbs sampling; Heritability;
 Co-heritability
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
+## Towards An Informal Test For Goodness-Of-Fit {-}
+<p style="text-align:center">
+Anna Fergusson and Maxine Pfannkuch<br />
+University of Auckland<br />
+</p>
+<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
+visual fit of the model to data ’by eye’. Such approaches are
+problematic for Year 13 and undergraduate students and teachers from a
+pedagogical perspective as key aspects such as sample size, the number
+of categories and expected variation of sample proportions are difficult
+to consider. In formal tests for goodness-of-fit a test statistic is
+used in reference to its sampling distribution to decide if the model
+distribution can be rejected. In general, a numeric test statistic does
+not have an obvious graphical representation within the data itself.
+This talk presents a new informal goodness-of-fit test that uses a
+simulation-based modelling tool. Drawing on ideas from graphical
+inference, the proposed test does not use numerical test statistics but
+plots as test statistics. Comparisons of performance demonstrate that
+the proposed test leads to similar decisions about the fit of the model
+distribution as the chi square goodness-of-fit test. A research study
+with Year 13 teachers indicated that there could be pedagogical benefits
+of using this informal goodness-of-fit test in terms of introducing
+important modelling and hypothesis test concepts.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
 ## Selecting Generalised Linear Models Under Inequality Constraints {-}
 <p style="text-align:center">
@@ -243,6 +431,81 @@ simple order restriction. *Biometrika*, **86**, 141–152.
 Kuiper, R.M., Hoijtink, H., Silvapulle, M.J. (2011). An Akaike-type
 information criterion for model selection under inequality constraints.
 *Biometrika*, **98**, 495–501.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB4 (260-073)</p>
+## Improvement Of Computation For Nonlinear Multivariate Methods {-}
+<p style="text-align:center">
+Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
+^1^Okayama University of Science<br />
+^2^Okayama University<br />
+</p>
+<span>**Abstract:**</span> Nonlinear multivariate methods (NL-MM) using
+optimal scaling as a quantification technique can analyze any data
+including quantitative and qualitative variables. The alternating least
+squares (ALS) algorithm is the most popular iterative algorithm in
+NL-MM. While the algorithm has a stable convergence property, it
+requires many iterations and a large computational cost, especially for
+a large data set involving many qualitative variables, because its
+convergence is linear. It is therefore important to improve the speed of
+computation when NL-MM with the ALS algorithm is applied. Kuroda and his
+co-workers tried to accelerate the convergence of the ALS algorithm
+using the vector $\varepsilon$ (v$\varepsilon$) accelerator. In this
+talk, the v$\varepsilon$ acceleration for the ALS algorithm is
+implemented in NL-MM, e.g., nonlinear principal component analysis and
+nonlinear factor analysis, and the performances are demonstrated in
+numerical experiments.
+
+<span>**Keywords:**</span> Alternating least squares algorithm, Optimal
+scaling, Acceleration of convergence
+
+<span>**References:**</span>
+
+Gifi, A. (1990). *Nonlinear multivariate analysis*. Wiley.
+
+Kuroda, M., Mori, Y., Iizuka, M. and Sakakihara, M. (2011). Acceleration
+of the alternating least squares algorithm for principal components
+analysis. *Computational Statistics and Data Analysis*, **55**, 143–153.
+
+Mori, Y., Kuroda, M. and Makino, N. (2016). *Nonlinear principal
+component analysis and its Applications*. JSS Research Series in
+Statistics, Springer.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p>
+## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {-}
+<p style="text-align:center">
+Longcheen Huwang<br />
+National Tsing Hua University<br />
+</p>
+<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
+monitoring covariance matrix based on the dissimilarity index of two
+matrices. It is different from the conventional EWMA charts for
+monitoring covariance matrix which are either based on comparing the sum
+or product or both of the eigenvalues of the estimated EWMA covariance
+matrix with those of the IC covariance matrix. The proposed chart
+essentially monitors covariance matrix by comparing the individual
+eigenvalues of the estimated EWMA covariance matrix with those of the
+estimated covariance matrix from the IC phase I data. We evaluate the
+performance of the proposed chart by comparing it with the best existing
+chart under the multivariate normal process. Furthermore, to prevent the
+control limit of the proposed EMMA chart using the limited IC phase I
+data from having extensively excessive false alarms, we use a bootstrap
+method to adjust the control limit to guarantee that the proposed chart
+has the actual IC average run length not less than the nominal one with
+a certain probability. Finally, we use an example to demonstrate the
+applicability and implementation of the proposed chart.
+
+<span>**Keywords:**</span> Average run length, dissimilarity index,
+EWMA; out-of-control
+
+<span>**References:**</span>
+
+Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
+weighted moving covariance matrix. <span>*Technometrics*</span>,
+<span>**50**</span>, 155-166.
+
+Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
+monitoring based on dissimilarity of process data. <span>*AIChE
+Journal*</span>, <span>**48**</span>, 1231-1240.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}
@@ -304,6 +567,63 @@ estimation.
 
 <span>**Keywords:**</span> Feature selection, robust estimation,
 sequential method
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
+## Three-Dimensional Data Visualization Education With Virtual Reality {-}
+<p style="text-align:center">
+Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
+Pukyong National University<br />
+</p>
+<span>**Abstract:**</span> A variety of data visualization methods are
+utilizing to analyze huge amount of data. Among various methods, a
+three-dimensional image requires the rotation of the image to show
+stereo image on the two-dimensional screen. This study discusses data
+visualization education of two methods (static method and dynamic
+method) which make it possible to analyze the construct of stereo image
+to improve the restriction of the three-dimensional image display with
+virtual reality. This investigation can be useful to explore
+three-dimensional data structure more clearly.
+
+<span>**Keywords:**</span> Data visualization education, Virtual
+reality, Stereo image, R package
+
+<span>**References:**</span>
+
+Bowman, A. (2015). *rpanel*: Simple interactive controls for R using the
+tcltk library. R package version 1.1-3.
+
+Campos, M. M. (2007). Way Cooler: PCA and Visualization Linear Algebra
+in the Oracle Database 2,
+http://oracledmt.blogspot.kr/2007/06/way-cooler-pca-and-visualization-linear.html.
+
+Ligges, U. (2017). *scatterplot3d*: 3D Scatter Plot. R package version
+0.3-38.
+
+Murdoch, D. (2017). *rgl*: 3D Visualization Using OpenGL. R package
+version 0.97.0.
+
+Myers, R. H., Montgomery, D. C. and Anderson-Cook, C. M. (2016).
+*Response Surface Methodology: Process and Product Optimization Using
+Designed Experiments, 4th ed*, Wiley, New York.
+
+Ripley, B. (2016). *MASS*: Support Functions and Datasets for Venables
+and Ripley’s MASS. R package version 7.3-47.
+
+Sarkar, D. (2016). *lattice*: Trellis Graphics for R. R package version
+0.20-35.
+
+Soetaert, K. (2016). *plot3D*: Plotting Multi-Dimensional Data. R
+package version 1.1.
+
+Wolf, H. P. (2015). *aplpack*: Another Plot PACKage: stem.leaf, bagplot,
+faces, spin3R, plotsummary, plothulls, and some slider functions. R
+package version 1.3.0.
+
+http://astrostatistics.psu.edu/datasets/SDSS quasar.html.
+
+http://forbes.com/mlb valuations/list.
+
+http://gartner.com/newsroom/id/3412017.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
 ## Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models {-}
@@ -374,324 +694,4 @@ block structures*. Manuscript, submitted.
 Li, Y., Nan, B. and Zhu, J. (2015). *Multivariate sparse group lasso for
 the multivariate multiple linear regression with an arbitrary group
 structure.* *Biometrics* **71(2)**, 354–363.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 OGGB4 (260-073)</p>
-## Dissimilarities Between Groups Of Data {-}
-<p style="text-align:center">
-Nobuo Shimizu^1^, Junji Nakano^1^, and Yoshikazu Yamamoto^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Tokushima Bunri University<br />
-</p>
-<span>**Abstract:**</span> We often have “big data” expressed by both
-continuous real variables and categorical variables. When their sizes
-are huge, it is almost impossible to see and check each individual data.
-Then we divide them into small number of groups which have clear domain
-meanings. We express each group by using information up to second order
-moments. For example, means, variances and covariances are used to
-summarize many continuous real variables, and a Burt matrix which
-consists of contingency tables by pairs of categorical variables are
-used to summarize many categorical variables. We call such a set of
-descriptive statistics “aggregated symbolic data (ASD)”.
-
-We here propose dissimilarities between two ASDs by utilizing
-pseudo-likelihood ratio test statistic and chi-squared test statistic.
-Former one is theoretically derived and the latter one is heuristically
-given. We adopt two dissimilarities for clustering districts in Tokyo by
-ASD derived from huge real estate data.
-
-<span>**Keywords:**</span> Aggregated symbolic data, Chi-squared test
-statistic, clustering, pseudo-likelihood ratio test statistic
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 OGGB5 (260-051)</p>
-## A Package For Multiple Precision Floating-Point Computation On R {-}
-<p style="text-align:center">
-Ei-Ji Nakama^1^ and Junji Nakano^2^<br />
-^1^COM-ONE Ltd.<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Abstract:**</span> As recent requirements for numerical
-computation performed by R become larger and more complicated, errors
-from floating-point arithmetic become problematic. In R, double
-precision floating-point arithmetic is usually performed, but it may not
-be adequate or precise for some situations. To avoid and detect errors
-of double precision floating-point arithmetic, multiple precision
-arithmetic is useful. Several multiple precision arithmetic packages
-exist on R, but their abilities are limited. Therefore we provide
-another multiple precision arithmetic package Rmpenv, which can handle
-multiple precision arithmetic for real and complex numbers, matrix
-product and inversion, etc. We also provide a syntactic sugar to make
-easy the multiple precision computation on R. We utilize a free and open
-source MPACK library for multiple precision arithmetic and linear
-algebra computation.
-
-<span>**Keywords:**</span> Double precision, floating-point arithmetic,
-MPACK
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 Case Room 4 (260-009)</p>
-## Mobile Learning In Teaching Bioinformatics For Medical Doctors {-}
-<p style="text-align:center">
-Taerim Lee^1^ and Jung Jin Lee^2^<br />
-^1^Korea National Open University<br />
-^2^Soongsil University<br />
-</p>
-<span>**Abstract:**</span> This paper describes an implementation of mobile learning initiative in
-Bioinformatics Training & Education Center (BITEC) for medical doctors
-supported from Ministry of Welfare and Public Health Korea. This project
-was initiated by Dept. of Bioinformatics & Statistics KNOU and Dept. of
-Medical Informatics of SNU Medical College for training medical doctors.
-The high penetration rates of mobile phone subscriptions and the rapid
-growing of handheld users show that it is viable for making inroads
-towards the usage of mobile devices as an alternative learning mode for
-distance learning. The mobile learning initiative is aimed to encourage
-learning and interactions in distance learning communities aiming to
-bridge the transactional distances faced by the learners and adopt
-mobility as the key tool in Bioinformatics courses delivery. The BITEC
-m-Learning initiative focuses on introducing Bioinformatics using
-handheld devices to be made easily accessible through the use of mobile
-devices for ODL Bioinformatics learners who are very busy medical
-doctors in ubiquitous learning environment. The m-Learning approach is
-considered as a learning alternative to support distance learners mainly
-working doctors and medical researchers in Korea. This research paper
-discusses the implementation of the mobile e-Book approach which has
-better affordable, accessible and flexible educational media.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 OGGB4 (260-073)</p>
-## Interactive Visualization Of Aggregated Symbolic Data {-}
-<p style="text-align:center">
-Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
-^1^Tokushima Bunri University<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Abstract:**</span> When we have new “big data”, the first step
-may be to visualize them. For visualizing continuous multivariate data,
-interactive parallel coordinate plot is known to be appropriate.
-However, the number of data is huge and some variables are categorical,
-a simple parallel coordinate plot is not available. We propose to divide
-big data into rather small groups and summarize them as aggregated
-symbolic data (ASD), and visualize them by triangular arranged parallel
-coordinate plots.
-
-We have developed a statistical graphics software for this purpose. Our
-software equips interactive operations such as selection and linked
-highlighting, and is written by Java, R, and big data processing
-technologies such as Apache Hadoop and Apache Spark.
-
-Aggregated symbolic data is a set of descriptive statistics calculated
-by up to second order moments of variables in each group. We also
-propose further summarization of ASD to describe characteristics of each
-variable and a pair of variables for visualizing the difference among
-ASDs. Real example data are visualized by our software and interpreted
-intuitively.
-
-<span>**Keywords:**</span> Apache Hadoop, Apache Spark, Parallel
-coordinate plot, Symbolic data analysis
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 OGGB5 (260-051)</p>
-## An Incomplete-Data Fisher Scoring With An Acceleration Method {-}
-<p style="text-align:center">
-Keiji Takai<br />
-Kansai University<br />
-</p>
-<span>**Abstract:**</span> Incomplete data complicate conventional statistical analyses because the
-analyses presume complete data are always available. The primary problem
-is the complication of the parameter estimation. The parameter
-estimation is based on the observed-data log-likelihood function that
-consists of the sum of the logarithm of the marginalized likelihood with
-respect to the missing values, and thus the log-likelihood function
-becomes complicated to handle. The EM algorithm was proposed to make it
-easy to handle the log-likelihood function. However, the EM algorithm
-still has some problems that are often criticized (McLachlan and
-Krishnan, 2002); namely, slow convergence and unavailability of the
-standard error.
-
-In my talk, I propose an incomplete-data Fisher scoring (IFS) method
-with an acceleration method to overcome these problems. The IFS method
-takes a Newton-Raphson type iteration, but it produces exactly the
-identical sequence or an approximate sequence to the sequence produced
-by the EM algorithm. The notable feature of the IFS is that the IFS can
-accelerate itself by adjusting its steplength and can produce the
-standard error with the functions used only for the acceleration. The
-convergence rate is faster than the EM algorithm. In the talk, I provide
-the convergence theorem and practical examples.
-
-<span>**Keywords:**</span> Incomplete data, EM algorithm, Fisher
-scoring, acceleration method
-
-<span>**References:**</span>
-
-Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
-Characteristics and identification: Second Edition.* Cambridge:
-Cambridge University Press.
-
-McLachlan, G., and Krishnan, T. (2002). The EM algorithm and extensions,
-2nd Edition. Wiley.
-
-(ed.) Barnett, V., Payne, R. and Steiner, R. (1995). *Agricultural
-Sustainability: Economic, Environmental and Statistical Considerations*.
-Chichester: Wiley.
-
-Payne, R.W. (1997). *Algorithm AS314 Inversion of matrices Statistics*,
-**46**, 295–298.
-
-Payne, R.W. and Welham, S.J. (1990). A comparison of algorithms for
-combination of information in generally balanced designs. In:
-*COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
-Heidelberg: Physica-Verlag.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 4 (260-009)</p>
-## Towards An Informal Test For Goodness-Of-Fit {-}
-<p style="text-align:center">
-Anna Fergusson and Maxine Pfannkuch<br />
-University of Auckland<br />
-</p>
-<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
-visual fit of the model to data ’by eye’. Such approaches are
-problematic for Year 13 and undergraduate students and teachers from a
-pedagogical perspective as key aspects such as sample size, the number
-of categories and expected variation of sample proportions are difficult
-to consider. In formal tests for goodness-of-fit a test statistic is
-used in reference to its sampling distribution to decide if the model
-distribution can be rejected. In general, a numeric test statistic does
-not have an obvious graphical representation within the data itself.
-This talk presents a new informal goodness-of-fit test that uses a
-simulation-based modelling tool. Drawing on ideas from graphical
-inference, the proposed test does not use numerical test statistics but
-plots as test statistics. Comparisons of performance demonstrate that
-the proposed test leads to similar decisions about the fit of the model
-distribution as the chi square goodness-of-fit test. A research study
-with Year 13 teachers indicated that there could be pedagogical benefits
-of using this informal goodness-of-fit test in terms of introducing
-important modelling and hypothesis test concepts.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:50 OGGB4 (260-073)</p>
-## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {-}
-<p style="text-align:center">
-Longcheen Huwang<br />
-National Tsing Hua University<br />
-</p>
-<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
-monitoring covariance matrix based on the dissimilarity index of two
-matrices. It is different from the conventional EWMA charts for
-monitoring covariance matrix which are either based on comparing the sum
-or product or both of the eigenvalues of the estimated EWMA covariance
-matrix with those of the IC covariance matrix. The proposed chart
-essentially monitors covariance matrix by comparing the individual
-eigenvalues of the estimated EWMA covariance matrix with those of the
-estimated covariance matrix from the IC phase I data. We evaluate the
-performance of the proposed chart by comparing it with the best existing
-chart under the multivariate normal process. Furthermore, to prevent the
-control limit of the proposed EMMA chart using the limited IC phase I
-data from having extensively excessive false alarms, we use a bootstrap
-method to adjust the control limit to guarantee that the proposed chart
-has the actual IC average run length not less than the nominal one with
-a certain probability. Finally, we use an example to demonstrate the
-applicability and implementation of the proposed chart.
-
-<span>**Keywords:**</span> Average run length, dissimilarity index,
-EWMA; out-of-control
-
-<span>**References:**</span>
-
-Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
-weighted moving covariance matrix. <span>*Technometrics*</span>,
-<span>**50**</span>, 155-166.
-
-Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
-monitoring based on dissimilarity of process data. <span>*AIChE
-Journal*</span>, <span>**48**</span>, 1231-1240.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:50 OGGB5 (260-051)</p>
-## Improvement Of Computation For Nonlinear Multivariate Methods {-}
-<p style="text-align:center">
-Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
-^1^Okayama University of Science<br />
-^2^Okayama University<br />
-</p>
-<span>**Abstract:**</span> Nonlinear multivariate methods (NL-MM) using
-optimal scaling as a quantification technique can analyze any data
-including quantitative and qualitative variables. The alternating least
-squares (ALS) algorithm is the most popular iterative algorithm in
-NL-MM. While the algorithm has a stable convergence property, it
-requires many iterations and a large computational cost, especially for
-a large data set involving many qualitative variables, because its
-convergence is linear. It is therefore important to improve the speed of
-computation when NL-MM with the ALS algorithm is applied. Kuroda and his
-co-workers tried to accelerate the convergence of the ALS algorithm
-using the vector $\varepsilon$ (v$\varepsilon$) accelerator. In this
-talk, the v$\varepsilon$ acceleration for the ALS algorithm is
-implemented in NL-MM, e.g., nonlinear principal component analysis and
-nonlinear factor analysis, and the performances are demonstrated in
-numerical experiments.
-
-<span>**Keywords:**</span> Alternating least squares algorithm, Optimal
-scaling, Acceleration of convergence
-
-<span>**References:**</span>
-
-Gifi, A. (1990). *Nonlinear multivariate analysis*. Wiley.
-
-Kuroda, M., Mori, Y., Iizuka, M. and Sakakihara, M. (2011). Acceleration
-of the alternating least squares algorithm for principal components
-analysis. *Computational Statistics and Data Analysis*, **55**, 143–153.
-
-Mori, Y., Kuroda, M. and Makino, N. (2016). *Nonlinear principal
-component analysis and its Applications*. JSS Research Series in
-Statistics, Springer.
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:50 Case Room 4 (260-009)</p>
-## Three-Dimensional Data Visualization Education With Virtual Reality {-}
-<p style="text-align:center">
-Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
-Pukyong National University<br />
-</p>
-<span>**Abstract:**</span> A variety of data visualization methods are
-utilizing to analyze huge amount of data. Among various methods, a
-three-dimensional image requires the rotation of the image to show
-stereo image on the two-dimensional screen. This study discusses data
-visualization education of two methods (static method and dynamic
-method) which make it possible to analyze the construct of stereo image
-to improve the restriction of the three-dimensional image display with
-virtual reality. This investigation can be useful to explore
-three-dimensional data structure more clearly.
-
-<span>**Keywords:**</span> Data visualization education, Virtual
-reality, Stereo image, R package
-
-<span>**References:**</span>
-
-Bowman, A. (2015). *rpanel*: Simple interactive controls for R using the
-tcltk library. R package version 1.1-3.
-
-Campos, M. M. (2007). Way Cooler: PCA and Visualization Linear Algebra
-in the Oracle Database 2,
-http://oracledmt.blogspot.kr/2007/06/way-cooler-pca-and-visualization-linear.html.
-
-Ligges, U. (2017). *scatterplot3d*: 3D Scatter Plot. R package version
-0.3-38.
-
-Murdoch, D. (2017). *rgl*: 3D Visualization Using OpenGL. R package
-version 0.97.0.
-
-Myers, R. H., Montgomery, D. C. and Anderson-Cook, C. M. (2016).
-*Response Surface Methodology: Process and Product Optimization Using
-Designed Experiments, 4th ed*, Wiley, New York.
-
-Ripley, B. (2016). *MASS*: Support Functions and Datasets for Venables
-and Ripley’s MASS. R package version 7.3-47.
-
-Sarkar, D. (2016). *lattice*: Trellis Graphics for R. R package version
-0.20-35.
-
-Soetaert, K. (2016). *plot3D*: Plotting Multi-Dimensional Data. R
-package version 1.1.
-
-Wolf, H. P. (2015). *aplpack*: Another Plot PACKage: stem.leaf, bagplot,
-faces, spin3R, plotsummary, plothulls, and some slider functions. R
-package version 1.3.0.
-
-http://astrostatistics.psu.edu/datasets/SDSS quasar.html.
-
-http://forbes.com/mlb valuations/list.
-
-http://gartner.com/newsroom/id/3412017.
 <p class="pagebreak"></p>

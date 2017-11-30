@@ -521,35 +521,35 @@
 <tr>
 <td class = "time">1030</td>
 <td class = "contributed">Penalized Vector Generalized Additive Models<br/>Thomas Yee</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
+<td class = "contributed">A Package For Multiple Precision Floating-Point Computation On R<br/>Junji Nakano</td>
+<td class = "contributed">Dissimilarities Between Groups Of Data<br/>Nobuo Shimizu</td>
 <td class = "contributed">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</td>
 <td class = "contributed">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</td>
-<td class = "contributed"></td>
+<td class = "contributed">Mobile Learning In Teaching Bioinformatics For Medical Doctors<br/>Taerim Lee and Jung Jin Lee</td>
 </tr>
 <tr>
 <td class = "time">1050</td>
 <td class = "contributed">Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators<br/>Chihhao Chang</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
+<td class = "contributed">An Incomplete-Data Fisher Scoring With An Acceleration Method<br/>Keiji Takai</td>
+<td class = "contributed">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</td>
 <td class = "contributed">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</td>
 <td class = "contributed">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</td>
-<td class = "contributed"></td>
+<td class = "contributed">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</td>
 </tr>
 <tr>
 <td class = "time">1110</td>
 <td class = "contributed">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</td>
-<td class = "contributed"></td>
-<td class = "contributed"></td>
+<td class = "contributed">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</td>
+<td class = "contributed">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</td>
 <td class = "contributed">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</td>
 <td class = "contributed">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</td>
-<td class = "contributed"></td>
+<td class = "contributed">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</td>
 </tr>
 <tr>
 <td class = "time">1130</td>
 <td class = "contributed">Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models<br/>Yuichi Hirose</td>
 <td class = "contributed"></td>
-<td class = "contributed"></td>
+<td class = "contributed">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</td>
 <td class = "contributed"></td>
 <td class = "contributed">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</td>
 <td class = "contributed"></td>
@@ -570,29 +570,29 @@
 <tr>
 <td class = "time">1310</td>
 <td class = "contributed"></td>
-<td class = "contributed">Dissimilarities Between Groups Of Data<br/>Nobuo Shimizu</td>
-<td class = "contributed">A Package For Multiple Precision Floating-Point Computation On R<br/>Junji Nakano</td>
-<td class = "contributed">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</td>
 <td class = "contributed"></td>
-<td class = "contributed">Mobile Learning In Teaching Bioinformatics For Medical Doctors<br/>Taerim Lee and Jung Jin Lee</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1330</td>
 <td class = "contributed"></td>
-<td class = "contributed">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</td>
-<td class = "contributed">An Incomplete-Data Fisher Scoring With An Acceleration Method<br/>Keiji Takai</td>
 <td class = "contributed"></td>
 <td class = "contributed"></td>
-<td class = "contributed">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1350</td>
 <td class = "contributed"></td>
-<td class = "contributed">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</td>
-<td class = "contributed">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</td>
 <td class = "contributed"></td>
 <td class = "contributed"></td>
-<td class = "contributed">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1410</td>
