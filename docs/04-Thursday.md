@@ -14,15 +14,7 @@ Thomas Yee^1^, Chanatda Somchit^2^, and Chris Wild^1^<br />
 ^1^University of Auckland<br />
 ^2^University of Phayao<br />
 </p>
-<span>**Penalized Vector Generalized Additive Models**</span>
-
-T. W. Yee$^1$ and C. Somchit$^2$ and C. J. Wild$^1$
-
-$^1 \;$ Department of Statistics, University of Auckland, New Zealand
-
-$^2 \;$ Phayao University, Thailand
-
-<span>**Abstract**</span>. Over the last two decades generalized
+<span>**Abstract:**</span> Over the last two decades generalized
 additive models (GAMs) have become an indispensible tool for modern data
 analysis and regression. First-generation GAMs as developed by Hastie
 and Tibshirani are based on backfitting (e.g., the `gam` R package).
@@ -39,11 +31,10 @@ automatic smoothing parameter selection based on optimizing a predictive
 quantity such as generalized cross validation can be very useful. The
 speaker’s `VGAM` package implementation will be described.
 
-<span>**Keywords**</span>. Automatic smoothing parameter selection,
+<span>**Keywords:**</span> Automatic smoothing parameter selection,
 O-splines, P-splines, Vector generalized additive models, VGAM R package
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
 an Implementation in R*. New York, USA: Springer.
@@ -54,18 +45,7 @@ an Implementation in R*. New York, USA: Springer.
 Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
 Hokkaido University<br />
 </p>
-<span>**Meta-analysis with symbolic data analysis and its application
-for clinical data**</span>
-
-Ryo Takagi$^1$, Hiroyuki Minami$^2$, and Masahiro Mizuta$^2$
-
-$^1 \;$ Graduate School of Information Science and Technology, Hokkaido
-University
-
-$^2 \;$ Laboratory of Advanced Data Science, Information Initiative
-Center, Hokkaido University
-
-<span>**Abstract**</span>. We discuss a method of meta-analysis based on
+<span>**Abstract:**</span> We discuss a method of meta-analysis based on
 symbolic data analysis (SDA). Meta-analysis, mainly used in social and
 medical science, is a statistical method of combining scientific studies
 to obtain quantitative results and provides a high level of evidence.
@@ -79,11 +59,10 @@ meta-analysis. In this study, we propose a new approach based on SDA for
 meta-analysis and show the results of the proposed approach using
 clinical datasets.
 
-<span>**Keywords**</span>. symbolic clustering, symbolic MDS, concept in
+<span>**Keywords:**</span> symbolic clustering, symbolic MDS, concept in
 SDA
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Edwin Diday and Monique Noirhomme-Fraiture. (2008). *Symbolic data
 analysis and the SODAS software.* John Wiley & Sons, Ltd.
@@ -98,15 +77,7 @@ Karger Publishers.
 Yaxian Xu and Ajay Jasra<br />
 National University of Singapore<br />
 </p>
-<span>**Bayesian Static Parameter Inference for Partially Observed
-Stochastic Systems**</span>
-
-YAXIAN XU$^1$ and AJAY JASRA$^1$
-
-$^1 \;$ Department of Statistics & Applied Probability, National
-University of Singapore, Singapore, 117546, SG.
-
-<span>**Abstract**</span>. We consider Bayesian static parameter
+<span>**Abstract:**</span> We consider Bayesian static parameter
 estimation for partially observed stochastic systems with discrete-time
 observations. This is a very important problem, but is very
 computationally challenging as the associated posterior distributions
@@ -127,11 +98,10 @@ parameter and hidden space and then correcting by an importance sampling
 method. Our method is illustrated numerically to be preferable for
 inference of parameters for a partially observed SPDE.
 
-<span>**Keywords**</span>. Multi-index Monte Carlo, Markov chain Monte
+<span>**Keywords:**</span> Multi-index Monte Carlo, Markov chain Monte
 Carlo, stochastic partial differential equations
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Christophe Andrieu, Arnaud Doucet, and Roman Holenstein. (2010).
 Particle markov chain monte carlo methods. *Journal of the Royal
@@ -147,19 +117,7 @@ Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
 Chihhao Chang<br />
 National University of Kaohsiung<br />
 </p>
-<span>**Consistency of Linear Mixed-Effects Model Selection with
-Inconsistent Covariance Parameter Estimators**</span>
-
-ChihHao Chang$^1$, HsinCheng Huang$^2$ and ChingKang Ing$^3$
-
-$^1 \;$ Institute of Statistics, National University of Kaohsiung,
-Taiwan
-
-$^2 \;$ Institute of Statistical Science, Academia Sinica, Taiwan
-
-$^3 \;$ Institute of Statistics, National Tsing Hua Univeristy, Taiwan
-
-<span>**Abstract**</span>. For linear mixed-effects models with data
+<span>**Abstract:**</span> For linear mixed-effects models with data
 collected within one cluster, the maximum likelihood estimators of
 covariance parameters cannot be estimated consistently. Hence the
 asymptotic behaviors of likelihood-based information criteria, such as
@@ -173,8 +131,7 @@ covariance parameters when the number of clusters is fixed. Furthermore,
 the asymptotic behaviors of the generalized information criterion, which
 includes AIC as special cases, are well studied in our research.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Fan, Y. and Li, R. (2012). Variable selection in linear mixed effects
 models. In: *The Annals of Statistics*, **40**, 2043 - 2068.
@@ -196,15 +153,7 @@ Statistics*, **35**, 2795-2814.
 Hirohito Sakurai and Masaaki Taguri<br />
 National Center for University Entrance Examinations<br />
 </p>
-<span>**Comparison of Tests of Mean Difference in Longitudinal Data
-Based on Block Resampling Methods**</span>
-
-Hirohito Sakurai$^1$ and Masaaki Taguri$^1$
-
-$^1 \;$ National Center for University Entrance Examinations, Tokyo
-153-8501, Japan
-
-<span>**Abstract**</span>. Let us consider a two-sample problem in
+<span>**Abstract:**</span> Let us consider a two-sample problem in
 longitudinal data, and discuss comparison of tests of mean difference
 using block resampling methods. The testing methods are based on moving
 block bootstrap (MBB), circular block bootstrap (CBB) and stationary
@@ -224,12 +173,11 @@ to permutation analogy for MBB, CBB and SB, with $T_1$, $T_2$, $T_3$ and
 $S_n$, respectively. Monte Carlo simulations are carried out to examine
 the empirical level and power of the testing methods.
 
-<span>**Keywords**</span>. moving block bootstrap, circular block
+<span>**Keywords:**</span> moving block bootstrap, circular block
 bootstrap, stationary bootstrap, with/without replacement, empirical
 level/power
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lahiri, S. N. (2003). *Resampling Methods for Dependent Data*. New York:
 Springer.
@@ -241,19 +189,7 @@ Jin Liu^1^ and Can Yang^2^<br />
 ^1^Duke-NUS Medical School<br />
 ^2^Hong Kong University of Science and Technology<br />
 </p>
-<span>**SSREM: A Summary-Statistics-based Random Effect Model to
-Estimating heritability, co-heritability and effect sizes in GWAS data
-analysis**</span>
-
-Can Yang$^1$ and Jin Liu$^{*2}$
-
-$^1 \;$ Department of Mathematics, Hong Kong University of Science and
-Technology, Hong Kong.
-
-$^{*2} \;$ Center for Quantitative Medicine, Duke-NUS Medical School,
-Singapore
-
-<span>**Abstract**</span>. Most existing methods for GWAS data analysis
+<span>**Abstract:**</span> Most existing methods for GWAS data analysis
 require individual-level genotype data as their input. However, it is
 often not easy to get access to individual-level data, due to many
 practical issues, such as privacy protection and disagreement on
@@ -267,9 +203,9 @@ genome-wide-scale datasets. Our analysis results suggest that
 summary-statistics-based analysis can achieve comparable performance to
 individual-level data analysis.
 
-<span>**Keywords**</span>. Summary statistics; Genome-wide association
+<span>**Keywords:**</span> Summary statistics; Genome-wide association
 study; Probabilistic model; Gibbs sampling; Heritability;
-Co-heritability.
+Co-heritability
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
 ## Selecting Generalised Linear Models Under Inequality Constraints {-}
@@ -277,15 +213,7 @@ Co-heritability.
 Daniel Gerhard<br />
 University of Canterbury<br />
 </p>
-<span>**Selecting Generalised Linear Models Under Inequality
-Constraints**</span>
-
-Daniel Gerhard
-
-School of Mathematics & Statistics, University of Canterbury,
-Christchurch, NZ
-
-<span>**Abstract**</span>. Model selection by information criteria can
+<span>**Abstract:**</span> Model selection by information criteria can
 be used to identify a single best model or for inference based on
 weighted support from a set of competing models, incorporating model
 selection uncertainty into parameter estimates and estimates of
@@ -305,10 +233,9 @@ distribution of the exponential family for the response. The methodology
 is illustrated using the open source environment R with the add-on
 package `goric`.
 
-<span>**Keywords**</span>. Model selection, Order-restriction, GLM
+<span>**Keywords:**</span> Model selection, Order-restriction, GLM
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Anraku, K. (1999). An information criterion for parameters under a
 simple order restriction. *Biometrika*, **86**, 141–152.
@@ -323,15 +250,7 @@ information criterion for model selection under inequality constraints.
 Wataru Sakamoto<br />
 Okayama University<br />
 </p>
-<span>**Analysis of Spatial Data with a Gaussian Mixture Markov Random
-Field Model** </span>
-
-Wataru Sakamoto
-
-Graduate School of Environmental and Life Science, Okayama University,
-700-8530, Japan
-
-<span>**Abstract**</span>. In spatial data, detecting regions with
+<span>**Abstract:**</span> In spatial data, detecting regions with
 higher relative risk is of primary interest. A latent Markov random
 field model with Gaussian mixture component is introduced, in which the
 probit or the logit of the mixture weight for each location follows a
@@ -346,11 +265,10 @@ spatial structure. Our computation was conducted with R Stan package, in
 which the Hamiltonian Monte Carlo method is implemented. Some
 applications to disease mapping data are illustrated.
 
-<span>**Keywords**</span>. Bayesian modeling, spatial cluster detection,
+<span>**Keywords:**</span> Bayesian modeling, spatial cluster detection,
 spatial correlation
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Fernández, C. and Green, P. J. (2002). Modelling spatially correlated
 data via mixtures: a Bayesian approach. *J. Roy. Statist. Soc. B*,
@@ -370,18 +288,7 @@ Shan Luo^1^ and Zehua Chen^2^<br />
 ^1^National University of Singapore<br />
 ^2^Shanghai Jiao Tong University<br />
 </p>
-<span>**Forward selection in regression models based on robust
-estimation**</span>
-
-Shan Luo$^1$ and Zehua Chen$^2$
-
-$^1 \;$ Department of Statistics, School of Mathematical Sciences,
-Shanghai Jiao Tong University, Shanghai 200240, China
-
-$^2 \;$ Department of Statistics and Applied Probability, National
-University of Singapore, Singapore 117546, Singapore
-
-<span>**Abstract**</span>. For the purpose of feature selection in
+<span>**Abstract:**</span> For the purpose of feature selection in
 ultra-high dimensional regression models, it is required that a sequence
 of candidate models and a criterion to select the “best” model from them
 are available. Under different scenarios, various methods have been
@@ -395,8 +302,8 @@ extended to complex models other than the linear regression model. In
 this paper, we propose a new feature selection method based on robust
 estimation.
 
-<span>**Keywords**</span>. Feature selection, robust estimation,
-sequential method.
+<span>**Keywords:**</span> Feature selection, robust estimation,
+sequential method
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
 ## Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models {-}
@@ -404,30 +311,18 @@ sequential method.
 Yuichi Hirose and Ivy Liu<br />
 Victoria University of Wellington<br />
 </p>
-<span>**Statistical generalized derivative applied to the profile
-likelihood estimation in a mixture of semiparametric models**</span>
-
-Yuichi Hirose$^1$ and Ivy Liu$^2$
-
-$^1 \;$ School of Mathematics and Statistics, Victoria University of
-Wellington
-
-$^2 \;$ School of Mathematics and Statistics, Victoria University of
-Wellington
-
-<span>**Abstract**</span>. There is a difficulty in finding an estimate
+<span>**Abstract:**</span> There is a difficulty in finding an estimate
 of variance of the profile likelihood estimator in the joint model of
 longitudinal and survival data. We solve the difficulty by introducing
 the “statistical generalized derivative”. The derivative is used to show
 the asymptotic normality of the estimator without assuming the second
 derivative of the density function in the model exists.
 
-<span>**Keywords**</span>. Efficiency, Efficient information bound,
+<span>**Keywords:**</span> Efficiency, Efficient information bound,
 Efficient score, Implicitly defined function, Profile likelihood,
 Semi-parametric model, Joint model, EM algorithm, Mixture model
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Hsieh, F., Tseng, Y.K. and Wang, J.L. (2006). *Joint modeling of
 survival and longitudinal data: likelihood approach revisited.*
@@ -449,18 +344,7 @@ Zehua Chen^1^ and Shan Luo^2^<br />
 ^1^National University of Singapore<br />
 ^2^Shanghai Jiao Tong University<br />
 </p>
-<span>**Feature selection in high-dimensional models with complex block
-structures**</span>
-
-Zehua Chen${}^1$ and Shan Luo${}^2$
-
-${}^1$ Department of Statistics & Applied Probability, NUS, 6 Science
-Drive 2, Singapore 117546
-
-${}^2$ Department of Mathematics, Shanghai Jiaotong University,
-Shanghai, P. R. China
-
-<span>**Abstract**</span>. We consider feature selection in multivariate
+<span>**Abstract:**</span> We consider feature selection in multivariate
 regression models where the response variables as well as the covariates
 are high-dimensional and both have intrinsic group structures. The
 models arise naturally in many biology studies for detecting
@@ -478,11 +362,10 @@ possesses the property of selection consistency. Compared with a group
 penalization approach, our method is more accurate and demands much less
 computation.
 
-<span>**Keywords**</span>. Canonical correlation, correlation principle,
+<span>**Keywords:**</span> Canonical correlation, correlation principle,
 grouped data, simultaneous feature selection, selection consistency
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Luo, S., and Chen, Z. (2017). *Sequential group feature selection by
 correlation principle in sparse high-dimensional models with complex
@@ -499,17 +382,7 @@ Nobuo Shimizu^1^, Junji Nakano^1^, and Yoshikazu Yamamoto^2^<br />
 ^1^Institute of Statistical Mathematics<br />
 ^2^Tokushima Bunri University<br />
 </p>
-<span>**Dissimilarities between groups of data**</span>
-
-Nobuo SHIMIZU$^1$, Junji NAKANO$^1$ and Yoshikazu YAMAMOTO$^2$
-
-$^1 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-$^2 \;$ Tokushima Bunri University, 1314-1 Shido, Sanuki-city, Kagawa
-769-2193, Japan
-
-<span>**Abstract**</span>. We often have “big data” expressed by both
+<span>**Abstract:**</span> We often have “big data” expressed by both
 continuous real variables and categorical variables. When their sizes
 are huge, it is almost impossible to see and check each individual data.
 Then we divide them into small number of groups which have clear domain
@@ -526,7 +399,7 @@ Former one is theoretically derived and the latter one is heuristically
 given. We adopt two dissimilarities for clustering districts in Tokyo by
 ASD derived from huge real estate data.
 
-<span>**Keywords**</span>. Aggregated symbolic data, Chi-squared test
+<span>**Keywords:**</span> Aggregated symbolic data, Chi-squared test
 statistic, clustering, pseudo-likelihood ratio test statistic
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 OGGB5 (260-051)</p>
@@ -536,18 +409,7 @@ Ei-Ji Nakama^1^ and Junji Nakano^2^<br />
 ^1^COM-ONE Ltd.<br />
 ^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**A package for multiple precision floating-point computation on
-R**</span>
-
-Ei-ji NAKAMA$^1$ and Junji NAKANO$^2$
-
-$^1 \;$ COM-ONE Ltd., 2-5-1 Asahidai, Nomi-city, Ishikawa 923-1211,
-Japan
-
-$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-<span>**Abstract**</span>. As recent requirements for numerical
+<span>**Abstract:**</span> As recent requirements for numerical
 computation performed by R become larger and more complicated, errors
 from floating-point arithmetic become problematic. In R, double
 precision floating-point arithmetic is usually performed, but it may not
@@ -562,7 +424,7 @@ easy the multiple precision computation on R. We utilize a free and open
 source MPACK library for multiple precision arithmetic and linear
 algebra computation.
 
-<span>**Keywords**</span>. Double precision, floating-point arithmetic,
+<span>**Keywords:**</span> Double precision, floating-point arithmetic,
 MPACK
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 Case Room 4 (260-009)</p>
@@ -571,8 +433,7 @@ MPACK
 Taerim Lee<br />
 Korea National Open University<br />
 </p>
-<span>**Abstract**</span>
-This paper describes an implementation of mobile learning initiative in
+<span>**Abstract:**</span> This paper describes an implementation of mobile learning initiative in
 Bioinformatics Training & Education Center (BITEC) for medical doctors
 supported from Ministry of Welfare and Public Health Korea. This project
 was initiated by Dept. of Bioinformatics & Statistics KNOU and Dept. of
@@ -600,17 +461,7 @@ Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
 ^1^Institute of Statistical Mathematics<br />
 ^2^Tokushima Bunri University<br />
 </p>
-<span>**Interactive visualization of aggregated symbolic data**</span>
-
-Yoshikazu YAMAMOTO$^1$ , Junji NAKANO$^2$ and Nobuo SHIMIZU$^2$
-
-$^1 \;$ Tokushima Bunri University, 1314-1 Shido, Sanuki-city, Kagawa
-769-2193, Japan
-
-$^2 \;$ The Institute of Statistical Mathematics, 10-3 Midori-cho,
-Tachikawa, Tokyo 190-8562, Japan
-
-<span>**Abstract**</span>. When we have new “big data”, the first step
+<span>**Abstract:**</span> When we have new “big data”, the first step
 may be to visualize them. For visualizing continuous multivariate data,
 interactive parallel coordinate plot is known to be appropriate.
 However, the number of data is huge and some variables are categorical,
@@ -631,8 +482,8 @@ variable and a pair of variables for visualizing the difference among
 ASDs. Real example data are visualized by our software and interpreted
 intuitively.
 
-<span>**Keywords**</span>. Apache Hadoop, Apache Spark, Parallel
-coordinate plot, Symbolic data analysis.
+<span>**Keywords:**</span> Apache Hadoop, Apache Spark, Parallel
+coordinate plot, Symbolic data analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 OGGB5 (260-051)</p>
 ## An Incomplete-Data Fisher Scoring With An Acceleration Method {-}
@@ -640,17 +491,7 @@ coordinate plot, Symbolic data analysis.
 Keiji Takai<br />
 Kansai University<br />
 </p>
-<span>**An Incomplete-data Fisher Scoring Method with an Acceleration
-Method** </span>
-
-Keiji Takai$^1$
-
-$^1 \;$ Faculty of Business and Commerce, Kansai University, 3-3-35
-Yamate, Suita, Osaka, JAPAN
-
-<span>**Abstract**</span>.
-
-Incomplete data complicate conventional statistical analyses because the
+<span>**Abstract:**</span> Incomplete data complicate conventional statistical analyses because the
 analyses presume complete data are always available. The primary problem
 is the complication of the parameter estimation. The parameter
 estimation is based on the observed-data log-likelihood function that
@@ -672,11 +513,10 @@ standard error with the functions used only for the acceleration. The
 convergence rate is faster than the EM algorithm. In the talk, I provide
 the convergence theorem and practical examples.
 
-<span>**Keywords**</span>. Incomplete data, EM algorithm, Fisher
+<span>**Keywords:**</span> Incomplete data, EM algorithm, Fisher
 scoring, acceleration method
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Barnett, J.A., Payne, R.W. and Yarrow, D. (1990). *Yeasts:
 Characteristics and identification: Second Edition.* Cambridge:
@@ -697,14 +537,54 @@ combination of information in generally balanced designs. In:
 *COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
 Heidelberg: Physica-Verlag.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 2 (260-057)</p>
+## Statistical Challenges For Proteogenomic Data Analysis {-}
+<p style="text-align:center">
+Yusuke Matsui<br />
+Nagoya University Graduate School of Medicine<br />
+</p>
+<span>**Abstract:**</span> Large-scale integrated cancer genome and
+proteome characterization efforts including the cancer genome atlas and
+clinical proteomic tumor analysis consortium have opened unprecedented
+opportunities to reveal the comprehensive understandings of cancer
+biology. An important challenge is organizing our knowledge how the
+genomic events drive the proteome and phosphoproteome to form phenotypic
+characteristics.
+
+However, connecting the genome and the proteome is not straightforward
+since measuring technologies for the genome and the proteome are quite
+different and thus the coverage that can be measured is different.
+Besides, the proteome data usually include massive amount of missing
+values. These issues include several statistical problems - massive
+missing data imputation, statistical models to connect the distinct
+datasets from different measurement technologies, and interpretable
+statistical models that can explain clinical outcomes.
+
+Currently, we are developing proteogenomic data analysis approaches
+including the systematic workflow (pipeline) for the cancer protegenomic
+clinical data. We will present the progression of our current work as
+well as discussing the statistical approaches, using actual ongoing
+clinical dataset.
+
+<span>**Keywords:**</span> Bioinformatics, Proteogenomics, Cancer,
+Multi-omics data, Data analysis
+
+<span>**References:**</span>
+
+Philipp, M., <span>*et al.*</span> (2016) Proteogenomics connects
+somatic mutations to signalling in breast cancer. *Nature*, 534:55–62.
+
+Hui, Z., <span>*et al.*</span> (2016) Integrated Proteogenomic
+Characterization of Human High-Grade Serous Ovarian Cancer. *Cell*,
+166:755–765.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 4 (260-009)</p>
 ## Towards An Informal Test For Goodness-Of-Fit {-}
 <p style="text-align:center">
 Anna Fergusson and Maxine Pfannkuch<br />
 University of Auckland<br />
 </p>
-<span>**Abstract**</span>
-Informal approaches to goodness-of-fit tests often involve examining the
+<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
 visual fit of the model to data ’by eye’. Such approaches are
 problematic for Year 13 and undergraduate students and teachers from a
 pedagogical perspective as key aspects such as sample size, the number
@@ -729,15 +609,7 @@ important modelling and hypothesis test concepts.
 Longcheen Huwang<br />
 National Tsing Hua University<br />
 </p>
-<span>**An EWMA Chart for Monitoring Covariance Matrix Based on
-Dissimilarity Index**</span>
-
-Longcheen Huwang
-
-Institute of Statistics, National Tsing Hua University, Hsinchu 30043,\
-Taiwan
-
-<span>**Abstract**</span>. In this talk, we propose an EWMA chart for
+<span>**Abstract:**</span> In this talk, we propose an EWMA chart for
 monitoring covariance matrix based on the dissimilarity index of two
 matrices. It is different from the conventional EWMA charts for
 monitoring covariance matrix which are either based on comparing the sum
@@ -755,11 +627,10 @@ has the actual IC average run length not less than the nominal one with
 a certain probability. Finally, we use an example to demonstrate the
 applicability and implementation of the proposed chart.
 
-<span>**Keywords**</span>. Average run length, dissimilarity index,
+<span>**Keywords:**</span> Average run length, dissimilarity index,
 EWMA; out-of-control
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Hawkins, D.M. and Maboudou-Tchao E.M. (2008). Multivariate exponentially
 weighted moving covariance matrix. <span>*Technometrics*</span>,
@@ -776,17 +647,7 @@ Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
 ^1^Okayama University<br />
 ^2^Okayama University of Science<br />
 </p>
-<span> **Improvement of Computation for Nonlinear Multivariate
-Methods**</span>
-
-Masahiro Kuroda$^1$, Yuichi Mori$^1$, and Masaya Iizuka$^2$
-
-$^1 \;$ Department of Management, Okayama University of Science,
-Okayama, 700-0001, JAPAN
-
-$^2 \;$ Admission Center, Okayama University, Okayama 700-8530, JAPAN
-
-<span>**Abstract**</span>. Nonlinear multivariate methods (NL-MM) using
+<span>**Abstract:**</span> Nonlinear multivariate methods (NL-MM) using
 optimal scaling as a quantification technique can analyze any data
 including quantitative and qualitative variables. The alternating least
 squares (ALS) algorithm is the most popular iterative algorithm in
@@ -802,11 +663,10 @@ implemented in NL-MM, e.g., nonlinear principal component analysis and
 nonlinear factor analysis, and the performances are demonstrated in
 numerical experiments.
 
-<span>**Keywords**</span>. Alternating least squares algorithm, Optimal
+<span>**Keywords:**</span> Alternating least squares algorithm, Optimal
 scaling, Acceleration of convergence
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Gifi, A. (1990). *Nonlinear multivariate analysis*. Wiley.
 
@@ -824,15 +684,7 @@ Statistics, Springer.
 Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
 Pukyong National University<br />
 </p>
-<span>**Three-Dimensional Data Visualization Education with Virtual
-Reality**</span>
-
-J. E. Lee$^1$, S. Ahn$^1$ and D. H. Jang$^1$
-
-$^1 \;$ Department of Statistics, Pukyong National University, 45,
-Yongso-ro, Nam-gu, Busan 48513, Korea. E-mail: dhjang@pknu.ac.kr
-
-<span>**Abstract**</span>. A variety of data visualization methods are
+<span>**Abstract:**</span> A variety of data visualization methods are
 utilizing to analyze huge amount of data. Among various methods, a
 three-dimensional image requires the rotation of the image to show
 stereo image on the two-dimensional screen. This study discusses data
@@ -842,11 +694,10 @@ to improve the restriction of the three-dimensional image display with
 virtual reality. This investigation can be useful to explore
 three-dimensional data structure more clearly.
 
-<span>**Keywords**</span>. Data visualization education, Virtual
+<span>**Keywords:**</span> Data visualization education, Virtual
 reality, Stereo image, R package
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Bowman, A. (2015). *rpanel*: Simple interactive controls for R using the
 tcltk library. R package version 1.1-3.

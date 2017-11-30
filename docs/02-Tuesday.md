@@ -22,6 +22,41 @@ some research aimed at exploring some of the design space for new
 systems. The aim is to show constructively that new work in the area
 is still possible.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
+## R&amp;D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis {-}
+<p style="text-align:center">
+Benjamin Montmartin^1^, Marcos Herrera^2^, and Nadine Massard^3^<br />
+^1^CONICET<br />
+^2^GAEL<br />
+^3^GREDEG CNRS<br />
+</p>
+<span>**Abstract:**</span> Using a unique database containing
+information on the amount of R&D tax credits and regional, national and
+European subsidies received by firms in French NUTS3 regions over the
+period 2001-2011, we provide new evidence on the efficiency of R&D
+policies taking into account spatial dependency across regions. By
+estimating a spatial Durbin model with regimes and fixed effects, we
+show that in a context of yardstick competition between regions,
+national subsidies are the only instrument that displays total leverage
+effect. For other instruments internal and external effects balance each
+other resulting in insignificant total effects. Structural breaks
+corresponding to tax credit reforms are also revealed.
+
+<span>**Keywords:**</span> Additionality, French policy mix, Spatial
+panel, Structural break
+
+<span>**References:**</span>
+
+Pesaran, M. H. (2007). A simple panel unit root test in the presence of
+cross-section dependence In: *Journal of Applied Econometrics*, **22**,
+265–312.
+
+Hendry, D. F. (1979). Predictive failure and econometric modelling in
+macroeconomics: The transactions demand for money. In: *P. Ormerod
+(Ed.), Economic Modelling: Current Issues and Problems in Macroeconomic
+Modelling in the UK and the US*, **9**, 217–242. Heinemann Education
+Books, London.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB4 (260-073)</p>
 ## Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data {-}
 <p style="text-align:center">
@@ -29,20 +64,7 @@ Samin Aref^1^, David Friggens^2^, and Shaun Hendy^1^<br />
 ^1^Ministry of Business Innovation & Employment<br />
 ^2^University of Auckland<br />
 </p>
-<span>**Analysing Scientific Collaborations of New Zealand Institutions
-using Scopus Bibliometric Data**</span>
-
-Samin Aref$^1$, David Friggens$^2$ and Shaun Hendy$^3$
-
-$^1 \;$ Department of Computer Science and Te Pūnaha Matatini,
-University of Auckland, New Zealand
-
-$^2 \;$ Ministry of Business Innovation & Employment, New Zealand
-
-$^3 \;$ Department of Physics and Te Pūnaha Matatini, University of
-Auckland, New Zealand
-
-<span>**Abstract**</span>. Scientific collaborations are among the main
+<span>**Abstract:**</span> Scientific collaborations are among the main
 enablers of development in small national science systems. Although
 analysing scientific collaborations is a well-established subject in
 scientometrics, evaluations of collaborative activities of countries
@@ -69,7 +91,7 @@ Employment.
 
 ArXiv preprint link: https://arxiv.org/pdf/1709.02897
 
-<span>**Keywords**</span>. Big data modelling, Scientific collaboration,
+<span>**Keywords:**</span> Big data modelling, Scientific collaboration,
 Scientometrics, Network analysis, Scopus, New Zealand
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB5 (260-051)</p>
@@ -78,20 +100,7 @@ Scientometrics, Network analysis, Scopus, New Zealand
 Losana Vao Latu Latu<br />
 University of Canterbury<br />
 </p>
-Family structure and academic achievements of high school students in
-Tonga
-
-Losana Vao Latu Latu$^1$, Jennifer Brown$^1$ and Jacki Henderson$^2$
-
-$^1$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, NZ
-
-$^2$ Department of Psychology, University of Canterbury, Christchurch,
-NZ
-
-Abstract
-
-In this study we examine how family structure affects the academic
+<span>**Abstract:**</span> In this study we examine how family structure affects the academic
 achievement of students at the secondary level of education age in
 Tonga. It is a comparative study aiming to find out whether there is a
 significant difference between the academic achievements of students
@@ -112,9 +121,7 @@ schools are government schools and the others are private schools run by
 different religions. In April we surveyed 360 students, 60 from each of
 6 high schools, and present here our preliminary results.
 
-Keywords
-
-Education, policy, stratified sampling
+<span>**Keywords:**</span> Education, policy, stratified sampling
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
 ## Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition {-}
@@ -122,15 +129,7 @@ Education, policy, stratified sampling
 Geoff Jones<br />
 Massey University<br />
 </p>
-<span>**Analysis of Multivariate Binary Longitudinal Data: Metabolic
-Syndrome During Menopausal Transition**</span>
-
-Geoff Jones$^1$
-
-$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
-North, NZ
-
-<span>**Abstract**</span>. Metabolic syndrome (MetS) is a major
+<span>**Abstract:**</span> Metabolic syndrome (MetS) is a major
 multifactorial condition that predisposes adults to type 2 diabetes and
 cardiovascular disease. It is defined as having at least three of five
 cardiometabolic risk components: 1) high fasting triglyceride level, 2)
@@ -143,7 +142,7 @@ women underwent the menopausal transition (MT). A model is sought to
 examine the interdependent progression of the five MetS components and
 the influence of demographic covariates.
 
-<span>**Keywords**</span>. Multivariate binary data, longitudinal
+<span>**Keywords:**</span> Multivariate binary data, longitudinal
 analysis, metabolic syndrome
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
@@ -152,21 +151,7 @@ analysis, metabolic syndrome
 Chae Young Lim<br />
 Seoul National University<br />
 </p>
-<span>**Clustering of curves on a spatial domain using a Bayesian
-partitioning model**</span>
-
-Zhen Zhang$^1$, Chae Young Lim$^2$, Tapabrata Maiti$^3$ and Seiji
-Kato$^4$
-
-$^1 \;$ Dow AgroSciences. Indianapolis, IN, USA.
-
-$^2 \;$ Seoul National University, Seoul, KOREA
-
-$^3 \;$ Michigan State University, East Lansing, MI, USA.
-
-$^4 \;$ NASA Langley Research Center, Hampton, VA, USA.
-
-<span>**Abstract**</span>. We propose a Bayesian hierarchical model for
+<span>**Abstract:**</span> We propose a Bayesian hierarchical model for
 spatial clustering of the high-dimensional functional data based on the
 effects of functional covariates. We couple the functional mixed-effects
 model with a generalized spatial partitioning method for: (1)
@@ -181,7 +166,7 @@ cloud properties on the spectral radiance measurements. This elaborates
 the importance of considering spatially contiguous partitions for
 identifying regional effects and small-scale variability.
 
-<span>**Keywords**</span>. spatial clustering, Bayesian wavelets,
+<span>**Keywords:**</span> spatial clustering, Bayesian wavelets,
 Voronoi tessellation, functional covariates
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
@@ -190,15 +175,7 @@ Voronoi tessellation, functional covariates
 Catherine Laffineur<br />
 Université Côte d'Azur, GREDEG-CNRS<br />
 </p>
-<span>**The Uncomfortable Entrepreneurs: Bad Working Conditions and
-Entrepreneurial Commitment**</span>
-
-Catherine Laffineur$^1$
-
-$^1 \;$ Department of Economics, University Cote d’Azur, National Center
-of Scientific Research, GREDEG-CNRS, France
-
-<span>**Abstract**</span>. In contrast to previous model dividing
+<span>**Abstract:**</span> In contrast to previous model dividing
 necessity entrepreneurs as individuals facing push factors due to lack
 of employment, we consider the possibility of push factors faced by
 employed individuals (Folta et al. (2010)). The theoretical model yields
@@ -218,11 +195,10 @@ have strong implication for how we interpret and analyze necessity
 entrepreneurs and provide novel insights into the role of occupational
 experience in the process of venture emergence.
 
-<span>**Keywords**</span>. Keywords: Entrepreneurship, Motivation,
+<span>**Keywords:**</span> Entrepreneurship, Motivation,
 Occupational characteristics, Employment choice.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Folta, T. B., Delmar, F., & Wennberg, K. 2010. Hybrid entrepreneurship.
 *Management Science*, 56(2), 253-269.
@@ -233,15 +209,7 @@ Folta, T. B., Delmar, F., & Wennberg, K. 2010. Hybrid entrepreneurship.
 Xun Xiao<br />
 Massey University<br />
 </p>
-<span>**Spatial Surveillance with Scan Statistics by Controlling the
-False Discovery Rate**</span>
-
-Xun Xiao$^1$
-
-$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
-North 4410, New Zealand
-
-<span>**Abstract**</span>. In this paper, I investigate a false
+<span>**Abstract:**</span> In this paper, I investigate a false
 discovery approach based on spatial scan statistics to detect the
 spatial disease clusters in a geographical region proposed by Li et al.
 (2016). The incidence of disease is assumed to follow an inhomogeneous
@@ -252,10 +220,10 @@ by proving that the multivariate Poisson distribution satisfies the PRDS
 condition (positive regression dependence on a subset) in Benjamini and
 Yekutieli (2001).
 
-<span>**Keywords**</span>. False Discovery Rate, Poisson Distribution,
+<span>**Keywords:**</span> False Discovery Rate, Poisson Distribution,
 PRDS, Spatial Scan Statistics
 
-<span>**References**</span>
+<span>**References:**</span>
 
 Benjamini, Y. and Yekutieli, D. (2001). *The control of the false
 discovery rate in multiple testing under dependency*, Annals of
@@ -274,19 +242,7 @@ transactions, **48**(7), 684–698.
 Sih-Jing Liao, Martin Hazelton, Jonathan Marshall, and Nigel French<br />
 Massey University<br />
 </p>
-<span>**Statistical models for the source attribution of zoonotic
-diseases: A study of campylobacteriosis**</span>
-
-Sih-Jing Liao$^1$, Jonathan Marshall$^1$, Martin L. Hazelton$^1$ and
-Nigel P. French$^2$
-
-$^1 \;$ Institute of Fundamental Sciences-Statistics, Massey University,
-Private Bag 11222, Palmerston North, New Zealand
-
-$^2 \;$ mEpiLab, Hopkirk Research Institute, Massey University, Private
-Bag 11222, Palmerston North, New Zealand
-
-<span>**Abstract**</span>. Preventing and controlling zoonoses with a
+<span>**Abstract:**</span> Preventing and controlling zoonoses with a
 public health policy depends on the knowledge scientists have about the
 transmitted pathogens. Modelling jointly the epidemiological data and
 genetic information provides a methodology for tracing back the source
@@ -306,11 +262,10 @@ probabilities follow linear trends against level of rurality; and iii)
 poultry is the dominant source of campylobacteriosis in urban centres,
 whereas ruminants are the most attributable source when in rural areas.
 
-<span>**Keywords**</span>. source attribution, *Campylobacter*,
+<span>**Keywords:**</span> source attribution, *Campylobacter*,
 multinomial model, Dirichlet prior, HPD interval, DIC
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Bronowski, C., James, C.E. and Winstanley, C. (2014). Role of
 environmental survival in transmission of *Campylobacter jejuni*. *FEMS
@@ -346,14 +301,7 @@ lineage. *PLoS One*, **6**(11):e27121.
 John Holmes<br />
 University of Otago<br />
 </p>
-<span>**Latent variable models and multivariate binomial data**</span>
-
-John Holmes$^1$
-
-$^1 \;$ Department of Mathematics and Statistics, University of Otago,
-Dunedin, P.O. Box 56, New Zealand
-
-<span>**Abstract**</span>. A large body of work has been devoted to
+<span>**Abstract:**</span> A large body of work has been devoted to
 latent variable models applicable to multivariate binary data. However
 little work has been put into extending these models to cases where the
 observed data is multivariate binomial. In this paper, we will first
@@ -365,12 +313,11 @@ binomial data provides greater flexibility in how the link function can
 be represented. Lastly, we will consider properties of the implied
 distribution of latent probabilities under a logit link.
 
-<span>**Keywords**</span>. Multivariate binomial data, principal
+<span>**Keywords:**</span> Multivariate binomial data, principal
 components/factor analysis, item response theory, link functions,
 logit-normal distributions
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 (ed.) Bartholomew, D. J. and Knott, M. and Moustaki, I. (2011). *Latent
 Variable Models and Factor Analysis: A Unified Approach*. Chichester:
@@ -390,19 +337,7 @@ variables. *Journal of the American Statistical Association*, **108**,
 Mugdha Manda, Thomas Lumley, and Susan Wells<br />
 University of Auckland<br />
 </p>
-<span>**Identifying Clusters Of Patients With Diabetes Using a Markov
-Birth-Death Process**</span>
-
-Mugdha Manda$^1$, Thomas Lumley$^1$ and Susan Wells$^2$
-
-$^1 \;$ The Department of Statistics, The University of Auckland,
-Auckland 1010, New Zealand
-
-$^2 \;$ Section of Epidemiology and Biostatistics, Faculty of Medical
-and Health Sciences, The University of Auckland, Auckland 1072, New
-Zealand
-
-<span>**Abstract**</span>. Estimating disease trajectories has
+<span>**Abstract:**</span> Estimating disease trajectories has
 increasingly become more essential to clinical practitioners to
 administer effective treatment to their patients. A part of describing
 disease trajectories involves taking patients’ medical histories and
@@ -418,13 +353,12 @@ measurements of HbA$_1c$ and eGFR, using the Markov birth-death process
 proposed by Stephens (2000) to handle the changes in dimensionality as
 clusters were added or removed.
 
-<span>**Keywords**</span>. Diabetes management, longitudinal data,
+<span>**Keywords:**</span> Diabetes management, longitudinal data,
 Markov chain Monte Carlo, birth-death process, mixture model, Bayesian
 analysis, latent clusters, hierarchical models, primary care, clinical
 practice
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Stephens, M. (2000). Bayesian Analysis of Mixture Models with an Unknown
 Number of Components - An Alternative to Reversible Jump Methods. In:
@@ -438,20 +372,7 @@ Youngin Jo^1^, Seongil Jo^2^, and Jaeyong Lee^3^<br />
 ^2^Kakao Corporation<br />
 ^3^Seoul National University<br />
 </p>
-<span>**Bayesian Temporal Density Estimation with Autoregressive Species
-Sampling Models [^1]**</span>
-
-Youngin Jo$^1$, Seongil Jo$^2$ and Jaeyong Lee$^3$
-
-$^1 \;$ Kakao corporation, Seongnam, 13494, Republic of Korea
-
-$^2 \;$ Department of Statistics (Institute of Applied Statistics),
-Chonbuk National University, Jeonju, 54896, Republic of Korea
-
-$^3 \;$ Department of Statistics, Seoul National University, Seoul,
-08826, Republic of Korea
-
-<span>**Abstract**</span>. We propose a Bayesian nonparametric (BNP)
+<span>**Abstract:**</span> We propose a Bayesian nonparametric (BNP)
 model, which is built on a class of species sampling models, for
 estimating density functions of temporal data. In particular, we
 introduce species sampling mixture models with temporal dependence. To
@@ -467,7 +388,7 @@ closing price in Korea Composite Stock Price Index (KOSPI), and climate
 variables (daily maximum temperature and precipitation) of around the
 Korean peninsula.
 
-<span>**Keywords**</span>. Autoregressive species sampling models;
+<span>**Keywords:**</span> Autoregressive species sampling models;
 Dependent random probability measures; Mixture models; Temporal
 structured data
 
@@ -486,18 +407,7 @@ Ushio Tanaka^1^ and Tomonari Sei^2^<br />
 ^1^Osaka Prefecture University<br />
 ^2^Unversity of Tokyo<br />
 </p>
-<span>**How does the textile set describe geometric structures of
-data?**</span>
-
-Ushio Tanaka$^1$ and Tomonari Sei$^2$
-
-$^1 \;$ Department of Mathematics and Information Sciences, Osaka
-Prefecture University, Osaka, Japan
-
-$^2 \;$ Department of Mathematical Informatics, The University of Tokyo,
-Tokyo, Japan
-
-<span>**Abstract**</span>. The textile set is defined from the textile
+<span>**Abstract:**</span> The textile set is defined from the textile
 plot proposed by Kumasaka and Shibata (2007, 2008), which is a powerful
 tool for visualizing high dimensional data. The textile plot is based on
 a parallel coordinate plot, where the ordering, locations and scales of
@@ -508,11 +418,10 @@ delineate a parallel coordinate plot. Using the geometric properties of
 the textile set derived by Sei and Tanaka (2015), we show that the
 textile set describes an intrinsically geometric structures of data.
 
-<span>**Keywords**</span>. Parallel coordinate plot, Textile set,
+<span>**Keywords:**</span> Parallel coordinate plot, Textile set,
 Differentiable manifold
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Kumasaka, N. and Shibata, R. (2007). The Textile Plot Environment,
 *Proceedings of the Institute of Statistical Mathematics*, **55**,
@@ -532,14 +441,7 @@ Sei, T. and Tanaka, U. (2015). Geometric Properties of Textile Plot:
 Hsin-Cheng Huang and Chi-Wei Lai<br />
 Academia Sinica<br />
 </p>
-<span>**Intensity Estimation of Spatial Point Processes Based on
-Area-Aggregated Data** </span>
-
-Hsin-Cheng Huang and Chi-Wei Lai
-
-Institute of Statistical Science, Academia Sinica, Taipei 11529, Taiwan
-
-<span>**Abstract**</span>. We consider estimation of intensity function
+<span>**Abstract:**</span> We consider estimation of intensity function
 for spatial point processes based on area-aggregated data. A standard
 approach for estimating the intensity function for a spatial point
 pattern is to use a kernel estimator. However, when data are only
@@ -550,7 +452,7 @@ kernel-based method will be proposed to produce a smooth intensity
 function based on aggregated count data. Some numerical examples will be
 provided to demonstrate the effectiveness of the proposed method.
 
-<span>**Keywords**</span>. Area censoring, inhomogeneous spatial point
+<span>**Keywords:**</span> Area censoring, inhomogeneous spatial point
 processes, kernel density estimation
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 OGGB4 (260-073)</p>
@@ -559,8 +461,7 @@ processes, kernel density estimation
 Sarah Pirikahu, Geoff Jones, Martin Hazelton, and Cord Heuer<br />
 Massey University<br />
 </p>
-<span>**Abstract**</span>
-Epidemiologists often wish to determine the population impact of an
+<span>**Abstract:**</span> Epidemiologists often wish to determine the population impact of an
 intervention to remove or reduce a risk factor. Population attributable
 type measures, such as the population attributable risk (PAR) and
 population attributable fraction (PAF), provide a means of assessing
@@ -593,21 +494,7 @@ Takahiro Ido^1^, Shinpei Imori^1^, and Hidetoshi Shimodaira^2^<br />
 ^1^Kyoto University<br />
 ^2^Osaka University<br />
 </p>
-<span>**An information criterion for prediction with auxiliary variables
-under covariate shift**</span>
-
-Takahiro Ido$^1$, Shinpei Imori$^{12}$and Hidetoshi Shimodaira$^{23}$
-
-$^1 \;$ Graduate School of Engineering Science, Osaka University, 1-3
-Machikaneyama, Toyonaka, Osaka, 560-8531, Japan
-
-$^2 \;$ RIKEN Center for Advanced Intelligence Project (AIP), 1-4-1
-Nihonbashi, Chuo-ku, Tokyo, 103-0027, Japan
-
-$^3 \;$ Graduate School of Informatics, Kyoto University, Yoshida
-Honmachi, Sakyo-ku, Kyoto, 606-8501, Japan
-
-<span>**Abstract**</span>. It is beneficial for modeling data of
+<span>**Abstract:**</span> It is beneficial for modeling data of
 interest to exploit secondary information. The secondary information is
 called auxiliary variables, which may not be observed in testing data
 because they are not of primary interest. In this paper, we incorporate
@@ -630,7 +517,7 @@ use of the auxiliary variables into account. Hence, we resolve this
 problem by deriving a new criterion. In addition, simulations are
 conducted to examine the improvement.
 
-<span>**Keywords**</span>. Auxiliary variables; Covariate shift;
+<span>**Keywords:**</span> Auxiliary variables; Covariate shift;
 Information criterion; Kullback-Leibler divergence; Misspecification;
 Predictions.
 <p class="pagebreak"></p>
@@ -640,12 +527,7 @@ Predictions.
 Nick Garrett, Maria Bellringer, and Max Abbott<br />
 Auckland University of Technology<br />
 </p>
-<span>**Abstract**</span>
-Analysis of a brief telephone intervention for problem gambling and
-examining the impact on co-existing depression? Nick Garrett, Maria
-Bellringer, Max Abbott
-
-This study investigated the outcomes of a brief telephone intervention
+<span>**Abstract:**</span> This study investigated the outcomes of a brief telephone intervention
 for problem gambling. A total of 150 callers were recruited and followed
 for 36 months. After giving consent, participants received a baseline
 assessment followed by a manualised version of the helpline’s standard
@@ -675,24 +557,7 @@ M. J. Bayarri^1^, James Berger^2^, Woncheol Jang^3^, Surajit Ray^4^, Luis Pericc
 ^5^University of Puerto Rico<br />
 ^6^University of Valencia<br />
 </p>
-<span>**Prior-based Bayesian Information Criterion** </span>
-
-M. J. Bayarri$^1$, James O. Berger$^2$, Woncheol Jang$^3$, Surajit
-Ray$^4$, Luis R. Pericchi$^5$ and Ingmar Visser$^6$
-
-$^1 \;$ University of Valencia, Valencia, Spain
-
-$^2 \;$ Duke University, Durham NC, USA
-
-$^3 \;$ Seoul National University, Seoul, Korea
-
-$^4 \;$ University of Glasgow, Glasgow, UK
-
-$^5 \;$ University of Puerto Rico, San Juan, Puerto Rico
-
-$^6 \;$ University of Amsterdam, Amsterdam, The Netherlands
-
-<span>**Abstract**</span>. We present a new approach to model selection
+<span>**Abstract:**</span> We present a new approach to model selection
 and Bayes factor determination, based on Laplace expansions (as in BIC),
 which we call Prior-based Bayes Information Criterion (PBIC). In this
 approach, the Laplace expansion is only done with the likelihood
@@ -705,7 +570,7 @@ that different parameters can have different effective sample sizes
 (whereas BIC only allows one overall sample size $n$). We also consider
 a modification of PBIC which is more favorable to complex models.
 
-<span>**Keywords**</span>. Bayes factors, model selection, Cauchy
+<span>**Keywords:**</span> Bayes factors, model selection, Cauchy
 priors, consistency, effective sample size, Fisher information, Laplace
 expansions, robust priors
 <p class="pagebreak"></p>
@@ -716,17 +581,7 @@ Cheng-Der Fuh^1^ and Chu-Lan Kao^2^<br />
 ^1^National Central University<br />
 ^2^National Chiao Tung University<br />
 </p>
-<span>**Correlated Defaults with a Distance to Default**</span>
-
-Cheng-Der Fuh $^1$ and Chu-Lan Michael Kao$^2$
-
-$^1 \;$ Graduate Institute of Statistics, National Central University,
-Taoyuan City 32001, Taiwan
-
-$^2 \;$ Institute of Statistics, National Chiao-Tung University, Hsinchu
-30010, Taiwan
-
-<span>**Abstract**</span>. To study the feature of default clustering in
+<span>**Abstract:**</span> To study the feature of default clustering in
 credit risk management, this paper evaluates joint default probabilities
 and default correlation for multiple firms through the classical default
 barrier structure form model. Under the commonly used factor model, by
@@ -740,7 +595,7 @@ corporate default clustering: contagion and co-movement. Numerical
 studies for evaluating a multi-name Distance-to-Default are given to
 illustrate our model.
 
-<span>**Keywords**</span>. Correlated defaults, factor model, distance
+<span>**Keywords:**</span> Correlated defaults, factor model, distance
 to default, renewal theory
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
@@ -751,20 +606,7 @@ Narumasa Tsutsumida^1^, Paul Harris^2^, and Alexis Comber^3^<br />
 ^2^Rothamsted Research<br />
 ^3^Univerisity of Leeds<br />
 </p>
-<span>**Geographically Weighted Principal Component Analysis for
-Spatio-temporal Statistical Dataset**</span>
-
-Narumasa Tsutsumida$^1$, Paul Harris$^2$, and Alexis Comber$^3$,
-
-$^1 \;$ Graduate School of Global Environmental Studies, Kyoto
-University, Sakyo, Kyoto 6068501, JAPAN
-
-$^2 \;$ Sustainable Agricultural Sciences, Rothamsted Research, North
-Wyke, Okehampton, Devon, EX20 2SB, UK
-
-$^3 \;$ School of Geography, University of Leeds, Leeds LS2 9JT, UK
-
-<span>**Abstract**</span>. Spatio-temporal statistical datasets are
+<span>**Abstract:**</span> Spatio-temporal statistical datasets are
 becoming widely available for social, ecomonic, and environmental
 researches, however it is often difficult to summarize it and undermine
 hidden spatial/temporal patterns due to its complexity. Geographically
@@ -779,11 +621,10 @@ As a case study we use annual goat population statistics across 341
 administrative units in Mongolia in 1990-2012, and show spatiotemporal
 variations in data, especially influenced by natural disasters.
 
-<span>**Keywords**</span>. Geographically weighted model,
+<span>**Keywords:**</span> Geographically weighted model,
 Spatio-temporal data, Parameter optimization
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tsutsumida N., P. Harris, , A. Comber. 2017. The Application of a
 Geographically Weighted Principal Component Analysis for Exploring
@@ -797,8 +638,7 @@ Anjali Gupta^1^, James Curran^1^, Sally Coulson^2^, and Christopher Triggs^1^<br
 ^1^ESR<br />
 ^2^University of Auckland<br />
 </p>
-<span>**Abstract**</span>
-In 2004, Aitken and Lucy published an article detailing a two-level
+<span>**Abstract:**</span> In 2004, Aitken and Lucy published an article detailing a two-level
 likelihood ratio for multivariate trace evidence. This model has been
 adopted in a number of forensic disciplines such as the interpretation
 of glass, drugs (MDMA), and ink. Modern instrumentation is capable of
@@ -822,14 +662,7 @@ obtained from SEM-EDX instrument.
 Patrick Graham<br />
 Stats NZ and Bayesian Research<br />
 </p>
-<span>**Adjusting for Linkage Bias in the Analysis of Record-Linked
-Data** </span>
-
-Patrick Graham$^1$
-
-$^1 \;$ Statistical Methods, Stats NZ, Christchurch, New Zealand
-
-<span>**Abstract**</span>. Data formed from record-linkage of two or
+<span>**Abstract:**</span> Data formed from record-linkage of two or
 more datasets are an increasingly important source of data for public
 health and social science research. For example, a study cohort may be
 linked to administrative data in order to add outcome or covariate
@@ -862,7 +695,7 @@ and that multiple imputation can be more efficient than conditional
 maximum likelihood. Extensions to the case of non-ignorable linkage are
 also considered.
 
-<span>**Keywords**</span>. Record linkage, Missing data, Bayesian
+<span>**Keywords:**</span> Record linkage, Missing data, Bayesian
 inference, Gibbs sampler, Multiple imputation
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
@@ -871,14 +704,7 @@ inference, Gibbs sampler, Multiple imputation
 Taeryon Choi<br />
 Korea University<br />
 </p>
-<span>**Bayesian semiparametric hierarchical models for longitudinal
-data analysis with application to dose-response studies**</span>
-
-Taeryon Choi
-
-Department of Statistics, Korea University, South Korea
-
-<span>**Abstract**</span>. In this work, we propose semiparametric
+<span>**Abstract:**</span> In this work, we propose semiparametric
 Bayesian hierarchical additive mixed effects models for analyzing either
 longitudinal data or clustered data with applications to dose-response
 studies. In the semiparametric mixed effects model structure, we
@@ -898,7 +724,7 @@ dose-response analysis, in which measurement errors and shape
 constraints in the regression functions need to be incorporated with
 inter-study variability.
 
-<span>**Keywords**</span>. Cadmium toxicity, Cosine series,
+<span>**Keywords:**</span> Cadmium toxicity, Cosine series,
 Dose-response study, Hierarchical Model, Measurement errors, Shape
 restriction
 <p class="pagebreak"></p>
@@ -908,9 +734,7 @@ restriction
 Emma Campbell, Ankit Patel, and Paul Bracewell<br />
 DOT Loves Data<br />
 </p>
-Abstracts:
-
-The New Zealand rugby community is aware of safety issues within the
+<span>**Abstract:**</span> The New Zealand rugby community is aware of safety issues within the
 junior game and has applied weight limits for each tackle grade to
 minimize injury risk. However, for heavier children this can create an
 uncomfortable situation as they may no longer be playing with their peer
@@ -933,7 +757,7 @@ bands while the secondary focus is on determining the likelihood of a
 junior Wellington rugby player returning the following season and
 isolating the drivers of this behaviour.
 
-Key words:Logistic regression, repeated measures, player retention,
+<span>**Keywords:**</span> Logistic regression, repeated measures, player retention,
 optimization
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 098 Lecture Theatre (260-098)</p>
@@ -942,14 +766,7 @@ optimization
 Inkyung Jung<br />
 Yonsei University College of Medicine<br />
 </p>
-<span>**Spatial scan statistics for matched case-control data**</span>
-
-Inkyung Jung$^1$
-
-$^1 \;$ Department of Biostatistics and Medical Informatics, Yonsei
-University College of Medicine, Seoul, Korea
-
-<span>**Abstract**</span>. Spatial scan statistics are widely used for
+<span>**Abstract:**</span> Spatial scan statistics are widely used for
 cluster detection analysis in geographical disease surveillance. While
 the method has been developed for various types of data such as binary,
 count and continuous data, spatial scan statistics for matched
@@ -961,7 +778,7 @@ statistical power and cluster detection accuracy of the proposed methods
 through simulations comparing with the Bernoulli-based method. We
 illustrate the methods with the use of a real data example.
 
-<span>**Keywords**</span>. Spatial epidemiology, cluster detection,
+<span>**Keywords:**</span> Spatial epidemiology, cluster detection,
 SaTScan, McNemar test, conditional logistic regression
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 OGGB4 (260-073)</p>
@@ -970,8 +787,7 @@ SaTScan, McNemar test, conditional logistic regression
 Bridget Armstrong<br />
 University of Canterbury<br />
 </p>
-<span>**Abstract**</span>
-There are five species of fishes of the genus Galaxias that make up
+<span>**Abstract:**</span> There are five species of fishes of the genus Galaxias that make up
 whitebait catches in New Zealand, although one species (G. maculatus)
 makes up &gt;90
 <p class="pagebreak"></p>
@@ -985,8 +801,7 @@ Philip Prah^1^, Anne Johnson^2^, Soazig Clifton^2^, Jennifer Mindell^2^, Andrew 
 ^4^Public Health England<br />
 ^5^University College London<br />
 </p>
-<span>**Abstract**</span>
-Including questions about sexual health in the annual Health Survey for
+<span>**Abstract:**</span> Including questions about sexual health in the annual Health Survey for
 England (HSE) provides opportunities for regular measurement of key
 public health indicators, augmenting Britain’s decennial National Survey
 of Sexual Attitudes and Lifestyles (Natsal). However, contextual and
@@ -1014,6 +829,32 @@ health survey, differences with Natsal-3 do exist. These are likely due
 to the HSE’s context as a general health survey and methodological
 limitations such as its current use of pen-and-paper questionnaires.
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 3 (260-055)</p>
+## Bayesian Continuous Space-Time Model Of Burglaries {-}
+<p style="text-align:center">
+Chaitanya Joshi, Paul Brown, and Stephen Joe<br />
+University of Waikato<br />
+</p>
+<span>**Abstract:**</span> Building a predictive model of crime with
+good predictive accuracy has a great value in enabling efficient use of
+policing resources and reduction in crime. Building such models is not
+straightforward though due to the dynamic nature of the crime process.
+The crime not only evolves over both space and time, but is also related
+to several complex socio-economic factors, not all of which can be
+measured directly and accurately. The last decade or more has seen a
+surge in the effort to model crime more accurately. Many of the models
+developed so far have failed to capture the crime with a great degree of
+accuracy. The main reasons could be that all these models discretise the
+space using grid cells and that they are spatial, not spatio-temporal.
+We fit a log Gaussian Cox process model using the INLA-SPDE approach.
+This not only allows us to capture crime as a process continuous in both
+space and time, but also allows us to include socio-economic factors as
+well as the ’near repeat’ phenomenon. In this talk, we will discuss the
+model building process and the accuracy achieved.
+
+<span>**Keywords:**</span> Bayesian spatio-temporal model, INLA-SPDE,
+predicting crime
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 4 (260-009)</p>
 ## Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data {-}
 <p style="text-align:center">
@@ -1021,20 +862,7 @@ Vera Hofer^1^, Johannes Leitner^1^, Horst Lewitschnig^2^, and Thomas Nowak^1^<br
 ^1^Infineon Technologies Austria AG<br />
 ^2^University of Graz<br />
 </p>
-<span>**Tolerance limits for the reliability of semiconductor devices
-using longitudinal data**</span>
-
-Vera Hofer$^1$, Johannes Leitner$^1$, Horst Lewitschnig$^2$ and Thomas
-Nowak$^1$
-
-$^1 \;$ Institute of Statistics and Operations Research, University of
-Graz, Graz, Austria
-
-$^2 \;$ Infineon Technologies Austria AG, Villach, Austria
-
-<span>**Abstract**</span>.
-
-Especially in the automotive industry, semiconductor devices are key
+<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key
 components for the proper functioning of the entire vehicle. Therefore,
 issues concerning the reliability of these components are of crucial
 importance to manufacturers of semiconductor devices.
@@ -1069,7 +897,7 @@ support from the European Union’s Horizon 2020 research and innovation
 programme and Austria, Belgium, Germany, Italy, Netherlands, Norway,
 Slovakia, Spain and United Kingdom.
 
-<span>**Keywords**</span>. quality control, tolerance limits, copulas,
+<span>**Keywords:**</span> quality control, tolerance limits, copulas,
 skew normal distribution
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 098 Lecture Theatre (260-098)</p>
@@ -1078,18 +906,7 @@ skew normal distribution
 Lingzhu Li and Lixing Zhu<br />
 Hong Kong Baptist University<br />
 </p>
-<span>**Model-checking for regressions: a local smoothing-based global
-smoothing test**</span>
-
-Lingzhu Li$^1$ and Lixing Zhu$^2$
-
-$^1 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-$^2 \;$ Department of Mathematics, Hong Kong Baptist University, Hong
-Kong
-
-<span>**Abstract**</span>. As the two kinds of methods for model
+<span>**Abstract:**</span> As the two kinds of methods for model
 specification problem, local smoothing tests and global smoothing tests
 exhibit different characteristics. Compared with global smoothing tests,
 local smoothing tests can only detect local alternatives distinct from
@@ -1104,11 +921,10 @@ test statistic is derived and the asymptotic properties are
 investigated. Simulations and a real data analysis are conducted to
 evaluate the performance of the test in finite sample cases.
 
-<span>**Keywords**</span>. Global smoothing test, projection-based
+<span>**Keywords:**</span> Global smoothing test, projection-based
 methods, local smoothing test
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Zheng, J. X. (1996). *Journal of Econometrics: A consistent test of
 functional form via nonparametric estimation techniques*, **75(2)**,
@@ -1127,8 +943,7 @@ regressors.* **30(1)**, 41–52. Taylor & Francis Group.
 Alastair Lamont<br />
 University of Otago<br />
 </p>
-<span>**Abstract**</span>
-In livestock, a primary goal is the identification of individuals’
+<span>**Abstract:**</span> In livestock, a primary goal is the identification of individuals’
 breeding values - a measure of their genetic worth. This identification
 can be used to aid with selective breeding, but is non trivial due to
 how large data can be.
@@ -1171,8 +986,7 @@ Mingxuan Cai^1^, Mingwei Dai^2^, Jingsi Ming^1^, Jin Liu^3^, Can Yang^4^, and He
 ^3^Hong Kong University of Science and Technology<br />
 ^4^Xi'an Jiaotong University<br />
 </p>
-<span>**Abstract**</span>
-In this paper we propose a bi-level variable selection approach, Bivas,
+<span>**Abstract:**</span> In this paper we propose a bi-level variable selection approach, Bivas,
 for linear regression under the Bayesian framework. This model assumes
 that each variable is assigned to a pre-specified group where only a
 subset of the groups truly contribute to the response variable. Besides,
@@ -1191,14 +1005,7 @@ conditions.
 Barry McDonald<br />
 Massey University<br />
 </p>
-<span>**Ranking Potential Shoplifters in Real Time**</span>
-
-Barry McDonald
-
-Institute of Natural and Mathematical Sciences, Massey University,
-Albany, Auckland, NZ
-
-<span>**Abstract**</span>. A company with a focus on retail crime
+<span>**Abstract:**</span> A company with a focus on retail crime
 prevention brought to MINZ (Mathematics in Industry in New Zealand) the
 task of “<span>*Who is most likely to offend in my store, now*</span>”.
 The company supplied an anonymised set of data on incidents and
@@ -1210,9 +1017,7 @@ finding a regression model when every row of data has response
 identically 1 (an incident), and for many places and times there is no
 data. This talk will describe how the problem was tackled.
 
-6 mm
-
-<span>**Keywords**</span>. Retail crime, ranking, ZINB, regression, real
+<span>**Keywords:**</span> Retail crime, ranking, ZINB, regression, real
 time
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
@@ -1221,14 +1026,7 @@ time
 Toshio Shimokawa and Kensuke Tanioka<br />
 Wakayama Medical University<br />
 </p>
-<span>**Two stage approach\
-to data-driven subgroup identification in clinical trials**</span>
-
-Toshio Shimokawa$^1$ and Kensuke Tanioka$^1$
-
-$^1 \;$ School of Medicine, Wakayama-Medical University, Japan
-
-<span>**Abstract**</span>. A personalized medicine have been improved
+<span>**Abstract:**</span> A personalized medicine have been improved
 through the statistic analysis of Big data such as registry data. In
 these researches, subgroup identification analysis have been focused on.
 The purpose of the analysis is detecting subgroup such that the efficacy
@@ -1249,11 +1047,10 @@ tend to be large in the second step when CART is used. In this paper, we
 adopt a priori algorithm as the same way of SIDES(Lipkovich et al.,
 2011).
 
-<span>**Keywords**</span>. A priori algorithm, boosting, personalized
+<span>**Keywords:**</span> A priori algorithm, boosting, personalized
 medicine
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Forster, J.C., Taylor, J.M.G and Ruberg, S.J. (2011). *Subgroup
 identification from randomized clinical trial data.* Stat.Med,
@@ -1274,12 +1071,7 @@ package version 1.5-7. Available at
 Tanmay Kayal and Yogesh Mani Tripathi<br />
 Indian Institute of Technology Patna<br />
 </p>
-<span>*Department of Mathematics, Indian Institute of Technology Patna,
-Bihta-801106, India*</span>\
-
-<span>**Abstract**</span>
-
-In this work we consider a two-parameter distribution with bathtub shape
+<span>**Abstract:**</span> In this work we consider a two-parameter distribution with bathtub shape
 under progressive first failure censoring. We obtain maximum likelihood
 estimates of unknown parameters and then compute observed Fisher
 information matrix. Further we consider a non linear regression model to
@@ -1290,14 +1082,11 @@ method and Metropolis-Hastings algorithm against gamma prior
 distributions. One- and two-sample prediction problems are discussed
 under Bayesian framework. We study the performance of proposed methods
 using Monte Carlo Simulations and finally analyze a real data set for
-illustration purposes.\
+illustration purposes.
 
-<span>**<span>Keywords:</span>**</span> Bayes estimates, Highest
+<span>**Keywords:**</span> Bayes estimates, Highest
 posterior density interval, Least square estimation, Maximum likelihood
-estimates, Progressive first failure censoring.
-
-Email: tanmay.pma13@iitp.ac.in\
-Phone: +91-9093251231
+estimates, Progressive first failure censoring
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p>
 ## Inverse Regression For Multivariate Functional Data {-}
@@ -1306,17 +1095,7 @@ Ci-Ren Jiang^1^ and Lu-Hung Chen^2^<br />
 ^1^Academia Sinica<br />
 ^2^National Chung Hsing University<br />
 </p>
-<span>**Inverse Regression for Multivariate Functional Data**</span>
-
-Ci-Ren Jiang$^1$ and Lu-Hung Chen$^2$
-
-$^1 \;$ Institute of Statistical Science, Academia Sinica, Taipei,
-Taiwan
-
-$^2 \;$ Institute of Statistics, National Chung Hsing University,
-Taichung, Taiwan
-
-<span>**Abstract**</span>. Inverse regression is an appearing dimension
+<span>**Abstract:**</span> Inverse regression is an appearing dimension
 reduction method for regression models with multivariate covariates.
 Recently, it has been extended to the cases with functional or
 longitudinal covariates. However, the extensions focus on one
@@ -1326,7 +1105,7 @@ covariates. The asymptotical properties of the proposed estimators are
 investigated. Simulation studies and data analysis are also provided to
 demonstrate the performance of our method.
 
-<span>**Keywords**</span>. Multidimensional/Multivariate Functional Data
+<span>**Keywords:**</span> Multidimensional/Multivariate Functional Data
 Analysis, Inverse Regression, Parallel Computing, Smoothing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 OGGB4 (260-073)</p>
@@ -1335,16 +1114,7 @@ Analysis, Inverse Regression, Parallel Computing, Smoothing
 Andrea Havron and Russell Millar<br />
 University of Auckland<br />
 </p>
-<span>**Including covariate estimation error when predicting species
-distributions: a simulation exercise using Template Model
-Builder**</span>
-
-Andrea Havron$^1$ and Russell Millar$^1$
-
-$^1 \;$ Department of Statistics, University of Auckland, Auckland,
-1010, NZ
-
-<span>**Abstract**</span>. Ecological managers often require knowledge
+<span>**Abstract:**</span> Ecological managers often require knowledge
 about species distributions across a spatial region in order to
 facilitate best management practices. Statistical models are frequently
 used to infer relationships between species observations (eg. presence,
@@ -1366,11 +1136,10 @@ biomass for a spatial region. We intend to demonstrate this method and
 compare our predictions to those from a model where regional covariate
 information is supplied from a kriging model.
 
-<span>**Keywords**</span>. spatial model, predicting covariates,
+<span>**Keywords:**</span> spatial model, predicting covariates,
 Template Model Builder
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Kristensen, K.,Nielsen, A., Berg, C.W., Skuag, H. and Bell, B. (2015).
 TMB: Automatic Differentiation and Laplace Approximation. In: *Journal
@@ -1383,18 +1152,7 @@ Ke Wan^1^, Kensuke Tanioka^1^, Kun Yang^2^, and Toshio Shimokawa^1^<br />
 ^1^Southwest Jiaotong University<br />
 ^2^Wakayama Medical University<br />
 </p>
-<span>**Adjusted adaptive index model for binary response**</span>
-
-Ke Wan$^1$, Kensuke Tanioka$^1$, Kun Yan$^2$ and Toshio Shimokawa$^1$
-
-$^1 \;$ School of Medicine, Wakayama-Medical University, Japan
-
-$^2 \;$ College of Traffic & Transportation, Southwest Jiaotong
-University, China
-
-<span>**Abstract**</span>.
-
-In questionnaire surveys, multiple regression analysis is usually used
+<span>**Abstract:**</span> In questionnaire surveys, multiple regression analysis is usually used
 to evaluate influence factors. In addition to that, data mining methods
 such as Classification and Regression Trees (Breiman et al., 1984) are
 also used. In the research for tourism studies, it is difficult to
@@ -1410,10 +1168,9 @@ method (Tian and Tibshirani, 2010) and conduct gradings based on the sum
 of the production rules for controllable exploratory variables with
 adjusting the effects of uncontrollable exploratory variables.
 
-<span>**Keywords**</span>. logistic regression, production rule, grading
+<span>**Keywords:**</span> logistic regression, production rule, grading
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Breiman, L., Friedman, J.H., Olshen, R.A. and Stone, C.J. (1984).
 *Classification and Regression Trees*. Wadsworth.
@@ -1428,13 +1185,7 @@ marker-based risk stratification.* Biostatistics, <span>**12**</span>,
 Md. Shahidul Islam and Mohammad Sazzad Mosharrof<br />
 Auckland University of Technology<br />
 </p>
-Factors Influencing on Growth of Garment Industry in Bangladesh Md.
-Shahidul Islam, Mohammad Sazzad Mosharrof School of Engineering,
-Computer and Mathematical Sciences Auckland University of Technology,
-Auckland New Zealand, 1010 Email: shahidul.islam@aut.ac.nz ;
-sshahid01921@gmail.com
-
-Abstract If globalization provides the backdrop for drama, then the
+<span>**Abstract:**</span> If globalization provides the backdrop for drama, then the
 achievements of the garment industry in Bangladesh are indeed dramatic.
 The garment industry particularly has played a pioneering role in the
 development of industrial sector of Bangladesh and has grown rapidly for
@@ -1472,7 +1223,9 @@ strongly suggest that the performance of manufacturers and traders as
 well as production technologies are very potential for the high growth
 of industrial development. It has a great opportunity to earn a lot of
 foreign currency through developing garment industry and contribute
-economic development. Keywords: Bangladesh Garments, Growth of Garment
+economic development.
+
+<span>**Keywords:**</span> Bangladesh Garments, Growth of Garment
 Industry, Performance of Manufacturers and Traders, Statistical Model
 <p class="pagebreak"></p>
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Tuesday 12<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
@@ -1481,17 +1234,7 @@ Industry, Performance of Manufacturers and Traders, Statistical Model
 Takuma Ishihara and Kouji Yamamoto<br />
 Osaka City University<br />
 </p>
-<span>**Comparison of Exact and Approximate Testing Procedures in
-Clinical Trials with Multiple Binary Endpoints**</span>
-
-Takuma Ishihara$^1$ and Kouji Yamamoto$^1$
-
-$^1 \;$ Department of Medical Statistics Osaka City University Graduate
-School of Medicine, Japan
-
-<span>**Abstract**</span>.
-
-In confirmatory clinical trials, the efficacy of a test treatment are
+<span>**Abstract:**</span> In confirmatory clinical trials, the efficacy of a test treatment are
 sometimes assessed by using multiple primary endpoints. We consider a
 trial in which the efficacy of a test treatment is confirmed only when
 it is superior to control for at least one of the endpoints and not
@@ -1508,20 +1251,17 @@ Finally, we compare an exact and approximate testing procedures proposed
 above. The performance of the proposed procedures was examined through
 Monte Carlo simulations.
 
-<span>**Keywords**</span>. Clinical trial; Multivariate Bernoulli
+<span>**Keywords:**</span> Clinical trial; Multivariate Bernoulli
 distribution; Non-inferiority; Superiority.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
-:   Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
-    procedure of one-sided test in clinical trials with
-    multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
+Nakazuru, Y., Sozu, T., Hamada, C. and Yoshimura, I. (2014). A new
+procedure of one-sided test in clinical trials with
+multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
 
-:   Westfall PH and Troendle JF. (2008). Multiple testing with
-    minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
-
-
+Westfall PH and Troendle JF. (2008). Multiple testing with
+minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
 ## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {-}
@@ -1531,21 +1271,7 @@ Tanmay Sen^1^, Biswabrata Pradhan^2^, Yogesh Mani Tripathi^1^, and Ritwik Bhatta
 ^2^Indian Institute of Technology Patna<br />
 ^3^Indian Statistical Institute  Kolkata<br />
 </p>
-<span>**Bayesign optimum warranty length under Type-II unified hybrid
-censoring scheme**</span>
-
-Tanmay Sen$^1$, Biswabrata Pradhan$^2$, Yogesh Mani Tripathi$^{1}$ and
-Ritwik Bhattacharya$^{3}$
-
-$^1 \;$ Department of Mathematics, Indian Institute of Technology, Patna
-801106, India
-
-$^2 \;$ SQC and OR Unit, Indian Statistical Institute, 203 B.T. Road,
-Kolkata 700108, India
-
-$^3 \;$ Centro de Investigacionen Matematicas (CIMAT), Monterrey, Mexico
-
-<span>**Abstract**</span>.This work considers determination of optimum
+<span>**Abstract:**</span> This work considers determination of optimum
 warranty length under Type-II unified hybrid censoring scheme. Consumers
 are willing to purchase a highly reliable product with certain cost
 constraint. To assure the product reliability and also to remain
@@ -1565,10 +1291,8 @@ propose a non-linear prorate warranty policy and compare them with
 linear warranty policy. It is observed that non-linear prorate warranty
 policy give larger warranty length with maximum profit
 
-<span>**Keywords**</span>. Lognormal distribution, FRW/PRW policies,
+<span>**Keywords:**</span> Lognormal distribution, FRW/PRW policies,
 Optimum warranty length, MH algorithm
-
-Email- sentanmay518@gmail.com, Mob- 918084526317
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 098 Lecture Theatre (260-098)</p>
 ## Multiple Function-On-Function Linear Regression With Application To Weather Forecast Calibration {-}
@@ -1576,8 +1300,7 @@ Email- sentanmay518@gmail.com, Mob- 918084526317
 Min-Chia Huang, Xin-Hua Wang, and Lu-Hung Chen<br />
 National Chung Hsing University<br />
 </p>
-<span>**Abstract**</span>
-We suggest a direct approach to estimate the coefficient functions for
+<span>**Abstract:**</span> We suggest a direct approach to estimate the coefficient functions for
 function-on-function linear regression models. To avoid the risk of
 discarding useful information for regressions, the approach does not
 depend on basis representations or dimension reductions. It can
@@ -1593,13 +1316,7 @@ weather forecasts.
 Kien Tran<br />
 Victoria University of Wellington<br />
 </p>
-<span>**Abstract**</span>
-Modelling the distribution of lifetime using compound time-homogenous
-Poisson process
-
-Kien Trung Tran Victoria University of Wellington
-
-Modelling the distribution of lifetime has traditionally been done by
+<span>**Abstract:**</span> Modelling the distribution of lifetime has traditionally been done by
 constructing a deterministic function for the survival function and/or
 force of mortality. This paper outlines previous research and presents
 the author’s initial attempts to model the force of mortality and
@@ -1625,11 +1342,11 @@ random variable, then we can model the survival function of New Zealand
 population much better than several existing well-known specifications
 such as Weibull.
 
-Keyword: Distribution of lifetime, force of mortality, survival
+<span>**Keywords:**</span> Distribution of lifetime, force of mortality, survival
 function, time-homogenous compound Poisson process, innate lifetime, R
 simulation
 
-References
+<span>**References:**</span>
 
 Khmaladze, E (2013). Statistical methods with application to demography
 and life insurance. CRC Press.
@@ -1648,18 +1365,7 @@ Hang Xu^1^, Philip L.H. Yu^1^, and Mayer Alvo^2^<br />
 ^1^University of Ottawa<br />
 ^2^Unversity of Hong Kong<br />
 </p>
-<span>**Detecting Change-Points in the Stress-Strength Reliability
-$P(X<Y)$**</span>
-
-Hang Xu$^1$, Philip L.H. Yu$^1$ and Mayer Alvo$^2$
-
-$^1 \;$ Department of Statistics and Actuarial Science, The University
-of Hong Kong, Hong Kong
-
-$^2 \;$ Department of Mathematics and Statistics, University of Ottawa,
-Canada
-
-<span>**Abstract**</span>. We address the statistical problem of
+<span>**Abstract:**</span> We address the statistical problem of
 detecting change-points in the stress-strength reliability $R=P(X<Y)$ in
 a sequence of paired variables $(X,Y)$. Without specifying their
 underlying distributions, we embed this non-parametric problem into a
@@ -1677,7 +1383,7 @@ of the variables. Applications to real data demonstrate the usefulness
 of our proposed methodology for detecting the change-points in the
 stress-strength reliability R.
 
-<span>**Keywords**</span>. Multiple change-points detection;
+<span>**Keywords:**</span> Multiple change-points detection;
 Stress-strength model; Dynamic programming
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 Case Room 2 (260-057)</p>
@@ -1686,15 +1392,7 @@ Stress-strength model; Dynamic programming
 Andrew Butcher and Michael Slyuzberg<br />
 NZ Ministry of Justice<br />
 </p>
-<span>**Abstract**</span>
-New Zealand Crime and Victims Survey: filling the knowledge gaps
-
-Dr Andrew Butcher, Dr Michael Slyuzberg (corresponding author)
-
-New Zealand Ministry of Justice, Justice Centre, 19 Aitken Street, DX SX
-10088, Wellington
-
-The key objective of the Ministry of Justice is to ensure that New
+<span>**Abstract:**</span> The key objective of the Ministry of Justice is to ensure that New
 Zealand has a strong justice system that contributes to a safe and just
 society. To achieve this objective, the ministry and the wider Justice
 Sector need to know whether they are focusing their efforts in the right
@@ -1705,21 +1403,21 @@ The New Zealand Crime and Victims Survey (NZCVS) is introduced to fill
 this knowledge gap. The survey which is currently on the pilot phase was
 designed to meet the recommendations of Statistics New Zealand and key
 stakeholders’ demand. It will interview about 8,000 of New Zealand
-residents aged from 15 years old and aims to: \* provide information
+residents aged from 15 years old and aims to: provide information
 about the extent (volumes and prevalence) and nature of crime and
-victimisation in New Zealand \* provide geographical break-down of
-victimisation \* provide extensive victims’ demographics \* measure how
-much crime gets reported to Police \* understand the experiences of
-victims \* measure crime trends in New Zealand.
+victimisation in New Zealand; provide geographical break-down of
+victimisation; provide extensive victims’ demographics; measure how
+much crime gets reported to Police; understand the experiences of
+victims; measure crime trends in New Zealand.
 
 The paper summarises the core requirements to NZCVS obtained from
 extended discussions with key stakeholders and describes key design
 features to be implemented in order to meet these requirements. These
-key requirements include, but are not limited to: \* Measuring the
-extent and nature of reported and unreported crime across New Zealand \*
-Providing in-depth story-telling of victims’ experiences \* Providing
+key requirements include, but are not limited to: Measuring the
+extent and nature of reported and unreported crime across New Zealand;
+Providing in-depth story-telling of victims’ experiences; Providing
 frequent and timely information to support Investment Approach for
-Justice and wider decision making \* Reducing information gaps by
+Justice and wider decision making; Reducing information gaps by
 matching the NZCVS with administrative data in Statistics New Zealand’s
 Integrated Data Infrastructure (IDI).
 
@@ -1737,7 +1435,7 @@ important survey features.
 Rose Sisk and Alain Vandal<br />
 Auckland University of Technology<br />
 </p>
-Abstract: Missing data in Randomised Control Trials is usually
+<span>**Abstract:**</span> Missing data in Randomised Control Trials is usually
 unavoidable, but can present considerable issues to analysis in an
 Intention-to-Treat (ITT) setting. Multiple imputation is often regarded
 as the most appropriate method of handling missing data when compared

@@ -208,7 +208,7 @@
 </tr>
 <tr>
 <td class = "time">1030</td>
-<td class = "contributed">R&D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis<br/>Benjamin Montmartin</td>
+<td class = "contributed">R&amp;D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis<br/>Benjamin Montmartin</td>
 <td class = "contributed">Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data<br/>Samin Aref</td>
 <td class = "contributed">Family Structure And Academic Achievements Of High School Students In Tonga<br/>Losana Vao Latu Latu</td>
 <td class = "contributed">Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition<br/>Geoff Jones</td>
@@ -248,7 +248,7 @@
 <td class = "contributed">Whitebait In All Its Varieties: One Fish, Two Fish, Three, Four, Five Fish.<br/>Bridget Armstrong</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles<br/>Philip Prah</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Bayesian Continuous Space-Time Model Of Burglaries<br/>Paul Brown</td>
 <td class = "contributed">Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data<br/>Thomas Nowak</td>
 </tr>
 <tr>
@@ -441,7 +441,7 @@
 <td class = "contributed">Phylogenetic Tree-Based Microbiome Association Test<br/>Sungho Won</td>
 <td class = "contributed">Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation<br/>Beomseuk Hwang</td>
 <td class = "contributed">Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator<br/>Joong-Ho Won</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Tick-By-Tick Effect On The Inference Of Ultra-High Frequency Data<br/>Zhi Liu</td>
 <td class = "contributed">High Mortality Predictions With Lines Or Curves Fitted To Over-Dispersed Exposure-Mortality Data<br/>John Maindonald</td>
 </tr>
 <tr>
@@ -471,7 +471,7 @@
 <td class = "contributed">Computing Entropies With Nested Sampling<br/>Brendon Brewer</td>
 <td class = "contributed">Spline-Based Drift Models For High Temperature Operating Life Tests<br/>Thomas Nowak</td>
 <td class = "contributed">A New Approach To Distribution Free Tests In Contingency Tables<br/>Thuong Nguyen</td>
-<td class = "contributed">Bayesian Continuous Space-Time Model Of Burglaries<br/>Chaitanya Joshi</td>
+<td class = "contributed">Bayesian Semi-Parametric Approaches To Analyzing Temperature Trends<br/>Renate Meyer</td>
 <td class = "contributed">Modified Gene Shaving Algorithm - A Dimension Reduction And Clustering Method<br/>Donna Mae Santos</td>
 <td class = "contributed">NA</td>
 </tr>
@@ -581,7 +581,7 @@
 <td class = "contributed">NA</td>
 <td class = "contributed">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</td>
 <td class = "contributed">An Incomplete-Data Fisher Scoring With An Acceleration Method<br/>Keiji Takai</td>
-<td class = "contributed">NA</td>
+<td class = "contributed">Statistical Challenges For Proteogenomic Data Analysis<br/>Yusuke Matsui</td>
 <td class = "contributed">NA</td>
 <td class = "contributed">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</td>
 </tr>

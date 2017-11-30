@@ -5,22 +5,14 @@
 Hadley Wickham<br />
 RStudio<br />
 </p>
-<span>**Promoting your R package**</span>
-
-Hadley Wickham$^1$
-
-$^1 \;$ RStudio, Houston TX, USA.
-
-<span>**Abstract**</span>.
-
-Your new statistical or data science tool is much more likely to be used
+<span>**Abstract:**</span> Your new statistical or data science tool is much more likely to be used
 if you provide it in a convenient form, like an R package. But how do
 people find out that your R package exists? I’ll provide a comprehensive
 overview of the options, including creating excellent documentation
 (with roxygen2) and vignettes (with rmarkdown), creating a package
 website (with pkgdown), and promoting your work on social media.
 
-<span>**R packages, websites**</span>.
+<span>**Keywords:**</span> R packages, websites
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 OGGB4 (260-073)</p>
 ## A Smoothing Filter Modelling Approach For Time Series {-}
@@ -30,26 +22,13 @@ Marco Reale^1^, Granville Tunnicliffe Wilson^2^, and John Haywood^3^<br />
 ^2^University of Canterbury<br />
 ^3^Victoria University of Wellington<br />
 </p>
-<span>**A smoothing filter modelling approach for time series**</span>
-
-Granville Tunnicliffe Wilson$^1$, Marco Reale$^2$ and John Haywood$^3$
-
-$^1 \;$ Department of Mathematics and Statistics, Lancaster University,
-Lancaster, LA1 4YF, UK
-
-$^2 \;$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, Private Bag 4800, New Zealand
-
-$^3 \;$ School of Mathematics and Statistics, Victoria University of
-Wellington, PO Box 600, Wellington 6140 New Zealand
-
-<span>**Abstract**</span>. We introduce different representations of a
+<span>**Abstract:**</span> We introduce different representations of a
 new model for time series based on repeated application of a filter to
 the original data. They can represent correlation structure to higher
 lags with fewer coefficients and they can provide a robust prediction at
 higher lead times.
 
-<span>**Keywords**</span>. Time series, smooting, parsimonious models
+<span>**Keywords:**</span> Time series, smooting, parsimonious models
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 OGGB5 (260-051)</p>
 ## Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation {-}
@@ -58,17 +37,7 @@ Yongdai Kim^1^, Kuhwan Jeong^1^, Byungyup Kang^2^, and Hyoju Chung^2^<br />
 ^1^NAVER Corp.<br />
 ^2^Seoul National University<br />
 </p>
-<span>**Online Learning for Bayesian Nonparametrics: Weakly Conjugate
-Approximation**</span>
-
-Yongdai Kim$^1$, Kuhwan Jeong$^1$, Byungyup Kang$^2$ and Hyoju Chung$^2$
-
-$^1 \;$ Department of Statistics, Seoul National University, Seoul,
-South Korea
-
-$^2 \;$ NAVER Corp., Seongnam, South Korea
-
-<span>**Abstract**</span>. We propose a new online learning method for
+<span>**Abstract:**</span> We propose a new online learning method for
 Bayesian nonparametric (BNP) models so called <span>*weakly conjugate
 approximation*</span> (WCA). We consider classes of BNP priors which are
 weakly conjugate. Here, ‘weakly conjugate prior’ means that the
@@ -106,7 +75,7 @@ simulated/real data sets in Dirichlet process mixture models and
 hierarchical Dirichlet processes topic models. The proposed method shows
 better accuracy in our experiments.
 
-<span>**Keywords**</span>. online learning, weakly conjugate
+<span>**Keywords:**</span> online learning, weakly conjugate
 approximation, Dirichlet process mixture model, hierarchical Dirichlet
 processes
 <p class="pagebreak"></p>
@@ -116,13 +85,7 @@ processes
 Gareth Minshall and Chris Hansen<br />
 Stats NZ<br />
 </p>
-<span>**Improving the production cycle at Stats NZ with RStudio**</span>
-
-Gareth Minshall$^1$ and Chris Hansen$^1$
-
-$^1 \;$ Stats NZ, New Zealand
-
-<span>**Abstract**</span>. Stats NZ are looking to move away from the
+<span>**Abstract:**</span> Stats NZ are looking to move away from the
 collection and publication of stand-alone surveys to making use of a
 wide range of data sources and estimation strategies. A key component to
 enabling this change is to develop the infrastructure which allows
@@ -134,9 +97,11 @@ Stats NZ, and give examples demonstrating the types of innovation
 RStudio has enabled at Stats NZ to improve the way we produce and
 disseminate statistics.
 
-<span>**Keywords**</span>. Shiny, R Markdown, Official Statistics
+<span>**Keywords:**</span> Shiny, R Markdown, Official Statistics
 
-<span>**Acknowledgement**</span>. This work was supported by JSPS
+<span>**Acknowledgement:**</span>
+
+This work was supported by JSPS
 KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
@@ -146,17 +111,7 @@ Heewon Park^1^ and Sadanori Konishi^2^<br />
 ^1^Chuo University<br />
 ^2^Yamaguchi University<br />
 </p>
-<span>**Sparse Common Component Analysis**</span>
-
-Heewon Park$^1$ and Sadanori Konishi$^2$
-
-$^1 \;$ Faculty of Global and Science Studies, Yamaguchi University,
-Yamaguchi Prefecture, Japan
-
-$^2 \;$ Department of Mathematics, Faculty of Science and Engineering,
-Chuo University, Tokyo, Japan
-
-<span>**Abstract**</span>. Common component analysis (CCA) was proposed
+<span>**Abstract:**</span> Common component analysis (CCA) was proposed
 by generalizing techniques for principal component analysis (PCA) for a
 common basic structure identification (Wang et al., 2011). Although CCA
 can identify the common structure of multiple datasets, which cannot be
@@ -174,11 +129,10 @@ that the proposed CCA can incorporate sparsity into the common loading
 estimation, and recover a sparse common structure efficiently in
 multiple dataset analysis.
 
-<span>**Keywords**</span>. Common component analysis, $L_{1}$-type
+<span>**Keywords:**</span> Common component analysis, $L_{1}$-type
 regularized regression, Sparse non-centered principal component analysis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Wang, H., Banerjee, A. and Boley, D. (2011). Common component analysis
 for multiple covariance matrices. *Proceedings of the 17th ACM SIGKDD
@@ -191,14 +145,7 @@ International Conference on Knowledge Discovery and Data Mining*,
 Blair Robertson, Chris Price, and Marco Reale<br />
 University of Canterbury<br />
 </p>
-<span>**Random Search Global Optimization using Random Forests**</span>
-
-B. L. Robertson$^1$, C. J. Price$^1$ and M. Reale$^1$
-
-$^1 \;$ School of Mathematics and Statistics, University of Canterbury,
-Christchurch, NZ
-
-<span>**Abstract**</span>. The purpose of a global optimization
+<span>**Abstract:**</span> The purpose of a global optimization
 algorithm is to efficiently find an objective function’s global minimum.
 In this talk we consider bound constrained global optimization, where
 the search is performed in a box, denoted $\Omega$. The global
@@ -229,7 +176,7 @@ forest partition and sampling phases was an effective strategy for
 solving a variety of global optimization test problems. The authors are
 currently refining the method and extending the set of test problems.
 
-<span>**Keywords**</span>. Bound constrained optimization,
+<span>**Keywords:**</span> Bound constrained optimization,
 classification and regression trees (CART), stochastic optimization
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
@@ -238,14 +185,7 @@ classification and regression trees (CART), stochastic optimization
 Paul Murrell<br />
 University of Auckland<br />
 </p>
-<span>**gridSVG: Then and Now**</span>
-
-Paul Murrell $^1$
-
-$^1 $ Department of Statistics, The University of Auckland, Auckland,
-New Zealand
-
-<span>**Abstract**</span>. The <span><span>**gridSVG**</span></span>
+<span>**Abstract:**</span> The <span><span>**gridSVG**</span></span>
 package[@RJ-2014-013] was first developed in 2003 to experiment with
 features of the SVG format that were not available through a normal R
 graphics device[@R], such as hyperlinks and animation. A number of
@@ -264,7 +204,7 @@ have seen <span><span>**gridSVG**</span></span>’s patient wait for
 relevance ultimately rewarded and its desperate need for speed finally
 satisfied.
 
-<span>**Keywords**</span>. R, statistical graphics, SVG, accessibility
+<span>**Keywords:**</span> R, statistical graphics, SVG, accessibility
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 OGGB4 (260-073)</p>
 ## Probabilistic Outlier Detection And Visualization Of Smart Meter Data {-}
@@ -272,8 +212,7 @@ satisfied.
 Rob Hyndman<br />
 Monash University<br />
 </p>
-<span>**Abstract**</span>
-It is always a good idea to plot your data before fitting any models,
+<span>**Abstract:**</span> It is always a good idea to plot your data before fitting any models,
 making any predictions, or drawing any conclusions. But how do you
 actually plot data on thousands of smart meters, each comprising
 thousands of observations over time? We cannot simply produce time plots
@@ -320,15 +259,7 @@ other structure that might exist.
 Thi Thu Huong Pham, Darfiana Nur, and Alan Branford<br />
 Flinders University<br />
 </p>
-<span>**The joint models for nonlinear longitudinal and time-to-event
-data using penalized splines: A Bayesian approach**</span>
-
-Pham Thi Thu Huong$^1$ and Darfiana Nur$^1$ and Alan Branford$^1$
-
-$^1 \;$ The College of Science and Engineering, Flinders University of
-Australia at Tonsley, 1284 South Road, Tonsley, SA 5042, Australia
-
-<span>**Abstract**</span>. The joint models for longitudinal data and
+<span>**Abstract:**</span> The joint models for longitudinal data and
 time-to-event data have been introduced to measure the association
 between longitudinal data and survival time in clinical, epidemiological
 and educational studies.. The main aim of this talk is to estimate the
@@ -345,11 +276,10 @@ the prior sensitivity analysis for the baseline hazard rate and
 association parameters is performed following by simulations studies and
 a case study.
 
-<span>**Keywords**</span>. Bayesian analysis, Joint models, Longitudinal
+<span>**Keywords:**</span> Bayesian analysis, Joint models, Longitudinal
 data, MCMC algorithms, Prior sensitivity analysis, Survival data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 D. Rizopoulos, D. (2014). The R package JMbayes for fitting joint models
 for longitudinal and time-to- event data using MCMC. *Journal of
@@ -366,18 +296,7 @@ Nicoleta Caragea^1,2^ and Antoniade Ciprian Alexandru^2,1^<br />
 ^1^Ecological University of Bucharest<br />
 ^2^National Institute of Statistics<br />
 </p>
-<span>**R - A powerful analysis tool to improve Official Statistics in
-Romania**</span>
-
-Nicoleta Caragea$^1$ and Antoniade Ciprian Alexandru$^2$
-
-$^1 \;$ National Institute of Statistics / Ecological University of
-Bucharest, Bucharest, ROMANIA
-
-$^2 \;$ Ecological University of Bucharest / National Institute of
-Statistics, Bucharest, ROMANIA
-
-<span>**Abstract**</span>. This presentation is focused on how R is used
+<span>**Abstract:**</span> This presentation is focused on how R is used
 in Romanian official statistics to improve the quality of results
 provided by different statistical data sources on the base of
 administrative data. Some benefits for statistical analysis come when it
@@ -393,7 +312,7 @@ researchers from academia and institutes of statistics. It is also a
 continuous work to develop statistics based on Big Data, Romania being
 part of the ESSnet Big Data Project.
 
-<span>**Keywords**</span>. R package, data sources, statistics, matching
+<span>**Keywords:**</span> R package, data sources, statistics, matching
 method, linkage method
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
@@ -403,18 +322,7 @@ Liang-Ching Lin^1^, Ray Bing Chen^1^, Mong-Na Lo Huang^2^, and Meihui Guo^2^<br 
 ^1^National Cheng Kung University<br />
 ^2^National Sun Yat-sen University<br />
 </p>
-<span>**Robust Principal Expectile Component Analysis**</span>
-
-Liang-Ching Lin$^{*1}$, Ray Bing Chen$^1$, Mong-Na Lo Huang$^2$ and
-Meihui Guo$^2$
-
-$^1  \;$ Department of Statistics, National Cheng Kung University,
-Tainan, Taiwan
-
-$^2 \;$ Department of Applied Mathematics, National Sun Yat-sen
-University, Kaohsiung, Taiwan
-
-<span>**Abstract**</span>. Principal component analysis (PCA) is widely
+<span>**Abstract:**</span> Principal component analysis (PCA) is widely
 used in dimensionality reduction for high-dimensional data. It
 identifies principal components by sequentially maximizing the component
 score variance around the mean. However, in many applications, one is
@@ -429,11 +337,10 @@ particle swarm optimization (PSO), is used to find HPECs. As a
 demonstration, HPEC is applied to real and simulated data with
 encouraging results.
 
-<span>**Keywords**</span>. asymmetric norm, expectile, Huber’s
+<span>**Keywords:**</span> asymmetric norm, expectile, Huber’s
 criterion, particle swarm optimization, principle component
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tran, N. M., Burdejová, P., Osipenko, M. and Hárdle, W. K. (2016).
 *Principal Component Analysis in an Asymmetric Norm.* SFB 649 Discussion
@@ -446,52 +353,36 @@ Berlin, Germany.
 Murray Jorgensen<br />
 Auckland University of Technology<br />
 </p>
-<span>**Bringing Multimix from Fortran to R**</span>
+<span>**Abstract:**</span> Multimix is the name for a class of multivariate finite mixture models
+designed with clustering (<span>*unsupervised learning*</span>)
+in mind. It is also a name for a program to fit these models,
+written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
 
-Murray Jorgensen$^1$
+Why convert to R? Although written in the 1990s Multimix is easy to convert to modern
+GNU Fortran (gfortran) but there are advantages to having an R
+version available. For users this means a simpler way of reading in
+the data and describing the form of the model. Also for ongoing
+development of improvement and modifications of the Multimix models.
+R’s interactive environment provides a more comfortable place
+for experimentation.
 
-$^1 \;$ Department of Mathematical Sciences, Auckland University of
-Technology, 55 Wellesley St E, Auckland, 1010, New Zealand
+Designing the new program. Rather than attempt any sort of translation of the old code, the new
+R version of Multimix is designed from the beginning as an
+R program. In my talk I will describe some of the design decisions
+made and the reasons for them. A particular concern was that the R
+version be as fast as possible.
 
-<span>**Abstract**</span>.
-
- Multimix
-
-:   is the name for a class of multivariate finite mixture models
-    designed with clustering (<span>*unsupervised learning*</span>)
-    in mind. It is also a name for a program to fit these models,
-    written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
-
- Why convert to R?
-
-:   Although written in the 1990s Multimix is easy to convert to modern
-    GNU Fortran (gfortran) but there are advantages to having an R
-    version available. For users this means a simpler way of reading in
-    the data and describing the form of the model. Also for ongoing
-    development of improvement and modifications of the Multimix models.
-    R’s interactive environment provides a more comfortable place
-    for experimentation.
-
-Designing the new program
-
-:   Rather than attempt any sort of translation of the old code, the new
-    R version of Multimix is designed from the beginning as an
-    R program. In my talk I will describe some of the design decisions
-    made and the reasons for them. A particular concern was that the R
-    version be as fast as possible.
-
- How to package up the new program?
-
-:   Two versions of Multimix in R have been developed, a
-    <span>*global*</span> version with many global variables employed,
-    and a <span>*nested*</span> version restricting the scope of
-    variables to the surrounding function. The pluses and minuses of
-    each approach will be described.
+How to package up the new program?
+Two versions of Multimix in R have been developed, a
+<span>*global*</span> version with many global variables employed,
+and a <span>*nested*</span> version restricting the scope of
+variables to the surrounding function. The pluses and minuses of
+each approach will be described.
 
 I am conscious that I may not always have made the best design decisions
 and comments from others will be welcomed.
 
-<span>**Keywords**</span>. multivariate finite mixture models,
+<span>**Keywords:**</span> multivariate finite mixture models,
 clustering, package, global, local
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB4 (260-073)</p>
@@ -500,14 +391,7 @@ clustering, package, global, local
 Oyebimpe Adeniji, Olarenwaju Shittu, and Kazeeem Adepoju<br />
 University of Ibadan<br />
 </p>
-SPECIFICATION OF GARCH MODEL UNDER ASYMMETRIC ERROR INNOVATIONS Oyebimpe
-E. Adeniji 1 , Olarenwaju I. Shittu2 , and Adesola K. Adepoju3
-Department of Statistics, University of Ibadan, Oyo State, Nigeria
-emmanuel4444real@yahoo.com oi.shittu@gmail.com, kazeemadepoju2@gmail.com
-
-ABSTRACT
-
-An empirical analysis of the mean return and conditional variance of
+<span>**Abstract:**</span> An empirical analysis of the mean return and conditional variance of
 Nigeria Stock Exchange (NSE) index is performed using various error
 innovations in GARCH models. Conventional GARCH model which assumed
 normal error term failed to capture volatility clustering, leptokurtosis
@@ -521,8 +405,8 @@ fat-tailed densities improves overall estimation for measuring
 conditional variance. The GARCH model using Beta-Skewed-t distribution
 is the most successful for forecasting NSE index.
 
-Keywords: GARCH , Nigeria stock index , Maximum Lilkelihood Estimation
-(MLE) and Beta Skewed -t distributions.
+<span>**Keywords:**</span> GARCH, Nigeria stock index, Maximum Lilkelihood Estimation
+(MLE), Beta Skewed -t distributions
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB5 (260-051)</p>
 ## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {-}
@@ -530,15 +414,7 @@ Keywords: GARCH , Nigeria stock index , Maximum Lilkelihood Estimation
 Shin Sato and Darfiana Nur<br />
 Flinders University<br />
 </p>
-<span>**Bayesian Analyses of Non-homogeneous Gaussian Hidden Markov
-Models**</span>
-
-Shin Sato$^1$ and Darfiana Nur$^1$
-
-$^1 \;$ College of Science and Engineering, Flinders University at
-Tonsley, 1284 South Rd, Clovelly Park, SA 5042, Australia
-
-<span>**Abstract**</span>. We investigate a non-homogeneous Gaussian
+<span>**Abstract:**</span> We investigate a non-homogeneous Gaussian
 hidden Markov model where the model assumes the transition probabilities
 between the hidden states depend on each discrete-time. The methodology
 of the statistical inference for the model follows the Bayesian approach
@@ -556,12 +432,11 @@ case study, the model was implemented on a data set of the monthly US
 which the settings are identical to that of Meligkotsidou and
 Dellaportas’s (2011), except for the algorithm.
 
-<span>**Keywords**</span>. Non-homogeneous hidden Markov model, Bayesian
+<span>**Keywords:**</span> Non-homogeneous hidden Markov model, Bayesian
 inference, Markov chain Monte Carlo methods, Metropolis-Hastings
 algorithms
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
 with time-varying transition probabilities. *Business Cycles: Durations,
@@ -577,18 +452,7 @@ models. *Journal of Statistical Computation and Simulation*, **76**(8),
 Matthias Templ<br />
 Zurich University of Applied Sciences<br />
 </p>
-**Statistical Disclosure Control with R:\
-Traditional Methods and\
-**
-
-Synthetic Data
-
-Matthias Templ$^1$
-
-$^1 \;$ Institute for Data Analysis and Process Design, Zurich
-University of Applied Sciences, Winterthur, CH-8404, Switzerland
-
-<span>**Abstract**</span>. The demand for and volume of data from
+<span>**Abstract:**</span> The demand for and volume of data from
 surveys, registers or other sources containing sensible information on
 persons or enterprises have increased significantly over the last
 several years. At the same time, privacy protection principles and
@@ -608,11 +472,10 @@ be provided as public-use files. The strength and weakness of the
 methods are highlighted and an (brief) application to the Euorpean
 Statistics of Income and Living Condition Survey is given.
 
-<span>**Keywords**</span>. Statistical Disclosure Control,
+<span>**Keywords:**</span> Statistical Disclosure Control,
 Anonymization, Disclosure Risk, Synthetic Data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Templ, M. (2017). *Statistical Disclosure Control for Microdata. Methods
 and Applications in R*, Springer International Publishing.
@@ -632,15 +495,7 @@ Software*, 79(10), 1-38. doi:10.18637/jss.v079.i10
 Hidetoshi Murakami<br />
 Tokyo University of Science<br />
 </p>
-<span>**A Max-Type Multivariate Two-Sample Baumgartner
-Statistic**</span>
-
-Hidetoshi Murakami$^1$
-
-$^1 \;$ Department of Applied Mathematics, Tokyo University of Science\
-1-3 Kagurazaka, Shinjyuku-ku, Tokyo, 162-8601, Japan
-
-<span>**Abstract**</span>. A multivariate two-sample testing problem is
+<span>**Abstract:**</span> A multivariate two-sample testing problem is
 one of the most important topics in nonparametric statistics. Further, a
 max-type Baumgartner statistic based on the modified Baumgartner
 statistic (Murakami, 2006) was proposed by Murakami (2012) for testing
@@ -653,11 +508,10 @@ indicate that the proposed test statistic is more suitable than various
 existing statistics for testing a shift in the location, scale and
 location-scale parameters.
 
-<span>**Keywords**</span>. Baumgartner statistic, Jurečková & Kalina’s
+<span>**Keywords:**</span> Baumgartner statistic, Jurečková & Kalina’s
 ranks of distances, Multivariate two-sample rank test, Power comparison
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Jurečková, J. and Kalina, J. (2012). Nonparametric multivariate rank
 tests and their unbiasedness. <span>*Bernoulli*</span>, **18**, 229–251.
@@ -677,14 +531,7 @@ of Computational Statistics*</span>, **25**, 39–49.
 Philip Yu and Yaohua Tang<br />
 Unversity of Hong Kong<br />
 </p>
-<span>**Deep Learning High-Dimensional Covariance Matrices**</span>
-
-Philip L.H. Yu$^1$ and Yaohua Tang$^1$
-
-$^1 \;$ Department of Statistics and Actuarial Science, The University
-of Hong Kong, Hong Kong, China
-
-<span>**Abstract**</span>. Modeling and forecasting covariance matrices
+<span>**Abstract:**</span> Modeling and forecasting covariance matrices
 of asset returns play a crucial role in finance. The availability of
 high frequency intraday data enables the modeling of the realized
 covariance matrix directly. However, most models in the literature
@@ -696,11 +543,10 @@ provides superior accuracy compared with several advanced statistical
 methods. The model could handle both low-dimensional and
 high-dimensional realized covariance matrices.
 
-<span>**Keywords**</span>. Deep learning, Realized covariance matrix,
+<span>**Keywords:**</span> Deep learning, Realized covariance matrix,
 Convolutional neural network
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 LeCun, Y., Bottou, L., Bengio, Y. and Haffner, P. (1998). Gradient-based
 learning applied to document recognition. In *Proceedings of the IEEE*,
@@ -719,11 +565,7 @@ inference via combining low-frequency and high-frequency approaches.
 Glenn Thomas<br />
 Harmonic Analytics<br />
 </p>
-<span>**Abstract**</span>
-Title: R in Industry-Application on Pipe Renewal Planning Speaker: Glenn
-Thomas, Data Scientist, Harmonic Analytics
-
-R has become an increasingly used tool in industry to practically help
+<span>**Abstract:**</span> R has become an increasingly used tool in industry to practically help
 councils and organisations with their asset management challenges. We
 will demonstrate some of the practical tools Harmonic Analytics has
 developed using R to assist in asset management.
@@ -751,15 +593,7 @@ in collaboration and pooling data to improve accuracy.
 Dedi Rosadi<br />
 Universitas Gadjah Mada<br />
 </p>
-<span>**Empirical comparison of some algorithms for automatic univariate
-ARMA modeling using RcmdrPlugin.SPSS**</span>
-
-Dedi Rosadi
-
-Department of Mathematics, Computational Statistics Research Grup,
-Universitas Gadjah Mada, INDONESIA
-
-<span>**Abstract**</span>. In some application of time series modeling,
+<span>**Abstract:**</span> In some application of time series modeling,
 it is necessary to obtain forecast of various types of data
 automatically and possibly, in real-time. For instances, to forecast
 large number of univariate series every day, or to do a real-time
@@ -783,11 +617,10 @@ and the tool. From some empirical studies, we found that for ARMA data,
 the method based on genetic algorithm performs better than the other
 approaches.
 
-<span>**Keywords**</span>. Automatic ARMA modeling, genetic algorithm,
+<span>**Keywords:**</span> Automatic ARMA modeling, genetic algorithm,
 exponential smoothing, X-13-ARIMA, R-GUI
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Abo-Hammour, Z. E. S., Alsmadi, O. M., Al-Smadi, A. M., Zaqout, M. I., &
 Saraireh, M. S. (2012). ARMA model order and parameter estimation using
@@ -812,18 +645,7 @@ Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
 ^1^Institute of Statistical Mathematics<br />
 ^2^Mie University Hospital<br />
 </p>
-<span>**Performance of Bayesian Credible Interval for Binomial
-Proportion using Logit Transformation**</span>
-
-Toru Ogura$^1$ and Takemi Yanagimoto$^2$
-
-$^1 \;$ Clinical Research Support Center, Mie University Hospital,
-2-174, Edobashi, Tsu, Mie, Japan
-
-$^2 \;$ Institute of Statistical Mathematics, 10-3, Midori-cho,
-Tachikawa, Tokyo, Japan
-
-<span>**Abstract**</span>. The confidence or the credible interval of
+<span>**Abstract:**</span> The confidence or the credible interval of
 the binomial proportion $p$ is one of most widely employed statistical
 analysis methods, and a variety of methods have been proposed. The
 Bayesian credible interval attracts recent researches’ attentions. One
@@ -845,12 +667,11 @@ to confirm its favorable performance, especially when the observed
 number is small, such as 0 or 1. Practical datasets are analyzed to
 examine the potential usefulness for applications in medical fields.
 
-<span>**Keywords**</span>. Bayesian credible interval, binomial
+<span>**Keywords:**</span> Bayesian credible interval, binomial
 proportion, highest posterior density interval, logit transformation,
 zero count
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
 Measures of Effect Size*. Florida: Chapman and Hall/CRC.
@@ -863,20 +684,7 @@ Kazumi Wada^1^, Hiroe Tsubaki^2^, Yukako Toko^1^, and Hidemine Sekino^3^<br />
 ^2^National Statistics Center<br />
 ^3^The Statistics Bureau<br />
 </p>
-<span>**Imputation of the 2016 Economic Census for Business Activity in
-Japan**</span>
-
-Kazumi WADA$^1$, Hiroe TSUBAKI$^2$, Yukako TOKO$^1$ and\
-Hidemine SEKINO$^3$
-
-$^1 \;$ National Statistics Center, Japan
-
-$^2 \;$ National Statistics Center, Japan / The Institute of Statistical
-Mathematics
-
-$^3 \;$ The Statistics Bureau, Japan
-
-<span>**Abstract**</span>.\
+<span>**Abstract:**</span>
 R has been used in the field of official statistics in Japan for over
 ten years. This presentation takes up the case of the 2016 Economic
 Census for Business Activity. The Census aims to identify the structure
@@ -888,8 +696,8 @@ such as sales, expenses and salaries, surveyed by the census require
 imputation to avoid bias. Although ratio imputation is a leading
 candidate, it is well known that the ratio estimator is very sensitive
 to outliers; therefore, we need to take appropriate measures for this
-problem.\
-\
+problem.
+
 Ratio imputation is a special case of regression imputation; however,
 the conventional ratio estimator has a heteroscedastic error term, which
 is the obstacle of robustification by means of M-estimation. New robust
@@ -901,18 +709,19 @@ and fast to converge. The proposed robustified ratio estimator broadens
 the conventional definition of the ratio estimator with regards to the
 variance of the error term in addition to effectively alleviating the
 influence of outliers. The application of the robust estimator is
-expected to contribute to the accuracy of the Census results.\
-\
+expected to contribute to the accuracy of the Census results.
+
 An random number simulation to confirm the characteristics of these
 estimators, deciding imputation domains by CART (classification and
 regression tree), model selection and preparing necessary rates by
 domain for the census data processing are conducted within the R
-programming environment.\
+programming environment.
 
-<span>**Keywords**</span>. GNU R, Outlier, Iteratively reweighted least
+<span>**Keywords:**</span> GNU R, Outlier, Iteratively reweighted least
 squares, Ratio estimator, Official statistics
 
-<span>**Acknowledgement**</span>.\
+<span>**Acknowledgement:**</span>
+
 This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
@@ -922,20 +731,7 @@ Takahiro Nishiyama^1^ and Masashi Hyodo^2^<br />
 ^1^Osaka Prefecture University<br />
 ^2^Senshu University<br />
 </p>
-<span>**Abstract**</span>
-<span>**Simultaneous test for mean vectors and covariance matrices in
-high-dimensional settings**</span>
-
-Takahiro Nishiyama$^1$ and Masashi Hyodo$^2$
-
-$^1 \;$ Department of Business Administration, Senshu University, 2-1-1,
-Higashimita, Tama-ku, Kawasaki-shi, Kanagawa 214-8580, Japan
-
-$^2 \;$ Department of Mathematical Sciences, Graduate School of
-Engineering, Osaka Prefecture University, 1-1 Gakuen-cho, Naka-ku,
-Sakai, Osaka 599-8531, Japan
-
-Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
+<span>**Abstract:**</span> Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
 $\ldots$, ${\mbox{\boldmath ${X}$}}_{gn_g}$ be i.i.d. random samples of
 size $n_{g}$ from a $p$-dimensional population $\Pi_g$
 ($g \in \{1, 2\}$) with
@@ -957,11 +753,10 @@ statistic and investigate the asymptotic sizes and powers of the
 proposed test. Finally, we study the finite sample and dimension
 performance of this test via Monte Carlo simulations.
 
-<span>**Keywords**</span>. Asymptotic distribution, High-dimensional
+<span>**Keywords:**</span> Asymptotic distribution, High-dimensional
 data analysis, Testing hypothesis
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Chen, S.X. and Qin, Y.L. (2010). A two-sample test for high dimensional
 data with applications to gene-set testing. *Ann. Statist.*, **38**,
@@ -976,14 +771,7 @@ covariance matrices. *Ann. Statist.*, **40**, 908–940.
 Yuan-Chin Chang<br />
 Academia Sinica<br />
 </p>
-<span>**Applying Active Learning Procedure to Drug Consumption
-Data**</span>
-
-Bao-Shiang Ke$^1$ and Yuan-chin Ivan Chang$^2$
-
-$^2 \;$ Institute of Statistical Science Academia Sinica, Taipei, Taiwan
-
-<span>**Abstract**</span>. We apply the method of active learning to
+<span>**Abstract:**</span> We apply the method of active learning to
 build a binary classification model for drug consumption data. Due to
 the nature of active learning, subject selection is an major issue is
 its learning process. There are many kinds of subject selection schemes
@@ -1001,24 +789,16 @@ index to locate the most informative samples, sequentially, such that
 the learning procedure can achieve the target efficiently. We then apply
 our procedure to drug consumption data sets.
 
-<span>**Keywords**</span>. ROC curve, area under curve, active learning,
+<span>**Keywords:**</span> ROC curve, area under curve, active learning,
 influential index
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
-Calders and Jaroszewicz, 2007
+Calders, T. and Jaroszewicz, S. (2007).
+Efficient auc optimization for classification. In <span>*Knowledge
+Discovery in Databases: PKDD 2007*</span>, pages 42–53. Springer.
 
-:   <span>Calders2007</span> Calders, T. and Jaroszewicz, S. (2007).
-    Efficient auc optimization for classification. In <span>*Knowledge
-    Discovery in Databases: PKDD 2007*</span>, pages 42–53. Springer.
-
-Hampel, 1974
-
-:   <span>hampel</span> Hampel, F. R. (1974). The influence curve and
-    its role in robust estimation. , 69(346):383–393.
-
-
+Hampel, F. R. (1974). The influence curve and its role in robust estimation. , 69(346):383–393.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 098 Lecture Theatre (260-098)</p>
 ## R For Everything {-}
@@ -1026,24 +806,17 @@ Hampel, 1974
 Jared Lander<br />
 Lander Analytics<br />
 </p>
-<span>**R for Everything**</span>
-
-Jared P. Lander$^1$
-
-$^1 \;$ Lander Analytics and Columbia University New York, NY USA
-
-<span>**Abstract**</span>. Everyone knows I love R. So much that I never
+<span>**Abstract:**</span> Everyone knows I love R. So much that I never
 want to leave the friendly environs of R and RStudio. Want to download a
 file? Use `download.file`. Want to create a directory? Use `dir.create`.
 Sending an email? `gmailr`. Using Git? `git2r`. Building this slideshow?
 `rmarkdown`. Writing a book? `knitr`. Let’s take a look at everyday
 activities that can be done in R.
 
-<span>**Keywords**</span>. R, RMarkdown, knitr, email, football, git,
+<span>**Keywords:**</span> R, RMarkdown, knitr, email, football, git,
 download, data, plotting, modeling, logistic regression
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Lander, J. (2017). *R for Everyone, Second Edition.* New York:
 Addison-Wesley.
@@ -1054,9 +827,7 @@ Addison-Wesley.
 Anupama Lakshmanan and Shubhabrata Das<br />
 Indian Institute of Management Bangalore<br />
 </p>
-**Abstract**
-
-Complex multiple seasonality is an important emerging challenge in time
+<span>**Abstract:**</span> Complex multiple seasonality is an important emerging challenge in time
 series forecasting. We propose a framework that segregates the task into
 two stages. In the first stage, the time series is aggregated at the low
 frequency level (such as daily or weekly) and suitable methods such as
@@ -1078,9 +849,9 @@ will be facilitated. Forecast combination may also be integrated with
 the developed routine. The schematics will be presented along with
 demonstration of the package in several real data sets.
 
-Keywords: Additive seasonality, ARIMA, forecast combination, high
+<span>**Keywords:**</span> Additive seasonality, ARIMA, forecast combination, high
 frequency, low frequency, multiplicative seasonality, polynomial
-seasonality, regression, TBATS, trigonometric seasonality.
+seasonality, regression, TBATS, trigonometric seasonality
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
 ## Analysis Of Official Microdata Using Secure Statistical Computation System {-}
@@ -1090,17 +861,7 @@ Kiyomi Shirakawa^1,3^, Koji Chida^2^, Satoshi Takahashi^2^, Satoshi Tanaka^2^, R
 ^2^NTT<br />
 ^3^Hitotsubashi University<br />
 </p>
-<span>**Analysis of Official Microdata Using Secure Statistical
-Computation System** </span>
-
-Kiyomi SHIRAKAWA$^1$, Koji CHIDA$^2$, Satoshi TAKAHASHI$^2$, Satoshi
-TANAKA$^2$, Ryo KIKUCHI$^2$ and Dai IKARASHI$^2$
-
-$^1 \;$ National Statistics Center, Japan / Hitotsubashi University
-
-$^2 \;$ NTT Secure Platform Laboratories
-
-<span>**Abstract**</span>. We introduce some important functions on a
+<span>**Abstract:**</span> We introduce some important functions on a
 secure computation system and empirically evaluate them using the
 statistical computing software R. The secure computation is a
 cryptographic technology that enables us to operate data while keeping
@@ -1119,7 +880,7 @@ using the R script language. A demonstration experiment to verify the
 practicality and scalability of the system in the field of official
 statistics is also in our scope.
 
-<span>**Keywords**</span>. Secure Computation, Security, Privacy, Big
+<span>**Keywords:**</span> Secure Computation, Security, Privacy, Big
 Data, Official Statistics, R
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 Case Room 3 (260-055)</p>
@@ -1129,18 +890,7 @@ Mitsuru Tamatani^1^ and Kanta Naito^2^<br />
 ^1^Doshisha University<br />
 ^2^Shimane University<br />
 </p>
-<span>**High Dimensional Asymptotics for the Naive Canonical Correlation
-Coefficient**</span>
-
-Mitsuru Tamatani$^1$ and Kanta Naito$^2$
-
-$^1 \;$ Faculty of Culture and Information Science, Doshisha University,
-Japan
-
-$^2 \;$ Graduate school of science and engineering, Shimane University,
-Japan
-
-<span>**Abstract**</span>. In this talk we investigate the asymptotic
+<span>**Abstract:**</span> In this talk we investigate the asymptotic
 behavior of the estimated naive canonical correlation coefficient under
 the normality assumption and High Dimension Low Sample Size (HDLSS)
 settings. In general, canonical correlation matrix is associated with
@@ -1155,11 +905,10 @@ normality of the estimated naive canonical correlation coefficient, and
 compare the results of our numerical studies to the theoretical
 asymptotic results.
 
-<span>**Keywords**</span>. High dimension low sample size, Naive
+<span>**Keywords:**</span> High dimension low sample size, Naive
 canonical correlation coefficient, Asymptotic normality
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tamatani, M., Koch, I. and Naito, K. (2012). *Journal of Multivariate
 Analysis*, **111**, 350–367.
@@ -1176,9 +925,7 @@ Fan, J. and Fan, Y. (2008). *The Annals of Statistics*, **36**,
 Martin Upsdell<br />
 AgResearch<br />
 </p>
-Presenting Flexi: A Statistical Program for Fitting Variance Models
-Martin Upsdell, AgResearch, Ruakura Research Centre, Hamilton, New
-Zealand Abstract Flexi is a statistical program designed to fit variance
+<span>**Abstract:**</span> Flexi is a statistical program designed to fit variance
 based models. In this talk I will explore the advantages and
 disadvantages of the variance based model compared to the more commonly
 adopted mean based approach. Several examples will be given where the
@@ -1217,19 +964,7 @@ Kenichi Hayashi^1^, Katsuhiro Omae^2^, and Shinto Eguchi^3^<br />
 ^2^Keio University<br />
 ^3^The Graduate University for Advanced Studies<br />
 </p>
-<span>**Cluster-wise regression models combined by a quasi-linear
-function** </span>
-
-Kenichi Hayashi$^{1*}$, Katsuhiro Omae$^{2}$ and Shinto Eguchi$^3$
-
-$^1 \;$ Department of Mathematics, Keio University, Yokohama, Japan
-
-$^2 \;$ Department of Statistical Science, The Graduate University for
-Advanced Studies, Tokyo, Japan
-
-$^3 \;$ The Institute of Statistical Mathematics, Tokyo, Japan
-
-<span>**Abstract**</span>. Suppose that there are multiple heterogeneous
+<span>**Abstract:**</span> Suppose that there are multiple heterogeneous
 subgroups in a dataset. In the “Big data” era, this would be a natural
 assumption for many fields of application such as medicine, biology,
 marketing, psychology, etc. Then, conventional linear regression models
@@ -1245,11 +980,10 @@ the proposed model has flexibility in clustering and “averaging”
 multiple regressors and hence includes the existing methods such as
 Späth (1981), DeSarbo et al. (1989) as special cases.
 
-<span>**Keywords**</span>. Cluster-wise regression, Generalized linear
+<span>**Keywords:**</span> Cluster-wise regression, Generalized linear
 models, Population heterogeneity
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 DeSarbo, W.S., Oliver, R.L., and Rangaswamy, A. (1989). A simulated
 annealing methodology for clusterwise linear regression.
@@ -1266,21 +1000,7 @@ Sungkyoung Choi^1^, Seungyeoun Lee^2^, and Taesung Park^3^<br />
 ^2^Seoul National University<br />
 ^3^Yonsei University<br />
 </p>
-<span>**Hierarchical Structural Component Analysis of Gene-Environment
-Interactions**</span>
-
-Sungkyoung Choi$^1$ , Seungyeoun Lee$^2$, and Taesung Park$^3$
-
-$^1 \;$ 1Department of Pharmacology, Yonsei University College of
-Medicine, Seoul, Korea
-
-$^2 \;$ Department of Mathematics and Statistics, Sejong University,
-Seoul, Korea
-
-$^3 \;$ Department of Statistics, Seoul National University, Seoul,
-Korea
-
-<span>**Abstract**</span>. Gene-environment interactions (GEI) are known
+<span>**Abstract:**</span> Gene-environment interactions (GEI) are known
 to be one possible avenue for addressing the missing heritability
 problem in genome-wide association studies (GWAS). Although many
 statistical methods have been proposed for identifying and analyzing
@@ -1299,7 +1019,7 @@ cohort data of the Korea Associated Resource (KARE) consortium to
 identify GEIs between genes and alcohol intake on the blood pressure
 traits.
 
-<span>**Keywords**</span>. Gene-environment interaction, SNP, gene, GWAS
+<span>**Keywords:**</span> Gene-environment interaction, SNP, gene, GWAS
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 OGGB5 (260-051)</p>
 ## Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series {-}
@@ -1308,18 +1028,7 @@ Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
 ^1^Boise State University<br />
 ^2^Yonsei University<br />
 </p>
-<span>**Wavelet-based Power Transformation of non-Gaussian Long Memory
-Time Series**</span>
-
-Kyungduk Ko$^1$ and Chul Eung Kim$^2$
-
-$^1 \;$ Department of Mathematics, Boise State University, Boise, ID
-83725, USA
-
-$^2 \;$ Department of Applied Statistics, Yeonsei University, Seoul,
-Korea
-
-<span>**Abstract**</span>. We consider a power transformation through
+<span>**Abstract:**</span> We consider a power transformation through
 the well-known Box-cox transformation to induce normality from
 non-Gaussian long memory processes and propose a Bayesian method to
 simultaneously estimate the transformation parameter and long memory
@@ -1330,11 +1039,10 @@ data domain. For a joint estimation of the parameters of interest,
 posterior estimations are carried out via Markov chain Monte Carlo
 (MCMC). An application to German stock return data is presented.
 
-<span>**Keywords**</span>. Box-Cox transformation, Discrete wavelet
+<span>**Keywords:**</span> Box-Cox transformation, Discrete wavelet
 transform, Long memory, MCMC, Normality
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Dahlhaus, R. (1990). Efficient location and regression estimation for
 long range dependent regression models. *Annuals of Statistics*, 23,
@@ -1354,17 +1062,7 @@ Johan Lim^1^, Hiromi Koh^2^, and Hyungwon Choi^2^<br />
 ^1^National University of Singapore<br />
 ^2^Seoul National University<br />
 </p>
-<span>**Cross covariance estimation for integration of multi-omics
-data**</span>
-
-Johan Lim$^1$, Hiromi Koh$^2$, and Hyungwon Choi$^{2}$
-
-$^1 \;$ Department of Statistics, Seoul National University, Seoul,
-Korea
-
-$^2 \;$ School of Public Health, National University of Singapore
-
-<span>**Abstract**</span>. In integrative analysis of multiple types of
+<span>**Abstract:**</span> In integrative analysis of multiple types of
 -omics data, it is often of interest to infer associations between two
 different types of molecules. The prevailing analysis methods depend on
 ensemble of brute-force pairwise univariate association tests between
@@ -1389,10 +1087,9 @@ regulation and the rest. We applied the method to epigenetic regulation
 analysis of mRNA expression by DNA methylation in the The Cancer Genome
 Atlas invasive breast cancer cohort.
 
-<span>**Keywords**</span>. Cross covariance matrix, data integration.
+<span>**Keywords:**</span> Cross covariance matrix, data integration.
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Simon, N., Friedman, J. and Hastie, T. (2013). *A Blockwise Descent
 Algorithm for Group-penalized Multiresponse and Multinomial Regression*
@@ -1405,18 +1102,7 @@ Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 Steven Miller and Andreea Calude<br />
 University of Waikato<br />
 </p>
-<span>**Relationships between linguistic characteristics and the use of
-Māori loanwords in New Zealand English.**</span>
-
-Steven Miller$^1$ and Andreea Calude$^2$
-
-$^1 \;$ Department of Mathematics and Statistics, University of Waikato,
-Hamilton, New Zealand
-
-$^2 \;$ General and Applied Linguistics Programme, University of
-Waikato, Hamilton, New Zealand
-
-<span>**Abstract**</span>. We present the initial results from a project
+<span>**Abstract:**</span> We present the initial results from a project
 looking at the linguistic and socio-linguistic characteristics that
 affect the prevalence of Māori loanwords in the use of New Zealand
 English, and describe the paths we see this research taking in the next
@@ -1444,7 +1130,7 @@ We will briefly describe the next phase of the research that will use
 network modelling to characterise the use of Māori loanwords in written
 media.
 
-<span>**Keywords**</span>. Linguistics, loanwords, Māori, GLMM
+<span>**Keywords:**</span> Linguistics, loanwords, Māori, GLMM
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 4 (260-009)</p>
 ## Transfer Regression And Predictive Distributions {-}
@@ -1453,16 +1139,7 @@ Shigetoshi Hosaka^1^ and Jinfang Wang^2^<br />
 ^1^Chiba University<br />
 ^2^Hosaka Clinic of Internal Medicine<br />
 </p>
-<span>**Transfer Regression and Predictive Distributions**</span>
-
-Shigetoshi Hosaka$^1$ and Jinfang Wang$^2$
-
-$^1 \;$ Hosaka Clinic of Internal Medicine, Tokyo, Japan
-
-$^2 \;$ Department of Mathematics and Informatics, Graduate School of
-Science, Chiba University, Japan
-
-<span>**Abstract**</span>. We introduce the *transfer regression*, a
+<span>**Abstract:**</span> We introduce the *transfer regression*, a
 method for constructing prior distributions for parameters defining
 generalized linear models (GLM). The transfer regressions are based
 frequency tables, usually obtained by categorizing the continuous
@@ -1473,11 +1150,10 @@ showing how to compute posterior predictive probabilities of contracting
 diabetes based on HbA1c data obtained from comprehensive medical
 examinations.
 
-<span>**Keywords**</span>. Bayesian generalized linear models, Markov
+<span>**Keywords:**</span> Bayesian generalized linear models, Markov
 chain Monte Carlo methods, posterior predictive distributions
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Andrew D. Martin, Kevin M. Quinn and Jong Hee Park (2011). MCMCpack:
 Markov Chain Monte Carlo in R, *Journal of Statistical Software*,
@@ -1497,16 +1173,7 @@ Nagoya University, Febuary 18–19, 2017.
 Eric Beh<br />
 University of Newcastle<br />
 </p>
-<span>**An Overview of the Correspondence Analysis Family**</span>
-
-Eric J. Beh$^1$
-
-$^1 \;$ School of Mathematical & Physical Sciences, University of
-Newcastle, Callaghan, NSW 2308, Australia
-
-<span>**Abstract**</span>.
-
-Correspondence analysis (CA) is well known to be a member of the family
+<span>**Abstract:**</span> Correspondence analysis (CA) is well known to be a member of the family
 of multivariate analysis techniques and is concerned with the
 visualisation of the association between two or more categorical
 variables. The classic texts of Greenacre (1984) and Lebart, Morineau
@@ -1524,11 +1191,10 @@ comprehensive list of members of the “family” which, now, number about
 50 members. I shall provide an overview of some of the popular, and
 not-so-popular, members of the CA family.
 
-<span>**Keywords**</span>. Correspondence analysis, Multiple CA, Family
+<span>**Keywords:**</span> Correspondence analysis, Multiple CA, Family
 of analyses
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Beh, E. J. and Lombardo, R. (2014). <span>*Correspondence Analysis:
 Theory, Practice and New Strategies*</span>. Chichester: Wiley.
@@ -1545,15 +1211,7 @@ Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.
 Minsun Song<br />
 Sookmyung Women's University<br />
 </p>
-<span>**Testing for genetic associations in arbitrarily structured
-populations**</span>
-
-Minsun Song$^1$
-
-$^1 \;$ Department of Statistics, Sookmyung Women’s University, Seoul,
-04310, Korea
-
-<span>**Abstract**</span>.We present a new statistical test of
+<span>**Abstract:**</span> We present a new statistical test of
 association between a trait and genetic markers, which we theoretically
 and practically prove to be robust to arbitrarily complex population
 structure. The statistical test involves a set of parameters that can be
@@ -1566,7 +1224,7 @@ to the trait. We demonstrate the proposed method on a large simulation
 study and on the real data. Our proposed framework provides a
 substantially different approach to the problem from existing methods.
 
-<span>**Keywords**</span>. Genome-wide association studies, Latent
+<span>**Keyword:**</span> Genome-wide association studies, Latent
 variable, Population structure
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 OGGB5 (260-051)</p>
@@ -1576,7 +1234,7 @@ Yung-Seop Lee^1^, Hee-Kyung Kim^1^, and Myungjin Hyun^2^<br />
 ^1^Dongguk University<br />
 ^2^KMA National Climate Data Center<br />
 </p>
-**Abstract:** The raw meteorological data need to be cleaned since they
+<span>**Abstract:**</span> The raw meteorological data need to be cleaned since they
 are from the diverse sources such as ASOS(Automated Synoptic Observing
 System) and AWS(Automatic Weather Station). The meteorological data in
 South Korea is observed from about 100 ASOS and 500 AWS. In order to
@@ -1589,9 +1247,9 @@ quality control algorithms will be adequate to Korea climate condition
 by cluster and month. Thresholds of QC algorithms, which are step test,
 persistence test and climate range test, are determined. Through these
 algorithms and threshold, the qualified meteorological data can be
-produced for the improved forecast accuracy.\
-\
-**Key Words:** meteorological data quality control, threshold values,
+produced for the improved forecast accuracy.
+
+<span>**Keywords:**</span> meteorological data quality control, threshold values,
 cluster analysis, step test, persistence test, climate range test.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 2 (260-057)</p>
@@ -1600,15 +1258,7 @@ cluster analysis, step test, persistence test, climate range test.
 Kazuyoshi Yata and Makoto Aoshima<br />
 University of Tsukuba<br />
 </p>
-<span> **Regularized Noise-Reduction Methodology for High-Dimensional
-Data** </span>
-
-Kazuyoshi Yata$^1$ and Makoto Aoshima$^1$
-
-$^1 \;$ Institute of Mathematics, University of Tsukuba, Ibaraki
-305-8571, Japan
-
-<span>**Abstract**</span>. In this talk, we consider principal component
+<span>**Abstract:**</span> In this talk, we consider principal component
 analysis (PCA) methods in high-dimensional settings. We first consider
 asymptotic properties of the conventional estimator of eigenvalues. We
 show that the estimator is affected by the high-dimensional noise
@@ -1625,11 +1275,10 @@ propose a regularized NR method. We show that it holds the consistency
 property of the Euclid norm. Finally, we check the performance of the
 new NR method by using microarray data sets.
 
-<span>**Keywords**</span>. eigenstructure, large $p$ small $n$, PCA,
+<span>**Keywords:**</span> eigenstructure, large $p$ small $n$, PCA,
 spiked model
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Yata, K. and Aoshima. M. (2012). Effective PCA for high-dimension,
 low-sample-size data with noise reduction via geometric representations.
@@ -1641,17 +1290,7 @@ low-sample-size data with noise reduction via geometric representations.
 Maheswaran Rohan<br />
 Auckland University of Technology<br />
 </p>
-<span>**Computation of influence functions for robust
-statistics**</span>
-
-Maheswaran Rohan
-
-Department of Biostatistics and Epidemiology, Auckland University of
-Technology, Auckland, New Zealand.
-
-<span>**Abstract**</span>.
-
-Robust statistics are often computed when outliers are present. One of
+<span>**Abstract:**</span> Robust statistics are often computed when outliers are present. One of
 the diagnostics tools for assessing the robustness of estimation is the
 influence function, which measures the impact on a statistic of adding
 new data to or removing existing data from the data set. It is also
@@ -1669,7 +1308,7 @@ how influence functions for robust statistics can be obtained
 analytically, particularly in M-estimators with multiple of parameter
 vectors.
 
-<span>**Keywords**</span>. Keywords M-estimators, One-step influence
+<span>**Keywords:**</span> Keywords M-estimators, One-step influence
 function, Jacobian matrix
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 4 (260-009)</p>
@@ -1679,21 +1318,7 @@ Tzu-Chang Forrest Cheng^1^, Wei-Cheng Hsiao^2^, and Ching-Kang Ing^2^<br />
 ^1^National Central University<br />
 ^2^National Tsing Hua University<br />
 </p>
-<span>**Adaptive Model Averaging in High-Dimensional Linear
-Regression**</span>
-
-Wei-Cheng Hsiao$^1$, Ching-Kang Ing$^2$, and Tzu-Chang Forrest Cheng$^3$
-
-$^1 \;$ Institute of Statistics, National Tsing-Hua University, Hsinchu
-30013, Taiwan
-
-$^2 \;$ Institute of Statistics, National Tsing-Hua University, Hsinchu
-30013, Taiwan
-
-$^3 \;$ Department of Economics, National Central University, Taoyuan
-32001, Taiwan
-
-<span>**Abstract**</span>. This paper aims to propose a data-adaptive
+<span>**Abstract:**</span> This paper aims to propose a data-adaptive
 model averaging estimation in the high-dimensional framework. To this
 end, We first consider the orthogonal greedy algorithm (OGA) proposed by
 Ing and Lai (2011) to construct a set of nested models. The
@@ -1707,11 +1332,10 @@ is shown to be asymptotic rate efficient. Finally, numerical studies in
 this paper are expected to shed some light on the choice of data
 splitting ratio for the cross-validation.
 
-<span>**Keywords**</span>. Adaptive penalty, Cross-validation, High
+<span>**Keywords:**</span> Adaptive penalty, Cross-validation, High
 dimension, Model averaging, Greedy algorithm
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Ing, C.-K. and Lai, T. L. (2011). A stepwise regression method and
 consistent model selection for high-dimensional sparse linear models.
@@ -1726,15 +1350,7 @@ Ing, C.-K. (2016). Model averaging in high-dimensional regressions.
 Michio Yamamoto<br />
 Okayama University<br />
 </p>
-<span>**Model-based clustering for multivariate categorical data with
-dimension reduction**</span>
-
-Michio Yamamoto$^1$
-
-$^1 \;$ Graduate School of Environmental and Life Science, Okayama
-University, Okayama, Japan
-
-<span>**Abstract**</span>. A novel model-based clustering procedure for
+<span>**Abstract:**</span> A novel model-based clustering procedure for
 multivariate categorical data is proposed. The proposed model assumes
 that each response probability has a low-dimensional representation of
 the cluster structure, which is constructed by weights for categorical
@@ -1753,11 +1369,10 @@ penalized likelihood criterion, we develop an expectation-maximization
 shown that there is trade-off relation between the convergence rate of
 the algorithm and the cluster recovery.
 
-<span>**Keywords**</span>. clustering, categorical data, dimension
+<span>**Keywords:**</span> clustering, categorical data, dimension
 reduction, EM algorithm, sparse estimation
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Cutler, A., Breiman, L. (1994). Archetypal analysis. *Technometrics*,
 **36**, 338–347.
@@ -1773,18 +1388,7 @@ Sunghwan Kim^1^ and George Tseng^2^<br />
 ^1^Keimyung University<br />
 ^2^University of Pittsburgh<br />
 </p>
-<span>**Meta-analytic Principal Component Analysis in Integrative Omics
-Application**</span>
-
-SungHwan Kim$^1$ and George C. Tseng$^2$
-
-$^1 \;$ Department of Statistics, Keimyung Univerisity, Deagu 42601,
-South Korea
-
-$^2 \;$ Department of Biostatistics, University of Pittsburgh,
-Pittsburgh 15213, USA
-
-<span>**Abstract**</span>. With the prevalent usage of microarray and
+<span>**Abstract:**</span> With the prevalent usage of microarray and
 massively parallel sequencing, numerous high-throughput omics datasets
 have become available in the public domain. Integrating abundant
 information among omics datasets is critical to elucidate biological
@@ -1801,11 +1405,10 @@ metabolism, and a TCGA pan-cancer methylation study. The result shows
 improved accuracy, robustness and exploratory visualization of the
 proposed framework.
 
-<span>**Keywords**</span>. principal component analysis, meta-analysis,
+<span>**Keywords:**</span> principal component analysis, meta-analysis,
 omics data
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Flury (1984) *Common principal components in k groups.* Journal of the
 American Statistical Association, 79, 892–898.
@@ -1819,18 +1422,7 @@ Journal of the American Statistical Association, 74, 703–707
 Hyuntae Kyung and Sangwook Kang<br />
 Yonsei University<br />
 </p>
-<span>**Fitting Additive Hazards Model Using Calibrated Weights for
-Case-Cohort Data**</span>
-
-Hyuntae Kyung$^1$ and Sangwook Kang$^2$
-
-$^1 \;$ Department of Applied Statistics, Yonsei University, Seoul,
-03722, Korea
-
-$^2 \;$ Department of Applied Statistics, Yonsei University, Seoul,
-03722, Korea
-
-<span>**Abstract**</span>.A case-cohort design is an efficient study
+<span>**Abstract:**</span> A case-cohort design is an efficient study
 design for analyzing failure time data by reducing the cost and effort
 of conducting a large cohort study. Estimation of regression
 coefficients is typically done through a weighted estimating equation
@@ -1843,7 +1435,7 @@ demonstrated to be more efficient, via simulation studies, than the
 usual Horvitz-Thompson type estimator. We illustrate a use of the
 proposed estimators by using the National Wilms Tumor Study data.
 
-<span>**Keywords**</span>. Estimating Equations, Semiparametric Model,
+<span>**Keywords:**</span> Estimating Equations, Semiparametric Model,
 Survey Sampling, Survival Analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 2 (260-057)</p>
@@ -1852,14 +1444,7 @@ Survey Sampling, Survival Analysis
 Yunjin Choi<br />
 National University of Singapore<br />
 </p>
-<span>**Selecting the number of principal components**</span>
-
-Yunjin Choi$^1$
-
-$^1 \;$ Department of Statistics and Applied Probability, National
-University of Singapore, 129801, Singapore
-
-<span>**Abstract**</span>. Principal Component Analysis (PCA) is one of
+<span>**Abstract:**</span> Principal Component Analysis (PCA) is one of
 the most popular methods in multivariate data analysis, which can be
 applied to covariance matrices. Despite the popularity of the method,
 there is no widely adopted standard approach to select the number of
@@ -1877,7 +1462,7 @@ type 1 error controls by conditioning on the selection event which leads
 to the inference. We also introduce a possible extension of the proposed
 method for high-dimensional data.
 
-<span>**Keywords**</span>. Principal component analysis, post-selection
+<span>**Keywords:**</span> Principal component analysis, post-selection
 inference, hypothesis testing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 3 (260-055)</p>
@@ -1886,14 +1471,7 @@ inference, hypothesis testing
 Jing-Shiang Hwang and Tsuey-Hwa Hu<br />
 Academia Sinica<br />
 </p>
-<span>**Abstract**</span>
-Rolling survival extrapolation algorithm for estimating life years lost
-among subjects exposed to long-term air pollution
-
-Jing-Shiang Hwang and Tsuey-Hwa Hu Institute of Statistical Science,
-Academia Sinica, Taiwan
-
-Measure of expected years of life lost (EYLL) of a cohort of subjects
+<span>**Abstract:**</span> Measure of expected years of life lost (EYLL) of a cohort of subjects
 living with specific conditions would be useful for quantifying and
 thereby comparing the societal burden of different conditions. One
 promising approach of estimating EYLL is based on relative survival
@@ -1921,7 +1499,7 @@ that elderly people living in a worse local air pollution for decades
 long had more expected years of life lost after adjusting social
 economic status.
 
-Keywords: Life expectancy, expected years of life lost, air pollution
+<span>**Keywords:**</span> Life expectancy, expected years of life lost, air pollution
 health effects, particulate matter
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 4 (260-009)</p>
@@ -1930,15 +1508,7 @@ health effects, particulate matter
 Ker-Chau Li<br />
 Academia Sinica<br />
 </p>
-<span>**Enhancing the Flexibility of Regression Modelling by Liquid
-Association**</span>
-
-Ker-Chau Li$^1$
-
-$^1 \;$ Institute of Statistical Science, Academia Sinica, Taipei,
-Taiwan
-
-<span>**Abstract**</span>. Multivariate regression aims at the study of
+<span>**Abstract:**</span> Multivariate regression aims at the study of
 the relationship between one set of input variables X and one set of
 output variables Y. Challenges occur when no parametric model is known
 and yet the number of variables is large. To overcome the difficulties,
@@ -1949,7 +1519,7 @@ varies. In this talk, I will describe a framework to illustrate how the
 LA methodology can help increase the modeling flexibility of
 multivariate regression in analyzing complex data.
 
-<span>**Keywords**</span>. Sliced inverse regression, liquid association
+<span>**Keywords:**</span> Sliced inverse regression, liquid association
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
 ## Clusterwise Low-Rank Correlation Analysis Based On Majorization {-}
@@ -1958,22 +1528,7 @@ Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2
 ^1^Doshisha University<br />
 ^2^Wakayama Medical University<br />
 </p>
-<span>**Clusterwise low-rank correlation analysis based on
-majorization**</span>
-
-Kensuke Tanioka$^{1*}$, Satoru Hiwa$^2$,\
-Tomoyuki Hiroyasu$^2$ and Hiroshi Yadohisa$^3$
-
-$^1 \;$ Clinical Study Support Center, Wakayama Medical University
-Hospital, Wakayama, Japan
-
-$^2 \;$ Department of Biomedical Information, Doshisha University,
-Kyoto, Japan
-
-$^3 \;$ Department of Culture and Information Science, Doshisha
-University, , Kyoto, Japan
-
-<span>**Abstract**</span>. Given correlation matrices between variables
+<span>**Abstract:**</span> Given correlation matrices between variables
 of subjects and these classes of subjects, it is important to get the
 distinctive local networks for each class. For example, in fMRI data
 analysis, such the situation is observed. In concretely, each
@@ -1987,10 +1542,9 @@ and Simon and Abell (2010). Through the proposed method, we can get the
 distinctive sparse correlation matrices corresponding to classes, while
 we have to determine the number of clusters.
 
-<span>**Keywords**</span>. sparse estimation, clustering variables, ALS
+<span>**Keywords:**</span> sparse estimation, clustering variables, ALS
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Pietersz, R., and Groenen, J.F (2004). *Rank Reduction of Correlation
 Matrices by Majorization.* Quant.Finance, <span>**4**</span>: 649–662.
@@ -2005,17 +1559,7 @@ Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
 Sungho Won<br />
 Seoul National University<br />
 </p>
-<span>**Phylogenetic Tree-based Microbiome Association Test**</span>
-
-Sungho Won$^{1,2}$
-
-$^1 \;$ Department of Public Health Science, Seoul National University,
-Seoul, Korea
-
-$^2 \;$ Interdisciplinary Program for Bioinformatics, College of Natural
-Science, Seoul National University, Seoul
-
-<span>**Abstract**</span>. Microbial metagenomics data has large
+<span>**Abstract:**</span> Microbial metagenomics data has large
 inter-subject variation and operational taxonomic units (OTU) for each
 species are usually very sparse. Because of these problems,
 non-parametric approaches such as Mann-Whitney U test and Wilcoxon
@@ -2035,7 +1579,7 @@ existing methods for considered scenarios. Furthermore it was applied to
 atopic diseases and found that community profiles of Enterococcus is
 associated.
 
-<span>**Keywords**</span>. NGS; phylogenetic treel Microbiome
+<span>**Keywords:**</span> NGS; phylogenetic treel Microbiome
 Association Test
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 OGGB5 (260-051)</p>
@@ -2045,18 +1589,7 @@ Beomseuk Hwang^1^ and Zhen Chen^2^<br />
 ^1^Chung-Ang University<br />
 ^2^National Institutes of Health<br />
 </p>
-<span>**Bayesian analysis for fitting zero-inflated count data with data
-augmentation**</span>
-
-Beom Seuk Hwang$^1$ and Zhen Chen$^2$
-
-$^1 \;$ Department of Applied Statistics, Chung-Ang University, Seoul,
-Korea
-
-$^2 \;$ Eunice Kennedy Shriver National Institute of Child Health and
-Human Development, MD, 20892 USA
-
-<span>**Abstract**</span>. Count data with excess zeros are common in
+<span>**Abstract:**</span> Count data with excess zeros are common in
 epidemiological studies. Zero-inflated Poisson (ZIP) model or
 zero-inflated negative binomial (ZINB) model can be usually used in
 these cases. From Bayesian perspective, however, the ZIP and ZINB models
@@ -2069,7 +1602,7 @@ sampling results in tuning-free algorithms in MCMC. We demonstrate how
 the auxiliary mixture sampling can be applied to an epidemiological case
 study.
 
-<span>**Keywords**</span>. Auxiliary mixture sampling, ZIP model, ZINB
+<span>**Keywords:**</span> Auxiliary mixture sampling, ZIP model, ZINB
 model, Markov chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 2 (260-057)</p>
@@ -2078,8 +1611,7 @@ model, Markov chain Monte Carlo
 Joong-Ho Won<br />
 Seoul National University<br />
 </p>
-<span>**Abstract**</span>
-High dimensional covariance estimation and graphical models is a
+<span>**Abstract**</span>: High dimensional covariance estimation and graphical models is a
 contemporary topic in statistics and machine learning having widespread
 applications. The problem is notoriously difficult in high dimensions as
 the traditional estimate is not even positive definite. An important
@@ -2114,6 +1646,26 @@ and Zou, 2014; Khare, Oh, and Rajaratnam, 2015).
 This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
 Rajaratnam (UC Davis).
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 3 (260-055)</p>
+## Tick-By-Tick Effect On The Inference Of Ultra-High Frequency Data {-}
+<p style="text-align:center">
+Zhi Liu<br />
+University of Macau<br />
+</p>
+<span>**Abstract:**</span> In the inference of ultra-high frequency data, the existing
+methods are challenged by the tick-by-tick effect, namely, the
+transactions recorded simultaneously at a time point. In this talk, we
+will discuss how it influences the estimation of integrated volatility
+matrix. The effect of microstructure noise and jumps will be discussed
+as well. We propose to use a double-averaging procedure to deal with
+these issues. The related asymptotic distribution of the proposed
+estimator is established. Even interestingly, the double-averaging
+estimator achieves the "oracle"" property, that is, the asymptotic
+efficiency is the same as that of the case that the exact trading time
+of transactions are fully observed. Simulation studies support the
+theoretical results. The estimation procedure is illustrated through a
+real data analysis.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 4 (260-009)</p>
 ## High Mortality Predictions With Lines Or Curves Fitted To Over-Dispersed Exposure-Mortality Data {-}
 <p style="text-align:center">
@@ -2127,14 +1679,7 @@ Statistics Research Associates<br />
 Martin Hazelton<br />
 Massey University<br />
 </p>
-<span>**Lattice Polytope Samplers**</span>
-
-Martin L. Hazelton$^1$
-
-$^1 \;$ Institute of Fundamental Sciences, Massey University, Palmerston
-North 4410, New Zealand
-
-<span>**Abstract**</span>. Statistical inverse problems occur when we
+<span>**Abstract:**</span> Statistical inverse problems occur when we
 wish to learn about some random process that is observed only
 indirectly. Inference in such situations typically involves sampling
 possible values for the latent variables of interest conditional on the
@@ -2157,11 +1702,10 @@ addresses some of the theoretical issues, but has significant practical
 limitations. In this talk I shall discuss some preliminary findings
 based on a more geometric approach to sampler design.
 
-<span>**Keywords**</span>. lattice bases, Markov bases, MCMC,
+<span>**Keywords:**</span> lattice bases, Markov bases, MCMC,
 statistical linear inverse problem
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Diaconis, P., and Sturmfels, B. (1998). Algebraic algorithms for
 sampling from conditional distributions. *The Annals of Statistics*
@@ -2173,19 +1717,7 @@ sampling from conditional distributions. *The Annals of Statistics*
 Andriy Olenko<br />
 La Trobe University<br />
 </p>
-<span>**Abstract**</span>
-<span>**Statistical Modelling and Analysis of Cosmic Microwave
-Background Data**</span>
-
-Andriy Olenko
-
-Department of Mathematics and Statistics, La Trobe University, Bundoora,
-Victoria 3086, Australia
-
-<span>**Keywords**</span>. random fields, spatial statistics, cosmic
-microwave background data, R package
-
-Analysis of the Cosmic Microwave Background (CMB) radiation is a
+<span>**Abstract:**</span> Analysis of the Cosmic Microwave Background (CMB) radiation is a
 remarkable research area in cosmology whose results won two Nobel prizes
 in physics in 1978 and 2006 for the discovery of the CMB radiation and
 its anisotropy. Spurred on by a wealth of satellite data, intensive
@@ -2207,8 +1739,10 @@ N.Leonenko (Cardiff university), P.Broadbridge, D. Fryer, Yu.G. Wang (La
 Trobe University). This research was supported under the Australian
 Research Council’s Discovery Project DP160101366.
 
-References {#references .unnumbered}
-----------
+<span>**Keywords:**</span> random fields, spatial statistics, cosmic
+microwave background data, R package
+
+<span>**References:**</span>
 
 Anh, Vo, Broadbridge, P., Olenko, A., Wang Yu.G. On approximation for
 fractional stochastic partial differential equations on the sphere.
@@ -2220,16 +1754,7 @@ Submitted.
 Kiyotaka Iki<br />
 Tokyo University of Science<br />
 </p>
-<span>**Measure of Departure from Marginal Average Point-Symmetry for
-Two-Way Contingency Tables with Ordered Categories**</span>
-
-Kiyotaka Iki$^1$
-
-$^1 \;$ Department of Information Sciences, Faculty of Science and
-Technology,\
-Tokyo University of Science, Japan
-
-<span>**Abstract**</span>. For the analysis of two-way contingency
+<span>**Abstract:**</span> For the analysis of two-way contingency
 tables with ordered categories, Yamamoto, Tahata, Suzuki and Tomizawa
 (2011) considered a measure to represent the degree of departure from
 marginal point-symmetry. The maximum value of the measure cannot
@@ -2238,12 +1763,11 @@ midpoint. The present article proposes a measure which can distinguish
 two kinds of marginal asymmetry with respect to the midpoint. It also
 gives large-sample confidence interval for the proposed measure.
 
-<span>**Keywords**</span>. Asymmetry, marginal proportional
+<span>**Keywords:**</span> Asymmetry, marginal proportional
 point-symmetry, marginal point-symmetry, measure, model, ordered
 category
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Tomizawa, S. (1985). *Biometrical Journal*, <span>**27**</span>,
 895–905.
@@ -2260,14 +1784,7 @@ Yamamoto, K., Tahata, K., Suzuki, M. and Tomizawa, S. (2011).
 Beatrix Jones and Amir Bashir<br />
 Massey University<br />
 </p>
-<span>**Sparse estimates from dense precision matrix posteriors**</span>
-
-Beatrix Jones and Amir Bashir
-
-Institute of Natural and Mathematical Sciences, Massey University,
-Albany 0745, NZ
-
-<span>**Abstract**</span>. A variety of computationally efficient
+<span>**Abstract:**</span> A variety of computationally efficient
 Bayesian models for the covariance matrix of a multivariate Gaussian
 distribution are available. However, all produce a relatively dense
 estimate of the precision matrix, and are therefore unsatisfactory when
@@ -2280,7 +1797,7 @@ fits. Extensions to finding sparse differences between inverse
 covariance matrices are also considered. We illustrate our findings with
 moderate dimensional data examples from metabolomics.
 
-<span>**Keywords**</span>. Gaussian graphical models, precision
+<span>**Keywords:**</span> Gaussian graphical models, precision
 matrices, Bayesian models, metabolomics
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
@@ -2289,8 +1806,7 @@ matrices, Bayesian models, metabolomics
 Michael Van Supranes and Joseph Ryan Lansangan<br />
 University of the Philippines Diliman<br />
 </p>
-<span>**Abstract**</span>
-A three-stage framework is developed for fitting a mixture of
+<span>**Abstract:**</span> A three-stage framework is developed for fitting a mixture of
 regressions for high dimensional data. The method combines a
 hierarchical agglomerative grouping algorithm, regression-based
 clustering, and a sequential, group-wise sparse estimation called
@@ -2316,14 +1832,7 @@ modeling.
 Brendon Brewer<br />
 University of Auckland<br />
 </p>
-<span>**Computing Entropies with Nested Sampling**</span>
-
-Brendon J. Brewer$^1$
-
-$^1 \;$ Department of Statistics, The University of Auckland, Private
-Bag 92019, Auckland 1142, New Zealand
-
-<span>**Abstract**</span>. The Nested Sampling algorithm, invented in
+<span>**Abstract:**</span> The Nested Sampling algorithm, invented in
 the mid-2000s by John Skilling, represented a major advance in Bayesian
 computation. Whereas Markov Chain Monte Carlo (MCMC) methods are usually
 effective for sampling posterior distributions, Nested Sampling also
@@ -2340,11 +1849,10 @@ derived quantities. I will present an example from experimental design,
 where one wants to optimise the relevance of the data for inference of a
 parameter.
 
-<span>**Keywords**</span>. Bayesian inference, Nested Sampling, Markov
+<span>**Keywords:**</span> Bayesian inference, Nested Sampling, Markov
 Chain Monte Carlo, Information theory
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Brewer, B. J. (2017). *Computing Entropies with Nested Sampling.*
 Entropy, 19, 422.
@@ -2358,17 +1866,7 @@ Bayesian analysis, 1(4), 833-859.
 Vera Hofer and Thomas Nowak<br />
 University of Graz<br />
 </p>
-<span>**Spline-based Drift Models for High Temperature Operating Life
-Tests**</span>
-
-Vera Hofer$^1$ and Thomas Nowak$^1$
-
-$^1 \;$ Institute of Statistics and Operations Research, University of
-Graz, Graz, Austria
-
-<span>**Abstract**</span>.
-
-Since the proper operation of semiconductor devices is of crucial
+<span>**Abstract:**</span> Since the proper operation of semiconductor devices is of crucial
 importance for the reliability of a vast range of products, issues
 concerning quality control are of central relevance to manufacturers.
 This quality control task is concerned with high temperature operating
@@ -2405,7 +1903,7 @@ support from the European Union’s Horizon 2020 research and innovation
 programme and Austria, Belgium, Germany, Italy, Netherlands, Norway,
 Slovakia, Spain and United Kingdom.
 
-<span>**Keywords**</span>. quality control, tolerance limits, splines,
+<span>**Keywords:**</span> quality control, tolerance limits, splines,
 reliability engineering
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 OGGB5 (260-051)</p>
@@ -2414,15 +1912,7 @@ reliability engineering
 Thuong Nguyen<br />
 Victoria University of Wellington<br />
 </p>
-<span>**A new approach to distribution free tests in contingency
-tables**</span>
-
-Thuong T. M. Nguyen$^1$
-
-$^1$ School of Mathematics and Statistics, Victoria University of
-Wellington, Wellington, 6140, New Zealand
-
-<span>**Abstract**</span>. We will discuss in this talk a new
+<span>**Abstract:**</span> We will discuss in this talk a new
 construction for a class of distribution free goodness of fit tests for
 the classical problem: testing independence in contingency tables. The
 point is that this problem has been stayed with only one asymptotically
@@ -2431,11 +1921,10 @@ test. We will show that our class of new distribution free goodness of
 fit tests is very wide and discuss the cases where the new tests perform
 better than the conventional chi-square test.
 
-<span>**Keywords**</span>. Contingency tables, distribution free,
+<span>**Keywords:**</span> Contingency tables, distribution free,
 goodness of fit tests
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Khmaladze, E., (2013). Note on distribution free testing for discrete
 distribution, *Annals of Statistics*, **41**, 2979–2993
@@ -2447,40 +1936,41 @@ Nguyen, T.T.M., (2017). A new approach to distribution free tests in
 contingency tables, *Metrika*, **80**, 153–170
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
-## Bayesian Continuous Space-Time Model Of Burglaries {-}
+## Bayesian Semi-Parametric Approaches To Analyzing Temperature Trends {-}
 <p style="text-align:center">
-Chaitanya Joshi, Paul Brown, and Stephen Joe<br />
-University of Waikato<br />
+Matthew Edwards^1^, Claudia Kirch^2^, Alexander Meier^3^, Renate Meyer^1^, and Blake Seers^1^<br />
+^1^Karlsruhe Institute of Technology<br />
+^2^OvGU Magdeburg<br />
+^3^University of Auckland<br />
 </p>
-<span>**Bayesian continuous space-time model of Burglaries**</span>
+<span>**Abstract:**</span> To discern potential impacts of global
+warming for New Zealand, it is imperative to accurately estimate
+long-term temperature trends. Here we analyse annual average temperature
+time series measured at several locations in New Zealand. The data are
+from a set of climate stations with no significant site changes since
+the 1930s. We specify a hierarchical semi-parametric model with a linear
+time and changepoints at known time points where re-siting of recorders
+or changes in instrumentation occurred. The power spectral density of
+the errors is estimated using a Bayesian nonparametric approach based on
+Whittle’s likelihood. We use a nonparametric Bernstein polynomial prior
+on the spectral density with weights induced by a Dirichlet process.
+Posterior computation is implemented using a MH-within-Gibbs algorithm.
+We compare our results to those obtained by OLS and GLS.
 
-Chaitanya Joshi$^1$ and Paul T. Brown $^1$ and Stephen Joe $^1$ and Dean
-Searle $^2$
+<span>**Keywords:**</span> stationary time series, spectral density,
+Bayesian nonparametrics, posterior consistency, Whittle likelihood,
+Bernstein-Dirichlet prior
 
-$^1 \;$ Department of Mathematics and Statistics, University of Waikato,
-Hamilton.
+<span>**References:**</span>
 
-$^2 \;$ NZ Police, Waikato DHQ, Hamilton.
+Kirch, C., Edwards, M., Meier, A., and Meyer, R. (2017). *Beyond
+Whittle: Nonparametric correction of a parametric likelihood with a
+focus on Bayesian time series analysis*,
+<span>https://arxiv.org/abs/1701.04846</span>.
 
-<span>**Abstract**</span>. Building a predictive model of crime with
-good predictive accuracy has a great value in enabling efficient use of
-policing resources and reduction in crime. Building such models is not
-straightforward though due to the dynamic nature of the crime process.
-The crime not only evolves over both space and time, but is also related
-to several complex socio-economic factors, not all of which can be
-measured directly and accurately. The last decade or more has seen a
-surge in the effort to model crime more accurately. Many of the models
-developed so far have failed to capture the crime with a great degree of
-accuracy. The main reasons could be that all these models discretise the
-space using grid cells and that they are spatial, not spatio-temporal.
-We fit a log Gaussian Cox process model using the INLA-SPDE approach.
-This not only allows us to capture crime as a process continuous in both
-space and time, but also allows us to include socio-economic factors as
-well as the ’near repeat’ phenomenon. In this talk, we will discuss the
-model building process and the accuracy achieved.
-
-<span>**Keywords**</span>. Bayesian spatio-temporal model, INLA-SPDE,
-predicting crime
+Thomson, P., Mullan, B. and Stuart, S. (2014). Estimating the slope and
+standard error of a long-term linear trend fitted to adjusted annual
+temperatures. Joint NZSA/ORSNZ Conference, Wellington.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
 ## Modified Gene Shaving Algorithm - A Dimension REduction And Clustering Method {-}
@@ -2489,16 +1979,7 @@ Donna Mae Santos^1^, Erniel Barrios^2^, and Joseph Ryan Lansangan^2^<br />
 ^1^Quirino State University<br />
 ^2^University of the Philippines Diliman<br />
 </p>
-Modified Gene Shaving Algorithm - a Dimension Reduction and Clustering
-Method
-
-Donna Mae Santos2 Erniel Barrios1 Joseph Ryan Lansangan1 1University of
-the Philippines Diliman, Quezon City, Philippines 2Quirino State
-University Diffun, Quirino Philippines
-
-Abstract
-
-High dimensional data exist in digital images, financial time series and
+<span>**Abstract:**</span> High dimensional data exist in digital images, financial time series and
 gene expression microarrays. Dealing with high dimensionality has become
 a challenge, where the difficulty lies on how to visualize and explore
 the high dimensional function or data set. Gene shaving is a statistical
@@ -2520,7 +2001,7 @@ exploration and identification of a group of variables worth for further
 investigation, as well as clustering/groups of variables for
 understanding variable structures/relationships.
 
-Keywords: High dimensional data, Cluster of Variables, Gene Shaving,
+<span>**Keywords:**</span> High dimensional data, Cluster of Variables, Gene Shaving,
 Principal Component Analysis, Sparse Principal Component Analysis,
 Dimension Reduction
 <p class="pagebreak"></p>
@@ -2531,8 +2012,7 @@ Masaaki Imaizumi^1^ and Kengo Kato^2^<br />
 ^1^Institute of Statistical Mathematics<br />
 ^2^Unversity of Tokyo<br />
 </p>
-<span>**Abstract**</span>
-This paper develops a simple method to construct confidence bands,
+<span>**Abstract:**</span> This paper develops a simple method to construct confidence bands,
 centered at a principal component analysis (PCA) based estimator, for
 the slope function in a functional linear regression model with a scalar
 response variable and a functional predictor variable. The PCA- based
@@ -2556,15 +2036,7 @@ present.
 Kouji Tahata<br />
 Tokyo University of Science<br />
 </p>
-<span>**Separation of symmetry for square contingency tables with
-ordinal categories**</span>
-
-Kouji Tahata$^1$
-
-$^1 \;$ Department of Information Sciences, Tokyo University of Science,
-2641 Yamazaki, Noda-shi, Chiba-ken, 2788510, JAPAN
-
-<span>**Abstract**</span>. Symmetry and asymmetry models are used to
+<span>**Abstract:**</span> Symmetry and asymmetry models are used to
 analyze a <span>*square*</span> contingency table with ordinal
 categories. Caussinus (1966) pointed out that the symmetry model, which
 indicates the structure of symmetry for cell probabilities, could be
@@ -2580,11 +2052,10 @@ the sum of those for testing the generalized asymmetry model and the
 moment equality model under some conditions is given. A simulation study
 is presented.
 
-<span>**Keywords**</span>. $f$-divergence, moment equality,
+<span>**Keywords:**</span> $f$-divergence, moment equality,
 orthogonality, quasi-symmetry
 
-References {#references .unnumbered}
-----------
+<span>**References:**</span>
 
 Caussinus, H. (1966). Contribution à l’analyse statistique des tableaux
 de corrélation. <span>*Ann. Fac. Sci. Univ. Toulouse*</span>
@@ -2606,9 +2077,7 @@ Frances Claire San Juan^1^, Erniel Barrios^2^, and Joseph Ryan Lansangan^2^<br /
 ^1^Cirrolytix Research Services<br />
 ^2^University of the Philippines Diliman<br />
 </p>
-ABSTRACT
-
-As big data become more accessible with the boom of data analyzing
+<span>**Abstract:**</span> As big data become more accessible with the boom of data analyzing
 software, creating value through analytics has grown in demand. Dealing
 with large data sets in anomaly detection problems, accurate tagging of
 anomalies is oftentimes lacking and expensive. Unsupervised learning via
