@@ -1,5 +1,5 @@
 # Programme And Abstracts For Monday 11^th^ Of December {-}
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
 ## TBA-LT {-}
 <p style="text-align:center">
 Luke Tierney<br />
@@ -98,10 +98,10 @@ Bootstrap
 ## IGESS: A Statistical Approach To Integrating Individual Level Genotype Data And Summary Statistics In Genome Wide Association Studies {-}
 <p style="text-align:center">
 Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang Wan^2^, and Zongben Xu^1^<br />
-^1^Duke-NUS Medical School<br />
+^1^Xi'an Jiaotong University<br />
 ^2^Hong Kong Baptist University<br />
-^3^Hong Kong University of Science and Technology<br />
-^4^Xi'an Jiaotong University<br />
+^3^Duke-NUS Medical School<br />
+^4^Hong Kong University of Science and Technology<br />
 </p>
 <span>**Abstract:**</span> Recent genome-wide association studies (GWAS) suggests that a complex phenotype is often affected by many variants with small effects, known as "polygenicity". Tens of thousands of samples are often required to ensure statistical power of identifying these variants with small effects. In this study, we propose a statistical approach, IGESS, to increasing statistical power of identifying risk variants and improving accuracy of risk prediction by integrating individual level genotype data and summary statistics. An efficient algorithm based on variational inference is developed to handle genome-wide-scale analysis. Through comprehensive simulation studies, we demonstrated the advantages of IGESS over the methods which take either individual level data or summary statistics data as input. We applied IGESS to perform integrative analysis of Crohn's Disease from WTCCC and summary statistics from other studies. IGESS was able to significantly increase statistical power of identifying risk variants and improve risk prediction accuracy.
 
@@ -182,8 +182,8 @@ Research. **8**, 1687–-1723 (2007).
 ## Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels {-}
 <p style="text-align:center">
 Youngseon Lee^1^, Shuhei Mano^2^, and Jaeyong Lee^1^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Seoul National University<br />
+^1^Seoul National University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Abstract:**</span> We propose a new Bayesian methodology for
 estimating discontinuous functions. In this model, the estimated
@@ -254,10 +254,10 @@ frequency
 ## LSMM: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies {-}
 <p style="text-align:center">
 Jingsi Ming^1^, Mingwei Dai^2^, Mingxuan Cai^1^, Xiang Wan^1^, Jin Liu^3^, and Can Yang^4^<br />
-^1^Duke-NUS Medical School<br />
-^2^Hong Kong Baptist University<br />
-^3^Hong Kong University of Science and Technology<br />
-^4^Xi'an Jiaotong University<br />
+^1^Hong Kong Baptist University<br />
+^2^Xi'an Jiaotong University<br />
+^3^Duke-NUS Medical School<br />
+^4^Hong Kong University of Science and Technology<br />
 </p>
 <span>**Abstract:**</span> Thousands of risk variants underlying complex
 phenotypes have been identified in genome-wide association studies
@@ -406,9 +406,9 @@ bootstrap, southern oscillation index (SOI)
 ## Joint Analysis Of Individual Level Genotype Data And Summary Statistics By Leveraging Pleiotropy {-}
 <p style="text-align:center">
 Mingwei Dai^1^, Jin Liu^2^, and Can Yang^3^<br />
-^1^Duke-NUS Medical School<br />
-^2^Hong Kong University of Science and Technology<br />
-^3^Xi'an Jiaotong University<br />
+^1^Xi'an Jiaotong University<br />
+^2^Duke-NUS Medical School<br />
+^3^Hong Kong University of Science and Technology<br />
 </p>
 <span>**Abstract:**</span> Results from Genome-wide association studies
 (GWAS) suggest that a complex phenotype is often affected by many
@@ -499,8 +499,8 @@ Information Management. Springer, Cham, 2014.
 ## Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information {-}
 <p style="text-align:center">
 Timothy Bilton^1,2^, Matthew Schofield^1^, Ken Dodds^2^, and Michael Black^1^<br />
-^1^AgResearch<br />
-^2^University of Otago<br />
+^1^University of Otago<br />
+^2^AgResearch<br />
 </p>
 <span>**Abstract:**</span> A genetic linkage map shows the relative
 position of and genetic distance between markers, positions of the
@@ -638,8 +638,8 @@ Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
 ## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
 <p style="text-align:center">
 Yuji Mizukami^1^ and Junji Nakano^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Nihon University<br />
+^1^Nihon University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Abstract:**</span> Innovation is the act of creating new value
 by using “new connection”, “new point of view”, “new way of thinking”,
@@ -779,8 +779,8 @@ arXiv:1302.4389 (2013).
 ## Clustering Of Research Subject Based On Stochastic Block Model {-}
 <p style="text-align:center">
 Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
-^1^Academia Sinica<br />
-^2^Institute of Statistical Mathematics<br />
+^1^Institute of Statistical Mathematics<br />
+^2^Academia Sinica<br />
 </p>
 <span>**Abstract:**</span> In this paper, we propose a new clustering
 method to measure influence of papers in all areas of science. To see
@@ -815,7 +815,7 @@ Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
 (2016). Edward: A library for probabilistic modeling, inference, and
 criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
 ## TBA-SU {-}
 <p style="text-align:center">
 Simon Urbanek<br />
@@ -973,8 +973,8 @@ regularization, genetic network, DNA methylation, high-dimensional data
 ## Adaptive Model Checking For Functional Single-Index Models {-}
 <p style="text-align:center">
 Feifei Chen^1^, Qing Jiang^2^, and Zhenghui Feng^3^<br />
-^1^Beijing Normal University<br />
-^2^Renmin University<br />
+^1^Renmin University<br />
+^2^Beijing Normal University<br />
 ^3^Xiamen University<br />
 </p>
 <span>**Abstract:**</span> In this paper, a model-adaptive test
@@ -1331,9 +1331,9 @@ trajectory and inform more effective treatment strategies.
 ## Bayesian Structure Selection For Vector Autoregression Model {-}
 <p style="text-align:center">
 Chi-Hsiang Chu^1^, Mong-Na Lo Huang^1^, Shih-Feng Huang^2^, and Ray-Bing Chen^3^<br />
-^1^National Cheng Kung University<br />
-^2^National Sun Yat-sen University<br />
-^3^National University of Kaohsiung<br />
+^1^National Sun Yat-sen University<br />
+^2^National University of Kaohsiung<br />
+^3^National Cheng Kung University<br />
 </p>
 <span>**Abstract:**</span> Vector autoregression (VAR) model is powerful
 in economic data analysis because it can be used to analyze several
@@ -1627,8 +1627,8 @@ method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion
 ## A Unified Regularized Group PLS Algorithm Scalable To Big Data {-}
 <p style="text-align:center">
 Pierre Lafaye de Micheaux^1^, Benoit Liquet^2^, and Matthew Sutton^2^<br />
-^1^Queensland University of Technology<br />
-^2^University of New South Wales<br />
+^1^University of New South Wales<br />
+^2^Queensland University of Technology<br />
 </p>
 <span>**Abstract**</span>: Partial Least Squares (PLS) methods have been
 heavily exploited to analyse the association between two blocs of data.
@@ -1665,8 +1665,8 @@ genomics context*, Bioinformatics 32, 35-42.
 ## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
 <p style="text-align:center">
 Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
-^1^Nara Institute of Science and Technology<br />
-^2^Okayama University<br />
+^1^Okayama University<br />
+^2^Nara Institute of Science and Technology<br />
 </p>
 <span>**Abstract:**</span> Currently, it is becoming easier to analyze
 the various types of spatial data and express them visually on a map.
@@ -1775,8 +1775,8 @@ information.
 ## Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data {-}
 <p style="text-align:center">
 Matthew Sutton^1^, Benoit Liquet^1^, and Rodolphe Thiebaut^2^<br />
-^1^Inria, SISTM, Talence and Inserm, U1219, Bordeaux, Bordeaux University, Bordeaux and Vaccine Research Institute<br />
-^2^Queensland University of Technology<br />
+^1^Queensland University of Technology<br />
+^2^Inria, SISTM, Talence and Inserm, U1219, Bordeaux, Bordeaux University, Bordeaux and Vaccine Research Institute<br />
 </p>
 <span>**Abstract:**</span> Integrative analysis of high dimensional
 omics datasets has been studied by many authors in recent years. By
@@ -2037,8 +2037,8 @@ Sports*, *13*(1), 25-36.
 ## Covariate Discretisation On Big Data {-}
 <p style="text-align:center">
 Hon Hwang^1^, Stephen Wright^2^, and Louise Ryan^1^<br />
-^1^Australian Red Cross Blood Service<br />
-^2^University of Technology Sydney<br />
+^1^University of Technology Sydney<br />
+^2^Australian Red Cross Blood Service<br />
 </p>
 <span>**Abstract:**</span> Distributed Computing Systems such as Hadoop
 and Spark allow statistical analysis to be performed on arbitrary large

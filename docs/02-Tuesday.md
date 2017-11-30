@@ -1,5 +1,5 @@
 # Programme And Abstracts For Tuesday 12^th^ Of December {-}
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
 ## Could Do Better &Hellip; A Report Card For Statistical Computing {-}
 <p style="text-align:center">
 Ross Ihaka and Brendon McArdle<br />
@@ -26,9 +26,9 @@ is still possible.
 ## R&amp;D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis {-}
 <p style="text-align:center">
 Benjamin Montmartin^1^, Marcos Herrera^2^, and Nadine Massard^3^<br />
-^1^CONICET<br />
-^2^GAEL<br />
-^3^GREDEG CNRS<br />
+^1^GREDEG CNRS<br />
+^2^CONICET<br />
+^3^GAEL<br />
 </p>
 <span>**Abstract:**</span> Using a unique database containing
 information on the amount of R&D tax credits and regional, national and
@@ -61,8 +61,8 @@ Books, London.
 ## Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data {-}
 <p style="text-align:center">
 Samin Aref^1^, David Friggens^2^, and Shaun Hendy^1^<br />
-^1^Ministry of Business Innovation & Employment<br />
-^2^University of Auckland<br />
+^1^University of Auckland<br />
+^2^Ministry of Business Innovation & Employment<br />
 </p>
 <span>**Abstract:**</span> Scientific collaborations are among the main
 enablers of development in small national science systems. Although
@@ -368,8 +368,8 @@ Number of Components - An Alternative to Reversible Jump Methods. In:
 ## Bayesian Temporal Density Estimation Using Autoregressive Species Sampling Models {-}
 <p style="text-align:center">
 Youngin Jo^1^, Seongil Jo^2^, and Jaeyong Lee^3^<br />
-^1^Chonbuk National University<br />
-^2^Kakao Corporation<br />
+^1^Kakao Corporation<br />
+^2^Chonbuk National University<br />
 ^3^Seoul National University<br />
 </p>
 <span>**Abstract:**</span> We propose a Bayesian nonparametric (BNP)
@@ -491,8 +491,8 @@ weights, stratification and clustering.
 ## An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift {-}
 <p style="text-align:center">
 Takahiro Ido^1^, Shinpei Imori^1^, and Hidetoshi Shimodaira^2^<br />
-^1^Kyoto University<br />
-^2^Osaka University<br />
+^1^Osaka University<br />
+^2^Kyoto University<br />
 </p>
 <span>**Abstract:**</span> It is beneficial for modeling data of
 interest to exploit secondary information. The secondary information is
@@ -550,12 +550,12 @@ contributed.
 ## Prior-Based Bayesian Information Criterion {-}
 <p style="text-align:center">
 M. J. Bayarri^1^, James Berger^2^, Woncheol Jang^3^, Surajit Ray^4^, Luis Pericchi^5^, and Ingmar Visser^6^<br />
-^1^Duke University<br />
-^2^Seoul National University<br />
-^3^University of Amsterdam<br />
+^1^University of Valencia<br />
+^2^Duke University<br />
+^3^Seoul National University<br />
 ^4^University of Glasgow<br />
 ^5^University of Puerto Rico<br />
-^6^University of Valencia<br />
+^6^University of Amsterdam<br />
 </p>
 <span>**Abstract:**</span> We present a new approach to model selection
 and Bayes factor determination, based on Laplace expansions (as in BIC),
@@ -635,8 +635,8 @@ the American Association of Geographers*, **107(5)**, 1060–1074.
 ## Dimensionality Reduction Of Multivariate Data For Bayesian Analysis {-}
 <p style="text-align:center">
 Anjali Gupta^1^, James Curran^1^, Sally Coulson^2^, and Christopher Triggs^1^<br />
-^1^ESR<br />
-^2^University of Auckland<br />
+^1^University of Auckland<br />
+^2^ESR<br />
 </p>
 <span>**Abstract:**</span> In 2004, Aitken and Lucy published an article detailing a two-level
 likelihood ratio for multivariate trace evidence. This model has been
@@ -796,10 +796,10 @@ makes up &gt;90
 <p style="text-align:center">
 Philip Prah^1^, Anne Johnson^2^, Soazig Clifton^2^, Jennifer Mindell^2^, Andrew Copas^2^, Chloe Robinson^3^, Rachel Craig^3^, Sarah Woodhall^2^, Wendy Macdowall^4^, Elizabeth Fuller^3^, Bob Erens^2^, Pam Sonnenberg^2^, Kaye Wellings^4^, Catherine Mercer^2^, and Anthony Nardone^5^<br />
 ^1^Auckland University of Technology<br />
-^2^London School of Hygiene & Tropical Medicine<br />
+^2^University College London<br />
 ^3^NatCen<br />
-^4^Public Health England<br />
-^5^University College London<br />
+^4^London School of Hygiene & Tropical Medicine<br />
+^5^Public Health England<br />
 </p>
 <span>**Abstract:**</span> Including questions about sexual health in the annual Health Survey for
 England (HSE) provides opportunities for regular measurement of key
@@ -859,8 +859,8 @@ predicting crime
 ## Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data {-}
 <p style="text-align:center">
 Vera Hofer^1^, Johannes Leitner^1^, Horst Lewitschnig^2^, and Thomas Nowak^1^<br />
-^1^Infineon Technologies Austria AG<br />
-^2^University of Graz<br />
+^1^University of Graz<br />
+^2^Infineon Technologies Austria AG<br />
 </p>
 <span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key
 components for the proper functioning of the entire vehicle. Therefore,
@@ -981,10 +981,10 @@ lead to improved accuracy of estimation in certain situations.
 ## BIVAS: A Scalable Bayesian Method For Bi-Level Variable Selection {-}
 <p style="text-align:center">
 Mingxuan Cai^1^, Mingwei Dai^2^, Jingsi Ming^1^, Jin Liu^3^, Can Yang^4^, and Heng Peng^1^<br />
-^1^Duke-NUS Medical School<br />
-^2^Hong Kong Baptist University<br />
-^3^Hong Kong University of Science and Technology<br />
-^4^Xi'an Jiaotong University<br />
+^1^Hong Kong Baptist University<br />
+^2^Xi'an Jiaotong University<br />
+^3^Duke-NUS Medical School<br />
+^4^Hong Kong University of Science and Technology<br />
 </p>
 <span>**Abstract:**</span> In this paper we propose a bi-level variable selection approach, Bivas,
 for linear regression under the Bayesian framework. This model assumes
@@ -1149,8 +1149,8 @@ of Statistical Software*,**70**, 1–21.
 ## Adjusted Adaptive Index Model For Binary Response {-}
 <p style="text-align:center">
 Ke Wan^1^, Kensuke Tanioka^1^, Kun Yang^2^, and Toshio Shimokawa^1^<br />
-^1^Southwest Jiaotong University<br />
-^2^Wakayama Medical University<br />
+^1^Wakayama Medical University<br />
+^2^Southwest Jiaotong University<br />
 </p>
 <span>**Abstract:**</span> In questionnaire surveys, multiple regression analysis is usually used
 to evaluate influence factors. In addition to that, data mining methods
@@ -1228,7 +1228,7 @@ economic development.
 <span>**Keywords:**</span> Bangladesh Garments, Growth of Garment
 Industry, Performance of Manufacturers and Traders, Statistical Model
 <p class="pagebreak"></p>
-<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Tuesday 12<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
+<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
 ## Comparison Of Exact And Approximate Testing Procedures In Clinical Trials With Multiple Binary Endpoints {-}
 <p style="text-align:center">
 Takuma Ishihara and Kouji Yamamoto<br />
@@ -1267,9 +1267,9 @@ minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
 ## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {-}
 <p style="text-align:center">
 Tanmay Sen^1^, Biswabrata Pradhan^2^, Yogesh Mani Tripathi^1^, and Ritwik Bhattacharya^3^<br />
-^1^Centro de Investigacionen Matematicas<br />
-^2^Indian Institute of Technology Patna<br />
-^3^Indian Statistical Institute  Kolkata<br />
+^1^Indian Institute of Technology Patna<br />
+^2^Indian Statistical Institute  Kolkata<br />
+^3^Centro de Investigacionen Matematicas<br />
 </p>
 <span>**Abstract:**</span> This work considers determination of optimum
 warranty length under Type-II unified hybrid censoring scheme. Consumers
@@ -1362,8 +1362,8 @@ Philosophical Transactions of the Royal Society of London, 115, 513-583.
 ## Detecting Change-Points In The Stress-Strength Reliability P(X&LT;Y) {-}
 <p style="text-align:center">
 Hang Xu^1^, Philip L.H. Yu^1^, and Mayer Alvo^2^<br />
-^1^University of Ottawa<br />
-^2^Unversity of Hong Kong<br />
+^1^Unversity of Hong Kong<br />
+^2^University of Ottawa<br />
 </p>
 <span>**Abstract:**</span> We address the statistical problem of
 detecting change-points in the stress-strength reliability $R=P(X<Y)$ in

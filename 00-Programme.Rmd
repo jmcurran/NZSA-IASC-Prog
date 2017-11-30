@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td class = "time">1030</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys<br/>Andrew Adiguna Halim</td>
 <td class = "contributed">Calendar-Based Graphics For Visualising People's Daily Schedules<br/>Earo Wang</td>
 <td class = "contributed">Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract<br/>Paolo Victor Redondo</td>
@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td class = "time">1050</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Clustering Using Nonparametric Mixtures And Mode Identification<br/>Shengwei Hu</td>
 <td class = "contributed">Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels<br/>Youngseon Lee</td>
 <td class = "contributed">Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency<br/>Erniel Barrios</td>
@@ -54,7 +54,7 @@
 </tr>
 <tr>
 <td class = "time">1110</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Estimation Of A High-Dimensional Covariance Matrix<br/>Xiangjie Xue</td>
 <td class = "contributed">Innovative Bayesian Estimation In The von Mises Distribution<br/>Yuta Kamiya</td>
 <td class = "contributed">Evidence Of Climate Change From Nonparametric Change-Point Analysis<br/>Angela Nalica</td>
@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td class = "time">1130</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information<br/>Timothy Bilton</td>
 <td class = "contributed">A Simple Method For Grouping Patients Based On Historical Doses<br/>Shengli Tzeng</td>
 <td class = "contributed">Semiparametric Mixed Analysis Of Covariance Model<br/>Joseph Ryan Lansangan</td>
@@ -72,11 +72,11 @@
 </tr>
 <tr>
 <td class = "time">1150</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Vector Generalized Linear Time Series Models<br/>Victor Miranda</td>
 <td class = "contributed">Local Canonical Correlation Analysis For Multimodal Labeled Data<br/>Seigo Mizutani</td>
 <td class = "contributed">A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data<br/>Balaram Panda</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Clustering Of Research Subject Based On Stochastic Block Model<br/>Keisuke Honda</td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@
 <td class = "contributed">Estimating Causal Structures For Continuous And Discrete Variables<br/>Mako Yamayoshi</td>
 <td class = "contributed">Incorporating Genetic Networks Into Case-Control Association Studies With High-Dimensional DNA Methylation Data<br/>Hokeun Sun</td>
 <td class = "contributed">Adaptive Model Checking For Functional Single-Index Models<br/>Zhenghui Feng</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1430</td>
@@ -112,7 +112,7 @@
 <td class = "contributed">Pattern Prediction For Time Series Data With Change Points<br/>Satoshi Goto</td>
 <td class = "contributed">Test For Genomic Imprinting Effects On The X Chromosome<br/>Wing Kam Fung</td>
 <td class = "contributed">Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications<br/>Shih-Feng Huang</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1450</td>
@@ -121,7 +121,7 @@
 <td class = "contributed">Regression With Random Effects For Analysing Correlated Survival Data: Application To Disease Recurrences<br/>Richard Tawiah</td>
 <td class = "contributed">Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury<br/>Priya Parmar</td>
 <td class = "contributed">Bayesian Structure Selection For Vector Autoregression Model<br/>Ray-Bing Chen</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1510</td>
@@ -130,7 +130,7 @@
 <td class = "contributed">Elastic-Band Transform: A New Approach To Multiscale Visualization<br/>Hee-Seok Oh</td>
 <td class = "contributed">A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing<br/>Yu-Chung Wei</td>
 <td class = "contributed">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1530</td>
@@ -147,7 +147,7 @@
 </tr>
 <tr>
 <td class = "time">1600</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Robustness Of Temperature Reconstruction For Past 500 Years<br/>Matthew Schofield</td>
 <td class = "contributed">Nonparametric Causal Inference By The Kernel Method<br/>Yuchi Matsuoka</td>
 <td class = "contributed">A Unified Regularized Group Pls Algorithm Scalable To Big Data<br/>Pierre Lafaye de Micheaux</td>
@@ -156,7 +156,7 @@
 </tr>
 <tr>
 <td class = "time">1620</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Real-Time Transit Network Modelling For Improved Arrival Time Predictions<br/>Tom Elliott</td>
 <td class = "contributed">Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data<br/>Matthew Sutton</td>
 <td class = "contributed">BIG-SIR A Sliced Inverse Regression Approach For Massive Data<br/>Benoit Liquet</td>
@@ -165,7 +165,7 @@
 </tr>
 <tr>
 <td class = "time">1640</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Bayesian Survival Analysis Of Batsmen In Test Cricket<br/>Oliver Stevenson</td>
 <td class = "contributed">Covariate Discretisation On Big Data<br/>Hon Hwang</td>
 <td class = "contributed">Visualization And Statistical Modeling Of Financial Big Data<br/>Masayuki Jimichi</td>
@@ -237,7 +237,7 @@
 <td class = "time">1130</td>
 <td class = "contributed">Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset<br/>Narumasa Tsutsumida</td>
 <td class = "contributed">Dimensionality Reduction Of Multivariate Data For Bayesian Analysis<br/>Anjali Gupta</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Adjusting For Linkage Bias In The Analysis Of Record-Linked Data<br/>Patrick Graham</td>
 <td class = "contributed">Bayesian Semiparametric Hierarchical Models For Longitudinal Data Analysis With Application To Dose-Response Studies<br/>Taeryon Choi</td>
 <td class = "contributed">Optimizing Junior Rugby Weight Limits<br/>Emma Campbell</td>
@@ -246,7 +246,7 @@
 <td class = "time">1150</td>
 <td class = "contributed">Spatial Scan Statistics For Matched Case-Control Data<br/>Inkyung Jung</td>
 <td class = "contributed">Whitebait In All Its Varieties: One Fish, Two Fish, Three, Four, Five Fish.<br/>Bridget Armstrong</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles<br/>Philip Prah</td>
 <td class = "contributed">Bayesian Continuous Space-Time Model Of Burglaries<br/>Paul Brown</td>
 <td class = "contributed">Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data<br/>Thomas Nowak</td>
@@ -297,16 +297,16 @@
 <td class = "contributed">Detecting Change-Points In The Stress-Strength Reliability P(X&LT;Y)<br/>Hang Xu</td>
 <td class = "contributed">New Zealand Crime And Victims Survey: Filling The Knowledge Gap<br/>Michael Slyuzberg</td>
 <td class = "contributed">Missing Data In Randomised Control Trials: Stepped Multiple Imputation<br/>Rose Sisk</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1700</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">NZSA Annual General Meeting<br/>1700 - 1815</td>
 <td class = "contributed">IASC General Assembly<br/>1700-1815</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1830</td>
@@ -362,7 +362,7 @@
 <td class = "contributed">The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach<br/>Thi Thu Huong Pham</td>
 <td class = "contributed">R – A Powerful Analysis Tool To Improve Official Statistics In Romania<br/>Nicoleta Caragea</td>
 <td class = "contributed">Robust Principal Expectile Component Analysis<br/>Liang-Ching Lin</td>
-<td class = "contributed">Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM <br/>Elizabeth Chou</td>
+<td class = "contributed">Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM<br/>Elizabeth Chou</td>
 </tr>
 <tr>
 <td class = "time">1110</td>
@@ -386,7 +386,7 @@
 <td class = "time">1150</td>
 <td class = "contributed">R For Everything<br/>Jared Lander</td>
 <td class = "contributed">R Package For New Two-Stage Methods In Forecasting Time Series With Multiple Seasonality<br/>Shubhabrata Das</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Analysis Of Official Microdata Using Secure Statistical Computation System<br/>Kiyomi Shirakawa</td>
 <td class = "contributed">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</td>
 <td class = "contributed">Presenting Flexi, A Statistical Program For Fitting Variance Models<br/>Martin Upsdell</td>
@@ -464,25 +464,25 @@
 <td class = "contributed">Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories<br/>Kiyotaka Iki</td>
 <td class = "contributed">Sparse Estimates From Dense Precision Matrix Posteriors<br/>Beatrix Jones</td>
 <td class = "contributed">Dimension Reduction Strategies For Modeling Bi-Clustered High Dimensional Data<br/>Michael Van Supranes</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1620</td>
 <td class = "contributed">Computing Entropies With Nested Sampling<br/>Brendon Brewer</td>
 <td class = "contributed">Spline-Based Drift Models For High Temperature Operating Life Tests<br/>Thomas Nowak</td>
 <td class = "contributed">A New Approach To Distribution Free Tests In Contingency Tables<br/>Thuong Nguyen</td>
-<td class = "contributed">Bayesian Semi-Parametric Approaches To Analyzing Temperature Trends<br/>Renate Meyer</td>
+<td class = "contributed"></td>
 <td class = "contributed">Modified Gene Shaving Algorithm - A Dimension Reduction And Clustering Method<br/>Donna Mae Santos</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1640</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">A Simple Method To Construct Confidence Bands In Functional Linear Regression<br/>Kengo Kato</td>
 <td class = "contributed">Separation Of Symmetry For Square Contingency Tables With Ordinal Categories<br/>Kouji Tahata</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors<br/>Frances Claire San Juan</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 </tbody>
 </table>
@@ -521,38 +521,38 @@
 <tr>
 <td class = "time">1030</td>
 <td class = "contributed">Penalized Vector Generalized Additive Models<br/>Thomas Yee</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</td>
 <td class = "contributed">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1050</td>
 <td class = "contributed">Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators<br/>Chihhao Chang</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</td>
 <td class = "contributed">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1110</td>
 <td class = "contributed">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</td>
 <td class = "contributed">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1130</td>
 <td class = "contributed">Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models<br/>Yuichi Hirose</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 </tr>
 <tr>
 <td class = "time">1200</td>
@@ -569,29 +569,29 @@
 </tr>
 <tr>
 <td class = "time">1310</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Dissimilarities Between Groups Of Data<br/>Nobuo Shimizu</td>
 <td class = "contributed">A Package For Multiple Precision Floating-Point Computation On R<br/>Junji Nakano</td>
 <td class = "contributed">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Mobile Learning In Teaching Bioinformatics For Medical Doctors<br/>Taerim Lee and Jung Jin Lee</td>
 </tr>
 <tr>
 <td class = "time">1330</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</td>
 <td class = "contributed">An Incomplete-Data Fisher Scoring With An Acceleration Method<br/>Keiji Takai</td>
-<td class = "contributed">Statistical Challenges For Proteogenomic Data Analysis<br/>Yusuke Matsui</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</td>
 </tr>
 <tr>
 <td class = "time">1350</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
 <td class = "contributed">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</td>
 <td class = "contributed">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</td>
-<td class = "contributed">NA</td>
-<td class = "contributed">NA</td>
+<td class = "contributed"></td>
+<td class = "contributed"></td>
 <td class = "contributed">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</td>
 </tr>
 <tr>

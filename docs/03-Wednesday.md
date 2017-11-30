@@ -18,8 +18,8 @@ website (with pkgdown), and promoting your work on social media.
 ## A Smoothing Filter Modelling Approach For Time Series {-}
 <p style="text-align:center">
 Marco Reale^1^, Granville Tunnicliffe Wilson^2^, and John Haywood^3^<br />
-^1^Lancaster University<br />
-^2^University of Canterbury<br />
+^1^University of Canterbury<br />
+^2^Lancaster University<br />
 ^3^Victoria University of Wellington<br />
 </p>
 <span>**Abstract:**</span> We introduce different representations of a
@@ -34,8 +34,8 @@ higher lead times.
 ## Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation {-}
 <p style="text-align:center">
 Yongdai Kim^1^, Kuhwan Jeong^1^, Byungyup Kang^2^, and Hyoju Chung^2^<br />
-^1^NAVER Corp.<br />
-^2^Seoul National University<br />
+^1^Seoul National University<br />
+^2^NAVER Corp.<br />
 </p>
 <span>**Abstract:**</span> We propose a new online learning method for
 Bayesian nonparametric (BNP) models so called <span>*weakly conjugate
@@ -108,8 +108,8 @@ KAKENHI Grant Number JP16H02013.
 ## Sparse Common Component Analysis {-}
 <p style="text-align:center">
 Heewon Park^1^ and Sadanori Konishi^2^<br />
-^1^Chuo University<br />
-^2^Yamaguchi University<br />
+^1^Yamaguchi University<br />
+^2^Chuo University<br />
 </p>
 <span>**Abstract:**</span> Common component analysis (CCA) was proposed
 by generalizing techniques for principal component analysis (PCA) for a
@@ -293,8 +293,8 @@ survival.*Biometrics,* 61(1):64 – 73.
 ## R – A Powerful Analysis Tool To Improve Official Statistics In Romania {-}
 <p style="text-align:center">
 Nicoleta Caragea^1,2^ and Antoniade Ciprian Alexandru^2,1^<br />
-^1^Ecological University of Bucharest<br />
-^2^National Institute of Statistics<br />
+^1^National Institute of Statistics<br />
+^2^Ecological University of Bucharest<br />
 </p>
 <span>**Abstract:**</span> This presentation is focused on how R is used
 in Romanian official statistics to improve the quality of results
@@ -346,6 +346,32 @@ Tran, N. M., Burdejová, P., Osipenko, M. and Hárdle, W. K. (2016).
 *Principal Component Analysis in an Asymmetric Norm.* SFB 649 Discussion
 Paper 2016-040, Sonderforschungsbereich 649, Humboldt Universitát zu
 Berlin, Germany.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
+## Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM {-}
+<p style="text-align:center">
+Elizabeth Chou and Tzu-Wei Ko<br />
+National Chengchi University<br />
+</p>
+<span>**Abstract:**</span> The purpose of this study is to build a
+simple and intuitive wrapper method, stepwise SVM, for reducing
+dimension and classification of large p small n datasets. The method
+employs a suboptimum search procedure to determine the best subset of
+variables for classification. The proposed method is compared with other
+dimension reduction methods, such as Pearson product moment correlation
+coefficient (PCCs), Recursive Feature Elimination based on Random Forest
+(RF-RFE), and Principal Component Analysis (PCA) by using five gene
+expression datasets. In this study, we show that stepwise SVM can
+effectively select the important variables and perform well in
+prediction. Moreover, the predictions of reduced datasets from stepwise
+SVM are better than that of the unreduced datasets. Compared with other
+methods, the performance of stepwise SVM is more stable than PCA and
+RF-RFE but it is difficult to tell the difference in performance from
+PCCs. In conclusion, stepwise SVM can effectively eliminate the noise in
+data and improve the prediction accuracy.
+
+<span>**Keywords:**</span> Stepwise SVM, Dimension reduction, Feature
+selection, High-dimension
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
 ## Bringing Multimix From Fortran To R {-}
@@ -642,8 +668,8 @@ Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.
 ## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {-}
 <p style="text-align:center">
 Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Mie University Hospital<br />
+^1^Mie University Hospital<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Abstract:**</span> The confidence or the credible interval of
 the binomial proportion $p$ is one of most widely employed statistical
@@ -680,8 +706,8 @@ Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 ## Imputation Of The 2016 Economic Census For Business Activity In Japan {-}
 <p style="text-align:center">
 Kazumi Wada^1^, Hiroe Tsubaki^2^, Yukako Toko^1^, and Hidemine Sekino^3^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^National Statistics Center<br />
+^1^National Statistics Center<br />
+^2^Institute of Statistical Mathematics<br />
 ^3^The Statistics Bureau<br />
 </p>
 <span>**Abstract:**</span>
@@ -728,20 +754,20 @@ This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 ## Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings {-}
 <p style="text-align:center">
 Takahiro Nishiyama^1^ and Masashi Hyodo^2^<br />
-^1^Osaka Prefecture University<br />
-^2^Senshu University<br />
+^1^Senshu University<br />
+^2^Osaka Prefecture University<br />
 </p>
-<span>**Abstract:**</span> Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
-$\ldots$, ${\mbox{\boldmath ${X}$}}_{gn_g}$ be i.i.d. random samples of
-size $n_{g}$ from a $p$-dimensional population $\Pi_g$
+<span>**Abstract:**</span> Let $\mathbf{X}_{g1}, \mathbf{X}_{g2}, \ldots, \mathbf{X}_{gn_g}$ be i.i.d. random samples of
+size $n_g$ from a $p$-dimensional population $\Pi_g$
 ($g \in \{1, 2\}$) with
-${\rm E}({\mbox{\boldmath ${X}$}}_{gi})={\mbox{\boldmath ${\mu}$}}_g$
+$\mathrm{E}(\mathbf{X}_{gi})={\boldsymbol\mu}_g$
 and ${\rm var}({\mbox{\boldmath ${X}$}}_{gi})=\Sigma_g$
 ($i \in \{1, \ldots ,n_g\}$). In this talk, our primary interest is to
 test following hypothesis when $p > \min\{n_1-1, n_2-1 \}$:
 $$\begin{aligned}
-H_0 : {\mbox{\boldmath ${\mu}$}}_1 = {\mbox{\boldmath ${\mu}$}}_1,~ \Sigma_1 = \Sigma_2 \quad 
-\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.\end{aligned}$$
+H_0 : {\boldsymbol\mu}_1 = {\boldsymbol\mu}_1,~ \Sigma_1 = \Sigma_2 \quad 
+\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.
+\end{aligned}$$
 
 For this problem, we discuss an $L^2$-norm-based test for simultaneous
 testing of mean vectors and covariance matrices among two non-normal
@@ -942,7 +968,7 @@ models are like television pictures whereas variance based models are
 like Progressive Graphics File pictures. The advantages and
 disadvantages of the two methods will be discussed.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Wednesday 13<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
 ## Space And Circular Time Log Gaussian Cox Processes With Application To Crime Event Data {-}
 <p style="text-align:center">
 Alan Gelfand<br />
@@ -960,9 +986,9 @@ dataset is a collection of crime events for the city of San Francisco during the
 ## Cluster-Wise Regression Models Combined By A Quasi-Linear Function {-}
 <p style="text-align:center">
 Kenichi Hayashi^1^, Katsuhiro Omae^2^, and Shinto Eguchi^3^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Keio University<br />
-^3^The Graduate University for Advanced Studies<br />
+^1^Keio University<br />
+^2^The Graduate University for Advanced Studies<br />
+^3^Institute of Statistical Mathematics<br />
 </p>
 <span>**Abstract:**</span> Suppose that there are multiple heterogeneous
 subgroups in a dataset. In the “Big data” era, this would be a natural
@@ -996,9 +1022,9 @@ Späth, H. (1979). Algorithm 39: Clusterwise linear regression.
 ## Hierarchical Structural Component Analysis Of Gene-Environment Interactions {-}
 <p style="text-align:center">
 Sungkyoung Choi^1^, Seungyeoun Lee^2^, and Taesung Park^3^<br />
-^1^Sejong University<br />
-^2^Seoul National University<br />
-^3^Yonsei University<br />
+^1^Yonsei University<br />
+^2^Sejong University<br />
+^3^Seoul National University<br />
 </p>
 <span>**Abstract:**</span> Gene-environment interactions (GEI) are known
 to be one possible avenue for addressing the missing heritability
@@ -1059,8 +1085,8 @@ Models in Business and Industry*, **23**, 493–502.
 ## Cross Covariance Estimation For Integration Of Multi-Omics Data {-}
 <p style="text-align:center">
 Johan Lim^1^, Hiromi Koh^2^, and Hyungwon Choi^2^<br />
-^1^National University of Singapore<br />
-^2^Seoul National University<br />
+^1^Seoul National University<br />
+^2^National University of Singapore<br />
 </p>
 <span>**Abstract:**</span> In integrative analysis of multiple types of
 -omics data, it is often of interest to infer associations between two
@@ -1136,8 +1162,8 @@ media.
 ## Transfer Regression And Predictive Distributions {-}
 <p style="text-align:center">
 Shigetoshi Hosaka^1^ and Jinfang Wang^2^<br />
-^1^Chiba University<br />
-^2^Hosaka Clinic of Internal Medicine<br />
+^1^Hosaka Clinic of Internal Medicine<br />
+^2^Chiba University<br />
 </p>
 <span>**Abstract:**</span> We introduce the *transfer regression*, a
 method for constructing prior distributions for parameters defining
@@ -1525,8 +1551,8 @@ multivariate regression in analyzing complex data.
 ## Clusterwise Low-Rank Correlation Analysis Based On Majorization {-}
 <p style="text-align:center">
 Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2^<br />
-^1^Doshisha University<br />
-^2^Wakayama Medical University<br />
+^1^Wakayama Medical University<br />
+^2^Doshisha University<br />
 </p>
 <span>**Abstract:**</span> Given correlation matrices between variables
 of subjects and these classes of subjects, it is important to get the
@@ -1934,43 +1960,6 @@ distribution free testing, *Bernoulli*, **22**, 563–588
 
 Nguyen, T.T.M., (2017). A new approach to distribution free tests in
 contingency tables, *Metrika*, **80**, 153–170
-<p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
-## Bayesian Semi-Parametric Approaches To Analyzing Temperature Trends {-}
-<p style="text-align:center">
-Matthew Edwards^1^, Claudia Kirch^2^, Alexander Meier^3^, Renate Meyer^1^, and Blake Seers^1^<br />
-^1^Karlsruhe Institute of Technology<br />
-^2^OvGU Magdeburg<br />
-^3^University of Auckland<br />
-</p>
-<span>**Abstract:**</span> To discern potential impacts of global
-warming for New Zealand, it is imperative to accurately estimate
-long-term temperature trends. Here we analyse annual average temperature
-time series measured at several locations in New Zealand. The data are
-from a set of climate stations with no significant site changes since
-the 1930s. We specify a hierarchical semi-parametric model with a linear
-time and changepoints at known time points where re-siting of recorders
-or changes in instrumentation occurred. The power spectral density of
-the errors is estimated using a Bayesian nonparametric approach based on
-Whittle’s likelihood. We use a nonparametric Bernstein polynomial prior
-on the spectral density with weights induced by a Dirichlet process.
-Posterior computation is implemented using a MH-within-Gibbs algorithm.
-We compare our results to those obtained by OLS and GLS.
-
-<span>**Keywords:**</span> stationary time series, spectral density,
-Bayesian nonparametrics, posterior consistency, Whittle likelihood,
-Bernstein-Dirichlet prior
-
-<span>**References:**</span>
-
-Kirch, C., Edwards, M., Meier, A., and Meyer, R. (2017). *Beyond
-Whittle: Nonparametric correction of a parametric likelihood with a
-focus on Bayesian time series analysis*,
-<span>https://arxiv.org/abs/1701.04846</span>.
-
-Thomson, P., Mullan, B. and Stuart, S. (2014). Estimating the slope and
-standard error of a long-term linear trend fitted to adjusted annual
-temperatures. Joint NZSA/ORSNZ Conference, Wellington.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
 ## Modified Gene Shaving Algorithm - A Dimension REduction And Clustering Method {-}

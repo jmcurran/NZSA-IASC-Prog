@@ -1,14 +1,14 @@
-<span>**Abstract:**</span> Let ${\mbox{\boldmath ${X}$}}_{g1}$, ${\mbox{\boldmath ${X}$}}_{g2}$,
-$\ldots$, ${\mbox{\boldmath ${X}$}}_{gn_g}$ be i.i.d. random samples of
-size $n_{g}$ from a $p$-dimensional population $\Pi_g$
+<span>**Abstract:**</span> Let $\mathbf{X}_{g1}, \mathbf{X}_{g2}, \ldots, \mathbf{X}_{gn_g}$ be i.i.d. random samples of
+size $n_g$ from a $p$-dimensional population $\Pi_g$
 ($g \in \{1, 2\}$) with
-${\rm E}({\mbox{\boldmath ${X}$}}_{gi})={\mbox{\boldmath ${\mu}$}}_g$
+$\mathrm{E}(\mathbf{X}_{gi})={\boldsymbol\mu}_g$
 and ${\rm var}({\mbox{\boldmath ${X}$}}_{gi})=\Sigma_g$
 ($i \in \{1, \ldots ,n_g\}$). In this talk, our primary interest is to
 test following hypothesis when $p > \min\{n_1-1, n_2-1 \}$:
 $$\begin{aligned}
-H_0 : {\mbox{\boldmath ${\mu}$}}_1 = {\mbox{\boldmath ${\mu}$}}_1,~ \Sigma_1 = \Sigma_2 \quad 
-\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.\end{aligned}$$
+H_0 : {\boldsymbol\mu}_1 = {\boldsymbol\mu}_1,~ \Sigma_1 = \Sigma_2 \quad 
+\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.
+\end{aligned}$$
 
 For this problem, we discuss an $L^2$-norm-based test for simultaneous
 testing of mean vectors and covariance matrices among two non-normal

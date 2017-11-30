@@ -1,5 +1,5 @@
 # Programme And Abstracts For Thursday 14^th^ Of December {-}
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
+<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Thursday 14<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
 ## TBA-JB {-}
 <p style="text-align:center">
 Jenny Bryan<br />
@@ -285,8 +285,8 @@ Applications.* Chapman and Hall.
 ## Forward Selection In Regression Models Based On Robust Estimation {-}
 <p style="text-align:center">
 Shan Luo^1^ and Zehua Chen^2^<br />
-^1^National University of Singapore<br />
-^2^Shanghai Jiao Tong University<br />
+^1^Shanghai Jiao Tong University<br />
+^2^National University of Singapore<br />
 </p>
 <span>**Abstract:**</span> For the purpose of feature selection in
 ultra-high dimensional regression models, it is required that a sequence
@@ -430,8 +430,9 @@ MPACK
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:10 Case Room 4 (260-009)</p>
 ## Mobile Learning In Teaching Bioinformatics For Medical Doctors {-}
 <p style="text-align:center">
-Taerim Lee<br />
-Korea National Open University<br />
+Taerim Lee^1^ and Jung Jin Lee^2^<br />
+^1^Korea National Open University<br />
+^2^Soongsil University<br />
 </p>
 <span>**Abstract:**</span> This paper describes an implementation of mobile learning initiative in
 Bioinformatics Training & Education Center (BITEC) for medical doctors
@@ -458,8 +459,8 @@ better affordable, accessible and flexible educational media.
 ## Interactive Visualization Of Aggregated Symbolic Data {-}
 <p style="text-align:center">
 Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
-^1^Institute of Statistical Mathematics<br />
-^2^Tokushima Bunri University<br />
+^1^Tokushima Bunri University<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
 <span>**Abstract:**</span> When we have new “big data”, the first step
 may be to visualize them. For visualizing continuous multivariate data,
@@ -537,47 +538,6 @@ combination of information in generally balanced designs. In:
 *COMPSTAT90 Proceedings in Computational Statistics*, 297–302.
 Heidelberg: Physica-Verlag.
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 2 (260-057)</p>
-## Statistical Challenges For Proteogenomic Data Analysis {-}
-<p style="text-align:center">
-Yusuke Matsui<br />
-Nagoya University Graduate School of Medicine<br />
-</p>
-<span>**Abstract:**</span> Large-scale integrated cancer genome and
-proteome characterization efforts including the cancer genome atlas and
-clinical proteomic tumor analysis consortium have opened unprecedented
-opportunities to reveal the comprehensive understandings of cancer
-biology. An important challenge is organizing our knowledge how the
-genomic events drive the proteome and phosphoproteome to form phenotypic
-characteristics.
-
-However, connecting the genome and the proteome is not straightforward
-since measuring technologies for the genome and the proteome are quite
-different and thus the coverage that can be measured is different.
-Besides, the proteome data usually include massive amount of missing
-values. These issues include several statistical problems - massive
-missing data imputation, statistical models to connect the distinct
-datasets from different measurement technologies, and interpretable
-statistical models that can explain clinical outcomes.
-
-Currently, we are developing proteogenomic data analysis approaches
-including the systematic workflow (pipeline) for the cancer protegenomic
-clinical data. We will present the progression of our current work as
-well as discussing the statistical approaches, using actual ongoing
-clinical dataset.
-
-<span>**Keywords:**</span> Bioinformatics, Proteogenomics, Cancer,
-Multi-omics data, Data analysis
-
-<span>**References:**</span>
-
-Philipp, M., <span>*et al.*</span> (2016) Proteogenomics connects
-somatic mutations to signalling in breast cancer. *Nature*, 534:55–62.
-
-Hui, Z., <span>*et al.*</span> (2016) Integrated Proteogenomic
-Characterization of Human High-Grade Serous Ovarian Cancer. *Cell*,
-166:755–765.
-<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 13:30 Case Room 4 (260-009)</p>
 ## Towards An Informal Test For Goodness-Of-Fit {-}
 <p style="text-align:center">
@@ -644,8 +604,8 @@ Journal*</span>, <span>**48**</span>, 1231-1240.
 ## Improvement Of Computation For Nonlinear Multivariate Methods {-}
 <p style="text-align:center">
 Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
-^1^Okayama University<br />
-^2^Okayama University of Science<br />
+^1^Okayama University of Science<br />
+^2^Okayama University<br />
 </p>
 <span>**Abstract:**</span> Nonlinear multivariate methods (NL-MM) using
 optimal scaling as a quantification technique can analyze any data
