@@ -18,10 +18,4 @@ Korean peninsula.
 Dependent random probability measures; Mixture models; Temporal
 structured data
 
-[^1]: This work is a part of the first author’s Ph.D. thesis at Seoul
-    National University. Research of Seongil Jo was supported by Basic
-    Science Research Program through the National Research Foundation of
-    Korea (NRF) funded by the Ministry of Education
-    (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by
-    the National Research Foundation of Korea (NRF) grant funded by the
-    Korea government (MEST) (No. 2011-0030811).
+<span>**Acknowledgements:**</span> This work is a part of the first author’s Ph.D. thesis at Seoul National University. Research of Seongil Jo was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MEST) (No. 2011-0030811).

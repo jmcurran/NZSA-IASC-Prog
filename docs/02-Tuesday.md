@@ -392,13 +392,7 @@ Korean peninsula.
 Dependent random probability measures; Mixture models; Temporal
 structured data
 
-[^1]: This work is a part of the first author’s Ph.D. thesis at Seoul
-    National University. Research of Seongil Jo was supported by Basic
-    Science Research Program through the National Research Foundation of
-    Korea (NRF) funded by the Ministry of Education
-    (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by
-    the National Research Foundation of Korea (NRF) grant funded by the
-    Korea government (MEST) (No. 2011-0030811).
+<span>**Acknowledgements:**</span> This work is a part of the first author’s Ph.D. thesis at Seoul National University. Research of Seongil Jo was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MEST) (No. 2011-0030811).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
 ## How Does The Textile Set Describe Geometric Structures Of Data? {#talk_047 .unnumbered}
@@ -824,9 +818,7 @@ SaTScan, McNemar test, conditional logistic regression
 Bridget Armstrong<br />
 University of Canterbury<br />
 </p>
-<span>**Abstract:**</span> There are five species of fishes of the genus Galaxias that make up
-whitebait catches in New Zealand, although one species (G. maculatus)
-makes up &gt;90
+<span>**Abstract:**</span> There are five species of fishes of the genus Galaxias that make up whitebait catches in New Zealand, although one species (G. maculatus) makes up &gt;90% of the catch. Whitebait are immature post-larval fish that have yet to develop the distinctive morphological traits of adults. However, in their tiny stages as whitebait the five species are difficult to tell apart. There are also distinct spatial (rivers) and temporal (different months in the whitebait fishing season) differences among the species and even within species. To manage the fishery better it is necessary to identify regional differences in the species composition of catches, which is difficult because of the time and effort required to sample catches and identify species morphologically or genetically. In my study, I will use a recently compiled database comprising 17,000 entries of whitebait samples, species composition, and variability to develop a statistical model to predict the likelihood of species-to-species composition of catches throughout New Zealand. This probabilistic model could potentially be a powerful tool in the fishery and conservation of whitebait species, some of which are considered to be threatened. 
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
 ## Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles {#talk_193 .unnumbered}
@@ -899,9 +891,7 @@ Vera Hofer^1^, Johannes Leitner^1^, Horst Lewitschnig^2^, and Thomas Nowak^1^<br
 ^1^University of Graz<br />
 ^2^Infineon Technologies Austria AG<br />
 </p>
-<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key
-components for the proper functioning of the entire vehicle. Therefore,
-issues concerning the reliability of these components are of crucial
+<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key components for the proper functioning of the entire vehicle. Therefore, issues concerning the reliability of these components are of crucial
 importance to manufacturers of semiconductor devices.
 
 In this quality control task, we consider longitudinal data from high
@@ -1439,11 +1429,11 @@ there. Administrative data does not provide an answer as only about 30
 The New Zealand Crime and Victims Survey (NZCVS) is introduced to fill
 this knowledge gap. The survey which is currently on the pilot phase was
 designed to meet the recommendations of Statistics New Zealand and key
-stakeholders’ demand. It will interview about 8,000 of New Zealand
+stakeholders' demand. It will interview about 8,000 of New Zealand
 residents aged from 15 years old and aims to: provide information
 about the extent (volumes and prevalence) and nature of crime and
 victimisation in New Zealand; provide geographical break-down of
-victimisation; provide extensive victims’ demographics; measure how
+victimisation; provide extensive victims' demographics; measure how
 much crime gets reported to Police; understand the experiences of
 victims; measure crime trends in New Zealand.
 
@@ -1452,17 +1442,17 @@ extended discussions with key stakeholders and describes key design
 features to be implemented in order to meet these requirements. These
 key requirements include, but are not limited to: Measuring the
 extent and nature of reported and unreported crime across New Zealand;
-Providing in-depth story-telling of victims’ experiences; Providing
+Providing in-depth story-telling of victims' experiences; Providing
 frequent and timely information to support Investment Approach for
 Justice and wider decision making; Reducing information gaps by
-matching the NZCVS with administrative data in Statistics New Zealand’s
+matching the NZCVS with administrative data in Statistics New Zealand's
 Integrated Data Infrastructure (IDI).
 
 In particular, the paper discusses modular survey design which includes
 core crime and victimisation questions and revolving modules added
 annually, stratified random sampling, a new highly automated approach to
 offence coding through extended screening, measuring harm from being
-victimised, obtaining respondents’ informed consent for data matching,
+victimised, obtaining respondents' informed consent for data matching,
 use of survey data for extended analysis and forecasting and other
 important survey features.
 <p class="pagebreak"></p>

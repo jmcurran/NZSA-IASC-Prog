@@ -1,6 +1,4 @@
-<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key
-components for the proper functioning of the entire vehicle. Therefore,
-issues concerning the reliability of these components are of crucial
+<span>**Abstract:**</span> Especially in the automotive industry, semiconductor devices are key components for the proper functioning of the entire vehicle. Therefore, issues concerning the reliability of these components are of crucial
 importance to manufacturers of semiconductor devices.
 
 In this quality control task, we consider longitudinal data from high

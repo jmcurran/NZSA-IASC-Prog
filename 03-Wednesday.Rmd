@@ -100,9 +100,7 @@ disseminate statistics.
 <span>**Keywords:**</span> Shiny, R Markdown, Official Statistics
 
 <span>**Acknowledgement:**</span>
-
-This work was supported by JSPS
-KAKENHI Grant Number JP16H02013.
+This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
 ## Sparse Common Component Analysis {#talk_006 .unnumbered}
@@ -383,37 +381,13 @@ selection, High-dimension
 Murray Jorgensen<br />
 Auckland University of Technology<br />
 </p>
-<span>**Abstract:**</span> Multimix is the name for a class of multivariate finite mixture models
-designed with clustering (<span>*unsupervised learning*</span>)
-in mind. It is also a name for a program to fit these models,
-written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis.
+<span>**Abstract:**</span> Multimix is the name for a class of multivariate finite mixture models designed with clustering (<span>*unsupervised learning*</span>) in mind. It is also a name for a program to fit these models, written in Fortran77 by Lyn Hunt as part of her Waikato PhD thesis. 
 
-Why convert to R? Although written in the 1990s Multimix is easy to convert to modern
-GNU Fortran (gfortran) but there are advantages to having an R
-version available. For users this means a simpler way of reading in
-the data and describing the form of the model. Also for ongoing
-development of improvement and modifications of the Multimix models.
-R’s interactive environment provides a more comfortable place
-for experimentation.
+**Why convert to R?** Although written in the 1990s Multimix is easy to convert to modern GNU Fortran (gfortran) but there are advantages to having an R version available. For users this means a simpler way of reading in the data and describing the form of the model. Also for ongoing development of improvement and modifications of the Multimix models. R's interactive environment provides a more comfortable place for experimentation. Designing the new program. Rather than attempt any sort of translation of the old code, the new R version of Multimix is designed from the beginning as an R program. In my talk I will describe some of the design decisions made and the reasons for them. A particular concern was that the R version be as fast as possible. 
 
-Designing the new program. Rather than attempt any sort of translation of the old code, the new
-R version of Multimix is designed from the beginning as an
-R program. In my talk I will describe some of the design decisions
-made and the reasons for them. A particular concern was that the R
-version be as fast as possible.
+**How to package up the new program?** Two versions of Multimix in R have been developed, a <span>*global*</span> version with many global variables employed, and a <span>*nested*</span> version restricting the scope of variables to the surrounding function. The pluses and minuses of each approach will be described. I am conscious that I may not always have made the best design decisions and comments from others will be welcomed. 
 
-How to package up the new program?
-Two versions of Multimix in R have been developed, a
-<span>*global*</span> version with many global variables employed,
-and a <span>*nested*</span> version restricting the scope of
-variables to the surrounding function. The pluses and minuses of
-each approach will be described.
-
-I am conscious that I may not always have made the best design decisions
-and comments from others will be welcomed.
-
-<span>**Keywords:**</span> multivariate finite mixture models,
-clustering, package, global, local
+<span>**Keywords:**</span> multivariate finite mixture models, clustering, package, global, local 
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB4 (260-073)</p>
 ## Specification Of GARCH Model Under Asymmetric Error Innovations {#talk_007 .unnumbered}
@@ -756,7 +730,6 @@ programming environment.
 squares, Ratio estimator, Official statistics
 
 <span>**Acknowledgement:**</span>
-
 This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
@@ -1860,8 +1833,7 @@ Bayesian analysis, 1(4), 833-859.
 Vera Hofer and Thomas Nowak<br />
 University of Graz<br />
 </p>
-<span>**Abstract:**</span> Since the proper operation of semiconductor devices is of crucial
-importance for the reliability of a vast range of products, issues
+<span>**Abstract:**</span> Since the proper operation of semiconductor devices is of crucial importance for the reliability of a vast range of products, issues
 concerning quality control are of central relevance to manufacturers.
 This quality control task is concerned with high temperature operating
 life tests, where devices are exposed to high temperatures, pressures or

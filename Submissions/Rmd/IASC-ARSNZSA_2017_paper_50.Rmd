@@ -13,6 +13,4 @@ disseminate statistics.
 <span>**Keywords:**</span> Shiny, R Markdown, Official Statistics
 
 <span>**Acknowledgement:**</span>
-
-This work was supported by JSPS
-KAKENHI Grant Number JP16H02013.
+This work was supported by JSPS KAKENHI Grant Number JP16H02013.
