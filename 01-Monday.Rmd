@@ -1,6 +1,6 @@
-# Programme And Abstracts For Monday 11^th^ Of December {-}
+# Programme And Abstracts For Monday 11^th^ Of December {#Monday .unnumbered}
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## TBA-SU {-}
+## TBA-SU {#talk_201 .unnumbered}
 <p style="text-align:center">
 Simon Urbanek<br />
 AT&amp;T Labs<br />
@@ -8,7 +8,7 @@ AT&amp;T Labs<br />
 <span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
-## Robust Principal Expectile Component Analysis {-}
+## Robust Principal Expectile Component Analysis {#talk_022 .unnumbered}
 <p style="text-align:center">
 Liang-Ching Lin^1^, Ray Bing Chen^1^, Mong-Na Lo Huang^2^, and Meihui Guo^2^<br />
 ^1^National Cheng Kung University<br />
@@ -40,7 +40,7 @@ Paper 2016-040, Sonderforschungsbereich 649, Humboldt Universitát zu
 Berlin, Germany.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 OGGB4 (260-073)</p>
-## Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys {-}
+## Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys {#talk_002 .unnumbered}
 <p style="text-align:center">
 Andrew Adiguna Halim, Arindam Basu, and Raymond Kirk<br />
 Unversity of Canterbury<br />
@@ -69,7 +69,7 @@ confounding variables. For adults and children the ORs (95
 proportional odds regression, survey complex design
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## Calendar-Based Graphics For Visualising People's Daily Schedules {-}
+## Calendar-Based Graphics For Visualising People's Daily Schedules {#talk_012 .unnumbered}
 <p style="text-align:center">
 Earo Wang, Dianne Cook, and Rob Hyndman<br />
 Monash University<br />
@@ -108,7 +108,7 @@ Exploring Temporal Patterns in Climate Data and Models.
 *Environmetrics*, **23**(5), 382–393.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract {-}
+## Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract {#talk_036 .unnumbered}
 <p style="text-align:center">
 Paolo Victor Redondo and Erniel Barrios<br />
 University of the Philippines Diliman<br />
@@ -127,7 +127,7 @@ volatility.
 Bootstrap
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
-## IGESS: A Statistical Approach To Integrating Individual Level Genotype Data And Summary Statistics In Genome Wide Association Studies {-}
+## IGESS: A Statistical Approach To Integrating Individual Level Genotype Data And Summary Statistics In Genome Wide Association Studies {#talk_122 .unnumbered}
 <p style="text-align:center">
 Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang Wan^2^, and Zongben Xu^1^<br />
 ^1^Xi'an Jiaotong University<br />
@@ -141,7 +141,7 @@ Mingwei Dai^1^, Jingsi Ming^2^, Mingxuan Cai^2^, Jin Liu^3^, Can Yang^4^, Xiang 
 functional annotations, variational inference
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## Author Name Identification For Evaluating Research Performance Of Institutes {-}
+## Author Name Identification For Evaluating Research Performance Of Institutes {#talk_128 .unnumbered}
 <p style="text-align:center">
 Tomokazu Fujino^1^, Keisuke Honda^2^, and Hiroka Hamada^2^<br />
 ^1^Fukuoka Women's University<br />
@@ -176,7 +176,7 @@ Soler, J. M. (2007). Separating the articles of authors with the same
 name. *Scientometrics*, 72(2), 281–290.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
-## A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing {-}
+## A Computational Tool For Detecting Copy Number Variations From Whole Genome And Targeted Exome Sequencing {#talk_155 .unnumbered}
 <p style="text-align:center">
 Yu-Chung Wei^1^ and Guan-Hua Huang^2^<br />
 ^1^Feng Chia University<br />
@@ -204,7 +204,7 @@ number variation, next generation sequencing, reversible jump Markov
 chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 OGGB4 (260-073)</p>
-## Clustering Using Nonparametric Mixtures And Mode Identification {-}
+## Clustering Using Nonparametric Mixtures And Mode Identification {#talk_021 .unnumbered}
 <p style="text-align:center">
 Shengwei Hu and Yong Wang<br />
 University of Auckland<br />
@@ -239,7 +239,7 @@ to clustering via mode identification*. Journal of Machine Learning
 Research. **8**, 1687–-1723 (2007).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels {-}
+## Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels {#talk_037 .unnumbered}
 <p style="text-align:center">
 Youngseon Lee^1^, Shuhei Mano^2^, and Jaeyong Lee^1^<br />
 ^1^Seoul National University<br />
@@ -293,7 +293,7 @@ using continuous dictionaries: L<span>é</span>vy adaptive regression
 kernels, The *Annals of Statistics*, 1916–1962.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency {-}
+## Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency {#talk_030 .unnumbered}
 <p style="text-align:center">
 Vladimir Malabanan, Erniel Barrios, and Joseph Ryan Lansangan<br />
 University of the Philippines Diliman<br />
@@ -311,7 +311,7 @@ yield based on some remotely-sensed data as covariates.
 frequency
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
-## LSMM: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies {-}
+## LSMM: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies {#talk_148 .unnumbered}
 <p style="text-align:center">
 Jingsi Ming^1^, Mingwei Dai^2^, Mingxuan Cai^1^, Xiang Wan^1^, Jin Liu^3^, and Can Yang^4^<br />
 ^1^Hong Kong Baptist University<br />
@@ -342,7 +342,7 @@ relevant functional annotations.
 functional annotations, variational inference
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## A Study Of The Influence Of Articles In The Large-Scale Citation Network {-}
+## A Study Of The Influence Of Articles In The Large-Scale Citation Network {#talk_187 .unnumbered}
 <p style="text-align:center">
 Frederick Kin Hing Phoa^1^ and Livia Lin Hsuan Chang^2^<br />
 ^1^Academia Sinica<br />
@@ -368,7 +368,7 @@ to author citation network and many similar networks embedded in the
 Web of Science.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## Estimation Of A High-Dimensional Covariance Matrix {-}
+## Estimation Of A High-Dimensional Covariance Matrix {#talk_023 .unnumbered}
 <p style="text-align:center">
 Xiangjie Xue and Yong Wang<br />
 University of Auckland<br />
@@ -408,7 +408,7 @@ likelihood estimate of a mixing distribution*. Journal of the Royal
 Statistical Society: Series B **69**, 185 - 198.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## Innovative Bayesian Estimation In The von Mises Distribution {-}
+## Innovative Bayesian Estimation In The von Mises Distribution {#talk_055 .unnumbered}
 <p style="text-align:center">
 Yuta Kamiya^1^, Toshinari Kamakura^1^, and Takemi Yanagimoto^2^<br />
 ^1^Chuo University<br />
@@ -444,7 +444,7 @@ Schou, Geert. “Estimation of the concentration parameter in von
 Mises–Fisher distributions.” Biometrika 65.2 (1978): 369-377.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Evidence Of Climate Change From Nonparametric Change-Point Analysis {-}
+## Evidence Of Climate Change From Nonparametric Change-Point Analysis {#talk_035 .unnumbered}
 <p style="text-align:center">
 Angela Nalica, Paolo Redondo, Erniel Barrios, and Stephen Villejo<br />
 University of the Philippines Diliman<br />
@@ -463,7 +463,7 @@ climate change in the period.
 bootstrap, southern oscillation index (SOI)
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
-## Joint Analysis Of Individual Level Genotype Data And Summary Statistics By Leveraging Pleiotropy {-}
+## Joint Analysis Of Individual Level Genotype Data And Summary Statistics By Leveraging Pleiotropy {#talk_161 .unnumbered}
 <p style="text-align:center">
 Mingwei Dai^1^, Jin Liu^2^, and Can Yang^3^<br />
 ^1^Xi'an Jiaotong University<br />
@@ -520,7 +520,7 @@ integrating individual-level genotype data and summary statistics in
 genome-wide association studies. In: *Bioinformatics*
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## An Advanced Approach For Time Series Forecasting Using Deep Learning {-}
+## An Advanced Approach For Time Series Forecasting Using Deep Learning {#talk_157 .unnumbered}
 <p style="text-align:center">
 Balaram Panda<br />
 Inland Revenue Department<br />
@@ -556,7 +556,7 @@ convolutional neural networks.” International Conference on Web-Age
 Information Management. Springer, Cham, 2014.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 OGGB4 (260-073)</p>
-## Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information {-}
+## Genetic Map Estimation Using Hidden Markov Models In The Presence Of Partially Observed Information {#talk_029 .unnumbered}
 <p style="text-align:center">
 Timothy Bilton^1,2^, Matthew Schofield^1^, Ken Dodds^2^, and Michael Black^1^<br />
 ^1^University of Otago<br />
@@ -586,7 +586,7 @@ package GusMap.
 partially observed data, confidence intervals
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## A Simple Method For Grouping Patients Based On Historical Doses {-}
+## A Simple Method For Grouping Patients Based On Historical Doses {#talk_076 .unnumbered}
 <p style="text-align:center">
 Shengli Tzeng<br />
 China Medical University<br />
@@ -622,7 +622,7 @@ Clustering and a dissimilarity measure for methadone dosage time series.
 In *Analysis of Large and Complex Data*, 31-41. Springer, Switzerland.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
-## Semiparametric Mixed Analysis Of Covariance Model {-}
+## Semiparametric Mixed Analysis Of Covariance Model {#talk_065 .unnumbered}
 <p style="text-align:center">
 Virgelio Alao, Erniel Barrios, and Joseph Ryan Lansangan<br />
 University of the Philippines Diliman<br />
@@ -644,7 +644,7 @@ correctly specified or there is misspecification error.
 bootstrap, random effects, variance components
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {-}
+## Adaptive False Discovery Rate Regression With Application In Integrative Analysis Of Large-Scale Genomic Data {#talk_125 .unnumbered}
 <p style="text-align:center">
 Can Yang<br />
 Hong Kong University of Science and Technology<br />
@@ -695,7 +695,7 @@ Jerome H. Friedman and Bogdan E. Popescu (2008) Predictive Learning via
 Rule Ensembles *The Annals of Applied Statistics*, **2:3**, 916–954
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:30 Case Room 4 (260-009)</p>
-## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {-}
+## Structure Of Members In The Organization To Induce Innovation: Quantitatively Analyze The Capability Of The Organization {#talk_159 .unnumbered}
 <p style="text-align:center">
 Yuji Mizukami^1^ and Junji Nakano^2^<br />
 ^1^Nihon University<br />
@@ -730,7 +730,7 @@ Cooperation between disciplines within mathematics and mathematical
 sciences, Behaviormetrika*, **1**, 19 pages, On-line.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 OGGB4 (260-073)</p>
-## Vector Generalized Linear Time Series Models {-}
+## Vector Generalized Linear Time Series Models {#talk_031 .unnumbered}
 <p style="text-align:center">
 Victor Miranda and Thomas Yee<br />
 University of Auckland<br />
@@ -761,7 +761,7 @@ Yee, T. W. (2015) *Vector Generalized Linear and Additive Models: With
 an Implementation in R.* New York, USA: Springer.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 OGGB5 (260-051)</p>
-## Local Canonical Correlation Analysis For Multimodal Labeled Data {-}
+## Local Canonical Correlation Analysis For Multimodal Labeled Data {#talk_093 .unnumbered}
 <p style="text-align:center">
 Seigo Mizutani and Hiroshi Yadohisa<br />
 Doshisha University<br />
@@ -800,7 +800,7 @@ Hotelling, H. (1936). Relations between two sets of variates.
 *Biometrika*, **28**, 321-377.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
-## A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data {-}
+## A Practitioners Guide To Deep Learning For Predictive Analytics On Structured Data {#talk_100 .unnumbered}
 <p style="text-align:center">
 Balaram Panda and Habib Baluwala<br />
 Inland Revenue Department<br />
@@ -836,7 +836,7 @@ Goodfellow, Ian J., et al. “Maxout networks.” arXiv preprint
 arXiv:1302.4389 (2013).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:50 Case Room 4 (260-009)</p>
-## Clustering Of Research Subject Based On Stochastic Block Model {-}
+## Clustering Of Research Subject Based On Stochastic Block Model {#talk_190 .unnumbered}
 <p style="text-align:center">
 Hiroka Hamada^1^, Keisuke Honda^1^, Frederick Kin Hing Phoa^2^, and Junji Nakano^1^<br />
 ^1^Institute of Statistical Mathematics<br />
@@ -876,7 +876,7 @@ Tran,D., Kucukelbir,A., Dieng, A.B., Rudolph,M., Liang,D. and Blei,D.M.
 criticism. *arXiv preprint arXiv:1610.09787*.
 <p class="pagebreak"></p>
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Monday 11<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
-## TBA-JB {-}
+## TBA-JB {#talk_200 .unnumbered}
 <p style="text-align:center">
 Jenny Bryan<br />
 University of British Columbia<br />
@@ -884,7 +884,7 @@ University of British Columbia<br />
 <span>**Abstract:**</span> TBA
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 098 Lecture Theatre (260-098)</p>
-## Canonical Covariance Analysis For Mixed Numerical And Categorical Three-Way Three-Mode Data {-}
+## Canonical Covariance Analysis For Mixed Numerical And Categorical Three-Way Three-Mode Data {#talk_079 .unnumbered}
 <p style="text-align:center">
 Jun Tsuchida and Hiroshi Yadohisa<br />
 Doshisha University<br />
@@ -915,7 +915,7 @@ Young, F. W. (1981). Quantitative analysis of qualitative data.
 *Psychometrika*, **46**, pp. 357–388
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 OGGB4 (260-073)</p>
-## Variable Selection Algorithms {-}
+## Variable Selection Algorithms {#talk_038 .unnumbered}
 <p style="text-align:center">
 Fangayo Li^1^, Christopher Triggs^1^, Bogdan Dumitrescu^2^, and Ciprian Giurcaneanu^1^<br />
 ^1^University of Auckland<br />
@@ -951,7 +951,7 @@ of iterations for the matching pursuit algorithm* . Proceedings of the
 appear)
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 OGGB5 (260-051)</p>
-## Estimating Causal Structures For Continuous And Discrete Variables {-}
+## Estimating Causal Structures For Continuous And Discrete Variables {#talk_094 .unnumbered}
 <p style="text-align:center">
 Mako Yamayoshi and Hiroshi Yadohisa<br />
 Doshisha University<br />
@@ -998,7 +998,7 @@ combination of information in generally balanced designs. In:
 Heidelberg: Physica-Verlag.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 Case Room 2 (260-057)</p>
-## Incorporating Genetic Networks Into Case-Control Association Studies With High-Dimensional DNA Methylation Data {-}
+## Incorporating Genetic Networks Into Case-Control Association Studies With High-Dimensional DNA Methylation Data {#talk_010 .unnumbered}
 <p style="text-align:center">
 Hokeun Sun<br />
 Pusan National University<br />
@@ -1030,7 +1030,7 @@ subtypes from The Cancer Genome Atlas (TCGA) project.
 regularization, genetic network, DNA methylation, high-dimensional data
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 Case Room 3 (260-055)</p>
-## Adaptive Model Checking For Functional Single-Index Models {-}
+## Adaptive Model Checking For Functional Single-Index Models {#talk_015 .unnumbered}
 <p style="text-align:center">
 Feifei Chen^1^, Qing Jiang^2^, and Zhenghui Feng^3^<br />
 ^1^Renmin University<br />
@@ -1051,7 +1051,7 @@ proposed test procedure.
 reduction, model checking
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
-## On Optimal Group Testing Designs: Prevalence Estimation, Cost Considerations, And Dilution Effects {-}
+## On Optimal Group Testing Designs: Prevalence Estimation, Cost Considerations, And Dilution Effects {#talk_034 .unnumbered}
 <p style="text-align:center">
 Shih-Hao Huang<br />
 Academia Sinica<br />
@@ -1089,7 +1089,7 @@ Huang, S.-H., Huang, M.-N. L. and Shedden, K. (manuscript). Cost
 considerations for efficient group testing studies.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 OGGB4 (260-073)</p>
-## The Use Of Bayesian Networks In Grape Yield Prediction {-}
+## The Use Of Bayesian Networks In Grape Yield Prediction {#talk_041 .unnumbered}
 <p style="text-align:center">
 Rory Ellis, Daniel Gerhard, and Elena Moltchanova<br />
 University of Canterbury<br />
@@ -1116,7 +1116,7 @@ predictions improves as a result of adding data. The results in this
 analysis are based off simulation studies.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 OGGB5 (260-051)</p>
-## Pattern Prediction For Time Series Data With Change Points {-}
+## Pattern Prediction For Time Series Data With Change Points {#talk_101 .unnumbered}
 <p style="text-align:center">
 Satoshi Goto and Hiroshi Yadohisa<br />
 Doshisha University<br />
@@ -1155,7 +1155,7 @@ on Knowledge Discovery and Data Mining*</span>, 13–17, 2016.
 
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 Case Room 2 (260-057)</p>
-## Test For Genomic Imprinting Effects On The X Chromosome {-}
+## Test For Genomic Imprinting Effects On The X Chromosome {#talk_018 .unnumbered}
 <p style="text-align:center">
 Wing Kam Fung<br />
 Unversity of Hong Kong<br />
@@ -1189,7 +1189,7 @@ methods are applied to analyze the rheumatoid arthritis data.
 traits, nuclear family
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 Case Room 3 (260-055)</p>
-## Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications {-}
+## Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications {#talk_027 .unnumbered}
 <p style="text-align:center">
 Shih-Feng Huang<br />
 National University of Kaohsiung<br />
@@ -1220,7 +1220,7 @@ requirements to the conventional VaR estimator.
 CUSUM control chart, fluctuation reduction, Value-at-Risk
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
-## Estimation Of Animal Density From Acoustic Detections {-}
+## Estimation Of Animal Density From Acoustic Detections {#talk_061 .unnumbered}
 <p style="text-align:center">
 Ben Stevenson^1^ and David Borchers^2^<br />
 ^1^University of Auckland<br />
@@ -1241,7 +1241,7 @@ with examples applied to populations of frogs, gibbons, and whales.
 process
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 OGGB4 (260-073)</p>
-## Mixed Models For Complex Survey Data {-}
+## Mixed Models For Complex Survey Data {#talk_045 .unnumbered}
 <p style="text-align:center">
 Xudong Huang and Thomas Lumley<br />
 University of Auckland<br />
@@ -1269,7 +1269,7 @@ approach for analysis of survey data under two-level models.* Statistica
 Sinica, 2016, 26, 569-587
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 OGGB5 (260-051)</p>
-## Regression With Random Effects For Analysing Correlated Survival Data: Application To Disease Recurrences {-}
+## Regression With Random Effects For Analysing Correlated Survival Data: Application To Disease Recurrences {#talk_102 .unnumbered}
 <p style="text-align:center">
 Richard Tawiah, Suzanne Chambers, and Shu-Kay Ng<br />
 Griffith University<br />
@@ -1311,7 +1311,7 @@ magnitude of variation in hospital effects increases.
 survival times, recurrent event, GLMM, bladder cancer, CGD
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 Case Room 2 (260-057)</p>
-## Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury {-}
+## Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury {#talk_085 .unnumbered}
 <p style="text-align:center">
 Priya Parmar^1^, Rob Kydd^2^, Andrew Shelling^2^, Suzanne Barker-Collo^2^, Alice Theadom^1^, and Valery Feigin^1^<br />
 ^1^Auckland University of Technology<br />
@@ -1388,7 +1388,7 @@ to better understand the differences underlying an individual’s outcome
 trajectory and inform more effective treatment strategies.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 Case Room 3 (260-055)</p>
-## Bayesian Structure Selection For Vector Autoregression Model {-}
+## Bayesian Structure Selection For Vector Autoregression Model {#talk_049 .unnumbered}
 <p style="text-align:center">
 Chi-Hsiang Chu^1^, Mong-Na Lo Huang^1^, Shih-Feng Huang^2^, and Ray-Bing Chen^3^<br />
 ^1^National Sun Yat-sen University<br />
@@ -1412,7 +1412,7 @@ of the proposed Bayesian approaches.
 universal grouping, segmentized grouping
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
-## Talk Data To Me {-}
+## Talk Data To Me {#talk_146 .unnumbered}
 <p style="text-align:center">
 Lisa Hall<br />
 Fonterra<br />
@@ -1434,7 +1434,7 @@ the right context, even the most puritanical scientists can become more
 comfortable Talking Data. They may even find they enjoy it!
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 OGGB4 (260-073)</p>
-## Smooth Nonparametric Regression Under Shape Restrictions {-}
+## Smooth Nonparametric Regression Under Shape Restrictions {#talk_052 .unnumbered}
 <p style="text-align:center">
 Hongbin Guo and Yong Wang<br />
 University of Auckland<br />
@@ -1470,7 +1470,7 @@ Meyer, M.(2008). Inference using shape-restricted regression splines.
 *Ann. Appl. Stat.* **2**(3), 1013–1033.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 OGGB5 (260-051)</p>
-## Elastic-Band Transform: A New Approach To Multiscale Visualization {-}
+## Elastic-Band Transform: A New Approach To Multiscale Visualization {#talk_130 .unnumbered}
 <p style="text-align:center">
 Guebin Choi and Hee-Seok Oh<br />
 Seoul National University<br />
@@ -1562,7 +1562,7 @@ Vogt, M., & Dette, H. (2015). Detecting gradual changes in locally
 stationary processes. The Annals of Statistics, 43(2), 713-740.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 Case Room 3 (260-055)</p>
-## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {-}
+## Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area {#talk_081 .unnumbered}
 <p style="text-align:center">
 Zhiwu Hong^1^ and Linlin Niu^2^<br />
 ^1^HKUST Business School<br />
@@ -1593,7 +1593,7 @@ economy. The network model can be adapted with a time-varying parameter
 VAR to monitor evolving contributions of factors.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 OGGB4 (260-073)</p>
-## Robustness Of Temperature Reconstruction For Past 500 Years {-}
+## Robustness Of Temperature Reconstruction For Past 500 Years {#talk_060 .unnumbered}
 <p style="text-align:center">
 Yu Yang, Matthew Schofield, and Richard Barker<br />
 University of Otago<br />
@@ -1624,7 +1624,7 @@ tree-ring data. *Journal of the American Statistical Association*,
 111(513), 93-106.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 OGGB5 (260-051)</p>
-## Nonparametric Causal Inference By The Kernel Method {-}
+## Nonparametric Causal Inference By The Kernel Method {#talk_139 .unnumbered}
 <p style="text-align:center">
 Yuchi Matsuoka and Etsuo Hamada<br />
 Osaka University<br />
@@ -1656,7 +1656,7 @@ describe several asymptotic properties of our estimator.
 method, Kernel mean embedding, Hilbert-Schmidt Independence Criterion
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 2 (260-057)</p>
-## A Unified Regularized Group PLS Algorithm Scalable To Big Data {-}
+## A Unified Regularized Group PLS Algorithm Scalable To Big Data {#talk_019 .unnumbered}
 <p style="text-align:center">
 Pierre Lafaye de Micheaux^1^, Benoit Liquet^2^, and Matthew Sutton^2^<br />
 ^1^University of New South Wales<br />
@@ -1694,7 +1694,7 @@ Liquet, B., Lafaye de Micheaux, P., Hejblum, B. & Thiebaut, R. (2016),
 genomics context*, Bioinformatics 32, 35-42.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
-## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {-}
+## Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns {#talk_033 .unnumbered}
 <p style="text-align:center">
 Fumio Ishioka^1^, Jun Kawahara^2^, and Koji Kurihara^1^<br />
 ^1^Okayama University<br />
@@ -1730,7 +1730,7 @@ combinatorial problems. *In: Proceedings of the 30th ACM/IEEE Design
 Automation Conference*, 272–277.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:00 Case Room 4 (260-009)</p>
-## Scoring Rules For Prediction And Classification Challenges {-}
+## Scoring Rules For Prediction And Classification Challenges {#talk_134 .unnumbered}
 <p style="text-align:center">
 Matt Parry<br />
 University of Otago<br />
@@ -1768,7 +1768,7 @@ Parry, M. (2016). *Linear scoring rules for probabilistic binary
 classification*. Electronic Journal of Statistics, 10 (1), 1596–1607.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 OGGB4 (260-073)</p>
-## Real-Time Transit Network Modelling For Improved Arrival Time Predictions {-}
+## Real-Time Transit Network Modelling For Improved Arrival Time Predictions {#talk_077 .unnumbered}
 <p style="text-align:center">
 Tom Elliott and Thomas Lumley<br />
 University of Auckland<br />
@@ -1804,7 +1804,7 @@ information.
 <span>**Keywords:**</span> transit, real-time, particle filter
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 OGGB5 (260-051)</p>
-## Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data {-}
+## Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data {#talk_140 .unnumbered}
 <p style="text-align:center">
 Matthew Sutton^1^, Benoit Liquet^1^, and Rodolphe Thiebaut^2^<br />
 ^1^Queensland University of Technology<br />
@@ -1913,7 +1913,7 @@ canonical correlation analysis. *Biostatistics* <span>**10,**</span>
 515–534.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
-## BIG-SIR A Sliced Inverse Regression Approach For Massive Data {-}
+## BIG-SIR A Sliced Inverse Regression Approach For Massive Data {#talk_092 .unnumbered}
 <p style="text-align:center">
 Benoit Liquet^1^ and Jerome Saracco^2^<br />
 ^1^Queensland University of Technology<br />
@@ -1955,7 +1955,7 @@ Approach for Massive Data*, Statistics and Its Interface. Vol 9,
 509-520.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
-## Genetic Approach And Statistical Approach For Association Study On DNA Data {-}
+## Genetic Approach And Statistical Approach For Association Study On DNA Data {#talk_040 .unnumbered}
 <p style="text-align:center">
 Makoto Tomita<br />
 Tokyo Medical and Dental University<br />
@@ -1993,7 +1993,7 @@ Tomita, M., Kubota, T. and Ishioka, F. (2015). *PLoS ONE*, **10**(7),
 e0127358.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
-## Modeling Of Document Abstraction Using Association Rule Based Characterization {-}
+## Modeling Of Document Abstraction Using Association Rule Based Characterization {#talk_150 .unnumbered}
 <p style="text-align:center">
 Ken Nittono<br />
 Hosei University<br />
@@ -2031,7 +2031,7 @@ Statistics Congress of the International Statistical Institute, pp.
 5515–5520.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 OGGB4 (260-073)</p>
-## Bayesian Survival Analysis Of Batsmen In Test Cricket {-}
+## Bayesian Survival Analysis Of Batsmen In Test Cricket {#talk_080 .unnumbered}
 <p style="text-align:center">
 Oliver Stevenson and Brendon Brewer<br />
 University of Auckland<br />
@@ -2066,7 +2066,7 @@ opening batsmen in Test cricket *Journal of Quantitative Analysis in
 Sports*, *13*(1), 25-36.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 OGGB5 (260-051)</p>
-## Covariate Discretisation On Big Data {-}
+## Covariate Discretisation On Big Data {#talk_142 .unnumbered}
 <p style="text-align:center">
 Hon Hwang^1^, Stephen Wright^2^, and Louise Ryan^1^<br />
 ^1^University of Technology Sydney<br />
@@ -2100,7 +2100,7 @@ the uncertainty arising from using coarsened data.
 data
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 2 (260-057)</p>
-## Visualization And Statistical Modeling Of Financial Big Data {-}
+## Visualization And Statistical Modeling Of Financial Big Data {#talk_149 .unnumbered}
 <p style="text-align:center">
 Masayuki Jimichi^1^, Daisuke Miyamoto^2^, Chika Saka^1^, and Syuichi Nagata^1^<br />
 ^1^Kwansei Gakuin University<br />
@@ -2138,7 +2138,7 @@ Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
 Hall/CRC.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
-## Symbolic Data Analytical Approach To Unauthorized-Access Logs {-}
+## Symbolic Data Analytical Approach To Unauthorized-Access Logs {#talk_087 .unnumbered}
 <p style="text-align:center">
 Hiroyuki Minami and Masahiro Mizuta<br />
 Hokkaido University<br />
@@ -2182,7 +2182,7 @@ logs by Internet Firewall. *Proceedings of 2016 International Conference
 for JSCS 30th Anniversary in Seattle*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 16:40 Case Room 4 (260-009)</p>
-## My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid {-}
+## My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid {#talk_192 .unnumbered}
 <p style="text-align:center">
 Robert Borotkanics<br />
 Auckland University of Technology<br />

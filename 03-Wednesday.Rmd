@@ -1,6 +1,6 @@
-# Programme And Abstracts For Wednesday 13^th^ Of December {-}
+# Programme And Abstracts For Wednesday 13^th^ Of December {#Wednesday .unnumbered}
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
-## Promoting Your R Package {-}
+## Promoting Your R Package {#talk_009 .unnumbered}
 <p style="text-align:center">
 Hadley Wickham<br />
 RStudio<br />
@@ -15,7 +15,7 @@ website (with pkgdown), and promoting your work on social media.
 <span>**Keywords:**</span> R packages, websites
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 OGGB4 (260-073)</p>
-## A Smoothing Filter Modelling Approach For Time Series {-}
+## A Smoothing Filter Modelling Approach For Time Series {#talk_158 .unnumbered}
 <p style="text-align:center">
 Marco Reale^1^, Granville Tunnicliffe Wilson^2^, and John Haywood^3^<br />
 ^1^University of Canterbury<br />
@@ -31,7 +31,7 @@ higher lead times.
 <span>**Keywords:**</span> Time series, smooting, parsimonious models
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation {-}
+## Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation {#talk_003 .unnumbered}
 <p style="text-align:center">
 Yongdai Kim^1^, Kuhwan Jeong^1^, Byungyup Kang^2^, and Hyoju Chung^2^<br />
 ^1^Seoul National University<br />
@@ -80,7 +80,7 @@ approximation, Dirichlet process mixture model, hierarchical Dirichlet
 processes
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Improving The Production Cycle At Stats NZ With RStudio {-}
+## Improving The Production Cycle At Stats NZ With RStudio {#talk_050 .unnumbered}
 <p style="text-align:center">
 Gareth Minshall and Chris Hansen<br />
 Stats NZ<br />
@@ -105,7 +105,7 @@ This work was supported by JSPS
 KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
-## Sparse Common Component Analysis {-}
+## Sparse Common Component Analysis {#talk_006 .unnumbered}
 <p style="text-align:center">
 Heewon Park^1^ and Sadanori Konishi^2^<br />
 ^1^Yamaguchi University<br />
@@ -140,7 +140,7 @@ International Conference on Knowledge Discovery and Data Mining*,
 956–964.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## Random Search Global Optimization Using Random Forests {-}
+## Random Search Global Optimization Using Random Forests {#talk_062 .unnumbered}
 <p style="text-align:center">
 Blair Robertson, Chris Price, and Marco Reale<br />
 University of Canterbury<br />
@@ -180,7 +180,7 @@ currently refining the method and extending the set of test problems.
 classification and regression trees (CART), stochastic optimization
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
-## gridSVG: Then And Now {-}
+## gridSVG: Then And Now {#talk_032 .unnumbered}
 <p style="text-align:center">
 Paul Murrell<br />
 University of Auckland<br />
@@ -207,7 +207,7 @@ satisfied.
 <span>**Keywords:**</span> R, statistical graphics, SVG, accessibility
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 OGGB4 (260-073)</p>
-## Probabilistic Outlier Detection And Visualization Of Smart Meter Data {-}
+## Probabilistic Outlier Detection And Visualization Of Smart Meter Data {#talk_188 .unnumbered}
 <p style="text-align:center">
 Rob Hyndman<br />
 Monash University<br />
@@ -254,7 +254,7 @@ identify any clusters of observations in the data, and to examine any
 other structure that might exist.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach {-}
+## The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach {#talk_004 .unnumbered}
 <p style="text-align:center">
 Thi Thu Huong Pham, Darfiana Nur, and Alan Branford<br />
 Flinders University<br />
@@ -290,7 +290,7 @@ B-spline model for multiple longitudinal biomarkers and
 survival.*Biometrics,* 61(1):64 – 73.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## R – A Powerful Analysis Tool To Improve Official Statistics In Romania {-}
+## R – A Powerful Analysis Tool To Improve Official Statistics In Romania {#talk_053 .unnumbered}
 <p style="text-align:center">
 Nicoleta Caragea^1,2^ and Antoniade Ciprian Alexandru^2,1^<br />
 ^1^National Institute of Statistics<br />
@@ -316,7 +316,7 @@ part of the ESSnet Big Data Project.
 method, linkage method
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
-## A Max-Type Multivariate Two-Sample Baumgartner Statistic {-}
+## A Max-Type Multivariate Two-Sample Baumgartner Statistic {#talk_063 .unnumbered}
 <p style="text-align:center">
 Hidetoshi Murakami<br />
 Tokyo University of Science<br />
@@ -352,7 +352,7 @@ problem and its power comparison. <span>*Journal of the Japanese Society
 of Computational Statistics*</span>, **25**, 39–49.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM {-}
+## Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM {#talk_075 .unnumbered}
 <p style="text-align:center">
 Elizabeth Chou and Tzu-Wei Ko<br />
 National Chengchi University<br />
@@ -378,7 +378,7 @@ data and improve the prediction accuracy.
 selection, High-dimension
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
-## Bringing Multimix From Fortran To R {-}
+## Bringing Multimix From Fortran To R {#talk_066 .unnumbered}
 <p style="text-align:center">
 Murray Jorgensen<br />
 Auckland University of Technology<br />
@@ -416,7 +416,7 @@ and comments from others will be welcomed.
 clustering, package, global, local
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## Specification Of GARCH Model Under Asymmetric Error Innovations {-}
+## Specification Of GARCH Model Under Asymmetric Error Innovations {#talk_007 .unnumbered}
 <p style="text-align:center">
 Oyebimpe Adeniji, Olarenwaju Shittu, and Kazeeem Adepoju<br />
 University of Ibadan<br />
@@ -439,7 +439,7 @@ is the most successful for forecasting NSE index.
 (MLE), Beta Skewed -t distributions
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {-}
+## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {#talk_020 .unnumbered}
 <p style="text-align:center">
 Shin Sato and Darfiana Nur<br />
 Flinders University<br />
@@ -477,7 +477,7 @@ models. *Journal of Statistical Computation and Simulation*, **76**(8),
 713–725.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Statistical Disclosure Control With R: Traditional Methods And Synthetic Data {-}
+## Statistical Disclosure Control With R: Traditional Methods And Synthetic Data {#talk_054 .unnumbered}
 <p style="text-align:center">
 Matthias Templ<br />
 Zurich University of Applied Sciences<br />
@@ -520,7 +520,7 @@ Synthetic Complex Data: The R Package simPop. *Journal of Statistical
 Software*, 79(10), 1-38. doi:10.18637/jss.v079.i10
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
-## Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings {-}
+## Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings {#talk_071 .unnumbered}
 <p style="text-align:center">
 Takahiro Nishiyama^1^ and Masashi Hyodo^2^<br />
 ^1^Senshu University<br />
@@ -561,7 +561,7 @@ Li, J and Chen, S.X. (2012). Two sample tests for high-dimensional
 covariance matrices. *Ann. Statist.*, **40**, 908–940.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## Deep Learning High-Dimensional Covariance Matrices {-}
+## Deep Learning High-Dimensional Covariance Matrices {#talk_096 .unnumbered}
 <p style="text-align:center">
 Philip Yu and Yaohua Tang<br />
 Unversity of Hong Kong<br />
@@ -595,7 +595,7 @@ inference via combining low-frequency and high-frequency approaches.
 *Journal of the American Statistical Association*, 106, 1025–1040.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
-## R In Industry – Application On Pipe Renewal Planning {-}
+## R In Industry – Application On Pipe Renewal Planning {#talk_141 .unnumbered}
 <p style="text-align:center">
 Glenn Thomas<br />
 Harmonic Analytics<br />
@@ -623,7 +623,7 @@ This kind of work is an exciting step forward, as councils show interest
 in collaboration and pooling data to improve accuracy.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 OGGB4 (260-073)</p>
-## Empirical Comparison Of Some Algorithms For Automatic Univariate ARMA Modeling Using RcmdrPlugin.SPSS {-}
+## Empirical Comparison Of Some Algorithms For Automatic Univariate ARMA Modeling Using RcmdrPlugin.SPSS {#talk_059 .unnumbered}
 <p style="text-align:center">
 Dedi Rosadi<br />
 Universitas Gadjah Mada<br />
@@ -674,7 +674,7 @@ Rosadi, D. (2016). Automatic ARIMA Modeling using RcmdrPlugin.SPSS,
 Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {-}
+## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {#talk_064 .unnumbered}
 <p style="text-align:center">
 Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
 ^1^Mie University Hospital<br />
@@ -712,7 +712,7 @@ Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
 Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
-## Imputation Of The 2016 Economic Census For Business Activity In Japan {-}
+## Imputation Of The 2016 Economic Census For Business Activity In Japan {#talk_098 .unnumbered}
 <p style="text-align:center">
 Kazumi Wada^1^, Hiroe Tsubaki^2^, Yukako Toko^1^, and Hidemine Sekino^3^<br />
 ^1^National Statistics Center<br />
@@ -760,7 +760,7 @@ squares, Ratio estimator, Official statistics
 This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient {-}
+## High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient {#talk_108 .unnumbered}
 <p style="text-align:center">
 Mitsuru Tamatani^1^ and Kanta Naito^2^<br />
 ^1^Doshisha University<br />
@@ -796,7 +796,7 @@ Fan, J. and Fan, Y. (2008). *The Annals of Statistics*, **36**,
 2605–2637.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:30 Case Room 4 (260-009)</p>
-## Applying Active Learning Procedure To Drug Consumption Data {-}
+## Applying Active Learning Procedure To Drug Consumption Data {#talk_105 .unnumbered}
 <p style="text-align:center">
 Yuan-Chin Chang<br />
 Academia Sinica<br />
@@ -831,7 +831,7 @@ Discovery in Databases: PKDD 2007*</span>, pages 42–53. Springer.
 Hampel, F. R. (1974). The influence curve and its role in robust estimation. , 69(346):383–393.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 098 Lecture Theatre (260-098)</p>
-## R For Everything {-}
+## R For Everything {#talk_194 .unnumbered}
 <p style="text-align:center">
 Jared Lander<br />
 Lander Analytics<br />
@@ -852,7 +852,7 @@ Lander, J. (2017). *R for Everyone, Second Edition.* New York:
 Addison-Wesley.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 OGGB4 (260-073)</p>
-## R Package For New Two-Stage Methods In Forecasting Time Series With Multiple Seasonality {-}
+## R Package For New Two-Stage Methods In Forecasting Time Series With Multiple Seasonality {#talk_143 .unnumbered}
 <p style="text-align:center">
 Anupama Lakshmanan and Shubhabrata Das<br />
 Indian Institute of Management Bangalore<br />
@@ -884,7 +884,7 @@ frequency, low frequency, multiplicative seasonality, polynomial
 seasonality, regression, TBATS, trigonometric seasonality
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
-## Analysis Of Official Microdata Using Secure Statistical Computation System {-}
+## Analysis Of Official Microdata Using Secure Statistical Computation System {#talk_112 .unnumbered}
 <p style="text-align:center">
 Kiyomi Shirakawa^1,3^, Koji Chida^2^, Satoshi Takahashi^2^, Satoshi Tanaka^2^, Ryo Kikuchi^2^, and Dai Ikarashi^2^<br />
 ^1^National Statistics Center<br />
@@ -914,7 +914,7 @@ statistics is also in our scope.
 Data, Official Statistics, R
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 11:50 Case Room 4 (260-009)</p>
-## Presenting Flexi, A Statistical Program For Fitting Variance Models {-}
+## Presenting Flexi, A Statistical Program For Fitting Variance Models {#talk_011 .unnumbered}
 <p style="text-align:center">
 Martin Upsdell<br />
 AgResearch<br />
@@ -937,7 +937,7 @@ like Progressive Graphics File pictures. The advantages and
 disadvantages of the two methods will be discussed.
 <p class="pagebreak"></p>
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Wednesday 13<sup>th</sup> 13:20 098 Lecture Theatre (260-098)</p>
-## Space And Circular Time Log Gaussian Cox Processes With Application To Crime Event Data {-}
+## Space And Circular Time Log Gaussian Cox Processes With Application To Crime Event Data {#talk_197 .unnumbered}
 <p style="text-align:center">
 Alan Gelfand<br />
 Duke University<br />
@@ -951,7 +951,7 @@ process as well as separable vs. nonseparable covariance specifications. Our mot
 dataset is a collection of crime events for the city of San Francisco during the year 2012.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 098 Lecture Theatre (260-098)</p>
-## Cluster-Wise Regression Models Combined By A Quasi-Linear Function {-}
+## Cluster-Wise Regression Models Combined By A Quasi-Linear Function {#talk_056 .unnumbered}
 <p style="text-align:center">
 Kenichi Hayashi^1^, Katsuhiro Omae^2^, and Shinto Eguchi^3^<br />
 ^1^Keio University<br />
@@ -987,7 +987,7 @@ Späth, H. (1979). Algorithm 39: Clusterwise linear regression.
 *Computing*, **22**, 367–373.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 1 (260-005)</p>
-## Hierarchical Structural Component Analysis Of Gene-Environment Interactions {-}
+## Hierarchical Structural Component Analysis Of Gene-Environment Interactions {#talk_171 .unnumbered}
 <p style="text-align:center">
 Sungkyoung Choi^1^, Seungyeoun Lee^2^, and Taesung Park^3^<br />
 ^1^Yonsei University<br />
@@ -1016,7 +1016,7 @@ traits.
 <span>**Keywords:**</span> Gene-environment interaction, SNP, gene, GWAS
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 OGGB5 (260-051)</p>
-## Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series {-}
+## Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series {#talk_178 .unnumbered}
 <p style="text-align:center">
 Kyungduk Ko^1^ and Chul Eung Kim^2^<br />
 ^1^Boise State University<br />
@@ -1050,7 +1050,7 @@ errors and its application to stock return data. *Applied Stochastic
 Models in Business and Industry*, **23**, 493–502.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 2 (260-057)</p>
-## Cross Covariance Estimation For Integration Of Multi-Omics Data {-}
+## Cross Covariance Estimation For Integration Of Multi-Omics Data {#talk_166 .unnumbered}
 <p style="text-align:center">
 Johan Lim^1^, Hiromi Koh^2^, and Hyungwon Choi^2^<br />
 ^1^Seoul National University<br />
@@ -1091,7 +1091,7 @@ Algorithm for Group-penalized Multiresponse and Multinomial Regression*
 Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 3 (260-055)</p>
-## Relationships Between Linguistic Characteristics And The Use Of MāOri Loanwords In New Zealand English. {-}
+## Relationships Between Linguistic Characteristics And The Use Of MāOri Loanwords In New Zealand English. {#talk_137 .unnumbered}
 <p style="text-align:center">
 Steven Miller and Andreea Calude<br />
 University of Waikato<br />
@@ -1127,7 +1127,7 @@ media.
 <span>**Keywords:**</span> Linguistics, loanwords, Māori, GLMM
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 4 (260-009)</p>
-## Transfer Regression And Predictive Distributions {-}
+## Transfer Regression And Predictive Distributions {#talk_005 .unnumbered}
 <p style="text-align:center">
 Shigetoshi Hosaka^1^ and Jinfang Wang^2^<br />
 ^1^Hosaka Clinic of Internal Medicine<br />
@@ -1162,7 +1162,7 @@ Symposium on “*Statistical Modelling and Computational Algorithms*", at
 Nagoya University, Febuary 18–19, 2017.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
-## An Overview Of The Correspondence Analysis Family {-}
+## An Overview Of The Correspondence Analysis Family {#talk_136 .unnumbered}
 <p style="text-align:center">
 Eric Beh<br />
 University of Newcastle<br />
@@ -1200,7 +1200,7 @@ Lebart, L., Morineau, A. and Warwick, K. M. (1984). <span>*Multivariate
 Descriptive Statistical Analysis*</span>. New York: John Wiley & Sons.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 1 (260-005)</p>
-## Testing For Genetic Associations In Arbitrarily Structured Populations {-}
+## Testing For Genetic Associations In Arbitrarily Structured Populations {#talk_173 .unnumbered}
 <p style="text-align:center">
 Minsun Song<br />
 Sookmyung Women's University<br />
@@ -1222,7 +1222,7 @@ substantially different approach to the problem from existing methods.
 variable, Population structure
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 OGGB5 (260-051)</p>
-## Threshold Determination For The Meteorological Data Quality Control In Korea {-}
+## Threshold Determination For The Meteorological Data Quality Control In Korea {#talk_179 .unnumbered}
 <p style="text-align:center">
 Yung-Seop Lee^1^, Hee-Kyung Kim^1^, and Myungjin Hyun^2^<br />
 ^1^Dongguk University<br />
@@ -1247,7 +1247,7 @@ produced for the improved forecast accuracy.
 cluster analysis, step test, persistence test, climate range test.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 2 (260-057)</p>
-## Regularized Noise-Reduction Methodology For High-Dimensional Data {-}
+## Regularized Noise-Reduction Methodology For High-Dimensional Data {#talk_167 .unnumbered}
 <p style="text-align:center">
 Kazuyoshi Yata and Makoto Aoshima<br />
 University of Tsukuba<br />
@@ -1279,7 +1279,7 @@ low-sample-size data with noise reduction via geometric representations.
 *Journal of Multivariate Analysis*, **105**, 193–215.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 3 (260-055)</p>
-## Computation Of Influence Functions For Robust Statistics {-}
+## Computation Of Influence Functions For Robust Statistics {#talk_117 .unnumbered}
 <p style="text-align:center">
 Maheswaran Rohan<br />
 Auckland University of Technology<br />
@@ -1306,7 +1306,7 @@ vectors.
 function, Jacobian matrix
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:30 Case Room 4 (260-009)</p>
-## Adaptive Model Averaging In High-Dimensional Linear Regression {-}
+## Adaptive Model Averaging In High-Dimensional Linear Regression {#talk_026 .unnumbered}
 <p style="text-align:center">
 Tzu-Chang Forrest Cheng^1^, Wei-Cheng Hsiao^2^, and Ching-Kang Ing^2^<br />
 ^1^National Central University<br />
@@ -1339,7 +1339,7 @@ Ing, C.-K. (2016). Model averaging in high-dimensional regressions.
 *Unpublished Technical Report*.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
-## Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction {-}
+## Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction {#talk_145 .unnumbered}
 <p style="text-align:center">
 Michio Yamamoto<br />
 Okayama University<br />
@@ -1376,7 +1376,7 @@ with dimension reduction via $L_{1}$-regularized likelihood
 maximization. *Pattern Recognition*, **48**, 3959–3968.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 1 (260-005)</p>
-## Meta-Analytic Principal Component Analysis In Integrative Omics Application {-}
+## Meta-Analytic Principal Component Analysis In Integrative Omics Application {#talk_180 .unnumbered}
 <p style="text-align:center">
 Sunghwan Kim^1^ and George Tseng^2^<br />
 ^1^Keimyung University<br />
@@ -1411,7 +1411,7 @@ Krzanowski (1979) *Between-groups comparison of principal components.*
 Journal of the American Statistical Association, 74, 703–707
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 OGGB5 (260-051)</p>
-## Fitting Additive Hazards Model Using Calibrated Weights For Case-Cohort Data {-}
+## Fitting Additive Hazards Model Using Calibrated Weights For Case-Cohort Data {#talk_181 .unnumbered}
 <p style="text-align:center">
 Hyuntae Kyung and Sangwook Kang<br />
 Yonsei University<br />
@@ -1433,7 +1433,7 @@ proposed estimators by using the National Wilms Tumor Study data.
 Survey Sampling, Survival Analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 2 (260-057)</p>
-## Selecting The Number Of Principal Components {-}
+## Selecting The Number Of Principal Components {#talk_168 .unnumbered}
 <p style="text-align:center">
 Yunjin Choi<br />
 National University of Singapore<br />
@@ -1460,7 +1460,7 @@ method for high-dimensional data.
 inference, hypothesis testing
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 3 (260-055)</p>
-## Rolling Survival Extrapolation Algorithm For Estimating Life Years Lost Among Subjects Exposed To Long-Term Air Pollution {-}
+## Rolling Survival Extrapolation Algorithm For Estimating Life Years Lost Among Subjects Exposed To Long-Term Air Pollution {#talk_083 .unnumbered}
 <p style="text-align:center">
 Jing-Shiang Hwang and Tsuey-Hwa Hu<br />
 Academia Sinica<br />
@@ -1497,7 +1497,7 @@ economic status.
 health effects, particulate matter
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:50 Case Room 4 (260-009)</p>
-## Enhancing The Flexibility Of Regression Modeling By Liquid Association {-}
+## Enhancing The Flexibility Of Regression Modeling By Liquid Association {#talk_153 .unnumbered}
 <p style="text-align:center">
 Ker-Chau Li<br />
 Academia Sinica<br />
@@ -1516,7 +1516,7 @@ multivariate regression in analyzing complex data.
 <span>**Keywords:**</span> Sliced inverse regression, liquid association
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
-## Clusterwise Low-Rank Correlation Analysis Based On Majorization {-}
+## Clusterwise Low-Rank Correlation Analysis Based On Majorization {#talk_058 .unnumbered}
 <p style="text-align:center">
 Kensuke Tanioka^1^, Satoru Hiwa^2^, Tomoyuki Hiroyasu^2^, and Hiroshi Yadohisa^2^<br />
 ^1^Wakayama Medical University<br />
@@ -1548,7 +1548,7 @@ Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
 <span>**432**</span>, 1152-1164.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 1 (260-005)</p>
-## Phylogenetic Tree-Based Microbiome Association Test {-}
+## Phylogenetic Tree-Based Microbiome Association Test {#talk_186 .unnumbered}
 <p style="text-align:center">
 Sungho Won<br />
 Seoul National University<br />
@@ -1577,7 +1577,7 @@ associated.
 Association Test
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 OGGB5 (260-051)</p>
-## Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation {-}
+## Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation {#talk_183 .unnumbered}
 <p style="text-align:center">
 Beomseuk Hwang^1^ and Zhen Chen^2^<br />
 ^1^Chung-Ang University<br />
@@ -1600,7 +1600,7 @@ study.
 model, Markov chain Monte Carlo
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 2 (260-057)</p>
-## Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator {-}
+## Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator {#talk_172 .unnumbered}
 <p style="text-align:center">
 Joong-Ho Won<br />
 Seoul National University<br />
@@ -1641,7 +1641,7 @@ This is a joint work with Sang-Yun Oh (UC Santa Barbara) and Bala
 Rajaratnam (UC Davis).
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 3 (260-055)</p>
-## Tick-By-Tick Effect On The Inference Of Ultra-High Frequency Data {-}
+## Tick-By-Tick Effect On The Inference Of Ultra-High Frequency Data {#talk_195 .unnumbered}
 <p style="text-align:center">
 Zhi Liu<br />
 University of Macau<br />
@@ -1661,14 +1661,14 @@ theoretical results. The estimation procedure is illustrated through a
 real data analysis.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 15:10 Case Room 4 (260-009)</p>
-## High Mortality Predictions With Lines Or Curves Fitted To Over-Dispersed Exposure-Mortality Data {-}
+## High Mortality Predictions With Lines Or Curves Fitted To Over-Dispersed Exposure-Mortality Data {#talk_154 .unnumbered}
 <p style="text-align:center">
 John Maindonald<br />
 Statistics Research Associates<br />
 </p>
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 098 Lecture Theatre (260-098)</p>
-## Lattice Polytope Samplers {-}
+## Lattice Polytope Samplers {#talk_008 .unnumbered}
 <p style="text-align:center">
 Martin Hazelton<br />
 Massey University<br />
@@ -1706,7 +1706,7 @@ sampling from conditional distributions. *The Annals of Statistics*
 <span>**26**</span>, 363-397.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 Case Room 4 (260-009)</p>
-## Statistical Modelling And Analysis Of Cosmic Microwave Background Data {-}
+## Statistical Modelling And Analysis Of Cosmic Microwave Background Data {#talk_160 .unnumbered}
 <p style="text-align:center">
 Andriy Olenko<br />
 La Trobe University<br />
@@ -1743,7 +1743,7 @@ fractional stochastic partial differential equations on the sphere.
 Submitted.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 OGGB5 (260-051)</p>
-## Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories {-}
+## Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories {#talk_090 .unnumbered}
 <p style="text-align:center">
 Kiyotaka Iki<br />
 Tokyo University of Science<br />
@@ -1773,7 +1773,7 @@ Yamamoto, K., Tahata, K., Suzuki, M. and Tomizawa, S. (2011).
 *Statistica*, <span>**71**</span>, 367–380.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 Case Room 2 (260-057)</p>
-## Sparse Estimates From Dense Precision Matrix Posteriors {-}
+## Sparse Estimates From Dense Precision Matrix Posteriors {#talk_123 .unnumbered}
 <p style="text-align:center">
 Beatrix Jones and Amir Bashir<br />
 Massey University<br />
@@ -1795,7 +1795,7 @@ moderate dimensional data examples from metabolomics.
 matrices, Bayesian models, metabolomics
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
-## Dimension Reduction Strategies For Modeling Bi-Clustered High Dimensional Data {-}
+## Dimension Reduction Strategies For Modeling Bi-Clustered High Dimensional Data {#talk_068 .unnumbered}
 <p style="text-align:center">
 Michael Van Supranes and Joseph Ryan Lansangan<br />
 University of the Philippines Diliman<br />
@@ -1821,7 +1821,7 @@ MixLENS is likely to select an optimal small subset of predictors for
 modeling.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p>
-## Computing Entropies With Nested Sampling {-}
+## Computing Entropies With Nested Sampling {#talk_126 .unnumbered}
 <p style="text-align:center">
 Brendon Brewer<br />
 University of Auckland<br />
@@ -1855,7 +1855,7 @@ Skilling, J. (2006). *Nested Sampling for General Bayesian Computation.*
 Bayesian analysis, 1(4), 833-859.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
-## Spline-Based Drift Models For High Temperature Operating Life Tests {-}
+## Spline-Based Drift Models For High Temperature Operating Life Tests {#talk_163 .unnumbered}
 <p style="text-align:center">
 Vera Hofer and Thomas Nowak<br />
 University of Graz<br />
@@ -1901,7 +1901,7 @@ Slovakia, Spain and United Kingdom.
 reliability engineering
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 OGGB5 (260-051)</p>
-## A New Approach To Distribution Free Tests In Contingency Tables {-}
+## A New Approach To Distribution Free Tests In Contingency Tables {#talk_114 .unnumbered}
 <p style="text-align:center">
 Thuong Nguyen<br />
 Victoria University of Wellington<br />
@@ -1930,7 +1930,7 @@ Nguyen, T.T.M., (2017). A new approach to distribution free tests in
 contingency tables, *Metrika*, **80**, 153–170
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
-## A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models {-}
+## A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models {#talk_202 .unnumbered}
 <p style="text-align:center">
 Li-Hsien Sun<br />
 National Central University<br />
@@ -1938,7 +1938,7 @@ National Central University<br />
 <span>**Abstract:**</span> We study the non-standardized Student's *t*-distribution for fitting serially correlated observations where serial dependence is described by the copula-based Markov chain. Due to the computational difficulty of obtaining maximum likelihood estimates, alternatively, we develop Bayes inference using the empirical Bayes method through the resampling procedure. We provide the simulations to examine the performance and also analyze the stock price data in empirical studies for illustration. 
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
-## Modified Gene Shaving Algorithm - A Dimension REduction And Clustering Method {-}
+## Modified Gene Shaving Algorithm - A Dimension REduction And Clustering Method {#talk_104 .unnumbered}
 <p style="text-align:center">
 Donna Mae Santos^1^, Erniel Barrios^2^, and Joseph Ryan Lansangan^2^<br />
 ^1^Quirino State University<br />
@@ -1971,7 +1971,7 @@ Principal Component Analysis, Sparse Principal Component Analysis,
 Dimension Reduction
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 Case Room 4 (260-009)</p>
-## A Simple Method To Construct Confidence Bands In Functional Linear Regression {-}
+## A Simple Method To Construct Confidence Bands In Functional Linear Regression {#talk_196 .unnumbered}
 <p style="text-align:center">
 Masaaki Imaizumi^1^ and Kengo Kato^2^<br />
 ^1^Institute of Statistical Mathematics<br />
@@ -1996,7 +1996,7 @@ methodology to cases where additional vector-valued regressors are
 present.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 OGGB5 (260-051)</p>
-## Separation Of Symmetry For Square Contingency Tables With Ordinal Categories {-}
+## Separation Of Symmetry For Square Contingency Tables With Ordinal Categories {#talk_129 .unnumbered}
 <p style="text-align:center">
 Kouji Tahata<br />
 Tokyo University of Science<br />
@@ -2036,7 +2036,7 @@ based on $f$-divergence for square contingency tables. <span>*Statist.
 Probab. Lett.*</span> <span>**101**</span>, 33–37.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
-## Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors {-}
+## Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors {#talk_107 .unnumbered}
 <p style="text-align:center">
 Frances Claire San Juan^1^, Erniel Barrios^2^, and Joseph Ryan Lansangan^2^<br />
 ^1^Cirrolytix Research Services<br />

@@ -1,6 +1,6 @@
-# Programme And Abstracts For Thursday 14^th^ Of December {-}
+# Programme And Abstracts For Thursday 14^th^ Of December {#Thursday .unnumbered}
 <p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Thursday 14<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## ALTREP: Alternate Representations Of Basic R Objects {-}
+## ALTREP: Alternate Representations Of Basic R Objects {#talk_199 .unnumbered}
 <p style="text-align:center">
 Luke Tierney<br />
 University of Iowa<br />
@@ -14,7 +14,7 @@ of its use, and describe the current state of incorporating the
 framework into the R distribution.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
-## Penalized Vector Generalized Additive Models {-}
+## Penalized Vector Generalized Additive Models {#talk_133 .unnumbered}
 <p style="text-align:center">
 Thomas Yee^1^, Chanatda Somchit^2^, and Chris Wild^1^<br />
 ^1^University of Auckland<br />
@@ -46,7 +46,7 @@ Yee, T.W. (2015). *Vector Generalized Linear and Additive Models: With
 an Implementation in R*. New York, USA: Springer.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB4 (260-073)</p>
-## A Package For Multiple Precision Floating-Point Computation On R {-}
+## A Package For Multiple Precision Floating-Point Computation On R {#talk_069 .unnumbered}
 <p style="text-align:center">
 Ei-Ji Nakama^1^ and Junji Nakano^2^<br />
 ^1^COM-ONE Ltd.<br />
@@ -71,7 +71,7 @@ algebra computation.
 MPACK
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## Dissimilarities Between Groups Of Data {-}
+## Dissimilarities Between Groups Of Data {#talk_043 .unnumbered}
 <p style="text-align:center">
 Nobuo Shimizu^1^, Junji Nakano^1^, and Yoshikazu Yamamoto^2^<br />
 ^1^Institute of Statistical Mathematics<br />
@@ -98,7 +98,7 @@ ASD derived from huge real estate data.
 statistic, clustering, pseudo-likelihood ratio test statistic
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {-}
+## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {#talk_095 .unnumbered}
 <p style="text-align:center">
 Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
 Hokkaido University<br />
@@ -130,7 +130,7 @@ understanding medical statistics* (5th, revised and extended edition).
 Karger Publishers.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
-## Bayesian Static Parameter Inference For Partially Observed Stochastic Systems {-}
+## Bayesian Static Parameter Inference For Partially Observed Stochastic Systems {#talk_088 .unnumbered}
 <p style="text-align:center">
 Yaxian Xu and Ajay Jasra<br />
 National University of Singapore<br />
@@ -170,7 +170,7 @@ Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
 767–806.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## Mobile Learning In Teaching Bioinformatics For Medical Doctors {-}
+## Mobile Learning In Teaching Bioinformatics For Medical Doctors {#talk_177 .unnumbered}
 <p style="text-align:center">
 Taerim Lee^1^ and Jung Jin Lee^2^<br />
 ^1^Korea National Open University<br />
@@ -198,7 +198,7 @@ discusses the implementation of the mobile e-Book approach which has
 better affordable, accessible and flexible educational media.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
-## Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators {-}
+## Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators {#talk_106 .unnumbered}
 <p style="text-align:center">
 Chihhao Chang<br />
 National University of Kaohsiung<br />
@@ -234,7 +234,7 @@ matrix of random effects in longitudinal studies. In: *The Annals of
 Statistics*, **35**, 2795-2814.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB4 (260-073)</p>
-## An Incomplete-Data Fisher Scoring With An Acceleration Method {-}
+## An Incomplete-Data Fisher Scoring With An Acceleration Method {#talk_051 .unnumbered}
 <p style="text-align:center">
 Keiji Takai<br />
 Kansai University<br />
@@ -286,7 +286,7 @@ combination of information in generally balanced designs. In:
 Heidelberg: Physica-Verlag.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## Interactive Visualization Of Aggregated Symbolic Data {-}
+## Interactive Visualization Of Aggregated Symbolic Data {#talk_089 .unnumbered}
 <p style="text-align:center">
 Yoshikazu Yamamoto^1^, Junji Nakano^2^, and Nobuo Shimizu^2^<br />
 ^1^Tokushima Bunri University<br />
@@ -317,7 +317,7 @@ intuitively.
 coordinate plot, Symbolic data analysis
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {-}
+## Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods {#talk_042 .unnumbered}
 <p style="text-align:center">
 Hirohito Sakurai and Masaaki Taguri<br />
 National Center for University Entrance Examinations<br />
@@ -352,7 +352,7 @@ Lahiri, S. N. (2003). *Resampling Methods for Dependent Data*. New York:
 Springer.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
-## SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis {-}
+## SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis {#talk_099 .unnumbered}
 <p style="text-align:center">
 Jin Liu^1^ and Can Yang^2^<br />
 ^1^Duke-NUS Medical School<br />
@@ -377,7 +377,7 @@ study; Probabilistic model; Gibbs sampling; Heritability;
 Co-heritability
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## Towards An Informal Test For Goodness-Of-Fit {-}
+## Towards An Informal Test For Goodness-Of-Fit {#talk_039 .unnumbered}
 <p style="text-align:center">
 Anna Fergusson and Maxine Pfannkuch<br />
 University of Auckland<br />
@@ -402,7 +402,7 @@ of using this informal goodness-of-fit test in terms of introducing
 important modelling and hypothesis test concepts.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
-## Selecting Generalised Linear Models Under Inequality Constraints {-}
+## Selecting Generalised Linear Models Under Inequality Constraints {#talk_048 .unnumbered}
 <p style="text-align:center">
 Daniel Gerhard<br />
 University of Canterbury<br />
@@ -439,7 +439,7 @@ information criterion for model selection under inequality constraints.
 *Biometrika*, **98**, 495–501.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## Improvement Of Computation For Nonlinear Multivariate Methods {-}
+## Improvement Of Computation For Nonlinear Multivariate Methods {#talk_057 .unnumbered}
 <p style="text-align:center">
 Masahiro Kuroda^1^, Yuichi Mori^1^, and Masaya Iizuka^2^<br />
 ^1^Okayama University of Science<br />
@@ -477,7 +477,7 @@ component analysis and its Applications*. JSS Research Series in
 Statistics, Springer.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {-}
+## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {#talk_097 .unnumbered}
 <p style="text-align:center">
 Wataru Sakamoto<br />
 Okayama University<br />
@@ -514,7 +514,7 @@ Rue, H. and Held, L. (2005) *Gaussian Markov Random Fields: Theory and
 Applications.* Chapman and Hall.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
-## Forward Selection In Regression Models Based On Robust Estimation {-}
+## Forward Selection In Regression Models Based On Robust Estimation {#talk_120 .unnumbered}
 <p style="text-align:center">
 Shan Luo^1^ and Zehua Chen^2^<br />
 ^1^Shanghai Jiao Tong University<br />
@@ -538,7 +538,7 @@ estimation.
 sequential method
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## Three-Dimensional Data Visualization Education With Virtual Reality {-}
+## Three-Dimensional Data Visualization Education With Virtual Reality {#talk_182 .unnumbered}
 <p style="text-align:center">
 Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
 Pukyong National University<br />
@@ -595,7 +595,7 @@ http://forbes.com/mlb valuations/list.
 http://gartner.com/newsroom/id/3412017.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
-## Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models {-}
+## Statistical Generalized Derivative Applied To The Profile Likelihood Estimation In A Mixture Of Semiparametric Models {#talk_165 .unnumbered}
 <p style="text-align:center">
 Yuichi Hirose and Ivy Liu<br />
 Victoria University of Wellington<br />
@@ -627,7 +627,7 @@ semiparametric approach.* Australian & New Zealand Journal of Statistics
 <span>**58**</span>, 153–172.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## Feature Selection In High-Dimensional Models With Complex Block Structures {-}
+## Feature Selection In High-Dimensional Models With Complex Block Structures {#talk_121 .unnumbered}
 <p style="text-align:center">
 Zehua Chen^1^ and Shan Luo^2^<br />
 ^1^National University of Singapore<br />
