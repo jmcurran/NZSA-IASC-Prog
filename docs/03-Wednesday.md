@@ -1064,7 +1064,7 @@ Algorithm for Group-penalized Multiresponse and Multinomial Regression*
 Koboldt,D.C. and others. (2012). *Nature*, **490**, 61-70.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Wednesday 13<sup>th</sup> 14:10 Case Room 3 (260-055)</p>
-## Relationships Between Linguistic Characteristics And The Use Of MāOri Loanwords In New Zealand English. {#talk_137 .unnumbered}
+## Relationships Between Linguistic Characteristics And The Use Of Māori Loanwords In New Zealand English. {#talk_137 .unnumbered}
 <p style="text-align:center">
 Steven Miller and Andreea Calude<br />
 University of Waikato<br />

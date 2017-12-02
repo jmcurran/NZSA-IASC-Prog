@@ -414,7 +414,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_171" style = "color: black;">Hierarchical Structural Component Analysis Of Gene-Environment Interactions<br/>Taesung Park</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_178" style = "color: black;">Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series<br/>Kyungduk Ko</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_166" style = "color: black;">Cross Covariance Estimation For Integration Of Multi-Omics Data<br/>Hyungwon Choi</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_137" style = "color: black;">Relationships Between Linguistic Characteristics And The Use Of MāOri Loanwords In New Zealand English.<br/>Steven Miller</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_137" style = "color: black;">Relationships Between Linguistic Characteristics And The Use Of Māori Loanwords In New Zealand English.<br/>Steven Miller</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_005" style = "color: black;">Transfer Regression And Predictive Distributions<br/>Jinfang Wang</a></td>
 </tr>
 <tr>

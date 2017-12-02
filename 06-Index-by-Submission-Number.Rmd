@@ -137,7 +137,7 @@
 <tr><td><a href = "Monday.html#talk_134">134</a></td><td><a href = "Monday.html#talk_134">Scoring Rules For Prediction And Classification Challenges</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_135">135</a></td><td><a href = "Tuesday.html#talk_135">Breeding Value Estimation In Partially-Genotyped Populations</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_136">136</a></td><td><a href = "Wednesday.html#talk_136">An Overview Of The Correspondence Analysis Family</a></td></tr>
-<tr><td><a href = "Wednesday.html#talk_137">137</a></td><td><a href = "Wednesday.html#talk_137">Relationships Between Linguistic Characteristics And The Use Of MāOri Loanwords In New Zealand English.</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_137">137</a></td><td><a href = "Wednesday.html#talk_137">Relationships Between Linguistic Characteristics And The Use Of Māori Loanwords In New Zealand English.</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_138">138</a></td><td><a href = "Tuesday.html#talk_138">Including Covariate Estimation Error When Predicting Species Distributions: A Simulation Exercise Using Template Model Builder</a></td></tr>
 <tr><td><a href = "Monday.html#talk_139">139</a></td><td><a href = "Monday.html#talk_139">Nonparametric Causal Inference By The Kernel Method</a></td></tr>
 <tr><td><a href = "Monday.html#talk_140">140</a></td><td><a href = "Monday.html#talk_140">Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data</a></td></tr>
