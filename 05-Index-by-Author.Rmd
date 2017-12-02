@@ -60,7 +60,7 @@ Chul Eung Kim: <a href="Wednesday.html#talk_178" style ="color: blue;">178</a><b
 Ci-Ren Jiang: <a href="Tuesday.html#talk_184" style ="color: blue;">184</a><br />
 Ciprian Giurcaneanu: <a href="Monday.html#talk_038" style ="color: blue;">038</a><br />
 Cord Heuer: <a href="Tuesday.html#talk_115" style ="color: blue;">115</a><br />
-Dae-Heung Jang: <a href="Thursday.html#talk_182" style ="color: blue;">182</a><br />
+Dae-Heung Jang: <a href="Monday.html#talk_182" style ="color: blue;">182</a><br />
 Dai Ikarashi: <a href="Wednesday.html#talk_112" style ="color: blue;">112</a><br />
 Daisuke Miyamoto: <a href="Monday.html#talk_149" style ="color: blue;">149</a><br />
 Daniel Gerhard: <a href="Monday.html#talk_041" style ="color: blue;">041</a>, <a href="Thursday.html#talk_048" style ="color: blue;">048</a><br />
@@ -118,7 +118,7 @@ Hyuntae Kyung: <a href="Wednesday.html#talk_181" style ="color: blue;">181</a><b
 Ingmar Visser: <a href="Tuesday.html#talk_175" style ="color: blue;">175</a><br />
 Inkyung Jung: <a href="Tuesday.html#talk_144" style ="color: blue;">144</a><br />
 Ivy Liu: <a href="Thursday.html#talk_165" style ="color: blue;">165</a><br />
-Jae Eun Lee: <a href="Thursday.html#talk_182" style ="color: blue;">182</a><br />
+Jae Eun Lee: <a href="Monday.html#talk_182" style ="color: blue;">182</a><br />
 Jaeyong Lee: <a href="Monday.html#talk_037" style ="color: blue;">037</a>, <a href="Tuesday.html#talk_174" style ="color: blue;">174</a><br />
 James Berger: <a href="Tuesday.html#talk_175" style ="color: blue;">175</a><br />
 James Curran: <a href="Tuesday.html#talk_116" style ="color: blue;">116</a><br />
@@ -140,14 +140,14 @@ Joong-Ho Won: <a href="Wednesday.html#talk_172" style ="color: blue;">172</a><br
 Joseph Ryan Lansangan: <a href="Monday.html#talk_030" style ="color: blue;">030</a>, <a href="Monday.html#talk_065" style ="color: blue;">065</a>, <a href="Wednesday.html#talk_068" style ="color: blue;">068</a>, <a href="Wednesday.html#talk_104" style ="color: blue;">104</a>, <a href="Wednesday.html#talk_107" style ="color: blue;">107</a><br />
 Jun Kawahara: <a href="Monday.html#talk_033" style ="color: blue;">033</a><br />
 Jun Tsuchida: <a href="Monday.html#talk_079" style ="color: blue;">079</a><br />
-Jung Jin Lee: <a href="Thursday.html#talk_177" style ="color: blue;">177</a><br />
+Jung Jin Lee: <a href="Monday.html#talk_177" style ="color: blue;">177</a><br />
 Junji Nakano: <a href="Monday.html#talk_043" style ="color: blue;">043</a>, <a href="Monday.html#talk_069" style ="color: blue;">069</a>, <a href="Thursday.html#talk_089" style ="color: blue;">089</a>, <a href="Thursday.html#talk_159" style ="color: blue;">159</a>, <a href="Thursday.html#talk_190" style ="color: blue;">190</a><br />
 Kanta Naito: <a href="Wednesday.html#talk_108" style ="color: blue;">108</a><br />
 Katsuhiro Omae: <a href="Wednesday.html#talk_056" style ="color: blue;">056</a><br />
 Kaye Wellings: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><br />
 Kazeeem Adepoju: <a href="Wednesday.html#talk_007" style ="color: blue;">007</a><br />
 Kazumi Wada: <a href="Wednesday.html#talk_098" style ="color: blue;">098</a><br />
-Kazunori Yamaguchi: <a href="Thursday.html#talk_204" style ="color: blue;">204</a><br />
+Kazunori Yamaguchi: <a href="Monday.html#talk_204" style ="color: blue;">204</a><br />
 Kazuyoshi Yata: <a href="Wednesday.html#talk_167" style ="color: blue;">167</a><br />
 Ke Wan: <a href="Tuesday.html#talk_074" style ="color: blue;">074</a><br />
 Keiji Takai: <a href="Thursday.html#talk_051" style ="color: blue;">051</a><br />
@@ -163,7 +163,7 @@ Kiyomi Shirakawa: <a href="Wednesday.html#talk_112" style ="color: blue;">112</a
 Kiyotaka Iki: <a href="Wednesday.html#talk_090" style ="color: blue;">090</a><br />
 Koji Chida: <a href="Wednesday.html#talk_112" style ="color: blue;">112</a><br />
 Koji Kurihara: <a href="Monday.html#talk_033" style ="color: blue;">033</a><br />
-Kotaro Ohashi: <a href="Thursday.html#talk_204" style ="color: blue;">204</a><br />
+Kotaro Ohashi: <a href="Monday.html#talk_204" style ="color: blue;">204</a><br />
 Kouji Tahata: <a href="Wednesday.html#talk_129" style ="color: blue;">129</a><br />
 Kouji Yamamoto: <a href="Tuesday.html#talk_103" style ="color: blue;">103</a><br />
 Kuhwan Jeong: <a href="Wednesday.html#talk_003" style ="color: blue;">003</a><br />
@@ -211,7 +211,7 @@ Meihui Guo: <a href="Monday.html#talk_022" style ="color: blue;">022</a><br />
 Michael Black: <a href="Monday.html#talk_029" style ="color: blue;">029</a><br />
 Michael Slyuzberg: <a href="Tuesday.html#talk_111" style ="color: blue;">111</a><br />
 Michael Van Supranes: <a href="Wednesday.html#talk_068" style ="color: blue;">068</a><br />
-Michiko Watanabe: <a href="Thursday.html#talk_204" style ="color: blue;">204</a><br />
+Michiko Watanabe: <a href="Monday.html#talk_204" style ="color: blue;">204</a><br />
 Michio Yamamoto: <a href="Wednesday.html#talk_145" style ="color: blue;">145</a><br />
 Min-Chia Huang: <a href="Tuesday.html#talk_185" style ="color: blue;">185</a><br />
 Mingwei Dai: <a href="Monday.html#talk_122" style ="color: blue;">122</a>, <a href="Monday.html#talk_148" style ="color: blue;">148</a>, <a href="Monday.html#talk_151" style ="color: blue;">151</a>, <a href="Tuesday.html#talk_161" style ="color: blue;">161</a><br />
@@ -292,7 +292,7 @@ Shuhei Mano: <a href="Monday.html#talk_037" style ="color: blue;">037</a><br />
 Sih-Jing Liao: <a href="Tuesday.html#talk_113" style ="color: blue;">113</a><br />
 Simon Urbanek: <a href="Monday.html#talk_201" style ="color: blue;">201</a><br />
 Soazig Clifton: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><br />
-Sojin Ahn: <a href="Thursday.html#talk_182" style ="color: blue;">182</a><br />
+Sojin Ahn: <a href="Monday.html#talk_182" style ="color: blue;">182</a><br />
 Stephen Joe: <a href="Tuesday.html#talk_132" style ="color: blue;">132</a><br />
 Stephen Villejo: <a href="Monday.html#talk_035" style ="color: blue;">035</a><br />
 Stephen Wright: <a href="Monday.html#talk_142" style ="color: blue;">142</a><br />
@@ -305,7 +305,7 @@ Susan Wells: <a href="Tuesday.html#talk_024" style ="color: blue;">024</a><br />
 Suzanne Barker-Collo: <a href="Monday.html#talk_085" style ="color: blue;">085</a><br />
 Suzanne Chambers: <a href="Monday.html#talk_102" style ="color: blue;">102</a><br />
 Syuichi Nagata: <a href="Monday.html#talk_149" style ="color: blue;">149</a><br />
-Taerim Lee: <a href="Thursday.html#talk_177" style ="color: blue;">177</a><br />
+Taerim Lee: <a href="Monday.html#talk_177" style ="color: blue;">177</a><br />
 Taeryon Choi: <a href="Tuesday.html#talk_176" style ="color: blue;">176</a><br />
 Taesung Park: <a href="Wednesday.html#talk_171" style ="color: blue;">171</a><br />
 Takahiro Ido: <a href="Tuesday.html#talk_147" style ="color: blue;">147</a><br />

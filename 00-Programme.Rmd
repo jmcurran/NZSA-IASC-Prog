@@ -103,7 +103,7 @@
 <td class = "contributed"><a href="Monday.html#talk_094" style = "color: black;">Estimating Causal Structures For Continuous And Discrete Variables<br/>Mako Yamayoshi</a></td>
 <td class = "contributed"><a href="Monday.html#talk_010" style = "color: black;">Incorporating Genetic Networks Into Case-Control Association Studies With High-Dimensional DNA Methylation Data<br/>Hokeun Sun</a></td>
 <td class = "contributed"><a href="Monday.html#talk_015" style = "color: black;">Adaptive Model Checking For Functional Single-Index Models<br/>Zhenghui Feng</a></td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_177" style = "color: black;">Mobile Learning In Teaching Bioinformatics For Medical Doctors<br/>Taerim Lee and Jung Jin Lee</a></td>
 </tr>
 <tr>
 <td class = "time">1430</td>
@@ -112,7 +112,7 @@
 <td class = "contributed"><a href="Monday.html#talk_101" style = "color: black;">Pattern Prediction For Time Series Data With Change Points<br/>Satoshi Goto</a></td>
 <td class = "contributed"><a href="Monday.html#talk_018" style = "color: black;">Test For Genomic Imprinting Effects On The X Chromosome<br/>Wing Kam Fung</a></td>
 <td class = "contributed"><a href="Monday.html#talk_027" style = "color: black;">Fluctuation Reduction Of Value-At-Risk Estimation And Its Applications<br/>Shih-Feng Huang</a></td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_204" style = "color: black;">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools<br/>Kazunori Yamaguchi</a></td>
 </tr>
 <tr>
 <td class = "time">1450</td>
@@ -121,7 +121,7 @@
 <td class = "contributed"><a href="Monday.html#talk_102" style = "color: black;">Regression With Random Effects For Analysing Correlated Survival Data: Application To Disease Recurrences<br/>Richard Tawiah</a></td>
 <td class = "contributed"><a href="Monday.html#talk_085" style = "color: black;">Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury<br/>Priya Parmar</a></td>
 <td class = "contributed"><a href="Monday.html#talk_049" style = "color: black;">Bayesian Structure Selection For Vector Autoregression Model<br/>Ray-Bing Chen</a></td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_182" style = "color: black;">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</a></td>
 </tr>
 <tr>
 <td class = "time">1510</td>
@@ -525,7 +525,7 @@
 <td class = "contributed"><a href="Thursday.html#talk_043" style = "color: black;">Dissimilarities Between Groups Of Data<br/>Nobuo Shimizu</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_095" style = "color: black;">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_088" style = "color: black;">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_177" style = "color: black;">Mobile Learning In Teaching Bioinformatics For Medical Doctors<br/>Taerim Lee and Jung Jin Lee</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1050</td>
@@ -534,7 +534,7 @@
 <td class = "contributed"><a href="Thursday.html#talk_089" style = "color: black;">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_042" style = "color: black;">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_099" style = "color: black;">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_204" style = "color: black;">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools<br/>Kazunori Yamaguchi</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1110</td>
@@ -543,7 +543,7 @@
 <td class = "contributed"><a href="Thursday.html#talk_039" style = "color: black;">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_097" style = "color: black;">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_120" style = "color: black;">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_182" style = "color: black;">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1130</td>

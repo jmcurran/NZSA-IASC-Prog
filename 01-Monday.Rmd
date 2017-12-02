@@ -1039,6 +1039,34 @@ proposed test procedure.
 <span>**Keywords:**</span> Functional single-index models, dimension
 reduction, model checking
 <p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:10 Case Room 4 (260-009)</p>
+## Mobile Learning In Teaching Bioinformatics For Medical Doctors {#talk_177 .unnumbered}
+<p style="text-align:center">
+Taerim Lee^1^ and Jung Jin Lee^2^<br />
+^1^Korea National Open University<br />
+^2^Soongsil University<br />
+</p>
+<span>**Abstract:**</span> This paper describes an implementation of mobile learning initiative in
+Bioinformatics Training & Education Center (BITEC) for medical doctors
+supported from Ministry of Welfare and Public Health Korea. This project
+was initiated by Dept. of Bioinformatics & Statistics KNOU and Dept. of
+Medical Informatics of SNU Medical College for training medical doctors.
+The high penetration rates of mobile phone subscriptions and the rapid
+growing of handheld users show that it is viable for making inroads
+towards the usage of mobile devices as an alternative learning mode for
+distance learning. The mobile learning initiative is aimed to encourage
+learning and interactions in distance learning communities aiming to
+bridge the transactional distances faced by the learners and adopt
+mobility as the key tool in Bioinformatics courses delivery. The BITEC
+m-Learning initiative focuses on introducing Bioinformatics using
+handheld devices to be made easily accessible through the use of mobile
+devices for ODL Bioinformatics learners who are very busy medical
+doctors in ubiquitous learning environment. The m-Learning approach is
+considered as a learning alternative to support distance learners mainly
+working doctors and medical researchers in Korea. This research paper
+discusses the implementation of the mobile e-Book approach which has
+better affordable, accessible and flexible educational media.
+<p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 098 Lecture Theatre (260-098)</p>
 ## On Optimal Group Testing Designs: Prevalence Estimation, Cost Considerations, And Dilution Effects {#talk_034 .unnumbered}
 <p style="text-align:center">
@@ -1207,6 +1235,15 @@ requirements to the conventional VaR estimator.
 
 <span>**Keywords:**</span> Capital requirement, change point detection,
 CUSUM control chart, fluctuation reduction, Value-at-Risk
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:30 Case Room 4 (260-009)</p>
+## E-Learning Courses On Introductory Statistics Using Interactive Educational Tools {#talk_204 .unnumbered}
+<p style="text-align:center">
+Kazunori Yamaguchi^1^, Kotaro Ohashi^1^, and Michiko Watanabe^2^<br />
+^1^Rikkyo University<br />
+^2^Keio University<br />
+</p>
+<span>**Abstract:**</span> This paper introduces e-learning courses for principles and methods of introductory statistics, which is developing for undergarduate students. The course consists of the following contents; Usages and linkages to the official statistics in Japan, videos titled statistics for daily life, and interactive learning contents. For this course, we have developed Japanese versions of interactive Java applets for understanding statistical concepts and a tool for the simulation and data analysis. We expect that combination of these tools and e-learning contents not only makes students easy to understand basic concepts of statistics but also motivate students to study statistics.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 098 Lecture Theatre (260-098)</p>
 ## Estimation Of Animal Density From Acoustic Detections {#talk_061 .unnumbered}
@@ -1399,6 +1436,63 @@ of the proposed Bayesian approaches.
 
 <span>**Keywords:**</span> Bayesian variable selection, time series,
 universal grouping, segmentized grouping
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 14:50 Case Room 4 (260-009)</p>
+## Three-Dimensional Data Visualization Education With Virtual Reality {#talk_182 .unnumbered}
+<p style="text-align:center">
+Dae-Heung Jang, Jae Eun Lee, and Sojin Ahn<br />
+Pukyong National University<br />
+</p>
+<span>**Abstract:**</span> A variety of data visualization methods are
+utilizing to analyze huge amount of data. Among various methods, a
+three-dimensional image requires the rotation of the image to show
+stereo image on the two-dimensional screen. This study discusses data
+visualization education of two methods (static method and dynamic
+method) which make it possible to analyze the construct of stereo image
+to improve the restriction of the three-dimensional image display with
+virtual reality. This investigation can be useful to explore
+three-dimensional data structure more clearly.
+
+<span>**Keywords:**</span> Data visualization education, Virtual
+reality, Stereo image, R package
+
+<span>**References:**</span>
+
+Bowman, A. (2015). *rpanel*: Simple interactive controls for R using the
+tcltk library. R package version 1.1-3.
+
+Campos, M. M. (2007). Way Cooler: PCA and Visualization Linear Algebra
+in the Oracle Database 2,
+http://oracledmt.blogspot.kr/2007/06/way-cooler-pca-and-visualization-linear.html.
+
+Ligges, U. (2017). *scatterplot3d*: 3D Scatter Plot. R package version
+0.3-38.
+
+Murdoch, D. (2017). *rgl*: 3D Visualization Using OpenGL. R package
+version 0.97.0.
+
+Myers, R. H., Montgomery, D. C. and Anderson-Cook, C. M. (2016).
+*Response Surface Methodology: Process and Product Optimization Using
+Designed Experiments, 4th ed*, Wiley, New York.
+
+Ripley, B. (2016). *MASS*: Support Functions and Datasets for Venables
+and Ripley’s MASS. R package version 7.3-47.
+
+Sarkar, D. (2016). *lattice*: Trellis Graphics for R. R package version
+0.20-35.
+
+Soetaert, K. (2016). *plot3D*: Plotting Multi-Dimensional Data. R
+package version 1.1.
+
+Wolf, H. P. (2015). *aplpack*: Another Plot PACKage: stem.leaf, bagplot,
+faces, spin3R, plotsummary, plothulls, and some slider functions. R
+package version 1.3.0.
+
+http://astrostatistics.psu.edu/datasets/SDSS quasar.html.
+
+http://forbes.com/mlb valuations/list.
+
+http://gartner.com/newsroom/id/3412017.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 15:10 098 Lecture Theatre (260-098)</p>
 ## Talk Data To Me {#talk_146 .unnumbered}
