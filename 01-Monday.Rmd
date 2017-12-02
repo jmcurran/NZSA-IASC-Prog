@@ -89,7 +89,7 @@ Exploring Temporal Patterns in Climate Data and Models.
 *Environmetrics*, **23**(5), 382–393.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract {#talk_036 .unnumbered}
+## Nonparametric Test For Volatility In Clustered Multiple Time Series {#talk_036 .unnumbered}
 <p style="text-align:center">
 Paolo Victor Redondo and Erniel Barrios<br />
 University of the Philippines Diliman<br />
@@ -347,6 +347,14 @@ resulting in a top-ten important articles that are slightly different
 from the list via impact factors. This metric can be easily extended
 to author citation network and many similar networks embedded in the
 Web of Science.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
+## Estimating Links Of A Network From Time To Event Data {#talk_203 .unnumbered}
+<p style="text-align:center">
+Tso-Jung Yen<br />
+Academia Sinica<br />
+</p>
+<span>**Abstract:**</span> In this paper we develop a statistical method for identifying links of a network from time to event data. This method models the hazard function of a node conditional on event time of other nodes, parameterizing the conditional hazard function with the links of the network. It then estimates the hazard function by maximizing a pseudo partial likelihood function with parameters subject to a user‐specified penalty function and additional constraints. To make such estimation robust, it adopts a prespecified risk control on the number of false discovered links by using the Stability Selection method. Simulation study shows that under this hybrid procedure, the number of false discovered links is tightly controlled while the true links are well recovered. We apply our method to estimate a political cohesion network that drives donation behavior of 146 firms from the data collected during the 2008 Taiwanese legislative election. The results show that firms affiliated with elite organizations or firms of monopoly are more likely to diffuse donation behavior. In contrast, firms belonging to technology industry are more likely to act independently on donation.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Monday 11<sup>th</sup> 11:10 OGGB4 (260-073)</p>
 ## Estimation Of A High-Dimensional Covariance Matrix {#talk_023 .unnumbered}

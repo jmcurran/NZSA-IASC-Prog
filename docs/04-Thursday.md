@@ -377,29 +377,13 @@ study; Probabilistic model; Gibbs sampling; Heritability;
 Co-heritability
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## Towards An Informal Test For Goodness-Of-Fit {#talk_039 .unnumbered}
+## E-Learning Courses On Introductory Statistics Using Interactive Educational Tools {#talk_204 .unnumbered}
 <p style="text-align:center">
-Anna Fergusson and Maxine Pfannkuch<br />
-University of Auckland<br />
+Kazunori Yamaguchi^1^, Kotaro Ohashi^1^, and Michiko Watanabe^2^<br />
+^1^Rikkyo University<br />
+^2^Keio University<br />
 </p>
-<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
-visual fit of the model to data ’by eye’. Such approaches are
-problematic for Year 13 and undergraduate students and teachers from a
-pedagogical perspective as key aspects such as sample size, the number
-of categories and expected variation of sample proportions are difficult
-to consider. In formal tests for goodness-of-fit a test statistic is
-used in reference to its sampling distribution to decide if the model
-distribution can be rejected. In general, a numeric test statistic does
-not have an obvious graphical representation within the data itself.
-This talk presents a new informal goodness-of-fit test that uses a
-simulation-based modelling tool. Drawing on ideas from graphical
-inference, the proposed test does not use numerical test statistics but
-plots as test statistics. Comparisons of performance demonstrate that
-the proposed test leads to similar decisions about the fit of the model
-distribution as the chi square goodness-of-fit test. A research study
-with Year 13 teachers indicated that there could be pedagogical benefits
-of using this informal goodness-of-fit test in terms of introducing
-important modelling and hypothesis test concepts.
+<span>**Abstract:**</span> This paper introduces e-learning courses for principles and methods of introductory statistics, which is developing for undergarduate students. The course consists of the following contents; Usages and linkages to the official statistics in Japan, videos titled statistics for daily life, and interactive learning contents. For this course, we have developed Japanese versions of interactive Java applets for understanding statistical concepts and a tool for the simulation and data analysis. We expect that combination of these tools and e-learning contents not only makes students easy to understand basic concepts of statistics but also motivate students to study statistics.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
 ## Selecting Generalised Linear Models Under Inequality Constraints {#talk_048 .unnumbered}
@@ -475,6 +459,31 @@ analysis. *Computational Statistics and Data Analysis*, **55**, 143–153.
 Mori, Y., Kuroda, M. and Makino, N. (2016). *Nonlinear principal
 component analysis and its Applications*. JSS Research Series in
 Statistics, Springer.
+<p class="pagebreak"></p>
+<p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p>
+## Towards An Informal Test For Goodness-Of-Fit {#talk_039 .unnumbered}
+<p style="text-align:center">
+Anna Fergusson and Maxine Pfannkuch<br />
+University of Auckland<br />
+</p>
+<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
+visual fit of the model to data ’by eye’. Such approaches are
+problematic for Year 13 and undergraduate students and teachers from a
+pedagogical perspective as key aspects such as sample size, the number
+of categories and expected variation of sample proportions are difficult
+to consider. In formal tests for goodness-of-fit a test statistic is
+used in reference to its sampling distribution to decide if the model
+distribution can be rejected. In general, a numeric test statistic does
+not have an obvious graphical representation within the data itself.
+This talk presents a new informal goodness-of-fit test that uses a
+simulation-based modelling tool. Drawing on ideas from graphical
+inference, the proposed test does not use numerical test statistics but
+plots as test statistics. Comparisons of performance demonstrate that
+the proposed test leads to similar decisions about the fit of the model
+distribution as the chi square goodness-of-fit test. A research study
+with Year 13 teachers indicated that there could be pedagogical benefits
+of using this informal goodness-of-fit test in terms of introducing
+important modelling and hypothesis test concepts.
 <p class="pagebreak"></p>
 <p style="background-color:#ccccff;text-align:center">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
 ## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {#talk_097 .unnumbered}

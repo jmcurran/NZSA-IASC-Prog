@@ -24,9 +24,9 @@ The conference will be opened by the Dean of Science at the University of Auckla
  
 We have a very healthy number of students and early career researchers among the more than 300 delegates attending, indicating how popular, important and attractive data rich research continues to be in the years to come.
  
-This conference will be a success because of excellent work by many, in particular by Thomas Yee, Ciprian Giurcaneanu and James Curran, who form the local organizing committee. Thanks also to (Chair of the Scientific Program) Ciprian Giurcaneanu, and his team: David Scott, Rolf Turner, Abhinav Chopra. Thanks finally to Tessa Lloyd-Hagemann, our events coordinator.
+This conference will be a success because of excellent work by many, in particular by Thomas Yee, Ciprian Giurcaneanu and James Curran, who form the local organizing committee. Thanks also to (Chair of the Scientific Program) Ciprian Giurcaneanu, and his team: Rolf Turner and Abhinav Chopra. Thanks finally to Tessa Lloyd-Hagemann, our events coordinator.
 
-Last but not least I thank our sponsors: Minitab, The New Zealand Statistical Association, Harmonic Analytics, SAS, Wiley and the Australian and New Zealand Journal of Statistics,  for their generous financial support. Many aspects of the conference are only possible because of their help.
+Last but not least I thank our sponsors: Minitab, The New Zealand Statistical Association, Harmonic Analytics, SAS, The International Society for Bayesian Analysis, Wiley and the Australian and New Zealand Journal of Statistics,  for their generous financial support. Many aspects of the conference are only possible because of their help,
 
 ![](pictures/iansig.png)
 

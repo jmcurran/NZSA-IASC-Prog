@@ -39,7 +39,7 @@
 <td class = "contributed"><a href="Monday.html#talk_022" style = "color: black;">Robust Principal Expectile Component Analysis<br/>Liang-Ching Lin</a></td>
 <td class = "contributed"><a href="Monday.html#talk_002" style = "color: black;">Effect Of Area Level Deprivation On Body Mass Index: Analysis Of NZ Health Surveys<br/>Andrew Adiguna Halim</a></td>
 <td class = "contributed"><a href="Monday.html#talk_012" style = "color: black;">Calendar-Based Graphics For Visualising People's Daily Schedules<br/>Earo Wang</a></td>
-<td class = "contributed"><a href="Monday.html#talk_036" style = "color: black;">Nonparametric Test For Volatility In Clustered Multiple Time Series Abstract<br/>Paolo Victor Redondo</a></td>
+<td class = "contributed"><a href="Monday.html#talk_036" style = "color: black;">Nonparametric Test For Volatility In Clustered Multiple Time Series<br/>Paolo Victor Redondo</a></td>
 <td class = "contributed"><a href="Monday.html#talk_122" style = "color: black;">IGESS: A Statistical Approach To Integrating Individual Level Genotype Data And Summary Statistics In Genome Wide Association Studies<br/>Xiang Wan</a></td>
 <td class = "contributed"><a href="Monday.html#talk_128" style = "color: black;">Author Name Identification For Evaluating Research Performance Of Institutes<br/>Tomokazu Fujino</a></td>
 </tr>
@@ -49,12 +49,12 @@
 <td class = "contributed"><a href="Monday.html#talk_021" style = "color: black;">Clustering Using Nonparametric Mixtures And Mode Identification<br/>Shengwei Hu</a></td>
 <td class = "contributed"><a href="Monday.html#talk_037" style = "color: black;">Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels<br/>Youngseon Lee</a></td>
 <td class = "contributed"><a href="Monday.html#talk_030" style = "color: black;">Estimation Of A Semiparametric Spatiotemporal Models With Mixed Frequency<br/>Erniel Barrios</a></td>
-<td class = "contributed"><a href="Monday.html#talk_148" style = "color: black;">Lsmm: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies<br/>Jingsi Ming</a></td>
+<td class = "contributed"><a href="Monday.html#talk_148" style = "color: black;">LSMM: A Statistical Approach To Integrating Functional Annotations With Genome-Wide Association Studies<br/>Jingsi Ming</a></td>
 <td class = "contributed"><a href="Monday.html#talk_187" style = "color: black;">A Study Of The Influence Of Articles In The Large-Scale Citation Network<br/>Frederick Kin Hing Phoa</a></td>
 </tr>
 <tr>
 <td class = "time">1110</td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;">Estimating Links Of A Network From Time To Event Data Tso‐Jung Yen</a></td>
+<td class = "contributed"><a href="Monday.html#talk_203" style = "color: black;">Estimating Links Of A Network From Time To Event Data<br/>Tso‐Jung Yen</a></td>
 <td class = "contributed"><a href="Monday.html#talk_023" style = "color: black;">Estimation Of A High-Dimensional Covariance Matrix<br/>Xiangjie Xue</a></td>
 <td class = "contributed"><a href="Monday.html#talk_055" style = "color: black;">Innovative Bayesian Estimation In The von Mises Distribution<br/>Yuta Kamiya</a></td>
 <td class = "contributed"><a href="Monday.html#talk_035" style = "color: black;">Evidence Of Climate Change From Nonparametric Change-Point Analysis<br/>Angela Nalica</a></td>
@@ -150,7 +150,7 @@
 <td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Monday.html#talk_060" style = "color: black;">Robustness Of Temperature Reconstruction For Past 500 Years<br/>Yu Yang</a></td>
 <td class = "contributed"><a href="Monday.html#talk_139" style = "color: black;">Nonparametric Causal Inference By The Kernel Method<br/>Yuchi Matsuoka</a></td>
-<td class = "contributed"><a href="Monday.html#talk_019" style = "color: black;">A Unified Regularized Group Pls Algorithm Scalable To Big Data<br/>Pierre Lafaye de Micheaux</a></td>
+<td class = "contributed"><a href="Monday.html#talk_019" style = "color: black;">A Unified Regularized Group PLS Algorithm Scalable To Big Data<br/>Pierre Lafaye de Micheaux</a></td>
 <td class = "contributed"><a href="Monday.html#talk_033" style = "color: black;">Evaluation Of Spatial Cluster Detection Method Based On All Geographical Linkage Patterns<br/>Fumio Ishioka</a></td>
 <td class = "contributed"><a href="Monday.html#talk_134" style = "color: black;">Scoring Rules For Prediction And Classification Challenges<br/>Matt Parry</a></td>
 </tr>
@@ -534,13 +534,13 @@
 <td class = "contributed"><a href="Thursday.html#talk_089" style = "color: black;">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_042" style = "color: black;">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_099" style = "color: black;">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_039" style = "color: black;">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_204" style = "color: black;">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools<br/>Kazunori Yamaguchi</a></td>
 </tr>
 <tr>
 <td class = "time">1110</td>
 <td class = "contributed"><a href="Thursday.html#talk_048" style = "color: black;">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_057" style = "color: black;">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Thursday.html#talk_039" style = "color: black;">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_097" style = "color: black;">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_120" style = "color: black;">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_182" style = "color: black;">Three-Dimensional Data Visualization Education With Virtual Reality<br/>Dae-Heung Jang</a></td>
