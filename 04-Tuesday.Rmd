@@ -1,6 +1,6 @@
 # Programme And Abstracts For Tuesday 12^th^ Of December {#Tuesday .unnumbered}
-<p style="color:white;background-color:#ed2d2d;text-align:center">Keynote: Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p>
-## Could Do Better &hellip; A Report Card For Statistical Computing {#talk_198 .unnumbered}
+<div id = "talk_198"><p class="keynoteBanner">Keynote: Tuesday 12<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p></div>
+## Could Do Better &hellip; A Report Card For Statistical Computing {.unnumbered}
 <p style="text-align:center">
 Ross Ihaka and Brendon McArdle<br />
 University of Auckland<br />
@@ -21,9 +21,13 @@ In this talk we'll examine what might be behind this and also look at
 some research aimed at exploring some of the design space for new
 systems. The aim is to show constructively that new work in the area
 is still possible.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p>
-## R&amp;D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis {#talk_025 .unnumbered}
+<div id = "talk_025"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 098 Lecture Theatre (260-098)</p></div>
+## R&amp;D Policy Regimes In France: New Evidence From A Spatio-Temporal Analysis {.unnumbered}
 <p style="text-align:center">
 Benjamin Montmartin^1^, Marcos Herrera^2^, and Nadine Massard^3^<br />
 ^1^GREDEG CNRS<br />
@@ -56,9 +60,13 @@ macroeconomics: The transactions demand for money. In: *P. Ormerod
 (Ed.), Economic Modelling: Current Issues and Problems in Macroeconomic
 Modelling in the UK and the US*, **9**, 217–242. Heinemann Education
 Books, London.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB4 (260-073)</p>
-## Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data {#talk_084 .unnumbered}
+<div id = "talk_084"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 OGGB4 (260-073)</p></div>
+## Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data {.unnumbered}
 <p style="text-align:center">
 Samin Aref^1^, David Friggens^2^, and Shaun Hendy^1^<br />
 ^1^University of Auckland<br />
@@ -93,9 +101,13 @@ ArXiv preprint link: https://arxiv.org/pdf/1709.02897
 
 <span>**Keywords:**</span> Big data modelling, Scientific collaboration,
 Scientometrics, Network analysis, Scopus, New Zealand
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 OGGB5 (260-051)</p>
-## Family Structure And Academic Achievements Of High School Students In Tonga {#talk_170 .unnumbered}
+<div id = "talk_170"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 OGGB5 (260-051)</p></div>
+## Family Structure And Academic Achievements Of High School Students In Tonga {.unnumbered}
 <p style="text-align:center">
 Losana Vao Latu Latu<br />
 University of Canterbury<br />
@@ -122,9 +134,13 @@ different religions. In April we surveyed 360 students, 60 from each of
 6 high schools, and present here our preliminary results.
 
 <span>**Keywords:**</span> Education, policy, stratified sampling
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 2 (260-057)</p>
-## Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition {#talk_017 .unnumbered}
+<div id = "talk_017"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 Case Room 2 (260-057)</p></div>
+## Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition {.unnumbered}
 <p style="text-align:center">
 Geoff Jones<br />
 Massey University<br />
@@ -144,9 +160,13 @@ the influence of demographic covariates.
 
 <span>**Keywords:**</span> Multivariate binary data, longitudinal
 analysis, metabolic syndrome
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 3 (260-055)</p>
-## Clustering Of Curves On A Spatial Domain Using A Bayesian Partitioning Model {#talk_169 .unnumbered}
+<div id = "talk_169"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 Case Room 3 (260-055)</p></div>
+## Clustering Of Curves On A Spatial Domain Using A Bayesian Partitioning Model {.unnumbered}
 <p style="text-align:center">
 Chae Young Lim<br />
 Seoul National University<br />
@@ -168,9 +188,13 @@ identifying regional effects and small-scale variability.
 
 <span>**Keywords:**</span> spatial clustering, Bayesian wavelets,
 Voronoi tessellation, functional covariates
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:30 Case Room 4 (260-009)</p>
-## The Uncomfortable Entrepreneurs: Bad Working Conditions And Entrepreneurial Commitment {#talk_044 .unnumbered}
+<div id = "talk_044"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:30 Case Room 4 (260-009)</p></div>
+## The Uncomfortable Entrepreneurs: Bad Working Conditions And Entrepreneurial Commitment {.unnumbered}
 <p style="text-align:center">
 Catherine Laffineur<br />
 Université Côte d'Azur, GREDEG-CNRS<br />
@@ -202,9 +226,13 @@ Occupational characteristics, Employment choice.
 
 Folta, T. B., Delmar, F., & Wennberg, K. 2010. Hybrid entrepreneurship.
 *Management Science*, 56(2), 253-269.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p>
-## Spatial Surveillance With Scan Statistics By Controlling The False Discovery Rate {#talk_028 .unnumbered}
+<div id = "talk_028"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 098 Lecture Theatre (260-098)</p></div>
+## Spatial Surveillance With Scan Statistics By Controlling The False Discovery Rate {.unnumbered}
 <p style="text-align:center">
 Xun Xiao<br />
 Massey University<br />
@@ -235,9 +263,13 @@ Statistics-Theory and Methods **26**(6), 1481–1496.
 Li, Y., Shu, L., and Tsung, F. (2016). *A false discovery approach for
 scanning spatial disease clusters with arbitrary shapes*, IIE
 transactions, **48**(7), 684–698.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 OGGB4 (260-073)</p>
-## Statistical Models For The Source Attribution Of Zoonotic Diseases: A Study Of Campylobacteriosis {#talk_113 .unnumbered}
+<div id = "talk_113"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 OGGB4 (260-073)</p></div>
+## Statistical Models For The Source Attribution Of Zoonotic Diseases: A Study Of Campylobacteriosis {.unnumbered}
 <p style="text-align:center">
 Sih-Jing Liao, Martin Hazelton, Jonathan Marshall, and Nigel French<br />
 Massey University<br />
@@ -294,9 +326,13 @@ Kwan, E., Besser, T.E., Cookson, A., Carter, P.E. and French, N.P.
 (2011). Whole-genome comparison of two *Campylobacter jejuni* isolates
 of the same sequence type reveals multiple loci of different ancestral
 lineage. *PLoS One*, **6**(11):e27121.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 OGGB5 (260-051)</p>
-## Latent Variable Models And Multivariate Binomial Data {#talk_191 .unnumbered}
+<div id = "talk_191"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 OGGB5 (260-051)</p></div>
+## Latent Variable Models And Multivariate Binomial Data {.unnumbered}
 <p style="text-align:center">
 John Holmes<br />
 University of Otago<br />
@@ -330,9 +366,13 @@ Polson, N. G. and Scott, J. G. and Windle, J. (2013). Bayesian inference
 for logistic models using <span>P<span>ó</span>lya</span>-gamma latent
 variables. *Journal of the American Statistical Association*, **108**,
 1339–1349.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 Case Room 2 (260-057)</p>
-## Identifying Clusters Of Patients With Diabetes Using A Markov Birth-Death Process {#talk_024 .unnumbered}
+<div id = "talk_024"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 Case Room 2 (260-057)</p></div>
+## Identifying Clusters Of Patients With Diabetes Using A Markov Birth-Death Process {.unnumbered}
 <p style="text-align:center">
 Mugdha Manda, Thomas Lumley, and Susan Wells<br />
 University of Auckland<br />
@@ -363,9 +403,13 @@ practice
 Stephens, M. (2000). Bayesian Analysis of Mixture Models with an Unknown
 Number of Components - An Alternative to Reversible Jump Methods. In:
 *The Annals of Statistics*, 28(1), 40-74.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 Case Room 3 (260-055)</p>
-## Bayesian Temporal Density Estimation Using Autoregressive Species Sampling Models {#talk_174 .unnumbered}
+<div id = "talk_174"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 Case Room 3 (260-055)</p></div>
+## Bayesian Temporal Density Estimation Using Autoregressive Species Sampling Models {.unnumbered}
 <p style="text-align:center">
 Youngin Jo^1^, Seongil Jo^2^, and Jaeyong Lee^3^<br />
 ^1^Kakao Corporation<br />
@@ -393,9 +437,13 @@ Dependent random probability measures; Mixture models; Temporal
 structured data
 
 <span>**Acknowledgements:**</span> This work is a part of the first author’s Ph.D. thesis at Seoul National University. Research of Seongil Jo was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF-2017R1D1A3B03035235). Research of Jaeyong Lee was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MEST) (No. 2011-0030811).
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 10:50 Case Room 4 (260-009)</p>
-## How Does The Textile Set Describe Geometric Structures Of Data? {#talk_047 .unnumbered}
+<div id = "talk_047"><p class="contribBanner">Tuesday 12<sup>th</sup> 10:50 Case Room 4 (260-009)</p></div>
+## How Does The Textile Set Describe Geometric Structures Of Data? {.unnumbered}
 <p style="text-align:center">
 Ushio Tanaka^1^ and Tomonari Sei^2^<br />
 ^1^Osaka Prefecture University<br />
@@ -428,9 +476,13 @@ Analysis*, **52**, 3616–3644.
 Sei, T. and Tanaka, U. (2015). Geometric Properties of Textile Plot:
 *Geometric Science of Information*, *Lecture Notes in Computer Science*,
 **9389**, 732–739.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p>
-## Intensity Estimation Of Spatial Point Processes Based On Area-Aggregated Data {#talk_046 .unnumbered}
+<div id = "talk_046"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 098 Lecture Theatre (260-098)</p></div>
+## Intensity Estimation Of Spatial Point Processes Based On Area-Aggregated Data {.unnumbered}
 <p style="text-align:center">
 Hsin-Cheng Huang and Chi-Wei Lai<br />
 Academia Sinica<br />
@@ -448,9 +500,13 @@ provided to demonstrate the effectiveness of the proposed method.
 
 <span>**Keywords:**</span> Area censoring, inhomogeneous spatial point
 processes, kernel density estimation
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 OGGB4 (260-073)</p>
-## Bayesian Inference For Population Attributable Measures {#talk_115 .unnumbered}
+<div id = "talk_115"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 OGGB4 (260-073)</p></div>
+## Bayesian Inference For Population Attributable Measures {.unnumbered}
 <p style="text-align:center">
 Sarah Pirikahu, Geoff Jones, Martin Hazelton, and Cord Heuer<br />
 Massey University<br />
@@ -480,13 +536,18 @@ the population affects the inference for PAR and PAF. To allow for this
 we propose a methodology involving the Bayesian bootstrap. We also
 extend the analysis to allow for complex survey designs with unequal
 weights, stratification and clustering.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 OGGB5 (260-051)</p>
-## An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift {#talk_147 .unnumbered}
+<div id = "talk_147"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 OGGB5 (260-051)</p></div>
+## An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift {.unnumbered}
 <p style="text-align:center">
-Takahiro Ido^1^, Shinpei Imori^1^, and Hidetoshi Shimodaira^2^<br />
+Takahiro Ido^1^, Shinpei Imori^1,2^, and Hidetoshi Shimodaira^2,3^<br />
 ^1^Osaka University<br />
-^2^Kyoto University<br />
+^2^RIKEN Center for Advanced Intelligence Project (AIP)<br />
+^3^Kyoto University<br />
 </p>
 <span>**Abstract:**</span> It is beneficial for modeling data of
 interest to exploit secondary information. The secondary information is
@@ -514,9 +575,13 @@ conducted to examine the improvement.
 <span>**Keywords:**</span> Auxiliary variables; Covariate shift;
 Information criterion; Kullback-Leibler divergence; Misspecification;
 Predictions.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 Case Room 2 (260-057)</p>
-## Analysis Of A Brief Telephone Intervention For Problem Gambling And Examining The Impact On Co-Existing Depression? {#talk_118 .unnumbered}
+<div id = "talk_118"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 Case Room 2 (260-057)</p></div>
+## Analysis Of A Brief Telephone Intervention For Problem Gambling And Examining The Impact On Co-Existing Depression? {.unnumbered}
 <p style="text-align:center">
 Nick Garrett, Maria Bellringer, and Max Abbott<br />
 Auckland University of Technology<br />
@@ -539,9 +604,13 @@ variables to explain the change over time. Conclusion was that the
 intervention’s impact on problem gambling behaviour also changed
 depression rates, however deprivation and mental health medication also
 contributed.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 Case Room 3 (260-055)</p>
-## Prior-Based Bayesian Information Criterion {#talk_175 .unnumbered}
+<div id = "talk_175"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 Case Room 3 (260-055)</p></div>
+## Prior-Based Bayesian Information Criterion {.unnumbered}
 <p style="text-align:center">
 M. J. Bayarri^1^, James Berger^2^, Woncheol Jang^3^, Surajit Ray^4^, Luis Pericchi^5^, and Ingmar Visser^6^<br />
 ^1^University of Valencia<br />
@@ -567,9 +636,13 @@ a modification of PBIC which is more favorable to complex models.
 <span>**Keywords:**</span> Bayes factors, model selection, Cauchy
 priors, consistency, effective sample size, Fisher information, Laplace
 expansions, robust priors
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:10 Case Room 4 (260-009)</p>
-## Correlated Defaults With A Distance To Default {#talk_086 .unnumbered}
+<div id = "talk_086"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 Case Room 4 (260-009)</p></div>
+## Correlated Defaults With A Distance To Default {.unnumbered}
 <p style="text-align:center">
 Cheng-Der Fuh^1^ and Chu-Lan Kao^2^<br />
 ^1^National Central University<br />
@@ -591,9 +664,13 @@ illustrate our model.
 
 <span>**Keywords:**</span> Correlated defaults, factor model, distance
 to default, renewal theory
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p>
-## Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset {#talk_067 .unnumbered}
+<div id = "talk_067"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p></div>
+## Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset {.unnumbered}
 <p style="text-align:center">
 Narumasa Tsutsumida^1^, Paul Harris^2^, and Alexis Comber^3^<br />
 ^1^Kyoto University<br />
@@ -624,9 +701,13 @@ Tsutsumida N., P. Harris, , A. Comber. 2017. The Application of a
 Geographically Weighted Principal Component Analysis for Exploring
 Twenty-three Years of Goat Population Change across Mongolia. *Annals of
 the American Association of Geographers*, **107(5)**, 1060–1074.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 OGGB4 (260-073)</p>
-## Dimensionality Reduction Of Multivariate Data For Bayesian Analysis {#talk_116 .unnumbered}
+<div id = "talk_116"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 OGGB4 (260-073)</p></div>
+## Dimensionality Reduction Of Multivariate Data For Bayesian Analysis {.unnumbered}
 <p style="text-align:center">
 Anjali Gupta^1^, James Curran^1^, Sally Coulson^2^, and Christopher Triggs^1^<br />
 ^1^University of Auckland<br />
@@ -649,9 +730,13 @@ quite common in high dimensional machine learning problems. In this
 talk, I will describe a study where we attempt to quantify the effects
 of this this approach on the resulting likelihood ratios using data
 obtained from SEM-EDX instrument.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 OGGB5 (260-051)</p>
-## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {#talk_016 .unnumbered}
+<div id = "talk_016"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 OGGB5 (260-051)</p></div>
+## An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index {.unnumbered}
 <p style="text-align:center">
 Longcheen Huwang<br />
 National Tsing Hua University<br />
@@ -686,9 +771,13 @@ weighted moving covariance matrix. <span>*Technometrics*</span>,
 Kano, M., Hasebe, S. and Hashimoto, I. (2002). Statistical process
 monitoring based on dissimilarity of process data. <span>*AIChE
 Journal*</span>, <span>**48**</span>, 1231-1240.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 2 (260-057)</p>
-## Adjusting For Linkage Bias In The Analysis Of Record-Linked Data {#talk_162 .unnumbered}
+<div id = "talk_162"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 Case Room 2 (260-057)</p></div>
+## Adjusting For Linkage Bias In The Analysis Of Record-Linked Data {.unnumbered}
 <p style="text-align:center">
 Patrick Graham<br />
 Stats NZ and Bayesian Research<br />
@@ -728,9 +817,13 @@ also considered.
 
 <span>**Keywords:**</span> Record linkage, Missing data, Bayesian
 inference, Gibbs sampler, Multiple imputation
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 3 (260-055)</p>
-## Bayesian Semiparametric Hierarchical Models For Longitudinal Data Analysis With Application To Dose-Response Studies {#talk_176 .unnumbered}
+<div id = "talk_176"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 Case Room 3 (260-055)</p></div>
+## Bayesian Semiparametric Hierarchical Models For Longitudinal Data Analysis With Application To Dose-Response Studies {.unnumbered}
 <p style="text-align:center">
 Taeryon Choi<br />
 Korea University<br />
@@ -758,9 +851,13 @@ inter-study variability.
 <span>**Keywords:**</span> Cadmium toxicity, Cosine series,
 Dose-response study, Hierarchical Model, Measurement errors, Shape
 restriction
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:30 Case Room 4 (260-009)</p>
-## Optimizing Junior Rugby Weight Limits {#talk_091 .unnumbered}
+<div id = "talk_091"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 Case Room 4 (260-009)</p></div>
+## Optimizing Junior Rugby Weight Limits {.unnumbered}
 <p style="text-align:center">
 Emma Campbell, Ankit Patel, and Paul Bracewell<br />
 DOT Loves Data<br />
@@ -790,9 +887,13 @@ isolating the drivers of this behaviour.
 
 <span>**Keywords:**</span> Logistic regression, repeated measures, player retention,
 optimization
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 098 Lecture Theatre (260-098)</p>
-## Spatial Scan Statistics For Matched Case-Control Data {#talk_144 .unnumbered}
+<div id = "talk_144"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:50 098 Lecture Theatre (260-098)</p></div>
+## Spatial Scan Statistics For Matched Case-Control Data {.unnumbered}
 <p style="text-align:center">
 Inkyung Jung<br />
 Yonsei University College of Medicine<br />
@@ -811,17 +912,25 @@ illustrate the methods with the use of a real data example.
 
 <span>**Keywords:**</span> Spatial epidemiology, cluster detection,
 SaTScan, McNemar test, conditional logistic regression
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 OGGB4 (260-073)</p>
-## Whitebait In All Its Varieties: One Fish, Two Fish, Three, Four, Five Fish. {#talk_124 .unnumbered}
+<div id = "talk_124"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:50 OGGB4 (260-073)</p></div>
+## Whitebait In All Its Varieties: One Fish, Two Fish, Three, Four, Five Fish. {.unnumbered}
 <p style="text-align:center">
 Bridget Armstrong<br />
 University of Canterbury<br />
 </p>
 <span>**Abstract:**</span> There are five species of fishes of the genus Galaxias that make up whitebait catches in New Zealand, although one species (G. maculatus) makes up &gt;90% of the catch. Whitebait are immature post-larval fish that have yet to develop the distinctive morphological traits of adults. However, in their tiny stages as whitebait the five species are difficult to tell apart. There are also distinct spatial (rivers) and temporal (different months in the whitebait fishing season) differences among the species and even within species. To manage the fishery better it is necessary to identify regional differences in the species composition of catches, which is difficult because of the time and effort required to sample catches and identify species morphologically or genetically. In my study, I will use a recently compiled database comprising 17,000 entries of whitebait samples, species composition, and variability to develop a statistical model to predict the likelihood of species-to-species composition of catches throughout New Zealand. This probabilistic model could potentially be a powerful tool in the fishery and conservation of whitebait species, some of which are considered to be threatened. 
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 2 (260-057)</p>
-## Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles {#talk_193 .unnumbered}
+<div id = "talk_193"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:50 Case Room 2 (260-057)</p></div>
+## Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles {.unnumbered}
 <p style="text-align:center">
 Philip Prah^1^, Anne Johnson^2^, Soazig Clifton^2^, Jennifer Mindell^2^, Andrew Copas^2^, Chloe Robinson^3^, Rachel Craig^3^, Sarah Woodhall^2^, Wendy Macdowall^4^, Elizabeth Fuller^3^, Bob Erens^2^, Pam Sonnenberg^2^, Kaye Wellings^4^, Catherine Mercer^2^, and Anthony Nardone^5^<br />
 ^1^Auckland University of Technology<br />
@@ -857,9 +966,13 @@ demonstrates the feasibility of asking such questions in a general
 health survey, differences with Natsal-3 do exist. These are likely due
 to the HSE’s context as a general health survey and methodological
 limitations such as its current use of pen-and-paper questionnaires.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 3 (260-055)</p>
-## Bayesian Continuous Space-Time Model Of Burglaries {#talk_132 .unnumbered}
+<div id = "talk_132"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:50 Case Room 3 (260-055)</p></div>
+## Bayesian Continuous Space-Time Model Of Burglaries {.unnumbered}
 <p style="text-align:center">
 Chaitanya Joshi, Paul Brown, and Stephen Joe<br />
 University of Waikato<br />
@@ -883,9 +996,13 @@ model building process and the accuracy achieved.
 
 <span>**Keywords:**</span> Bayesian spatio-temporal model, INLA-SPDE,
 predicting crime
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 11:50 Case Room 4 (260-009)</p>
-## Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data {#talk_164 .unnumbered}
+<div id = "talk_164"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:50 Case Room 4 (260-009)</p></div>
+## Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data {.unnumbered}
 <p style="text-align:center">
 Vera Hofer^1^, Johannes Leitner^1^, Horst Lewitschnig^2^, and Thomas Nowak^1^<br />
 ^1^University of Graz<br />
@@ -926,9 +1043,13 @@ Slovakia, Spain and United Kingdom.
 
 <span>**Keywords:**</span> quality control, tolerance limits, copulas,
 skew normal distribution
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 098 Lecture Theatre (260-098)</p>
-## Model-Checking For Regressions: A Local Smoothing-Based Global Smoothing Test {#talk_189 .unnumbered}
+<div id = "talk_189"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 098 Lecture Theatre (260-098)</p></div>
+## Model-Checking For Regressions: A Local Smoothing-Based Global Smoothing Test {.unnumbered}
 <p style="text-align:center">
 Lingzhu Li and Lixing Zhu<br />
 Hong Kong Baptist University<br />
@@ -963,9 +1084,13 @@ specification tests*, **20**, 105-134.
 Lavergne, P. and Patilea, V. (2012). *Journal of business & economic
 statistics: One for all and all for one: regression checks with many
 regressors.* **30(1)**, 41–52. Taylor & Francis Group.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 OGGB4 (260-073)</p>
-## Breeding Value Estimation In Partially-Genotyped Populations {#talk_135 .unnumbered}
+<div id = "talk_135"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 OGGB4 (260-073)</p></div>
+## Breeding Value Estimation In Partially-Genotyped Populations {.unnumbered}
 <p style="text-align:center">
 Alastair Lamont<br />
 University of Otago<br />
@@ -1003,9 +1128,13 @@ approaches to accommodate it.
 
 Preliminary results suggest that approaching fitting is this way can
 lead to improved accuracy of estimation in certain situations.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 OGGB5 (260-051)</p>
-## BIVAS: A Scalable Bayesian Method For Bi-Level Variable Selection {#talk_151 .unnumbered}
+<div id = "talk_151"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 OGGB5 (260-051)</p></div>
+## BIVAS: A Scalable Bayesian Method For Bi-Level Variable Selection {.unnumbered}
 <p style="text-align:center">
 Mingxuan Cai^1^, Mingwei Dai^2^, Jingsi Ming^1^, Jin Liu^3^, Can Yang^4^, and Heng Peng^1^<br />
 ^1^Hong Kong Baptist University<br />
@@ -1025,9 +1154,13 @@ variational inference. Both simulation studies and real examples are
 analyzed, through which we illustrate the advantages of our method for
 both variable selection and parameter estimation under certain
 conditions.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 Case Room 2 (260-057)</p>
-## Ranking Potential Shoplifters In Real Time {#talk_078 .unnumbered}
+<div id = "talk_078"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 Case Room 2 (260-057)</p></div>
+## Ranking Potential Shoplifters In Real Time {.unnumbered}
 <p style="text-align:center">
 Barry McDonald<br />
 Massey University<br />
@@ -1046,9 +1179,13 @@ data. This talk will describe how the problem was tackled.
 
 <span>**Keywords:**</span> Retail crime, ranking, ZINB, regression, real
 time
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 Case Room 3 (260-055)</p>
-## Two Stage Approach To Data-Driven Subgroup Identification In Clinical Trials {#talk_073 .unnumbered}
+<div id = "talk_073"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 Case Room 3 (260-055)</p></div>
+## Two Stage Approach To Data-Driven Subgroup Identification In Clinical Trials {.unnumbered}
 <p style="text-align:center">
 Toshio Shimokawa and Kensuke Tanioka<br />
 Wakayama Medical University<br />
@@ -1091,9 +1228,13 @@ subpopulations*. Stat.Med, <span>**30**</span>, 2601-2880.
 Ridgeway, G. (2006).Gbm: Generalized boosted regression models. R
 package version 1.5-7. Available at
 `http://www.i-pensieri.com/gregr/gbm.shtml.`
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:00 Case Room 4 (260-009)</p>
-## Estimation And Prediction For A Distribution With Bathtub Shape Under Progressive First Failure Censoring {#talk_013 .unnumbered}
+<div id = "talk_013"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 Case Room 4 (260-009)</p></div>
+## Estimation And Prediction For A Distribution With Bathtub Shape Under Progressive First Failure Censoring {.unnumbered}
 <p style="text-align:center">
 Tanmay Kayal and Yogesh Mani Tripathi<br />
 Indian Institute of Technology Patna<br />
@@ -1114,9 +1255,13 @@ illustration purposes.
 <span>**Keywords:**</span> Bayes estimates, Highest
 posterior density interval, Least square estimation, Maximum likelihood
 estimates, Progressive first failure censoring
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p>
-## Inverse Regression For Multivariate Functional Data {#talk_184 .unnumbered}
+<div id = "talk_184"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p></div>
+## Inverse Regression For Multivariate Functional Data {.unnumbered}
 <p style="text-align:center">
 Ci-Ren Jiang^1^ and Lu-Hung Chen^2^<br />
 ^1^Academia Sinica<br />
@@ -1134,9 +1279,13 @@ demonstrate the performance of our method.
 
 <span>**Keywords:**</span> Multidimensional/Multivariate Functional Data
 Analysis, Inverse Regression, Parallel Computing, Smoothing
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 OGGB4 (260-073)</p>
-## Including Covariate Estimation Error When Predicting Species Distributions: A Simulation Exercise Using Template Model Builder {#talk_138 .unnumbered}
+<div id = "talk_138"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 OGGB4 (260-073)</p></div>
+## Including Covariate Estimation Error When Predicting Species Distributions: A Simulation Exercise Using Template Model Builder {.unnumbered}
 <p style="text-align:center">
 Andrea Havron and Russell Millar<br />
 University of Auckland<br />
@@ -1171,9 +1320,13 @@ Template Model Builder
 Kristensen, K.,Nielsen, A., Berg, C.W., Skuag, H. and Bell, B. (2015).
 TMB: Automatic Differentiation and Laplace Approximation. In: *Journal
 of Statistical Software*,**70**, 1–21.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 OGGB5 (260-051)</p>
-## Adjusted Adaptive Index Model For Binary Response {#talk_074 .unnumbered}
+<div id = "talk_074"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 OGGB5 (260-051)</p></div>
+## Adjusted Adaptive Index Model For Binary Response {.unnumbered}
 <p style="text-align:center">
 Ke Wan^1^, Kensuke Tanioka^1^, Kun Yang^2^, and Toshio Shimokawa^1^<br />
 ^1^Wakayama Medical University<br />
@@ -1205,9 +1358,13 @@ Breiman, L., Friedman, J.H., Olshen, R.A. and Stone, C.J. (1984).
 Tian, L., and Tibshirani, R. (2011). *Adaptive index models for
 marker-based risk stratification.* Biostatistics, <span>**12**</span>,
 68–86.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 Case Room 2 (260-057)</p>
-## Factors Influencing On Growth Of Garments Industry In Bangladesh {#talk_109 .unnumbered}
+<div id = "talk_109"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 Case Room 2 (260-057)</p></div>
+## Factors Influencing On Growth Of Garments Industry In Bangladesh {.unnumbered}
 <p style="text-align:center">
 Md. Shahidul Islam and Mohammad Sazzad Mosharrof<br />
 Auckland University of Technology<br />
@@ -1254,9 +1411,13 @@ economic development.
 
 <span>**Keywords:**</span> Bangladesh Garments, Growth of Garment
 Industry, Performance of Manufacturers and Traders, Statistical Model
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 Case Room 3 (260-055)</p>
-## Comparison Of Exact And Approximate Testing Procedures In Clinical Trials With Multiple Binary Endpoints {#talk_103 .unnumbered}
+<div id = "talk_103"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 Case Room 3 (260-055)</p></div>
+## Comparison Of Exact And Approximate Testing Procedures In Clinical Trials With Multiple Binary Endpoints {.unnumbered}
 <p style="text-align:center">
 Takuma Ishihara and Kouji Yamamoto<br />
 Osaka City University<br />
@@ -1289,9 +1450,13 @@ multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
 
 Westfall PH and Troendle JF. (2008). Multiple testing with
 minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:20 Case Room 4 (260-009)</p>
-## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {#talk_014 .unnumbered}
+<div id = "talk_014"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 Case Room 4 (260-009)</p></div>
+## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {.unnumbered}
 <p style="text-align:center">
 Tanmay Sen^1^, Biswabrata Pradhan^2^, Yogesh Mani Tripathi^1^, and Ritwik Bhattacharya^3^<br />
 ^1^Indian Institute of Technology Patna<br />
@@ -1320,9 +1485,13 @@ policy give larger warranty length with maximum profit
 
 <span>**Keywords:**</span> Lognormal distribution, FRW/PRW policies,
 Optimum warranty length, MH algorithm
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 098 Lecture Theatre (260-098)</p>
-## Multiple Function-On-Function Linear Regression With Application To Weather Forecast Calibration {#talk_185 .unnumbered}
+<div id = "talk_185"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:40 098 Lecture Theatre (260-098)</p></div>
+## Multiple Function-On-Function Linear Regression With Application To Weather Forecast Calibration {.unnumbered}
 <p style="text-align:center">
 Min-Chia Huang, Xin-Hua Wang, and Lu-Hung Chen<br />
 National Chung Hsing University<br />
@@ -1336,9 +1505,13 @@ predictors on different multidimensional domains, observed on dense or
 irregular sparse grids. We demonstrate the performances of the approach
 by simulation studies and a real application on calibrating numerical
 weather forecasts.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 OGGB4 (260-073)</p>
-## Modelling The Distribution Of Lifetime Using Compound Time-Homogenous Poisson Process {#talk_156 .unnumbered}
+<div id = "talk_156"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:40 OGGB4 (260-073)</p></div>
+## Modelling The Distribution Of Lifetime Using Compound Time-Homogenous Poisson Process {.unnumbered}
 <p style="text-align:center">
 Kien Tran<br />
 Victoria University of Wellington<br />
@@ -1384,9 +1557,13 @@ Generalstabens litografiska anstalts frlag, 1st edition.
 Gompertz, B (1825). On the Nature of the Function Expressive of the Law
 of Human Mortality, and on a New Mode of Determining the Value of Life.
 Philosophical Transactions of the Royal Society of London, 115, 513-583.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 OGGB5 (260-051)</p>
-## Detecting Change-Points In The Stress-Strength Reliability P(X&LT;Y) {#talk_072 .unnumbered}
+<div id = "talk_072"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:40 OGGB5 (260-051)</p></div>
+## Detecting Change-Points In The Stress-Strength Reliability P(X&LT;Y) {.unnumbered}
 <p style="text-align:center">
 Hang Xu^1^, Philip L.H. Yu^1^, and Mayer Alvo^2^<br />
 ^1^Unversity of Hong Kong<br />
@@ -1412,9 +1589,13 @@ stress-strength reliability R.
 
 <span>**Keywords:**</span> Multiple change-points detection;
 Stress-strength model; Dynamic programming
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 Case Room 2 (260-057)</p>
-## New Zealand Crime And Victims Survey: Filling The Knowledge Gap {#talk_111 .unnumbered}
+<div id = "talk_111"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:40 Case Room 2 (260-057)</p></div>
+## New Zealand Crime And Victims Survey: Filling The Knowledge Gap {.unnumbered}
 <p style="text-align:center">
 Andrew Butcher and Michael Slyuzberg<br />
 NZ Ministry of Justice<br />
@@ -1455,9 +1636,13 @@ offence coding through extended screening, measuring harm from being
 victimised, obtaining respondents' informed consent for data matching,
 use of survey data for extended analysis and forecasting and other
 important survey features.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>
-<p style="background-color:#ccccff;text-align:center">Tuesday 12<sup>th</sup> 16:40 Case Room 3 (260-055)</p>
-## Missing Data In Randomised Control Trials: Stepped Multiple Imputation {#talk_127 .unnumbered}
+<div id = "talk_127"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:40 Case Room 3 (260-055)</p></div>
+## Missing Data In Randomised Control Trials: Stepped Multiple Imputation {.unnumbered}
 <p style="text-align:center">
 Rose Sisk and Alain Vandal<br />
 Auckland University of Technology<br />
@@ -1495,4 +1680,8 @@ is made to generate data related in a similar way to the outcomes in the
 SOLID trial. Results from the “gold standard” analysis with no missing
 data, and the complete case analysis is compared to the stepped
 imputation method.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
 <p class="pagebreak"></p>

@@ -1,5 +1,5 @@
 # Programme At A Glance {-}
-## Monday {-}
+## Monday {#Monday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
 <table>
 <thead>
@@ -175,7 +175,7 @@
 </tbody>
 </table>
 </div>
-## Tuesday {-}
+## Tuesday {#Tuesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
 <table>
 <thead>
@@ -315,7 +315,7 @@
 </tbody>
 </table>
 </div>
-## Wednesday {-}
+## Wednesday {#Wednesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
 <table>
 <thead>
@@ -487,7 +487,7 @@
 </tbody>
 </table>
 </div>
-## Thursday {-}
+## Thursday {#Thursday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
 <table>
 <thead>

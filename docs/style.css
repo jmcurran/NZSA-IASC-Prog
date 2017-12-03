@@ -1,4 +1,4 @@
-p.caption {
+.caption {
   color: #777;
   margin-top: 10px;
 }
@@ -39,6 +39,17 @@ table, th, td {
   font-weight: bold;
   font-style: italic;
   vertical-align: top;
+}
+
+.keynoteBanner {
+  color:white;
+  background-color:#ed2d2d;
+  text-align:center
+}
+
+.contribBanner {
+  background-color:#ccccff;
+  text-align:center
 }
 
 .keynote {
@@ -83,4 +94,5 @@ table, th, td {
   text-align: right;
   vertical-align: top;
 }
+
 
