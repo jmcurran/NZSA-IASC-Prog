@@ -44,7 +44,7 @@
 <tr><td><a href = "Monday.html#talk_036">036</a></td><td><a href = "Monday.html#talk_036">Nonparametric Test For Volatility In Clustered Multiple Time Series</a></td></tr>
 <tr><td><a href = "Monday.html#talk_037">037</a></td><td><a href = "Monday.html#talk_037">Bayesian Curve Fitting For Discontinuous Function Using Overcomplete Representation With Multiple Kernels</a></td></tr>
 <tr><td><a href = "Monday.html#talk_038">038</a></td><td><a href = "Monday.html#talk_038">Variable Selection Algorithms</a></td></tr>
-<tr><td><a href = "Thursday.html#talk_039">039</a></td><td><a href = "Thursday.html#talk_039">Towards An Informal Test For Goodness-Of-Fit</a></td></tr>
+<tr><td><a href = "Tuesday.html#talk_039">039</a></td><td><a href = "Tuesday.html#talk_039">Towards An Informal Test For Goodness-Of-Fit</a></td></tr>
 <tr><td><a href = "Monday.html#talk_040">040</a></td><td><a href = "Monday.html#talk_040">Genetic Approach And Statistical Approach For Association Study On DNA Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_041">041</a></td><td><a href = "Monday.html#talk_041">The Use Of Bayesian Networks In Grape Yield Prediction</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_042">042</a></td><td><a href = "Thursday.html#talk_042">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods</a></td></tr>
@@ -179,7 +179,7 @@
 <tr><td><a href = "Monday.html#talk_177">177</a></td><td><a href = "Monday.html#talk_177">Mobile Learning In Teaching Bioinformatics For Medical Doctors</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_178">178</a></td><td><a href = "Wednesday.html#talk_178">Wavelet-Based Power Transformation Of Non-Gaussian Long Memory Time Series</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_179">179</a></td><td><a href = "Wednesday.html#talk_179">Threshold Determination For The Meteorological Data Quality Control In Korea</a></td></tr>
-<tr><td><a href = "Wednesday.html#talk_180">180</a></td><td><a href = "Wednesday.html#talk_180">Meta-Analytic Principal Component Analysis In Integrative Omics Application</a></td></tr>
+<tr><td><a href = "Monday.html#talk_180">180</a></td><td><a href = "Monday.html#talk_180">Meta-Analytic Principal Component Analysis In Integrative Omics Application</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_181">181</a></td><td><a href = "Wednesday.html#talk_181">Fitting Additive Hazards Model Using Calibrated Weights For Case-Cohort Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_182">182</a></td><td><a href = "Monday.html#talk_182">Three-Dimensional Data Visualization Education With Virtual Reality</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_183">183</a></td><td><a href = "Wednesday.html#talk_183">Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation</a></td></tr>
@@ -200,7 +200,7 @@
 <tr><td><a href = "Tuesday.html#talk_198">198</a></td><td><a href = "Tuesday.html#talk_198">Could Do Better &hellip; A Report Card For Statistical Computing</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_199">199</a></td><td><a href = "Thursday.html#talk_199">ALTREP: Alternate Representations Of Basic R Objects</a></td></tr>
 <tr><td><a href = "Monday.html#talk_200">200</a></td><td><a href = "Monday.html#talk_200">TBA-JB</a></td></tr>
-<tr><td><a href = "Monday.html#talk_201">201</a></td><td><a href = "Monday.html#talk_201">TBA-SU</a></td></tr>
+<tr><td><a href = "Monday.html#talk_201">201</a></td><td><a href = "Monday.html#talk_201">R In Times Of Growing User Base And Data Sizes</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_202">202</a></td><td><a href = "Wednesday.html#talk_202">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_203">203</a></td><td><a href = "Monday.html#talk_203">Estimating Links Of A Network From Time To Event Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_204">204</a></td><td><a href = "Monday.html#talk_204">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools</a></td></tr>

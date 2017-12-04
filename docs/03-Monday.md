@@ -1,6 +1,6 @@
 # Programme And Abstracts For Monday 11^th^ Of December {#Monday .unnumbered}
 <div id = "talk_201"><p class="keynoteBanner">Keynote: Monday 11<sup>th</sup> 9:10 098 Lecture Theatre (260-098)</p></div>
-## TBA-SU {.unnumbered}
+## R In Times Of Growing User Base And Data Sizes {.unnumbered}
 <p style="text-align:center">
 Simon Urbanek<br />
 AT&amp;T Labs<br />
@@ -982,7 +982,7 @@ criticism. *arXiv preprint arXiv:1610.09787*.
 Jenny Bryan<br />
 University of British Columbia<br />
 </p>
-<span>**Abstract:**</span> TBA
+<span>**Abstract:**</span> R has been historically used mainly on single machines, the analyst performing both analysis and visualization locally. However, the flexible abstraction of graphics in R and its extensibility makes R a great tool to be used remotely and across large clusters. The sizes of datasets as well as the popularity of R have created a demand for extending R's capabilities beyond single machine. In this talk we will illustrate how R can be used by many users in a collaborative open-source RCloud environment to share data analyses, visualizations and results openly. The design also allows scaling across many instances. At the same time this environment can be combined with distributed computing to scale not only with the number of users but also with the size of datasets. In the second part of the talk we will show several approaches how R can be used very efficiently for Big Data analytics at scale leveraging the Hadoop ecosystem. We will start with hmr - a faster way to use the map/reduce framework from R, introduce ROctopus which allows us to perform arbitrary operations on large data without the constraints of a map/reduce framework and show a general framework for developing and using models in R that can leverage distributed systems. We will illustrate the use of the approaches on real dataset and a large cluster.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -1839,6 +1839,45 @@ Rioul, O. and Vetterli, M. (1991). Wavelets and signal processing.
 
 Vogt, M., & Dette, H. (2015). Detecting gradual changes in locally
 stationary processes. The Annals of Statistics, 43(2), 713-740.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
+<div id = "talk_180"><p class="contribBanner">Monday 11<sup>th</sup> 15:10 Case Room 2 (260-057)</p></div>
+## Meta-Analytic Principal Component Analysis In Integrative Omics Application {.unnumbered}
+<p style="text-align:center">
+Sunghwan Kim^1^ and George Tseng^2^<br />
+^1^Keimyung University<br />
+^2^University of Pittsburgh<br />
+</p>
+<span>**Abstract:**</span> With the prevalent usage of microarray and
+massively parallel sequencing, numerous high-throughput omics datasets
+have become available in the public domain. Integrating abundant
+information among omics datasets is critical to elucidate biological
+mechanisms. Due to the high- dimensional nature of the data, methods
+such as principal component analysis (PCA) have been widely applied,
+aiming at effective dimension reduction and exploratory visualization.
+In this paper, we combine multiple omics datasets of identical or
+similar biological hypothesis and introduce two variations of
+meta-analytic framework of PCA, namely MetaPCA. Regularization is
+further incorporated to facilitate sparse feature selection in MetaPCA.
+We apply MetaPCA and sparse MetaPCA to simulations, three transcriptomic
+meta-analysis studies in yeast cell cycle, prostate cancer, mouse
+metabolism, and a TCGA pan-cancer methylation study. The result shows
+improved accuracy, robustness and exploratory visualization of the
+proposed framework.
+
+<span>**Keywords:**</span> principal component analysis, meta-analysis,
+omics data
+
+<span>**References:**</span>
+
+Flury (1984) *Common principal components in k groups.* Journal of the
+American Statistical Association, 79, 892–898.
+
+Krzanowski (1979) *Between-groups comparison of principal components.*
+Journal of the American Statistical Association, 74, 703–707
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 

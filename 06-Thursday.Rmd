@@ -475,35 +475,6 @@ Statistics, Springer.
 
 
 <p class="pagebreak"></p>
-<div id = "talk_039"><p class="contribBanner">Thursday 14<sup>th</sup> 11:10 OGGB5 (260-051)</p></div>
-## Towards An Informal Test For Goodness-Of-Fit {.unnumbered}
-<p style="text-align:center">
-Anna Fergusson and Maxine Pfannkuch<br />
-University of Auckland<br />
-</p>
-<span>**Abstract:**</span> Informal approaches to goodness-of-fit tests often involve examining the
-visual fit of the model to data ’by eye’. Such approaches are
-problematic for Year 13 and undergraduate students and teachers from a
-pedagogical perspective as key aspects such as sample size, the number
-of categories and expected variation of sample proportions are difficult
-to consider. In formal tests for goodness-of-fit a test statistic is
-used in reference to its sampling distribution to decide if the model
-distribution can be rejected. In general, a numeric test statistic does
-not have an obvious graphical representation within the data itself.
-This talk presents a new informal goodness-of-fit test that uses a
-simulation-based modelling tool. Drawing on ideas from graphical
-inference, the proposed test does not use numerical test statistics but
-plots as test statistics. Comparisons of performance demonstrate that
-the proposed test leads to similar decisions about the fit of the model
-distribution as the chi square goodness-of-fit test. A research study
-with Year 13 teachers indicated that there could be pedagogical benefits
-of using this informal goodness-of-fit test in terms of introducing
-important modelling and hypothesis test concepts.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Thursday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
 <div id = "talk_097"><p class="contribBanner">Thursday 14<sup>th</sup> 11:10 Case Room 2 (260-057)</p></div>
 ## Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model {.unnumbered}
 <p style="text-align:center">

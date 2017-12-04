@@ -17,7 +17,7 @@ Andriy Olenko: <a href="Wednesday.html#talk_160" style ="color: blue;">160</a><b
 Angela Nalica: <a href="Monday.html#talk_035" style ="color: blue;">035</a><br />
 Anjali Gupta: <a href="Tuesday.html#talk_116" style ="color: blue;">116</a><br />
 Ankit Patel: <a href="Tuesday.html#talk_091" style ="color: blue;">091</a><br />
-Anna Fergusson: <a href="Thursday.html#talk_039" style ="color: blue;">039</a><br />
+Anna Fergusson: <a href="Tuesday.html#talk_039" style ="color: blue;">039</a><br />
 Anne Johnson: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><br />
 Anthony Nardone: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><br />
 Antoniade Ciprian Alexandru: <a href="Wednesday.html#talk_053" style ="color: blue;">053</a><br />
@@ -86,7 +86,7 @@ Frederick Kin Hing Phoa: <a href="Monday.html#talk_187" style ="color: blue;">18
 Fumio Ishioka: <a href="Monday.html#talk_033" style ="color: blue;">033</a><br />
 Gareth Minshall: <a href="Wednesday.html#talk_050" style ="color: blue;">050</a><br />
 Geoff Jones: <a href="Tuesday.html#talk_017" style ="color: blue;">017</a>, <a href="Tuesday.html#talk_115" style ="color: blue;">115</a><br />
-George Tseng: <a href="Wednesday.html#talk_180" style ="color: blue;">180</a><br />
+George Tseng: <a href="Monday.html#talk_180" style ="color: blue;">180</a><br />
 Glenn Thomas: <a href="Wednesday.html#talk_141" style ="color: blue;">141</a><br />
 Granville Tunnicliffe Wilson: <a href="Wednesday.html#talk_158" style ="color: blue;">158</a><br />
 Guan-Hua Huang: <a href="Monday.html#talk_155" style ="color: blue;">155</a><br />
@@ -204,7 +204,7 @@ Matthew Schofield: <a href="Monday.html#talk_029" style ="color: blue;">029</a>,
 Matthew Sutton: <a href="Monday.html#talk_019" style ="color: blue;">019</a>, <a href="Monday.html#talk_140" style ="color: blue;">140</a><br />
 Matthias Templ: <a href="Wednesday.html#talk_054" style ="color: blue;">054</a><br />
 Max Abbott: <a href="Tuesday.html#talk_118" style ="color: blue;">118</a><br />
-Maxine Pfannkuch: <a href="Thursday.html#talk_039" style ="color: blue;">039</a><br />
+Maxine Pfannkuch: <a href="Tuesday.html#talk_039" style ="color: blue;">039</a><br />
 Mayer Alvo: <a href="Tuesday.html#talk_072" style ="color: blue;">072</a><br />
 Md. Shahidul Islam: <a href="Tuesday.html#talk_109" style ="color: blue;">109</a><br />
 Meihui Guo: <a href="Monday.html#talk_022" style ="color: blue;">022</a><br />
@@ -298,7 +298,7 @@ Stephen Villejo: <a href="Monday.html#talk_035" style ="color: blue;">035</a><br
 Stephen Wright: <a href="Monday.html#talk_142" style ="color: blue;">142</a><br />
 Steven Miller: <a href="Wednesday.html#talk_137" style ="color: blue;">137</a><br />
 Sungho Won: <a href="Wednesday.html#talk_186" style ="color: blue;">186</a><br />
-Sunghwan Kim: <a href="Wednesday.html#talk_180" style ="color: blue;">180</a><br />
+Sunghwan Kim: <a href="Monday.html#talk_180" style ="color: blue;">180</a><br />
 Sungkyoung Choi: <a href="Wednesday.html#talk_171" style ="color: blue;">171</a><br />
 Surajit Ray: <a href="Tuesday.html#talk_175" style ="color: blue;">175</a><br />
 Susan Wells: <a href="Tuesday.html#talk_024" style ="color: blue;">024</a><br />

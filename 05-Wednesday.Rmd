@@ -1516,40 +1516,34 @@ maximization. *Pattern Recognition*, **48**, 3959–3968.
 
 
 <p class="pagebreak"></p>
-<div id = "talk_180"><p class="contribBanner">Wednesday 13<sup>th</sup> 14:50 Case Room 1 (260-005)</p></div>
-## Meta-Analytic Principal Component Analysis In Integrative Omics Application {.unnumbered}
+<div id = "talk_186"><p class="contribBanner">Wednesday 13<sup>th</sup> 14:50 Case Room 1 (260-005)</p></div>
+## Phylogenetic Tree-Based Microbiome Association Test {.unnumbered}
 <p style="text-align:center">
-Sunghwan Kim^1^ and George Tseng^2^<br />
-^1^Keimyung University<br />
-^2^University of Pittsburgh<br />
+Sungho Won<br />
+Seoul National University<br />
 </p>
-<span>**Abstract:**</span> With the prevalent usage of microarray and
-massively parallel sequencing, numerous high-throughput omics datasets
-have become available in the public domain. Integrating abundant
-information among omics datasets is critical to elucidate biological
-mechanisms. Due to the high- dimensional nature of the data, methods
-such as principal component analysis (PCA) have been widely applied,
-aiming at effective dimension reduction and exploratory visualization.
-In this paper, we combine multiple omics datasets of identical or
-similar biological hypothesis and introduce two variations of
-meta-analytic framework of PCA, namely MetaPCA. Regularization is
-further incorporated to facilitate sparse feature selection in MetaPCA.
-We apply MetaPCA and sparse MetaPCA to simulations, three transcriptomic
-meta-analysis studies in yeast cell cycle, prostate cancer, mouse
-metabolism, and a TCGA pan-cancer methylation study. The result shows
-improved accuracy, robustness and exploratory visualization of the
-proposed framework.
+<span>**Abstract:**</span> Microbial metagenomics data has large
+inter-subject variation and operational taxonomic units (OTU) for each
+species are usually very sparse. Because of these problems,
+non-parametric approaches such as Mann-Whitney U test and Wilcoxon
+rank-sum test have been utilized. However these approaches suffer from
+low statistical powers for association analyses and thus investigation
+on efficient statistical analyses is necessary. Main goal in my thesis
+is to propose phylogenetic Tree-based Microbiome Association Test (TMAT)
+for association analyses between microbiome abundances of each OTU and
+disease phenotype. Phylogenetic tree reveals similarity between
+different OTUs, and thus was used to provide TMAT. TMAT calculates score
+test statistics for each node and test statistics for all nodes are
+combined into a single statistics by minimum p-value or Fisher’s combing
+p-value method. TMAT was compared with existing methods with extensive
+simulations. Simulation studies show that TMAT preserves the nominal
+type-1 error and its statistical powers were usually much better than
+existing methods for considered scenarios. Furthermore it was applied to
+atopic diseases and found that community profiles of Enterococcus is
+associated.
 
-<span>**Keywords:**</span> principal component analysis, meta-analysis,
-omics data
-
-<span>**References:**</span>
-
-Flury (1984) *Common principal components in k groups.* Journal of the
-American Statistical Association, 79, 892–898.
-
-Krzanowski (1979) *Between-groups comparison of principal components.*
-Journal of the American Statistical Association, 74, 703–707
+<span>**Keywords:**</span> NGS; phylogenetic treel Microbiome
+Association Test
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -1707,39 +1701,6 @@ Matrices by Majorization.* Quant.Finance, <span>**4**</span>: 649–662.
 Simon, D., and Abell, J. (2010). *Majorization Algorithm for Constrained
 Correlation Matrix Approximation*, Linear Algebra and its Apprications,,
 <span>**432**</span>, 1152-1164.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
-<div id = "talk_186"><p class="contribBanner">Wednesday 13<sup>th</sup> 15:10 Case Room 1 (260-005)</p></div>
-## Phylogenetic Tree-Based Microbiome Association Test {.unnumbered}
-<p style="text-align:center">
-Sungho Won<br />
-Seoul National University<br />
-</p>
-<span>**Abstract:**</span> Microbial metagenomics data has large
-inter-subject variation and operational taxonomic units (OTU) for each
-species are usually very sparse. Because of these problems,
-non-parametric approaches such as Mann-Whitney U test and Wilcoxon
-rank-sum test have been utilized. However these approaches suffer from
-low statistical powers for association analyses and thus investigation
-on efficient statistical analyses is necessary. Main goal in my thesis
-is to propose phylogenetic Tree-based Microbiome Association Test (TMAT)
-for association analyses between microbiome abundances of each OTU and
-disease phenotype. Phylogenetic tree reveals similarity between
-different OTUs, and thus was used to provide TMAT. TMAT calculates score
-test statistics for each node and test statistics for all nodes are
-combined into a single statistics by minimum p-value or Fisher’s combing
-p-value method. TMAT was compared with existing methods with extensive
-simulations. Simulation studies show that TMAT preserves the nominal
-type-1 error and its statistical powers were usually much better than
-existing methods for considered scenarios. Furthermore it was applied to
-atopic diseases and found that community profiles of Enterococcus is
-associated.
-
-<span>**Keywords:**</span> NGS; phylogenetic treel Microbiome
-Association Test
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 

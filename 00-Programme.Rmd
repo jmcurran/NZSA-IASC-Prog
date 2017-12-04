@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6"><a href="Monday.html#talk_201" style = "color: white;">TBA-SU<br/>Simon Urbanek, AT&T Labs, USA<br/>098 Lecture Theatre (260-098)</a></td>
+<td class = "keynote" colspan = "6"><a href="Monday.html#talk_201" style = "color: white;">R In Times Of Growing User Base And Data Sizes<br/>Simon Urbanek, AT&T Labs, USA<br/>098 Lecture Theatre (260-098)</a></td>
 </tr>
 <tr>
 <td class = "time">1000</td>
@@ -128,7 +128,7 @@
 <td class = "contributed"><a href="Monday.html#talk_146" style = "color: black;">Talk Data To Me<br/>Lisa Hall</a></td>
 <td class = "contributed"><a href="Monday.html#talk_052" style = "color: black;">Smooth Nonparametric Regression Under Shape Restrictions<br/>Hongbin Guo</a></td>
 <td class = "contributed"><a href="Monday.html#talk_130" style = "color: black;">Elastic-Band Transform: A New Approach To Multiscale Visualization<br/>Hee-Seok Oh</a></td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_180" style = "color: black;">Meta-Analytic Principal Component Analysis In Integrative Omics Application<br/>Sunghwan Kim</a></td>
 <td class = "contributed"><a href="Monday.html#talk_081" style = "color: black;">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</a></td>
 <td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
@@ -219,7 +219,7 @@
 <td class = "time">1050</td>
 <td class = "contributed"><a href="Tuesday.html#talk_028" style = "color: black;">Spatial Surveillance With Scan Statistics By Controlling The False Discovery Rate<br/>Xun Xiao</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_113" style = "color: black;">Statistical Models For The Source Attribution Of Zoonotic Diseases: A Study Of Campylobacteriosis<br/>Sih-Jing Liao</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_191" style = "color: black;">Latent Variable Models And Multivariate Binomial Data<br/>John Holmes</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_039" style = "color: black;">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_024" style = "color: black;">Identifying Clusters Of Patients With Diabetes Using A Markov Birth-Death Process<br/>Mugdha Manda</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_174" style = "color: black;">Bayesian Temporal Density Estimation Using Autoregressive Species Sampling Models<br/>Seongil Jo</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_047" style = "color: black;">How Does The Textile Set Describe Geometric Structures Of Data?<br/>Ushio Tanaka</a></td>
@@ -246,7 +246,7 @@
 <td class = "time">1150</td>
 <td class = "contributed"><a href="Tuesday.html#talk_144" style = "color: black;">Spatial Scan Statistics For Matched Case-Control Data<br/>Inkyung Jung</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_124" style = "color: black;">Whitebait In All Its Varieties: One Fish, Two Fish, Three, Four, Five Fish.<br/>Bridget Armstrong</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_191" style = "color: black;">Latent Variable Models And Multivariate Binomial Data<br/>John Holmes</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_193" style = "color: black;">Asking About Sex In General Health Surveys: Comparing The Methods And Findings Of The 2010 Health Survey For England With Those Of The Third National Survey Of Sexual Attitudes And Lifestyles<br/>Philip Prah</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_132" style = "color: black;">Bayesian Continuous Space-Time Model Of Burglaries<br/>Paul Brown</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_164" style = "color: black;">Tolerance Limits For The Reliability Of Semiconductor Devices Using Longitudinal Data<br/>Thomas Nowak</a></td>
@@ -429,7 +429,7 @@
 <tr>
 <td class = "time">1450</td>
 <td class = "contributed"><a href="Wednesday.html#talk_145" style = "color: black;">Model-Based Clustering For Multivariate Categorical Data With Dimension Reduction<br/>Michio Yamamoto</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_180" style = "color: black;">Meta-Analytic Principal Component Analysis In Integrative Omics Application<br/>George Tseng</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_186" style = "color: black;">Phylogenetic Tree-Based Microbiome Association Test<br/>Sungho Won</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_181" style = "color: black;">Fitting Additive Hazards Model Using Calibrated Weights For Case-Cohort Data<br/>Sangwook Kang</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_168" style = "color: black;">Selecting The Number Of Principal Components<br/>Yunjin Choi</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_083" style = "color: black;">Rolling Survival Extrapolation Algorithm For Estimating Life Years Lost Among Subjects Exposed To Long-Term Air Pollution<br/>Jing-Shiang Hwang</a></td>
@@ -438,7 +438,7 @@
 <tr>
 <td class = "time">1510</td>
 <td class = "contributed"><a href="Wednesday.html#talk_058" style = "color: black;">Clusterwise Low-Rank Correlation Analysis Based On Majorization<br/>Kensuke Tanioka</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_186" style = "color: black;">Phylogenetic Tree-Based Microbiome Association Test<br/>Sungho Won</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_183" style = "color: black;">Bayesian Analysis For Fitting Zero-Inflated Count Data With Data Augmentation<br/>Beomseuk Hwang</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_172" style = "color: black;">Towards A Sparse, Scalable, And Stably Positive Definite (Inverse) Covariance Estimator<br/>Joong-Ho Won</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_195" style = "color: black;">Tick-By-Tick Effect On The Inference Of Ultra-High Frequency Data<br/>Zhi Liu</a></td>
@@ -540,7 +540,7 @@
 <td class = "time">1110</td>
 <td class = "contributed"><a href="Thursday.html#talk_048" style = "color: black;">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_057" style = "color: black;">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_039" style = "color: black;">Towards An Informal Test For Goodness-Of-Fit<br/>Anna Fergusson</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Thursday.html#talk_097" style = "color: black;">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_120" style = "color: black;">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
