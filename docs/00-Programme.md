@@ -1,7 +1,7 @@
 # Programme At A Glance {-}
 ## Monday {#Monday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 4000px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -177,7 +177,7 @@
 </div>
 ## Tuesday {#Tuesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 4000px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -317,7 +317,7 @@
 </div>
 ## Wednesday {#Wednesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 4000px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -489,7 +489,7 @@
 </div>
 ## Thursday {#Thursday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 4000px;">
 <thead>
 <tr>
 <th class = "time">Time</th>

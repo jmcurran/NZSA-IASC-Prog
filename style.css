@@ -13,14 +13,9 @@ pre code {
   white-space: inherit;
 }
 
-table {
-  table-layout: fixed;
-  width: 100%;
-}
 
-table, th, td {
+th, td {
   border: 1px solid black;
-  overflow-x: auto;
 }
 
 .open, .confclose {
