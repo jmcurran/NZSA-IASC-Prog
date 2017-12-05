@@ -11,7 +11,7 @@
 <tbody>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6"> Wing Kam Fung</td>
+<td class = "keynote" colspan = "6">Wing Kam Fung</td>
 </tr>
 <tr>
 <td class = "time"></td>
@@ -24,22 +24,16 @@
 </tr>
 <tr>
 <td class = "time">1030</td>
-<td class = "contributed">
-Han-Ming Wu (National Taipei University, Taiwan)</td>
-<td class = "contributed">
-Ciprian Doru Giurcaneanu (UOA)</td>
-<td class = "contributed">
-David Scott (UOA)</td>
-<td class = "contributed">
-Erniel Barrios (University of Philippines Diliman)</td>
-<td class = "contributed">
-Jin Liu (Duke-NUS Medical School)</td>
-<td class = "contributed">
-Junji Nakano (Institute of Statistical Mathematics, Japan) and Yuichi Mori (Okayama University of Science, Japan)</td>
+<td class = "contributed">Han-Ming Wu</td>
+<td class = "contributed">Ciprian Doru Giurcaneanu</td>
+<td class = "contributed">David Scott</td>
+<td class = "contributed">Erniel Barrios</td>
+<td class = "contributed">Jin Liu</td>
+<td class = "contributed">Junji Nakano</td>
 </tr>
 <tr>
 <td class = "time">1320</td>
-<td class = "keynote" colspan = "6"> James Curran</td>
+<td class = "keynote" colspan = "6">James Curran</td>
 </tr>
 <tr>
 <td class = "time"></td>
@@ -52,13 +46,12 @@ Junji Nakano (Institute of Statistical Mathematics, Japan) and Yuichi Mori (Okay
 </tr>
 <tr>
 <td class = "time">1410</td>
-<td class = "contributed">Han-Ming Wu (National Taipei University, Taiwan)</td>
-<td class = "contributed">Thomas Yee (UOA)</td>
-<td class = "contributed">Rolf Turner (UOA)</td>
-<td class = "contributed">Priya Parmar (AUT)</td>
-<td class = "contributed">Ray-Bing Chen (National Cheng Kung University, Taiwan)
-and Linlin Niu (Xiamen University, China)</td>
-<td class = "contributed">Maxine Pfannkuch (UOA)</td>
+<td class = "contributed">Han-Ming Wu</td>
+<td class = "contributed">Thomas Yee</td>
+<td class = "contributed">Rolf Turner</td>
+<td class = "contributed">Priya Parmar</td>
+<td class = "contributed">Ray-Bing Chen</td>
+<td class = "contributed">Maxine Pfannkuch</td>
 </tr>
 <tr>
 <td class = "time"></td>
@@ -71,12 +64,12 @@ and Linlin Niu (Xiamen University, China)</td>
 </tr>
 <tr>
 <td class = "time">1600</td>
-<td class = "contributed"></td>
-<td class = "contributed">Alan Lee (UOA)</td>
-<td class = "contributed">??? (UOA)</td>
-<td class = "contributed">Benoit Liquet (University of Pau et Pays de L'Adour)</td>
-<td class = "contributed">Hiroyuki Minami (Hokkaido University, Japan)</td>
-<td class = "contributed">Matt Parry (University of Otago)</td>
+<td class = "contributed">TBA</td>
+<td class = "contributed">Alan Lee</td>
+<td class = "contributed">TBA</td>
+<td class = "contributed">Benoit Liquet</td>
+<td class = "contributed">Hiroyuki Minami</td>
+<td class = "contributed">Matt Parry</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +86,7 @@ and Linlin Niu (Xiamen University, China)</td>
 <tbody>
 <tr>
 <td class = "time">910</td>
-<td class = "keynote" colspan = "6"> Paul Murrell</td>
+<td class = "keynote" colspan = "6">Paul Murrell</td>
 </tr>
 <tr>
 <td class = "time"></td>
@@ -106,9 +99,141 @@ and Linlin Niu (Xiamen University, China)</td>
 </tr>
 <tr>
 <td class = "time">1030</td>
-<td class = "contributed">Xun Xiao (Massey University)</td>
-<td class = "contributed">???? Students</td>
-<td class = "contributed">???? Students</td>
-<td class = "contributed">Geoff Jones (Massey University)</td>
-<td class = "contributed">Jaeyong Lee (Seoul National University, Korea)</td>
-<td class = "contributed">Catherine Laffineur (Universit
+<td class = "contributed">Xun Xiao</td>
+<td class = "contributed">TBA</td>
+<td class = "contributed">TBA</td>
+<td class = "contributed">Geoff Jones</td>
+<td class = "contributed">Jaeyong Lee</td>
+<td class = "contributed">Catherine Laffineur</td>
+</tr>
+<tr>
+<td class = "time">1320</td>
+<td class = "keynote" colspan = "6">Chris Triggs</td>
+</tr>
+<tr>
+<td class = "time"></td>
+<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
+<td class = "sessionheader">OGGB4(260-073)</td>
+<td class = "sessionheader">OGGB5(260-051)</td>
+<td class = "sessionheader">Case Room 2(260-057)</td>
+<td class = "sessionheader">Case Room 3(260-055)</td>
+<td class = "sessionheader">Case Room 4(260-009)</td>
+</tr>
+<tr>
+<td class = "time">1600</td>
+<td class = "contributed">Hsin-Cheng Huang</td>
+<td class = "contributed">Russell Millar</td>
+<td class = "contributed">Philip L.H. Yu</td>
+<td class = "contributed">Michael Slyuzberg</td>
+<td class = "contributed">Rose Sisk</td>
+<td class = "contributed">Tanmay Kayal</td>
+</tr>
+</tbody>
+</table>
+</div>
+## Wednesday {#Wednesday-chairtbl .unnumbered}
+<div style = "overflow-x:auto;">
+<table>
+<thead>
+<tr>
+<th class = "time">Time</th>
+<th class = "day" colspan = "6">Wednesday 13<sup>th</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class = "time"></td>
+<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
+<td class = "sessionheader">OGGB4(260-073)</td>
+<td class = "sessionheader">OGGB5(260-051)</td>
+<td class = "sessionheader">Case Room 2(260-057)</td>
+<td class = "sessionheader">Case Room 3(260-055)</td>
+<td class = "sessionheader">Case Room 4(260-009)</td>
+</tr>
+<tr>
+<td class = "time">1030</td>
+<td class = "contributed">Paul Murrell</td>
+<td class = "contributed">Marco Reale</td>
+<td class = "contributed">Toru Ogura</td>
+<td class = "contributed">Kazumi Wada</td>
+<td class = "contributed">Hidetoshi Murakami</td>
+<td class = "contributed">Blair Robertson</td>
+</tr>
+<tr>
+<td class = "time">1320</td>
+<td class = "keynote" colspan = "6">Renate Meyer</td>
+</tr>
+<tr>
+<td class = "time"></td>
+<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
+<td class = "sessionheader">Case Room 1(260-005)</td>
+<td class = "sessionheader">OGGB5(260-051)</td>
+<td class = "sessionheader">Case Room 2(260-057)</td>
+<td class = "sessionheader">Case Room 3(260-055)</td>
+<td class = "sessionheader">Case Room 4(260-009)</td>
+</tr>
+<tr>
+<td class = "time">1410</td>
+<td class = "contributed">Hiroshi Yadohisa</td>
+<td class = "contributed">Donguk Kim</td>
+<td class = "contributed">Chul Eung Kim</td>
+<td class = "contributed">Johan Lim</td>
+<td class = "contributed">Steven Miller</td>
+<td class = "contributed">Jinfang Wang</td>
+</tr>
+<tr>
+<td class = "time"></td>
+<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
+<td class = "sessionheader">Case Room 4(260-009)</td>
+<td class = "sessionheader">OGGB5(260-051)</td>
+<td class = "sessionheader">Case Room 2(260-057)</td>
+<td class = "sessionheader">Case Room 3(260-055)</td>
+<td class = "sessionheader">Case Room 1(260-005)</td>
+</tr>
+<tr>
+<td class = "time">1600</td>
+<td class = "contributed">Martin Hazelton</td>
+<td class = "contributed">Andriy Olenko</td>
+<td class = "contributed">Thuong Nguyen</td>
+<td class = "contributed">Beatrix Jones</td>
+<td class = "contributed">Erniel Barrios</td>
+<td class = "contributed"></td>
+</tr>
+</tbody>
+</table>
+</div>
+## Thursday {#Thursday-chairtbl .unnumbered}
+<div style = "overflow-x:auto;">
+<table>
+<thead>
+<tr>
+<th class = "time">Time</th>
+<th class = "day" colspan = "6">Thursday 14<sup>th</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class = "time">910</td>
+<td class = "keynote" colspan = "6">Thomas Yee</td>
+</tr>
+<tr>
+<td class = "time"></td>
+<td class = "sessionheader">098 Lecture Theatre(260-098)</td>
+<td class = "sessionheader">OGGB4(260-073)</td>
+<td class = "sessionheader">OGGB5(260-051)</td>
+<td class = "sessionheader">Case Room 2(260-057)</td>
+<td class = "sessionheader">Case Room 3(260-055)</td>
+<td class = "sessionheader">Case Room 4(260-009)</td>
+</tr>
+<tr>
+<td class = "time">1030</td>
+<td class = "contributed">Thomas Yee</td>
+<td class = "contributed">Yuichi Mori</td>
+<td class = "contributed">Yoshikazu Yamamoto</td>
+<td class = "contributed">Masahiro Mizuta</td>
+<td class = "contributed">Zehua Chen</td>
+<td class = "contributed"></td>
+</tr>
+</tbody>
+</table>
+</div>
