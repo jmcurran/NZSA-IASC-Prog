@@ -25,7 +25,7 @@
 <tr>
 <td class = "time">1030</td>
 <td class = "contributed">Han-Ming Wu</td>
-<td class = "contributed">Ciprian Doru Giurcaneanu</td>
+<td class = "contributed">Ciprian Giurcaneanu</td>
 <td class = "contributed">David Scott</td>
 <td class = "contributed">Erniel Barrios</td>
 <td class = "contributed">Jin Liu</td>
@@ -64,9 +64,9 @@
 </tr>
 <tr>
 <td class = "time">1600</td>
-<td class = "contributed">TBA</td>
+<td class = "contributed">Marie Fitch</td>
 <td class = "contributed">Alan Lee</td>
-<td class = "contributed">TBA</td>
+<td class = "contributed">Thomas Lumley</td>
 <td class = "contributed">Benoit Liquet</td>
 <td class = "contributed">Hiroyuki Minami</td>
 <td class = "contributed">Matt Parry</td>
@@ -100,8 +100,8 @@
 <tr>
 <td class = "time">1030</td>
 <td class = "contributed">Xun Xiao</td>
-<td class = "contributed">TBA</td>
-<td class = "contributed">TBA</td>
+<td class = "contributed">Andrew Balemi</td>
+<td class = "contributed">Irene Zeng</td>
 <td class = "contributed">Geoff Jones</td>
 <td class = "contributed">Jaeyong Lee</td>
 <td class = "contributed">Catherine Laffineur</td>

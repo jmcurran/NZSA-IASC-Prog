@@ -199,7 +199,7 @@
 <tr><td><a href = "Wednesday.html#talk_197">197</a></td><td><a href = "Wednesday.html#talk_197">Space And Circular Time Log Gaussian Cox Processes With Application To Crime Event Data</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_198">198</a></td><td><a href = "Tuesday.html#talk_198">Could Do Better &hellip; A Report Card For Statistical Computing</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_199">199</a></td><td><a href = "Thursday.html#talk_199">ALTREP: Alternate Representations Of Basic R Objects</a></td></tr>
-<tr><td><a href = "Monday.html#talk_200">200</a></td><td><a href = "Monday.html#talk_200">TBA-JB</a></td></tr>
+<tr><td><a href = "Monday.html#talk_200">200</a></td><td><a href = "Monday.html#talk_200">Zen And The aRt Of Workflow Maintenance</a></td></tr>
 <tr><td><a href = "Monday.html#talk_201">201</a></td><td><a href = "Monday.html#talk_201">R In Times Of Growing User Base And Data Sizes</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_202">202</a></td><td><a href = "Wednesday.html#talk_202">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_203">203</a></td><td><a href = "Monday.html#talk_203">Estimating Links Of A Network From Time To Event Data</a></td></tr>

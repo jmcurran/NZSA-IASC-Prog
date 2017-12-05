@@ -85,7 +85,7 @@
 </tr>
 <tr>
 <td class = "time">1320</td>
-<td class = "keynote" colspan = "6"><a href="Monday.html#talk_200" style = "color: white;">TBA-JB<br/>Jenny Bryan, University of British Columbia<br/>098 Lecture Theatre (260-098)</a></td>
+<td class = "keynote" colspan = "6"><a href="Monday.html#talk_200" style = "color: white;">Zen And The aRt Of Workflow Maintenance<br/>Jenny Bryan, University of British Columbia<br/>098 Lecture Theatre (260-098)</a></td>
 </tr>
 <tr>
 <td class = "time"></td>
