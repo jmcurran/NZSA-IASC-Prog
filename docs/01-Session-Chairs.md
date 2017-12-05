@@ -1,7 +1,7 @@
 # Am I A Session Chair? Please Read!!! {-}
 ## Monday {#Monday-chairtbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 1500px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -76,7 +76,7 @@
 </div>
 ## Tuesday {#Tuesday-chairtbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 1500px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -133,7 +133,7 @@
 </div>
 ## Wednesday {#Wednesday-chairtbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 1500px;">
 <thead>
 <tr>
 <th class = "time">Time</th>
@@ -204,7 +204,7 @@
 </div>
 ## Thursday {#Thursday-chairtbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table>
+<table style = "width: 1500px;">
 <thead>
 <tr>
 <th class = "time">Time</th>

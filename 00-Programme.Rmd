@@ -158,8 +158,8 @@
 <td class = "time">1620</td>
 <td class = "contributed"><a href="Monday.html#talk_095" style = "color: black;">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</a></td>
 <td class = "contributed"><a href="Monday.html#talk_077" style = "color: black;">Real-Time Transit Network Modelling For Improved Arrival Time Predictions<br/>Tom Elliott</a></td>
+<td class = "contributed"><a href="Monday.html#talk_149" style = "color: black;">Visualization And Statistical Modeling Of Financial Big Data<br/>Masayuki Jimichi</a></td>
 <td class = "contributed"><a href="Monday.html#talk_140" style = "color: black;">Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data<br/>Matthew Sutton</a></td>
-<td class = "contributed"><a href="Monday.html#talk_092" style = "color: black;">BIG-SIR A Sliced Inverse Regression Approach For Massive Data<br/>Benoit Liquet</a></td>
 <td class = "contributed"><a href="Monday.html#talk_040" style = "color: black;">Genetic Approach And Statistical Approach For Association Study On DNA Data<br/>Makoto Tomita</a></td>
 <td class = "contributed"><a href="Monday.html#talk_150" style = "color: black;">Modeling Of Document Abstraction Using Association Rule Based Characterization<br/>Ken Nittono</a></td>
 </tr>
@@ -168,7 +168,7 @@
 <td class = "contributed"><a href="Monday.html#talk_088" style = "color: black;">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</a></td>
 <td class = "contributed"><a href="Monday.html#talk_080" style = "color: black;">Bayesian Survival Analysis Of Batsmen In Test Cricket<br/>Oliver Stevenson</a></td>
 <td class = "contributed"><a href="Monday.html#talk_142" style = "color: black;">Covariate Discretisation On Big Data<br/>Hon Hwang</a></td>
-<td class = "contributed"><a href="Monday.html#talk_149" style = "color: black;">Visualization And Statistical Modeling Of Financial Big Data<br/>Masayuki Jimichi</a></td>
+<td class = "contributed"><a href="Monday.html#talk_092" style = "color: black;">BIG-SIR A Sliced Inverse Regression Approach For Massive Data<br/>Benoit Liquet</a></td>
 <td class = "contributed"><a href="Monday.html#talk_087" style = "color: black;">Symbolic Data Analytical Approach To Unauthorized-Access Logs<br/>Hiroyuki Minami</a></td>
 <td class = "contributed"><a href="Monday.html#talk_192" style = "color: black;">My Knee Still Hurts; The Statistical Pathway To The Development Of A Clinical Decision Aid<br/>Robert Borotkanics</a></td>
 </tr>
@@ -240,7 +240,7 @@
 <td class = "contributed"><a href="Tuesday.html#talk_016" style = "color: black;">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index<br/>Longcheen Huwang</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_162" style = "color: black;">Adjusting For Linkage Bias In The Analysis Of Record-Linked Data<br/>Patrick Graham</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_176" style = "color: black;">Bayesian Semiparametric Hierarchical Models For Longitudinal Data Analysis With Application To Dose-Response Studies<br/>Taeryon Choi</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_091" style = "color: black;">Optimizing Junior Rugby Weight Limits<br/>Emma Campbell</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_091" style = "color: black;">Optimizing Junior Rugby Weight Limits<br/>Ankit Patel</a></td>
 </tr>
 <tr>
 <td class = "time">1150</td>

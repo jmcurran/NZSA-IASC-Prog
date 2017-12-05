@@ -2233,7 +2233,49 @@ information.
 
 
 <p class="pagebreak"></p>
-<div id = "talk_140"><p class="contribBanner">Monday 11<sup>th</sup> 16:20 OGGB5 (260-051)</p></div>
+<div id = "talk_149"><p class="contribBanner">Monday 11<sup>th</sup> 16:20 OGGB5 (260-051)</p></div>
+## Visualization And Statistical Modeling Of Financial Big Data {.unnumbered}
+<p style="text-align:center">
+Masayuki Jimichi^1^, Daisuke Miyamoto^2^, Chika Saka^1^, and Syuichi Nagata^1^<br />
+^1^Kwansei Gakuin University<br />
+^2^Nara Institute of Science and Technology<br />
+</p>
+<span>**Abstract:**</span> In this work, we manipulate financial big
+data of world-wide companies by R packages SparkR and sparklyr, and
+treate data visualization (e.g. Ihaka, 2017; Unwin, 2015) and
+statistical model (e.g. Chambers and Hastie, 1991) based on exploratory
+data analysis (Tukey, 1977) with R. The dataset is extracted from the
+database systems by Bureau van Dijk KK which contains information on
+over 80,000 listed companies. We find that a log-skew-t linear model
+(e.g. Azallini and Capitanio, 2014) is very useful for explaining sales
+by employees and assets.
+
+<span>**Keywords:**</span> Financial Big Data, Data Visualization,
+Statistical Modeling, Log-skew-t Linear Model, SparkR, sparklyr
+
+<span>**References:**</span>
+
+Azzalini, A. with the collaboration of Capitanio, A. (2014). *The
+Skew-Normal and Related Families*. Cambridge University Press. Institute
+of Mathematical Statistics Monographs.
+
+Chambers, J. M. and Hastie, T. J. ed. (1991). *Statistical Models in S*.
+Chapman and Hall/CRC.
+
+Ihaka, R. (2017). Lecture Notes.
+<https://www.stat.auckland.ac.nz/~ihaka/?Teaching>
+
+Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley
+Publishing Co.
+
+Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
+Hall/CRC.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
+<div id = "talk_140"><p class="contribBanner">Monday 11<sup>th</sup> 16:20 Case Room 2 (260-057)</p></div>
 ## Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data {.unnumbered}
 <p style="text-align:center">
 Matthew Sutton^1^, Benoit Liquet^1^, and Rodolphe Thiebaut^2^<br />
@@ -2341,52 +2383,6 @@ Witten, D., Tibshirani, R., and Hastie, T. (2009). A penalized matrix
 decomposition, with applications to sparse principal components and
 canonical correlation analysis. *Biostatistics* <span>**10,**</span>
 515–534.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
-<div id = "talk_092"><p class="contribBanner">Monday 11<sup>th</sup> 16:20 Case Room 2 (260-057)</p></div>
-## BIG-SIR A Sliced Inverse Regression Approach For Massive Data {.unnumbered}
-<p style="text-align:center">
-Benoit Liquet^1^ and Jerome Saracco^2^<br />
-^1^Queensland University of Technology<br />
-^2^University of Bordeaux<br />
-</p>
-<span>**Abstract:**</span> In a massive data setting, we focus on a
-semiparametric regression model involving a real dependent variable $Y$
-and a $p$-dimensional covariable $X$. This model includes a dimension
-reduction of X via an index $X'\beta$. The Effective Dimension Reduction
-(EDR) direction $\beta$ cannot be directly estimated by the Sliced
-Inverse Regression (SIR) method due to the large volume of the data. To
-deal with the main challenges of analysing massive datasets which are
-the storage and computational efficiency, we propose a new SIR estimator
-of the EDR direction by following the “divide and conquer” strategy. The
-data is divided into subsets. EDR directions are estimated in each
-subset which is a small dataset. The recombination step is based on the
-optimisation of a criterion which assesses the proximity between the EDR
-directions of each subset. Computations are run in parallel with no
-communication among them. The consistency of our estimator is
-established and its asymptotic distribution is given. Extensions to
-multiple indices models, $q$-dimensional response variable and/or
-SIR$_{\alpha}$-based methods are also discussed. A simulation study
-using our `edrGraphicalTools` R package shows that our approach enables
-us to reduce the computation time and conquer the memory constraint
-problem posed by massive datasets. A combination of `foreach` and
-`bigmemory` R packages are exploited to offer efficiency of execution in
-both speed and memory. Results are visualised using the
-bin-summarise-smooth approach through the `bigvis` R package. Finally,
-we illustrate our proposed approach on a massive airline data set.
-
-<span>**Keywords:**</span> High performance computing, Effective
-Dimension Reduction (EDR), Parallel programming, R software, Sliced
-Inverse Regression (SIR)
-
-<span>**References:**</span>
-
-Liquet, B., & Saracco, J. (2016), *BIG-SIR a Sliced Inverse Regression
-Approach for Massive Data*, Statistics and Its Interface. Vol 9,
-509-520.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -2597,43 +2593,47 @@ data
 
 
 <p class="pagebreak"></p>
-<div id = "talk_149"><p class="contribBanner">Monday 11<sup>th</sup> 16:40 Case Room 2 (260-057)</p></div>
-## Visualization And Statistical Modeling Of Financial Big Data {.unnumbered}
+<div id = "talk_092"><p class="contribBanner">Monday 11<sup>th</sup> 16:40 Case Room 2 (260-057)</p></div>
+## BIG-SIR A Sliced Inverse Regression Approach For Massive Data {.unnumbered}
 <p style="text-align:center">
-Masayuki Jimichi^1^, Daisuke Miyamoto^2^, Chika Saka^1^, and Syuichi Nagata^1^<br />
-^1^Kwansei Gakuin University<br />
-^2^Nara Institute of Science and Technology<br />
+Benoit Liquet^1^ and Jerome Saracco^2^<br />
+^1^Queensland University of Technology<br />
+^2^University of Bordeaux<br />
 </p>
-<span>**Abstract:**</span> In this work, we manipulate financial big
-data of world-wide companies by R packages SparkR and sparklyr, and
-treate data visualization (e.g. Ihaka, 2017; Unwin, 2015) and
-statistical model (e.g. Chambers and Hastie, 1991) based on exploratory
-data analysis (Tukey, 1977) with R. The dataset is extracted from the
-database systems by Bureau van Dijk KK which contains information on
-over 80,000 listed companies. We find that a log-skew-t linear model
-(e.g. Azallini and Capitanio, 2014) is very useful for explaining sales
-by employees and assets.
+<span>**Abstract:**</span> In a massive data setting, we focus on a
+semiparametric regression model involving a real dependent variable $Y$
+and a $p$-dimensional covariable $X$. This model includes a dimension
+reduction of X via an index $X'\beta$. The Effective Dimension Reduction
+(EDR) direction $\beta$ cannot be directly estimated by the Sliced
+Inverse Regression (SIR) method due to the large volume of the data. To
+deal with the main challenges of analysing massive datasets which are
+the storage and computational efficiency, we propose a new SIR estimator
+of the EDR direction by following the “divide and conquer” strategy. The
+data is divided into subsets. EDR directions are estimated in each
+subset which is a small dataset. The recombination step is based on the
+optimisation of a criterion which assesses the proximity between the EDR
+directions of each subset. Computations are run in parallel with no
+communication among them. The consistency of our estimator is
+established and its asymptotic distribution is given. Extensions to
+multiple indices models, $q$-dimensional response variable and/or
+SIR$_{\alpha}$-based methods are also discussed. A simulation study
+using our `edrGraphicalTools` R package shows that our approach enables
+us to reduce the computation time and conquer the memory constraint
+problem posed by massive datasets. A combination of `foreach` and
+`bigmemory` R packages are exploited to offer efficiency of execution in
+both speed and memory. Results are visualised using the
+bin-summarise-smooth approach through the `bigvis` R package. Finally,
+we illustrate our proposed approach on a massive airline data set.
 
-<span>**Keywords:**</span> Financial Big Data, Data Visualization,
-Statistical Modeling, Log-skew-t Linear Model, SparkR, sparklyr
+<span>**Keywords:**</span> High performance computing, Effective
+Dimension Reduction (EDR), Parallel programming, R software, Sliced
+Inverse Regression (SIR)
 
 <span>**References:**</span>
 
-Azzalini, A. with the collaboration of Capitanio, A. (2014). *The
-Skew-Normal and Related Families*. Cambridge University Press. Institute
-of Mathematical Statistics Monographs.
-
-Chambers, J. M. and Hastie, T. J. ed. (1991). *Statistical Models in S*.
-Chapman and Hall/CRC.
-
-Ihaka, R. (2017). Lecture Notes.
-<https://www.stat.auckland.ac.nz/~ihaka/?Teaching>
-
-Tukey, J. W. (1977). *Exploratory Data Analysis*. Addison-Wesley
-Publishing Co.
-
-Unwin, A. (2015). *Graphical Data Analysis with R*, Chapman and
-Hall/CRC.
+Liquet, B., & Saracco, J. (2016), *BIG-SIR a Sliced Inverse Regression
+Approach for Massive Data*, Statistics and Its Interface. Vol 9,
+509-520.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 
