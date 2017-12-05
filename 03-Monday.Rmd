@@ -1918,6 +1918,48 @@ VAR to monitor evolving contributions of factors.
 
 
 <p class="pagebreak"></p>
+<div id = "talk_020"><p class="contribBanner">Monday 11<sup>th</sup> 16:00 098 Lecture Theatre (260-098)</p></div>
+## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {.unnumbered}
+<p style="text-align:center">
+Shin Sato and Darfiana Nur<br />
+Flinders University<br />
+</p>
+<span>**Abstract:**</span> We investigate a non-homogeneous Gaussian
+hidden Markov model where the model assumes the transition probabilities
+between the hidden states depend on each discrete-time. The methodology
+of the statistical inference for the model follows the Bayesian approach
+implementing the Markov chain Monte Carlo (MCMC) methods for parameter
+estimation. The methods include: the Metropolis-Hastings, the delayed
+rejection Metropolis-Hastings, the multiple-try Metropolis-Hastings, and
+the adaptive Metropolis algorithms.
+
+For simulation studies, we have successfully implemented all the
+algorithms proposed on the simulated data set that was investigated by
+Diebold et al. (1994), although we had been faced with the difficulties
+of estimating each parameter due to the large noises in the data. For a
+case study, the model was implemented on a data set of the monthly US
+3-month treasury bill rates with six financial exogenous variables in
+which the settings are identical to that of Meligkotsidou and
+Dellaportas’s (2011), except for the algorithm.
+
+<span>**Keywords:**</span> Non-homogeneous hidden Markov model, Bayesian
+inference, Markov chain Monte Carlo methods, Metropolis-Hastings
+algorithms
+
+<span>**References:**</span>
+
+Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
+with time-varying transition probabilities. *Business Cycles: Durations,
+Dynamics, and Forecasting*, 144–165.
+
+Spezia, L. (2006). Bayesian analysis of non-homogeneous hidden markov
+models. *Journal of Statistical Computation and Simulation*, **76**(8),
+713–725.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
 <div id = "talk_060"><p class="contribBanner">Monday 11<sup>th</sup> 16:00 OGGB4 (260-073)</p></div>
 ## Robustness Of Temperature Reconstruction For Past 500 Years {.unnumbered}
 <p style="text-align:center">
@@ -2108,6 +2150,42 @@ principle, discounting
 
 Parry, M. (2016). *Linear scoring rules for probabilistic binary
 classification*. Electronic Journal of Statistics, 10 (1), 1596–1607.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
+<div id = "talk_095"><p class="contribBanner">Monday 11<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p></div>
+## Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data {.unnumbered}
+<p style="text-align:center">
+Ryo Takagi, Hiroyuki Minami, and Masahiro Mizuta<br />
+Hokkaido University<br />
+</p>
+<span>**Abstract:**</span> We discuss a method of meta-analysis based on
+symbolic data analysis (SDA). Meta-analysis, mainly used in social and
+medical science, is a statistical method of combining scientific studies
+to obtain quantitative results and provides a high level of evidence.
+Differences between the studies are caused by heterogeneity between the
+studies. It is useful to detect relationship among scientific studies. A
+target of analysis on SDA is <span>*concept*</span>, a set of
+individuals. We apply SDA to meta-analysis. In other words, we regard
+scientific studies as concepts. For example, symbolic clustering or
+symbolic MDS are useful to preprocess the scientific studies in
+meta-analysis. In this study, we propose a new approach based on SDA for
+meta-analysis and show the results of the proposed approach using
+clinical datasets.
+
+<span>**Keywords:**</span> symbolic clustering, symbolic MDS, concept in
+SDA
+
+<span>**References:**</span>
+
+Edwin Diday and Monique Noirhomme-Fraiture. (2008). *Symbolic data
+analysis and the SODAS software.* John Wiley & Sons, Ltd.
+
+David Edward Matthews and Vernon Todd Farewell. (2015). *Using and
+understanding medical statistics* (5th, revised and extended edition).
+Karger Publishers.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -2391,6 +2469,50 @@ Nittono, K. (2013). *Association rule generation and mining approach to
 concept space for collective documents*, Proceedings of the 59th World
 Statistics Congress of the International Statistical Institute, pp.
 5515–5520.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
+<div id = "talk_088"><p class="contribBanner">Monday 11<sup>th</sup> 16:40 098 Lecture Theatre (260-098)</p></div>
+## Bayesian Static Parameter Inference For Partially Observed Stochastic Systems {.unnumbered}
+<p style="text-align:center">
+Yaxian Xu and Ajay Jasra<br />
+National University of Singapore<br />
+</p>
+<span>**Abstract:**</span> We consider Bayesian static parameter
+estimation for partially observed stochastic systems with discrete-time
+observations. This is a very important problem, but is very
+computationally challenging as the associated posterior distributions
+are highly complex and one has to resort to discretizing the associated
+probability law of the underlying stochastic system and advanced Markov
+chain Monte Carlo (MCMC) techniques to infer the parameters. We are
+interested in the situation where the discretization is in multiple
+dimensions. For instance, for partially observed stochastic partial
+differential equations (SPDEs), where dicretization is in both space and
+time. In such cases, multi-index Monte Carlo (MIMC) is known to have the
+potential to reduce the computational cost for a prescribed level of
+error, relative to i.i.d. sampling from the most precise discretization.
+We demonstrate how MCMC and particularly particle MCMC can be used in
+the multi-index framework for Bayesian static parameter inference for
+the above-mentioned models. The main idea involves constructing an
+approximate coupling of the posterior density of the joint on the
+parameter and hidden space and then correcting by an importance sampling
+method. Our method is illustrated numerically to be preferable for
+inference of parameters for a partially observed SPDE.
+
+<span>**Keywords:**</span> Multi-index Monte Carlo, Markov chain Monte
+Carlo, stochastic partial differential equations
+
+<span>**References:**</span>
+
+Christophe Andrieu, Arnaud Doucet, and Roman Holenstein. (2010).
+Particle markov chain monte carlo methods. *Journal of the Royal
+Statistical Society: Series B (Statistical Methodology)*, 72(3):269–342.
+
+Haji-Ali, A. L., Nobile, F. & Tempone, R. (2016). Multi-Index Monte
+Carlo: When sparsity meets sampling. *Numerische Mathematik*, 132,
+767–806.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Monday-tbl">Return to Programme</a><br/><br/></p>
 

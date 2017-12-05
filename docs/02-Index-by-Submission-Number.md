@@ -25,7 +25,7 @@
 <tr><td><a href = "Tuesday.html#talk_017">017</a></td><td><a href = "Tuesday.html#talk_017">Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition</a></td></tr>
 <tr><td><a href = "Monday.html#talk_018">018</a></td><td><a href = "Monday.html#talk_018">Test For Genomic Imprinting Effects On The X Chromosome</a></td></tr>
 <tr><td><a href = "Monday.html#talk_019">019</a></td><td><a href = "Monday.html#talk_019">A Unified Regularized Group PLS Algorithm Scalable To Big Data</a></td></tr>
-<tr><td><a href = "Wednesday.html#talk_020">020</a></td><td><a href = "Wednesday.html#talk_020">Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models</a></td></tr>
+<tr><td><a href = "Monday.html#talk_020">020</a></td><td><a href = "Monday.html#talk_020">Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_021">021</a></td><td><a href = "Monday.html#talk_021">Clustering Using Nonparametric Mixtures And Mode Identification</a></td></tr>
 <tr><td><a href = "Monday.html#talk_022">022</a></td><td><a href = "Monday.html#talk_022">Robust Principal Expectile Component Analysis</a></td></tr>
 <tr><td><a href = "Monday.html#talk_023">023</a></td><td><a href = "Monday.html#talk_023">Estimation Of A High-Dimensional Covariance Matrix</a></td></tr>
@@ -91,14 +91,14 @@
 <tr><td><a href = "Monday.html#talk_085">085</a></td><td><a href = "Monday.html#talk_085">Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_086">086</a></td><td><a href = "Tuesday.html#talk_086">Correlated Defaults With A Distance To Default</a></td></tr>
 <tr><td><a href = "Monday.html#talk_087">087</a></td><td><a href = "Monday.html#talk_087">Symbolic Data Analytical Approach To Unauthorized-Access Logs</a></td></tr>
-<tr><td><a href = "Thursday.html#talk_088">088</a></td><td><a href = "Thursday.html#talk_088">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems</a></td></tr>
+<tr><td><a href = "Monday.html#talk_088">088</a></td><td><a href = "Monday.html#talk_088">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_089">089</a></td><td><a href = "Thursday.html#talk_089">Interactive Visualization Of Aggregated Symbolic Data</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_090">090</a></td><td><a href = "Wednesday.html#talk_090">Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_091">091</a></td><td><a href = "Tuesday.html#talk_091">Optimizing Junior Rugby Weight Limits</a></td></tr>
 <tr><td><a href = "Monday.html#talk_092">092</a></td><td><a href = "Monday.html#talk_092">BIG-SIR A Sliced Inverse Regression Approach For Massive Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_093">093</a></td><td><a href = "Monday.html#talk_093">Local Canonical Correlation Analysis For Multimodal Labeled Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_094">094</a></td><td><a href = "Monday.html#talk_094">Estimating Causal Structures For Continuous And Discrete Variables</a></td></tr>
-<tr><td><a href = "Thursday.html#talk_095">095</a></td><td><a href = "Thursday.html#talk_095">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data</a></td></tr>
+<tr><td><a href = "Monday.html#talk_095">095</a></td><td><a href = "Monday.html#talk_095">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_096">096</a></td><td><a href = "Wednesday.html#talk_096">Deep Learning High-Dimensional Covariance Matrices</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_097">097</a></td><td><a href = "Thursday.html#talk_097">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_098">098</a></td><td><a href = "Wednesday.html#talk_098">Imputation Of The 2016 Economic Census For Business Activity In Japan</a></td></tr>

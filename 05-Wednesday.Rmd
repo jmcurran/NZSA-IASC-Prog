@@ -468,43 +468,43 @@ is the most successful for forecasting NSE index.
 
 
 <p class="pagebreak"></p>
-<div id = "talk_020"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:10 OGGB5 (260-051)</p></div>
-## Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models {.unnumbered}
+<div id = "talk_064"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:10 OGGB5 (260-051)</p></div>
+## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {.unnumbered}
 <p style="text-align:center">
-Shin Sato and Darfiana Nur<br />
-Flinders University<br />
+Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
+^1^Mie University Hospital<br />
+^2^Institute of Statistical Mathematics<br />
 </p>
-<span>**Abstract:**</span> We investigate a non-homogeneous Gaussian
-hidden Markov model where the model assumes the transition probabilities
-between the hidden states depend on each discrete-time. The methodology
-of the statistical inference for the model follows the Bayesian approach
-implementing the Markov chain Monte Carlo (MCMC) methods for parameter
-estimation. The methods include: the Metropolis-Hastings, the delayed
-rejection Metropolis-Hastings, the multiple-try Metropolis-Hastings, and
-the adaptive Metropolis algorithms.
+<span>**Abstract:**</span> The confidence or the credible interval of
+the binomial proportion $p$ is one of most widely employed statistical
+analysis methods, and a variety of methods have been proposed. The
+Bayesian credible interval attracts recent researches’ attentions. One
+of the promising methods is the highest posterior density (HPD)
+interval, which implies the shortest possible interval enclosing
+$100(1-\alpha)$% of the probability density function. The HPD interval
+is often used because it is narrow compared to other credible intervals.
+However, the HPD interval has some drawbacks when the binomial
+proportion is a small. To dissolve them, we calculate first a credible
+interval by the HPD interval of the logit transformed parameter,
+$\theta=\log\{p/(1-p)\}$, instead of $p$. Note that $\theta$ and $p$ are
+the canonical and the mean parameters of the binomial distribution in
+the exponential family, respectively. Writing the HPD interval of
+$\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible
+interval of $p$ as
+$(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
+It is explored in depth, and numerical comparison studies are conducted
+to confirm its favorable performance, especially when the observed
+number is small, such as 0 or 1. Practical datasets are analyzed to
+examine the potential usefulness for applications in medical fields.
 
-For simulation studies, we have successfully implemented all the
-algorithms proposed on the simulated data set that was investigated by
-Diebold et al. (1994), although we had been faced with the difficulties
-of estimating each parameter due to the large noises in the data. For a
-case study, the model was implemented on a data set of the monthly US
-3-month treasury bill rates with six financial exogenous variables in
-which the settings are identical to that of Meligkotsidou and
-Dellaportas’s (2011), except for the algorithm.
-
-<span>**Keywords:**</span> Non-homogeneous hidden Markov model, Bayesian
-inference, Markov chain Monte Carlo methods, Metropolis-Hastings
-algorithms
+<span>**Keywords:**</span> Bayesian credible interval, binomial
+proportion, highest posterior density interval, logit transformation,
+zero count
 
 <span>**References:**</span>
 
-Diebold, F.X., Lee, J.-H., and Weinbach, G.C. (1994). Regime switching
-with time-varying transition probabilities. *Business Cycles: Durations,
-Dynamics, and Forecasting*, 144–165.
-
-Spezia, L. (2006). Bayesian analysis of non-homogeneous hidden markov
-models. *Journal of Statistical Computation and Simulation*, **76**(8),
-713–725.
+Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
+Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -722,48 +722,6 @@ X-13ARIMA-SEATS,\
 
 Rosadi, D. (2016). Automatic ARIMA Modeling using RcmdrPlugin.SPSS,
 Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
-<div id = "talk_064"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:30 OGGB5 (260-051)</p></div>
-## Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation {.unnumbered}
-<p style="text-align:center">
-Toru Ogura^1^ and Takemi Yanagimoto^2^<br />
-^1^Mie University Hospital<br />
-^2^Institute of Statistical Mathematics<br />
-</p>
-<span>**Abstract:**</span> The confidence or the credible interval of
-the binomial proportion $p$ is one of most widely employed statistical
-analysis methods, and a variety of methods have been proposed. The
-Bayesian credible interval attracts recent researches’ attentions. One
-of the promising methods is the highest posterior density (HPD)
-interval, which implies the shortest possible interval enclosing
-$100(1-\alpha)$% of the probability density function. The HPD interval
-is often used because it is narrow compared to other credible intervals.
-However, the HPD interval has some drawbacks when the binomial
-proportion is a small. To dissolve them, we calculate first a credible
-interval by the HPD interval of the logit transformed parameter,
-$\theta=\log\{p/(1-p)\}$, instead of $p$. Note that $\theta$ and $p$ are
-the canonical and the mean parameters of the binomial distribution in
-the exponential family, respectively. Writing the HPD interval of
-$\theta$ as $(\theta_{l}, \theta_{u})$, we define the proposed credible
-interval of $p$ as
-$(p_{l}, p_{u})= \big( e^{\theta_{l}} / ( 1+e^{\theta_{l}} ), \,  e^{\theta_{u}}/(1+e^{\theta_{u}}) \big)$.
-It is explored in depth, and numerical comparison studies are conducted
-to confirm its favorable performance, especially when the observed
-number is small, such as 0 or 1. Practical datasets are analyzed to
-examine the potential usefulness for applications in medical fields.
-
-<span>**Keywords:**</span> Bayesian credible interval, binomial
-proportion, highest posterior density interval, logit transformation,
-zero count
-
-<span>**References:**</span>
-
-Newcombe, R.G. (2012). *Confidence Intervals for Proportions and Related
-Measures of Effect Size*. Florida: Chapman and Hall/CRC.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -1808,6 +1766,7 @@ real data analysis.
 John Maindonald<br />
 Statistics Research Associates<br />
 </p>
+<span>**Abstract:**</span> Two types of models are considered and compared. The first is a generalized linear model with logit link, with quasibinomial error, and with weighting function that is designed to give reduced weights at the two ends of the scale, relative to mortalities of around 50%. The other approach is to apply a logit transform, and then use a linear model. The logit transformed data appears, for the data that motivated this paper, consistent with the usual linear model variance homogeneity assumptions. For use of a generalized linear model, the standard linear model diagnostics require modifica- tion so that high mortality points do not unduly distort the smooth that is standardly shown for the scale-location plot. A further issue is that 100% mortality points appear to distort a response that, for mortalities less than 100%, is close to linear on the scale of the link function.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 

@@ -147,7 +147,7 @@
 </tr>
 <tr>
 <td class = "time">1600</td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_020" style = "color: black;">Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models<br/>Shin Sato</a></td>
 <td class = "contributed"><a href="Monday.html#talk_060" style = "color: black;">Robustness Of Temperature Reconstruction For Past 500 Years<br/>Yu Yang</a></td>
 <td class = "contributed"><a href="Monday.html#talk_139" style = "color: black;">Nonparametric Causal Inference By The Kernel Method<br/>Yuchi Matsuoka</a></td>
 <td class = "contributed"><a href="Monday.html#talk_019" style = "color: black;">A Unified Regularized Group PLS Algorithm Scalable To Big Data<br/>Pierre Lafaye de Micheaux</a></td>
@@ -156,7 +156,7 @@
 </tr>
 <tr>
 <td class = "time">1620</td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_095" style = "color: black;">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</a></td>
 <td class = "contributed"><a href="Monday.html#talk_077" style = "color: black;">Real-Time Transit Network Modelling For Improved Arrival Time Predictions<br/>Tom Elliott</a></td>
 <td class = "contributed"><a href="Monday.html#talk_140" style = "color: black;">Sparse Group-Subgroup Partial Least Squares With Application To Genomic Data<br/>Matthew Sutton</a></td>
 <td class = "contributed"><a href="Monday.html#talk_092" style = "color: black;">BIG-SIR A Sliced Inverse Regression Approach For Massive Data<br/>Benoit Liquet</a></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr>
 <td class = "time">1640</td>
-<td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Monday.html#talk_088" style = "color: black;">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</a></td>
 <td class = "contributed"><a href="Monday.html#talk_080" style = "color: black;">Bayesian Survival Analysis Of Batsmen In Test Cricket<br/>Oliver Stevenson</a></td>
 <td class = "contributed"><a href="Monday.html#talk_142" style = "color: black;">Covariate Discretisation On Big Data<br/>Hon Hwang</a></td>
 <td class = "contributed"><a href="Monday.html#talk_149" style = "color: black;">Visualization And Statistical Modeling Of Financial Big Data<br/>Masayuki Jimichi</a></td>
@@ -368,7 +368,7 @@
 <td class = "time">1110</td>
 <td class = "contributed"><a href="Wednesday.html#talk_066" style = "color: black;">Bringing Multimix From Fortran To R<br/>Murray Jorgensen</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_007" style = "color: black;">Specification Of GARCH Model Under Asymmetric Error Innovations<br/>Oyebimpe Adeniji</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_020" style = "color: black;">Bayesian Analyses Of Non-Homogeneous Gaussian Hidden Markov Models<br/>Shin Sato</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_064" style = "color: black;">Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation<br/>Toru Ogura</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_054" style = "color: black;">Statistical Disclosure Control With R: Traditional Methods And Synthetic Data<br/>Matthias Templ</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_071" style = "color: black;">Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings<br/>Takahiro Nishiyama</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_096" style = "color: black;">Deep Learning High-Dimensional Covariance Matrices<br/>Philip Yu</a></td>
@@ -377,7 +377,7 @@
 <td class = "time">1130</td>
 <td class = "contributed"><a href="Wednesday.html#talk_141" style = "color: black;">R In Industry – Application On Pipe Renewal Planning<br/>Glenn Thomas</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_059" style = "color: black;">Empirical Comparison Of Some Algorithms For Automatic Univariate ARMA Modeling Using Rcmdrplugin.SPSS<br/>Dedi Rosadi</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_064" style = "color: black;">Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation<br/>Toru Ogura</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_098" style = "color: black;">Imputation Of The 2016 Economic Census For Business Activity In Japan<br/>Kazumi Wada</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_108" style = "color: black;">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_105" style = "color: black;">Applying Active Learning Procedure To Drug Consumption Data<br/>Yuan-Chin Chang</a></td>
@@ -523,8 +523,8 @@
 <td class = "contributed"><a href="Thursday.html#talk_133" style = "color: black;">Penalized Vector Generalized Additive Models<br/>Thomas Yee</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_069" style = "color: black;">A Package For Multiple Precision Floating-Point Computation On R<br/>Junji Nakano</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_043" style = "color: black;">Dissimilarities Between Groups Of Data<br/>Nobuo Shimizu</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_095" style = "color: black;">Meta-Analysis With Symbolic Data Analysis And Its Application For Clinical Data<br/>Ryo Takagi</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_088" style = "color: black;">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems<br/>Yaxian Xu</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_042" style = "color: black;">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_099" style = "color: black;">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
@@ -532,8 +532,8 @@
 <td class = "contributed"><a href="Thursday.html#talk_106" style = "color: black;">Consistency Of Linear Mixed-Effects Model Selection With Inconsistent Covariance Parameter Estimators<br/>Chihhao Chang</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_051" style = "color: black;">An Incomplete-Data Fisher Scoring With An Acceleration Method<br/>Keiji Takai</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_089" style = "color: black;">Interactive Visualization Of Aggregated Symbolic Data<br/>Yoshikazu Yamamoto</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_042" style = "color: black;">Comparison Of Tests Of Mean Difference In Longitudinal Data Based On Block Resampling Methods<br/>Hirohito Sakurai</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_099" style = "color: black;">SSREM: A Summary-Statistics-Based Random Effect Model To Estimating Heritability, Co-Heritability And Effect Sizes In GWAS Data Analysis<br/>Jin Liu</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_097" style = "color: black;">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_120" style = "color: black;">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
@@ -541,8 +541,8 @@
 <td class = "contributed"><a href="Thursday.html#talk_048" style = "color: black;">Selecting Generalised Linear Models Under Inequality Constraints<br/>Daniel Gerhard</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_057" style = "color: black;">Improvement Of Computation For Nonlinear Multivariate Methods<br/>Yuichi Mori</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
-<td class = "contributed"><a href="Thursday.html#talk_097" style = "color: black;">Analysis Of Spatial Data With A Gaussian Mixture Markov Random Field Model<br/>Wataru Sakamoto</a></td>
-<td class = "contributed"><a href="Thursday.html#talk_120" style = "color: black;">Forward Selection In Regression Models Based On Robust Estimation<br/>Shan Luo</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Thursday.html#talk_121" style = "color: black;">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
@@ -551,7 +551,7 @@
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
-<td class = "contributed"><a href="Thursday.html#talk_121" style = "color: black;">Feature Selection In High-Dimensional Models With Complex Block Structures<br/>Zehua Chen</a></td>
+<td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Thursday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
