@@ -124,7 +124,7 @@
 <td class = "contributed">Hsin-Cheng Huang</td>
 <td class = "contributed">Russell Millar</td>
 <td class = "contributed">Philip L.H. Yu</td>
-<td class = "contributed">Michael Slyuzberg</td>
+<td class = "contributed">Tianying Chu</td>
 <td class = "contributed">Rose Sisk</td>
 <td class = "contributed">Tanmay Kayal</td>
 </tr>
