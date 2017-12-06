@@ -22,7 +22,7 @@ th, td {
   border-width: 1px;
   border-style: solid;
   background-color: #ef2bef;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
 }
 
@@ -52,7 +52,7 @@ th, td {
   border-style: solid;
   color: white;
   background-color: #ed2d2d;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   vertical-align: top;
 }
@@ -61,7 +61,7 @@ th, td {
   border-width: 1px;
   border-style: solid;
   background-color: #ffd966;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   font-style: italic;
 }
