@@ -5,7 +5,7 @@
 <thead>
 <tr>
 <th class = "time">Time</th>
-<th class = "day" colspan = "6">Monday 11<sup>th</sup></th>
+<th class = "day">Monday 11<sup>th</sup></th>
 </tr>
 </thead>
 <tbody>
@@ -181,7 +181,7 @@
 <thead>
 <tr>
 <th class = "time">Time</th>
-<th class = "day" colspan = "6">Tuesday 12<sup>th</sup></th>
+<th class = "day">Tuesday 12<sup>th</sup></th>
 </tr>
 </thead>
 <tbody>
@@ -321,7 +321,7 @@
 <thead>
 <tr>
 <th class = "time">Time</th>
-<th class = "day" colspan = "6">Wednesday 13<sup>th</sup></th>
+<th class = "day">Wednesday 13<sup>th</sup></th>
 </tr>
 </thead>
 <tbody>
@@ -493,7 +493,7 @@
 <thead>
 <tr>
 <th class = "time">Time</th>
-<th class = "day" colspan = "6">Thursday 14<sup>th</sup></th>
+<th class = "day">Thursday 14<sup>th</sup></th>
 </tr>
 </thead>
 <tbody>
