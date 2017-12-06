@@ -64,7 +64,7 @@
 </tr>
 <tr>
 <td class = "time">1600</td>
-<td class = "contributed">Marie Fitch</td>
+<td class = "contributed">Geoff Jones</td>
 <td class = "contributed">Alan Lee</td>
 <td class = "contributed">Thomas Lumley</td>
 <td class = "contributed">Benoit Liquet</td>
@@ -102,7 +102,7 @@
 <td class = "contributed">Xun Xiao</td>
 <td class = "contributed">Andrew Balemi</td>
 <td class = "contributed">Irene Zeng</td>
-<td class = "contributed">Geoff Jones</td>
+<td class = "contributed">Marie Fitch</td>
 <td class = "contributed">Jaeyong Lee</td>
 <td class = "contributed">Catherine Laffineur</td>
 </tr>

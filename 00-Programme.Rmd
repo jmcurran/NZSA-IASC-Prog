@@ -295,7 +295,7 @@
 <td class = "contributed"><a href="Tuesday.html#talk_185" style = "color: black;">Multiple Function-On-Function Linear Regression With Application To Weather Forecast Calibration<br/>Lu-Hung Chen</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_156" style = "color: black;">Modelling The Distribution Of Lifetime Using Compound Time-Homogenous Poisson Process<br/>Kien Tran</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_072" style = "color: black;">Detecting Change-Points In The Stress-Strength Reliability P(X&LT;Y)<br/>Hang Xu</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_111" style = "color: black;">New Zealand Crime And Victims Survey: Filling The Knowledge Gap<br/>Michael Slyuzberg</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_111" style = "color: black;">New Zealand Crime And Victims Survey: Filling The Knowledge Gap<br/>Tianying Chu</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_127" style = "color: black;">Missing Data In Randomised Control Trials: Stepped Multiple Imputation<br/>Rose Sisk</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
