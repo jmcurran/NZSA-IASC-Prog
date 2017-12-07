@@ -197,7 +197,7 @@
 <td class = "contributed">Thuong Nguyen</td>
 <td class = "contributed">Beatrix Jones</td>
 <td class = "contributed">Erniel Barrios</td>
-<td class = "contributed"></td>
+<td class = "contributed">Alan Bentley</td>
 </tr>
 </tbody>
 </table>

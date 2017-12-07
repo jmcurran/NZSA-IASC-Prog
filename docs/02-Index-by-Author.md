@@ -1,6 +1,7 @@
 # Index By First Name of Author {#indexbyauthor .unnumbered}
 Ajay Jasra: <a href="Monday.html#talk_088" style ="color: blue;">088</a><br />
 Alain Vandal: <a href="Tuesday.html#talk_127" style ="color: blue;">127</a><br />
+Alan Bentley: <a href="Wednesday.html#talk_205" style ="color: blue;">205</a>, <a href="Wednesday.html#talk_206" style ="color: blue;">206</a><br />
 Alan Branford: <a href="Wednesday.html#talk_004" style ="color: blue;">004</a><br />
 Alan Gelfand: <a href="Wednesday.html#talk_197" style ="color: blue;">197</a><br />
 Alastair Lamont: <a href="Tuesday.html#talk_135" style ="color: blue;">135</a><br />
@@ -198,6 +199,7 @@ Masahiro Mizuta: <a href="Monday.html#talk_087" style ="color: blue;">087</a>, <
 Masashi Hyodo: <a href="Wednesday.html#talk_071" style ="color: blue;">071</a><br />
 Masaya Iizuka: <a href="Thursday.html#talk_057" style ="color: blue;">057</a><br />
 Masayuki Jimichi: <a href="Monday.html#talk_149" style ="color: blue;">149</a><br />
+Mathew Stansfield: <a href="Wednesday.html#talk_206" style ="color: blue;">206</a>, <a href="Wednesday.html#talk_207" style ="color: blue;">207</a><br />
 Matt Parry: <a href="Monday.html#talk_134" style ="color: blue;">134</a><br />
 Matthew Schofield: <a href="Monday.html#talk_029" style ="color: blue;">029</a>, <a href="Monday.html#talk_060" style ="color: blue;">060</a><br />
 Matthew Sutton: <a href="Monday.html#talk_019" style ="color: blue;">019</a>, <a href="Monday.html#talk_140" style ="color: blue;">140</a><br />
@@ -263,6 +265,7 @@ Russell Millar: <a href="Tuesday.html#talk_138" style ="color: blue;">138</a><br
 Ryo Kikuchi: <a href="Wednesday.html#talk_112" style ="color: blue;">112</a><br />
 Ryo Takagi: <a href="Monday.html#talk_095" style ="color: blue;">095</a><br />
 Sally Coulson: <a href="Tuesday.html#talk_116" style ="color: blue;">116</a><br />
+Sam Olivecrona: <a href="Wednesday.html#talk_207" style ="color: blue;">207</a><br />
 Samin Aref: <a href="Tuesday.html#talk_084" style ="color: blue;">084</a><br />
 Sangwook Kang: <a href="Wednesday.html#talk_181" style ="color: blue;">181</a><br />
 Sarah Pirikahu: <a href="Tuesday.html#talk_115" style ="color: blue;">115</a><br />

@@ -1,0 +1,8 @@
+<span>**Abstract:**</span> We will present our latest findings on a promising method to use big data for enhancing and improving our current data collections and price measurement. We apply a fixed effects regression approach including using the Fixed Effects Window Splice (FEWS) technique to produce unrevised price indexes at near real-time. We will give examples using daily web scraped food data and administrative rent data. 
+
+Stats NZ recently signed up to purchase a trial supply of daily web-scraped online price data from PriceStats, the commercial counterpart of MIT's Billion Prices Project. This data captures, in real-time, online prices for a wide range of different NZ retailers. Preliminary research on measuring rent price change from government administrative data held by MBIE will also be used to illustrate our approach to the art of using *big data*. This data source highlights the opportunities and obstacles of coverage, timing and quality adjustment.
+
+<span>**References:**</span>
+
+Krsinich, F (2016). The FEWS index: Fixed effects with a window splice. *Journal of Official Statistics*, Vol. 32, No. 2, 2016, pp. 375--404
+

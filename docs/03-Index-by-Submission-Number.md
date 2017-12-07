@@ -202,5 +202,8 @@
 <tr><td><a href = "Wednesday.html#talk_202">202</a></td><td><a href = "Wednesday.html#talk_202">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_203">203</a></td><td><a href = "Monday.html#talk_203">Estimating Links Of A Network From Time To Event Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_204">204</a></td><td><a href = "Monday.html#talk_204">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_205">205</a></td><td><a href = "Wednesday.html#talk_205">Towards A Big Data CPI For New Zealand</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_206">206</a></td><td><a href = "Wednesday.html#talk_206">Investigating Methods To Produce Price Indexes From Big Data</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_207">207</a></td><td><a href = "Wednesday.html#talk_207">The Potential Of Web Scraping</a></td></tr>
 </tbody>
 </table>

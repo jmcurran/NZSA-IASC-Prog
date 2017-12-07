@@ -1941,6 +1941,25 @@ modeling.
 
 
 <p class="pagebreak"></p>
+<div id = "talk_206"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:00 Case Room 1 (260-005)</p></div>
+## Investigating Methods To Produce Price Indexes From Big Data {.unnumbered}
+<p style="text-align:center">
+Alan Bentley and Mathew Stansfield<br />
+Stats NZ<br />
+</p>
+<span>**Abstract:**</span> We will present our latest findings on a promising method to use big data for enhancing and improving our current data collections and price measurement. We apply a fixed effects regression approach including using the Fixed Effects Window Splice (FEWS) technique to produce unrevised price indexes at near real-time. We will give examples using daily web scraped food data and administrative rent data. 
+
+Stats NZ recently signed up to purchase a trial supply of daily web-scraped online price data from PriceStats, the commercial counterpart of MIT's Billion Prices Project. This data captures, in real-time, online prices for a wide range of different NZ retailers. Preliminary research on measuring rent price change from government administrative data held by MBIE will also be used to illustrate our approach to the art of using *big data*. This data source highlights the opportunities and obstacles of coverage, timing and quality adjustment.
+
+<span>**References:**</span>
+
+Krsinich, F (2016). The FEWS index: Fixed effects with a window splice. *Journal of Official Statistics*, Vol. 32, No. 2, 2016, pp. 375--404
+
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
 <div id = "talk_126"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p></div>
 ## Computing Entropies With Nested Sampling {.unnumbered}
 <p style="text-align:center">
@@ -2110,6 +2129,18 @@ Dimension Reduction
 
 
 <p class="pagebreak"></p>
+<div id = "talk_207"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:20 Case Room 1 (260-005)</p></div>
+## The Potential Of Web Scraping {.unnumbered}
+<p style="text-align:center">
+Mathew Stansfield and Sam Olivecrona<br />
+Stats NZ<br />
+</p>
+<span>**Abstract:**</span> As part of Stats NZ's initiative to explore alternative methods of data collection for price indexes we are currently investigating web scraping. In the short term we are looking to substitute manual online collection, in the medium term we are looking to produce a real-time *Digital Food Price Index*. We will demonstrate a basic technique of web scraping through the R package `rvest`. We will discuss some of the challenges and limitations of web scraping more sophisticated websites, and using web scraped data in the production of official price indexes. Some challenging questions in this area are regarding the reliability, relevance, and ethics of using internet prices. Will web scraping make us too reliant on external data sources? Do online prices reflect what consumers pay? Is the publicly available data truly public, or does it belong to the company?
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
 <div id = "talk_196"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:40 Case Room 4 (260-009)</p></div>
 ## A Simple Method To Construct Confidence Bands In Functional Linear Regression {.unnumbered}
 <p style="text-align:center">
@@ -2205,6 +2236,24 @@ in detecting high clustering effects, and is optimal when sample size
 exceeds the number of predictors. The test can be a useful support tool
 to help address limitations of existing cluster-based methods in anomaly
 detection.
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
+<div id = "talk_205"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:40 Case Room 1 (260-005)</p></div>
+## Towards A Big Data CPI For New Zealand {.unnumbered}
+<p style="text-align:center">
+Alan Bentley<br />
+Stats NZ<br />
+</p>
+<span>**Abstract:**</span> In our digital age, what's the best way to measure inflation? We find an abundance of new data sources, yet these are *found data* in the sense that measuring CPI inflation is a secondary use of the data. Coverage and access become key issues. Automated, scalable, price measurement methods are a must. In this session we take stock and explore the path to a *big data* Consumers Price Index (CPI) for New Zealand.
+
+We discuss the drivers for change and the benefits to a big data approach, reflecting on our early adoption of model-based approaches to price measurement, such as using a hedonic model for second-hand cars, and retail transaction---scanner data---for consumer electronics products (including TVs, computers, digital cameras) in the Consumers Price Index. 
+
+We look towards the future by considering the opportunities that are currently in front of us. Notably, we recently signed up to the supply of daily web-scraped online price data from PriceStats, the commercial counterpart of MIT's Billion Prices Project. 
+
+<span>**Keywords:**</span> Big data, multilateral price indexes, model-based inflation measurement
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 

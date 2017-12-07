@@ -464,7 +464,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_090" style = "color: black;">Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories<br/>Kiyotaka Iki</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_123" style = "color: black;">Sparse Estimates From Dense Precision Matrix Posteriors<br/>Beatrix Jones</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_068" style = "color: black;">Dimension Reduction Strategies For Modeling Bi-Clustered High Dimensional Data<br/>Michael Van Supranes</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;">STATS NZ Invited Session To Be Added Here By James Real Soon Now</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_206" style = "color: black;">Investigating Methods To Produce Price Indexes From Big Data<br/>Mathew Stansfield</a></td>
 </tr>
 <tr>
 <td class = "time">1620</td>
@@ -473,7 +473,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_114" style = "color: black;">A New Approach To Distribution Free Tests In Contingency Tables<br/>Thuong Nguyen</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_202" style = "color: black;">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models<br/>Li-Hsien Sun</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_104" style = "color: black;">Modified Gene Shaving Algorithm - A Dimension Reduction And Clustering Method<br/>Donna Mae Santos</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_207" style = "color: black;">The Potential Of Web Scraping<br/>Sam Olivecrona</a></td>
 </tr>
 <tr>
 <td class = "time">1640</td>
@@ -482,7 +482,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_129" style = "color: black;">Separation Of Symmetry For Square Contingency Tables With Ordinal Categories<br/>Kouji Tahata</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_107" style = "color: black;">Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors<br/>Frances Claire San Juan</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_205" style = "color: black;">Towards A Big Data CPI For New Zealand<br/>Alan Bentley</a></td>
 </tr>
 </tbody>
 </table>

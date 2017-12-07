@@ -1,0 +1,7 @@
+<span>**Abstract:**</span> In our digital age, what's the best way to measure inflation? We find an abundance of new data sources, yet these are *found data* in the sense that measuring CPI inflation is a secondary use of the data. Coverage and access become key issues. Automated, scalable, price measurement methods are a must. In this session we take stock and explore the path to a *big data* Consumers Price Index (CPI) for New Zealand.
+
+We discuss the drivers for change and the benefits to a big data approach, reflecting on our early adoption of model-based approaches to price measurement, such as using a hedonic model for second-hand cars, and retail transaction---scanner data---for consumer electronics products (including TVs, computers, digital cameras) in the Consumers Price Index. 
+
+We look towards the future by considering the opportunities that are currently in front of us. Notably, we recently signed up to the supply of daily web-scraped online price data from PriceStats, the commercial counterpart of MIT's Billion Prices Project. 
+
+<span>**Keywords:**</span> Big data, multilateral price indexes, model-based inflation measurement
