@@ -279,7 +279,7 @@
 <td class = "contributed"><a href="Tuesday.html#talk_151" style = "color: black;">BIVAS: A Scalable Bayesian Method For Bi-Level Variable Selection<br/>Mingxuan Cai</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_078" style = "color: black;">Ranking Potential Shoplifters In Real Time<br/>Barry McDonald</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_073" style = "color: black;">Two Stage Approach To Data-Driven Subgroup Identification In Clinical Trials<br/>Toshio Shimokawa</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_013" style = "color: black;">Estimation And Prediction For A Distribution With Bathtub Shape Under Progressive First Failure Censoring<br/>Tanmay Kayal</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1620</td>
@@ -288,7 +288,7 @@
 <td class = "contributed"><a href="Tuesday.html#talk_074" style = "color: black;">Adjusted Adaptive Index Model For Binary Response<br/>Ke Wan</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_109" style = "color: black;">Factors Influencing On Growth Of Garments Industry In Bangladesh<br/>Md. Shahidul Islam</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_103" style = "color: black;">Comparison Of Exact And Approximate Testing Procedures In Clinical Trials With Multiple Binary Endpoints<br/>Takuma Ishihara</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_014" style = "color: black;">Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme<br/>Tanmay Sen</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1640</td>
@@ -352,7 +352,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_158" style = "color: black;">A Smoothing Filter Modelling Approach For Time Series<br/>Marco Reale</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_003" style = "color: black;">Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation<br/>Yongdai Kim</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_050" style = "color: black;">Improving The Production Cycle At Stats NZ With Rstudio<br/>Gareth Minshall</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_006" style = "color: black;">Sparse Common Component Analysis<br/>Heewon Park</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_063" style = "color: black;">A Max-Type Multivariate Two-Sample Baumgartner Statistic<br/>Hidetoshi Murakami</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_062" style = "color: black;">Random Search Global Optimization Using Random Forests<br/>Blair Robertson</a></td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_188" style = "color: black;">Probabilistic Outlier Detection And Visualization Of Smart Meter Data<br/>Rob Hyndman</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_004" style = "color: black;">The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach<br/>Thi Thu Huong Pham</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_053" style = "color: black;">R – A Powerful Analysis Tool To Improve Official Statistics In Romania<br/>Nicoleta Caragea</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_063" style = "color: black;">A Max-Type Multivariate Two-Sample Baumgartner Statistic<br/>Hidetoshi Murakami</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_071" style = "color: black;">Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings<br/>Takahiro Nishiyama</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_075" style = "color: black;">Dimension Reduction For Classification Of High-Dimensional Data By Stepwise SVM<br/>Elizabeth Chou</a></td>
 </tr>
 <tr>
@@ -370,16 +370,16 @@
 <td class = "contributed"><a href="Wednesday.html#talk_007" style = "color: black;">Specification Of GARCH Model Under Asymmetric Error Innovations<br/>Oyebimpe Adeniji</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_064" style = "color: black;">Performance Of Bayesian Credible Interval For Binomial Proportion Using Logit Transformation<br/>Toru Ogura</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_054" style = "color: black;">Statistical Disclosure Control With R: Traditional Methods And Synthetic Data<br/>Matthias Templ</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_071" style = "color: black;">Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings<br/>Takahiro Nishiyama</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_108" style = "color: black;">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_096" style = "color: black;">Deep Learning High-Dimensional Covariance Matrices<br/>Philip Yu</a></td>
 </tr>
 <tr>
 <td class = "time">1130</td>
 <td class = "contributed"><a href="Wednesday.html#talk_141" style = "color: black;">R In Industry – Application On Pipe Renewal Planning<br/>Glenn Thomas</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_059" style = "color: black;">Empirical Comparison Of Some Algorithms For Automatic Univariate ARMA Modeling Using Rcmdrplugin.SPSS<br/>Dedi Rosadi</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_014" style = "color: black;">Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme<br/>Tanmay Sen</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_098" style = "color: black;">Imputation Of The 2016 Economic Census For Business Activity In Japan<br/>Kazumi Wada</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_108" style = "color: black;">High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient<br/>Mitsuru Tamatani</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_105" style = "color: black;">Applying Active Learning Procedure To Drug Consumption Data<br/>Yuan-Chin Chang</a></td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@
 <td class = "contributed"><a href="Wednesday.html#talk_090" style = "color: black;">Measure Of Departure From Marginal Average Point-Symmetry For Two-Way Contingency Tables With Ordered Categories<br/>Kiyotaka Iki</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_123" style = "color: black;">Sparse Estimates From Dense Precision Matrix Posteriors<br/>Beatrix Jones</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_068" style = "color: black;">Dimension Reduction Strategies For Modeling Bi-Clustered High Dimensional Data<br/>Michael Van Supranes</a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;">STATS NZ Invited Session To Be Added Here By James Real Soon Now</a></td>
 </tr>
 <tr>
 <td class = "time">1620</td>

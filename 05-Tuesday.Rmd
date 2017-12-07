@@ -1262,33 +1262,6 @@ package version 1.5-7. Available at
 
 
 <p class="pagebreak"></p>
-<div id = "talk_013"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:00 Case Room 4 (260-009)</p></div>
-## Estimation And Prediction For A Distribution With Bathtub Shape Under Progressive First Failure Censoring {.unnumbered}
-<p style="text-align:center">
-Tanmay Kayal and Yogesh Mani Tripathi<br />
-Indian Institute of Technology Patna<br />
-</p>
-<span>**Abstract:**</span> In this work we consider a two-parameter distribution with bathtub shape
-under progressive first failure censoring. We obtain maximum likelihood
-estimates of unknown parameters and then compute observed Fisher
-information matrix. Further we consider a non linear regression model to
-estimate the unknown parameters using least square estimation method and
-construct 95% Bonferroni confidence intervals for the same. We also
-estimate the parameters using Bayesian approaches such as Tierney-Kadane
-method and Metropolis-Hastings algorithm against gamma prior
-distributions. One- and two-sample prediction problems are discussed
-under Bayesian framework. We study the performance of proposed methods
-using Monte Carlo Simulations and finally analyze a real data set for
-illustration purposes.
-
-<span>**Keywords:**</span> Bayes estimates, Highest
-posterior density interval, Least square estimation, Maximum likelihood
-estimates, Progressive first failure censoring
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
 <div id = "talk_184"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 098 Lecture Theatre (260-098)</p></div>
 ## Inverse Regression For Multivariate Functional Data {.unnumbered}
 <p style="text-align:center">
@@ -1479,41 +1452,6 @@ multiple endpoints. *Japanese Journal of Biometrics,* **35**, 17-35.
 
 Westfall PH and Troendle JF. (2008). Multiple testing with
 minimal assumptions. *Biometrical Journal,* **50(5)**, 745-755.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
-<div id = "talk_014"><p class="contribBanner">Tuesday 12<sup>th</sup> 16:20 Case Room 4 (260-009)</p></div>
-## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {.unnumbered}
-<p style="text-align:center">
-Tanmay Sen^1^, Biswabrata Pradhan^2^, Yogesh Mani Tripathi^1^, and Ritwik Bhattacharya^3^<br />
-^1^Indian Institute of Technology Patna<br />
-^2^Indian Statistical Institute  Kolkata<br />
-^3^Centro de Investigacionen Matematicas<br />
-</p>
-<span>**Abstract:**</span> This work considers determination of optimum
-warranty length under Type-II unified hybrid censoring scheme. Consumers
-are willing to purchase a highly reliable product with certain cost
-constraint. To assure the product reliability and also to remain
-profitable, the manufacturer provides warranties on product lifetime.
-Moreover, censoredlifetime data are available in practice, to assess the
-reliability of the product. Therefore, determination of an appropriate
-warranty length based on censored lifetime data is an important issue to
-the manufacturer. It is assumed that the lifetime follows a lognormal
-distribution. We consider a combine free replacement and pro-rata
-warranty policy (FRW/PRW). The life test is conducted under Type-II
-unified hybrid censoring scheme. The warranty length is obtained by
-maximizing an expected utility function.The expectation is taken with
-respect to the posterior predictive model for time to failure given the
-available data obtained under Type-II unified hybrid censoring scheme. A
-real data set is analyzed to illustrate the proposed methodology. We
-propose a non-linear prorate warranty policy and compare them with
-linear warranty policy. It is observed that non-linear prorate warranty
-policy give larger warranty length with maximum profit
-
-<span>**Keywords:**</span> Lognormal distribution, FRW/PRW policies,
-Optimum warranty length, MH algorithm
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
 

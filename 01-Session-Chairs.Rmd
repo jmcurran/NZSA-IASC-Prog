@@ -126,7 +126,7 @@
 <td class = "contributed">Philip L.H. Yu</td>
 <td class = "contributed">Tianying Chu</td>
 <td class = "contributed">Rose Sisk</td>
-<td class = "contributed">Tanmay Kayal</td>
+<td class = "contributed"></td>
 </tr>
 </tbody>
 </table>

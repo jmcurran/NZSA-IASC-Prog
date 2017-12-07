@@ -118,40 +118,41 @@ This work was supported by JSPS KAKENHI Grant Number JP16H02013.
 
 
 <p class="pagebreak"></p>
-<div id = "talk_006"><p class="contribBanner">Wednesday 13<sup>th</sup> 10:30 Case Room 3 (260-055)</p></div>
-## Sparse Common Component Analysis {.unnumbered}
+<div id = "talk_063"><p class="contribBanner">Wednesday 13<sup>th</sup> 10:30 Case Room 3 (260-055)</p></div>
+## A Max-Type Multivariate Two-Sample Baumgartner Statistic {.unnumbered}
 <p style="text-align:center">
-Heewon Park^1^ and Sadanori Konishi^2^<br />
-^1^Yamaguchi University<br />
-^2^Chuo University<br />
+Hidetoshi Murakami<br />
+Tokyo University of Science<br />
 </p>
-<span>**Abstract:**</span> Common component analysis (CCA) was proposed
-by generalizing techniques for principal component analysis (PCA) for a
-common basic structure identification (Wang et al., 2011). Although CCA
-can identify the common structure of multiple datasets, which cannot be
-extracted by standard PCA, the common components by CCA are estimated as
-linear combinations of all variables, and thus it is difficult to
-interpret the identified common components. Furthermore, the CCA
-procedure may be disturbed by noisy features, because CCA is based on
-the fully dense loadings. To address these issues, we proposed sparse
-common component analysis based on $L_{1}$-type regularized regression
-modeling. The proposed CCA can be performed by iterative sparse
-non-centered PCA for a square root of a gram matrix. We also propose an
-algorithm to estimate sparse common loadings of multiple datasets in
-line with the algorithm of CCA. We observe from the numerical studies
-that the proposed CCA can incorporate sparsity into the common loading
-estimation, and recover a sparse common structure efficiently in
-multiple dataset analysis.
+<span>**Abstract:**</span> A multivariate two-sample testing problem is
+one of the most important topics in nonparametric statistics. Further, a
+max-type Baumgartner statistic based on the modified Baumgartner
+statistic (Murakami, 2006) was proposed by Murakami (2012) for testing
+the equality of two continuous distribution functions. In this paper, a
+max-type multivariate two-sample Baumgartner statistic is suggested
+based on the Jurečková and Kalina’s ranks of distances (Jurečková and
+Kalina, 2012). Simulations are used to investigate the power of the
+suggested statistic for various population distributions. The results
+indicate that the proposed test statistic is more suitable than various
+existing statistics for testing a shift in the location, scale and
+location-scale parameters.
 
-<span>**Keywords:**</span> Common component analysis, $L_{1}$-type
-regularized regression, Sparse non-centered principal component analysis
+<span>**Keywords:**</span> Baumgartner statistic, Jurečková & Kalina’s
+ranks of distances, Multivariate two-sample rank test, Power comparison
 
 <span>**References:**</span>
 
-Wang, H., Banerjee, A. and Boley, D. (2011). Common component analysis
-for multiple covariance matrices. *Proceedings of the 17th ACM SIGKDD
-International Conference on Knowledge Discovery and Data Mining*,
-956–964.
+Jurečková, J. and Kalina, J. (2012). Nonparametric multivariate rank
+tests and their unbiasedness. <span>*Bernoulli*</span>, **18**, 229–251.
+
+Murakami, H. (2006). A $k$-sample rank test based on the modified
+Baumgartner statistic and its power comparison. <span>*Journal of the
+Japanese Society of Computational Statistics*</span>,
+<span>**19**</span>, 1–13.
+
+Murakami, H. (2012). A max-type Baumgartner statistic for the two-sample
+problem and its power comparison. <span>*Journal of the Japanese Society
+of Computational Statistics*</span>, **25**, 39–49.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -353,41 +354,46 @@ method, linkage method
 
 
 <p class="pagebreak"></p>
-<div id = "talk_063"><p class="contribBanner">Wednesday 13<sup>th</sup> 10:50 Case Room 3 (260-055)</p></div>
-## A Max-Type Multivariate Two-Sample Baumgartner Statistic {.unnumbered}
+<div id = "talk_071"><p class="contribBanner">Wednesday 13<sup>th</sup> 10:50 Case Room 3 (260-055)</p></div>
+## Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings {.unnumbered}
 <p style="text-align:center">
-Hidetoshi Murakami<br />
-Tokyo University of Science<br />
+Takahiro Nishiyama^1^ and Masashi Hyodo^2^<br />
+^1^Senshu University<br />
+^2^Osaka Prefecture University<br />
 </p>
-<span>**Abstract:**</span> A multivariate two-sample testing problem is
-one of the most important topics in nonparametric statistics. Further, a
-max-type Baumgartner statistic based on the modified Baumgartner
-statistic (Murakami, 2006) was proposed by Murakami (2012) for testing
-the equality of two continuous distribution functions. In this paper, a
-max-type multivariate two-sample Baumgartner statistic is suggested
-based on the Jurečková and Kalina’s ranks of distances (Jurečková and
-Kalina, 2012). Simulations are used to investigate the power of the
-suggested statistic for various population distributions. The results
-indicate that the proposed test statistic is more suitable than various
-existing statistics for testing a shift in the location, scale and
-location-scale parameters.
+<span>**Abstract:**</span> Let $\mathbf{X}_{g1}, \mathbf{X}_{g2}, \ldots, \mathbf{X}_{gn_g}$ be i.i.d. random samples of
+size $n_g$ from a $p$-dimensional population $\Pi_g$
+($g \in \{1, 2\}$) with
+$\mathrm{E}(\mathbf{X}_{gi})={\boldsymbol\mu}_g$
+and ${\rm var}({\mbox{\boldmath ${X}$}}_{gi})=\Sigma_g$
+($i \in \{1, \ldots ,n_g\}$). In this talk, our primary interest is to
+test following hypothesis when $p > \min\{n_1-1, n_2-1 \}$:
+$$\begin{aligned}
+H_0 : {\boldsymbol\mu}_1 = {\boldsymbol\mu}_1,~ \Sigma_1 = \Sigma_2 \quad 
+\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.
+\end{aligned}$$
 
-<span>**Keywords:**</span> Baumgartner statistic, Jurečková & Kalina’s
-ranks of distances, Multivariate two-sample rank test, Power comparison
+For this problem, we discuss an $L^2$-norm-based test for simultaneous
+testing of mean vectors and covariance matrices among two non-normal
+populations. To construct a test procedure, we propose a test statistic
+based on both unbiased estimator of differences mean vectors proposed by
+Chen and Qin (2010) and covariance matrices proposed by Li and Chen
+(2012). Also, we derive an asymptotic distribution of this test
+statistic and investigate the asymptotic sizes and powers of the
+proposed test. Finally, we study the finite sample and dimension
+performance of this test via Monte Carlo simulations.
+
+<span>**Keywords:**</span> Asymptotic distribution, High-dimensional
+data analysis, Testing hypothesis
 
 <span>**References:**</span>
 
-Jurečková, J. and Kalina, J. (2012). Nonparametric multivariate rank
-tests and their unbiasedness. <span>*Bernoulli*</span>, **18**, 229–251.
+Chen, S.X. and Qin, Y.L. (2010). A two-sample test for high dimensional
+data with applications to gene-set testing. *Ann. Statist.*, **38**,
+808–835.
 
-Murakami, H. (2006). A $k$-sample rank test based on the modified
-Baumgartner statistic and its power comparison. <span>*Journal of the
-Japanese Society of Computational Statistics*</span>,
-<span>**19**</span>, 1–13.
-
-Murakami, H. (2012). A max-type Baumgartner statistic for the two-sample
-problem and its power comparison. <span>*Journal of the Japanese Society
-of Computational Statistics*</span>, **25**, 39–49.
+Li, J and Chen, S.X. (2012). Two sample tests for high-dimensional
+covariance matrices. *Ann. Statist.*, **40**, 908–940.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -557,46 +563,41 @@ Software*, 79(10), 1-38. doi:10.18637/jss.v079.i10
 
 
 <p class="pagebreak"></p>
-<div id = "talk_071"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:10 Case Room 3 (260-055)</p></div>
-## Simultaneous Test For Mean Vectors And Covariance Matrices In High-Dimensional Settings {.unnumbered}
+<div id = "talk_108"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:10 Case Room 3 (260-055)</p></div>
+## High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient {.unnumbered}
 <p style="text-align:center">
-Takahiro Nishiyama^1^ and Masashi Hyodo^2^<br />
-^1^Senshu University<br />
-^2^Osaka Prefecture University<br />
+Mitsuru Tamatani^1^ and Kanta Naito^2^<br />
+^1^Doshisha University<br />
+^2^Shimane University<br />
 </p>
-<span>**Abstract:**</span> Let $\mathbf{X}_{g1}, \mathbf{X}_{g2}, \ldots, \mathbf{X}_{gn_g}$ be i.i.d. random samples of
-size $n_g$ from a $p$-dimensional population $\Pi_g$
-($g \in \{1, 2\}$) with
-$\mathrm{E}(\mathbf{X}_{gi})={\boldsymbol\mu}_g$
-and ${\rm var}({\mbox{\boldmath ${X}$}}_{gi})=\Sigma_g$
-($i \in \{1, \ldots ,n_g\}$). In this talk, our primary interest is to
-test following hypothesis when $p > \min\{n_1-1, n_2-1 \}$:
-$$\begin{aligned}
-H_0 : {\boldsymbol\mu}_1 = {\boldsymbol\mu}_1,~ \Sigma_1 = \Sigma_2 \quad 
-\mbox{vs.} \quad H_1 : \mbox{not}~ H_0.
-\end{aligned}$$
+<span>**Abstract:**</span> In this talk we investigate the asymptotic
+behavior of the estimated naive canonical correlation coefficient under
+the normality assumption and High Dimension Low Sample Size (HDLSS)
+settings. In general, canonical correlation matrix is associated with
+canonical correlation analysis which is useful in studying the
+relationship between two sets of variables. However, in HDLSS settings,
+the within-class sample covariance matrix $\hat{\Sigma}$ is singular,
+because the rank of $\hat{\Sigma}$ is much less than the number of
+dimension. To avoid the singularity of $\hat{\Sigma}$ in HDLSS settings,
+we utilize the naive canonical correlation matrix with replacing sample
+covariance matrix by its diagonal part only. We derive the asymptotic
+normality of the estimated naive canonical correlation coefficient, and
+compare the results of our numerical studies to the theoretical
+asymptotic results.
 
-For this problem, we discuss an $L^2$-norm-based test for simultaneous
-testing of mean vectors and covariance matrices among two non-normal
-populations. To construct a test procedure, we propose a test statistic
-based on both unbiased estimator of differences mean vectors proposed by
-Chen and Qin (2010) and covariance matrices proposed by Li and Chen
-(2012). Also, we derive an asymptotic distribution of this test
-statistic and investigate the asymptotic sizes and powers of the
-proposed test. Finally, we study the finite sample and dimension
-performance of this test via Monte Carlo simulations.
-
-<span>**Keywords:**</span> Asymptotic distribution, High-dimensional
-data analysis, Testing hypothesis
+<span>**Keywords:**</span> High dimension low sample size, Naive
+canonical correlation coefficient, Asymptotic normality
 
 <span>**References:**</span>
 
-Chen, S.X. and Qin, Y.L. (2010). A two-sample test for high dimensional
-data with applications to gene-set testing. *Ann. Statist.*, **38**,
-808–835.
+Tamatani, M., Koch, I. and Naito, K. (2012). *Journal of Multivariate
+Analysis*, **111**, 350–367.
 
-Li, J and Chen, S.X. (2012). Two sample tests for high-dimensional
-covariance matrices. *Ann. Statist.*, **40**, 908–940.
+Srivastava, M. S. (2011). *Journal of Multivariate Analysis*, **102**,
+1190–1103.
+
+Fan, J. and Fan, Y. (2008). *The Annals of Statistics*, **36**,
+2605–2637.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
@@ -727,6 +728,41 @@ Presented in *COMPSTAT 2016*, Oviedo, Spain, 23-26 August 2016.
 
 
 <p class="pagebreak"></p>
+<div id = "talk_014"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:30 OGGB5 (260-051)</p></div>
+## Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme {.unnumbered}
+<p style="text-align:center">
+Tanmay Sen^1^, Biswabrata Pradhan^2^, Yogesh Mani Tripathi^1^, and Ritwik Bhattacharya^3^<br />
+^1^Indian Institute of Technology Patna<br />
+^2^Indian Statistical Institute  Kolkata<br />
+^3^Centro de Investigacionen Matematicas<br />
+</p>
+<span>**Abstract:**</span> This work considers determination of optimum
+warranty length under Type-II unified hybrid censoring scheme. Consumers
+are willing to purchase a highly reliable product with certain cost
+constraint. To assure the product reliability and also to remain
+profitable, the manufacturer provides warranties on product lifetime.
+Moreover, censoredlifetime data are available in practice, to assess the
+reliability of the product. Therefore, determination of an appropriate
+warranty length based on censored lifetime data is an important issue to
+the manufacturer. It is assumed that the lifetime follows a lognormal
+distribution. We consider a combine free replacement and pro-rata
+warranty policy (FRW/PRW). The life test is conducted under Type-II
+unified hybrid censoring scheme. The warranty length is obtained by
+maximizing an expected utility function.The expectation is taken with
+respect to the posterior predictive model for time to failure given the
+available data obtained under Type-II unified hybrid censoring scheme. A
+real data set is analyzed to illustrate the proposed methodology. We
+propose a non-linear prorate warranty policy and compare them with
+linear warranty policy. It is observed that non-linear prorate warranty
+policy give larger warranty length with maximum profit
+
+<span>**Keywords:**</span> Lognormal distribution, FRW/PRW policies,
+Optimum warranty length, MH algorithm
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
 <div id = "talk_098"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:30 Case Room 2 (260-057)</p></div>
 ## Imputation Of The 2016 Economic Census For Business Activity In Japan {.unnumbered}
 <p style="text-align:center">
@@ -773,46 +809,6 @@ squares, Ratio estimator, Official statistics
 
 <span>**Acknowledgement:**</span>
 This work was supported by JSPS KAKENHI Grant Number JP16H02013.
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
-<div id = "talk_108"><p class="contribBanner">Wednesday 13<sup>th</sup> 11:30 Case Room 3 (260-055)</p></div>
-## High Dimensional Asymptotics For The Naive Canonical Correlation Coefficient {.unnumbered}
-<p style="text-align:center">
-Mitsuru Tamatani^1^ and Kanta Naito^2^<br />
-^1^Doshisha University<br />
-^2^Shimane University<br />
-</p>
-<span>**Abstract:**</span> In this talk we investigate the asymptotic
-behavior of the estimated naive canonical correlation coefficient under
-the normality assumption and High Dimension Low Sample Size (HDLSS)
-settings. In general, canonical correlation matrix is associated with
-canonical correlation analysis which is useful in studying the
-relationship between two sets of variables. However, in HDLSS settings,
-the within-class sample covariance matrix $\hat{\Sigma}$ is singular,
-because the rank of $\hat{\Sigma}$ is much less than the number of
-dimension. To avoid the singularity of $\hat{\Sigma}$ in HDLSS settings,
-we utilize the naive canonical correlation matrix with replacing sample
-covariance matrix by its diagonal part only. We derive the asymptotic
-normality of the estimated naive canonical correlation coefficient, and
-compare the results of our numerical studies to the theoretical
-asymptotic results.
-
-<span>**Keywords:**</span> High dimension low sample size, Naive
-canonical correlation coefficient, Asymptotic normality
-
-<span>**References:**</span>
-
-Tamatani, M., Koch, I. and Naito, K. (2012). *Journal of Multivariate
-Analysis*, **111**, 350–367.
-
-Srivastava, M. S. (2011). *Journal of Multivariate Analysis*, **102**,
-1190–1103.
-
-Fan, J. and Fan, Y. (2008). *The Annals of Statistics*, **36**,
-2605–2637.
 <p style = "text-align: right">
 <a href = "programme-at-a-glance.html#Wednesday-tbl">Return to Programme</a><br/><br/></p>
 
