@@ -265,7 +265,7 @@ Russell Millar: <a href="Tuesday.html#talk_138" style ="color: blue;">138</a><br
 Ryo Kikuchi: <a href="Wednesday.html#talk_112" style ="color: blue;">112</a><br />
 Ryo Takagi: <a href="Monday.html#talk_095" style ="color: blue;">095</a><br />
 Sally Coulson: <a href="Tuesday.html#talk_116" style ="color: blue;">116</a><br />
-Sam Olivecrona: <a href="Wednesday.html#talk_207" style ="color: blue;">207</a><br />
+Sam Olivecrona: <a href="Wednesday.html#talk_206" style ="color: blue;">206</a>, <a href="Wednesday.html#talk_207" style ="color: blue;">207</a><br />
 Samin Aref: <a href="Tuesday.html#talk_084" style ="color: blue;">084</a><br />
 Sangwook Kang: <a href="Wednesday.html#talk_181" style ="color: blue;">181</a><br />
 Sarah Pirikahu: <a href="Tuesday.html#talk_115" style ="color: blue;">115</a><br />

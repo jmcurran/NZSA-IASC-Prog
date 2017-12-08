@@ -1944,7 +1944,7 @@ modeling.
 <div id = "talk_206"><p class="contribBanner">Wednesday 13<sup>th</sup> 16:00 Case Room 1 (260-005)</p></div>
 ## Investigating Methods To Produce Price Indexes From Big Data {.unnumbered}
 <p style="text-align:center">
-Alan Bentley and Mathew Stansfield<br />
+Alan Bentley, Mathew Stansfield, and Sam Olivecrona<br />
 Stats NZ<br />
 </p>
 <span>**Abstract:**</span> We will present our latest findings on a promising method to use big data for enhancing and improving our current data collections and price measurement. We apply a fixed effects regression approach including using the Fixed Effects Window Splice (FEWS) technique to produce unrevised price indexes at near real-time. We will give examples using daily web scraped food data and administrative rent data. 
