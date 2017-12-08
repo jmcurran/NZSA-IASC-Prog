@@ -87,7 +87,6 @@
 <tr><td><a href = "Wednesday.html#talk_083">083</a></td><td><a href = "Wednesday.html#talk_083">Rolling Survival Extrapolation Algorithm For Estimating Life Years Lost Among Subjects Exposed To Long-Term Air Pollution</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_084">084</a></td><td><a href = "Tuesday.html#talk_084">Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_085">085</a></td><td><a href = "Monday.html#talk_085">Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury</a></td></tr>
-<tr><td><a href = "Tuesday.html#talk_086">086</a></td><td><a href = "Tuesday.html#talk_086">Correlated Defaults With A Distance To Default</a></td></tr>
 <tr><td><a href = "Monday.html#talk_087">087</a></td><td><a href = "Monday.html#talk_087">Symbolic Data Analytical Approach To Unauthorized-Access Logs</a></td></tr>
 <tr><td><a href = "Monday.html#talk_088">088</a></td><td><a href = "Monday.html#talk_088">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_089">089</a></td><td><a href = "Thursday.html#talk_089">Interactive Visualization Of Aggregated Symbolic Data</a></td></tr>

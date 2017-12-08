@@ -630,34 +630,6 @@ expansions, robust priors
 
 
 <p class="pagebreak"></p>
-<div id = "talk_086"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 Case Room 4 (260-009)</p></div>
-## Correlated Defaults With A Distance To Default {.unnumbered}
-<p style="text-align:center">
-Cheng-Der Fuh^1^ and Chu-Lan Kao^2^<br />
-^1^National Central University<br />
-^2^National Chiao Tung University<br />
-</p>
-<span>**Abstract:**</span> To study the feature of default clustering in
-credit risk management, this paper evaluates joint default probabilities
-and default correlation for multiple firms through the classical default
-barrier structure form model. Under the commonly used factor model, by
-making use of a developed renewal theory, we provide a closed form
-approximation for the joint default probability, default correlation and
-expected default time, both for a specific firm as well as the first to
-default among a group of firms. Moreover, based on the approximated
-default correlation and expected default time, we propose a multi-name
-Distance-to-Default, which can be used to explain the feature of
-corporate default clustering: contagion and co-movement. Numerical
-studies for evaluating a multi-name Distance-to-Default are given to
-illustrate our model.
-
-<span>**Keywords:**</span> Correlated defaults, factor model, distance
-to default, renewal theory
-<p style = "text-align: right">
-<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
-
-
-<p class="pagebreak"></p>
 <div id = "talk_067"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p></div>
 ## Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset {.unnumbered}
 <p style="text-align:center">

@@ -231,7 +231,7 @@
 <td class = "contributed"><a href="Tuesday.html#talk_147" style = "color: black;">An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift<br/>Takahiro Ido</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_118" style = "color: black;">Analysis Of A Brief Telephone Intervention For Problem Gambling And Examining The Impact On Co-Existing Depression?<br/>Nick Garrett</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_175" style = "color: black;">Prior-Based Bayesian Information Criterion<br/>Woncheol Jang</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_086" style = "color: black;">Correlated Defaults With A Distance To Default<br/>Chu-Lan Kao</a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
 </tr>
 <tr>
 <td class = "time">1130</td>
@@ -478,7 +478,7 @@
 <tr>
 <td class = "time">1640</td>
 <td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;"></a></td>
-<td class = "contributed"><a href="Wednesday.html#talk_196" style = "color: black;">A Simple Method To Construct Confidence Bands In Functional Linear Regression<br/>Kengo Kato</a></td>
+<td class = "contributed"><a href="Wednesday.html#talk_196" style = "color: black;">A Simple Method To Construct Confidence Bands In Functional Linear Regression<br/>Masaaki Imaizumi</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_129" style = "color: black;">Separation Of Symmetry For Square Contingency Tables With Ordinal Categories<br/>Kouji Tahata</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_NA" style = "color: black;">Scalable Kernel-Based Variable Selection With Sparsistency<br/>Junhui Wang</a></td>
 <td class = "contributed"><a href="Wednesday.html#talk_107" style = "color: black;">Testing For Presence Of Clustering Effect In Multilevel Model With High-Dimensional Predictors<br/>Frances Claire San Juan</a></td>

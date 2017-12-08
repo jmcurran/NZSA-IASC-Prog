@@ -45,7 +45,6 @@ Catherine Mercer: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><
 Chae Young Lim: <a href="Tuesday.html#talk_169" style ="color: blue;">169</a><br />
 Chaitanya Joshi: <a href="Tuesday.html#talk_132" style ="color: blue;">132</a><br />
 Chanatda Somchit: <a href="Thursday.html#talk_133" style ="color: blue;">133</a><br />
-Cheng-Der Fuh: <a href="Tuesday.html#talk_086" style ="color: blue;">086</a><br />
 Chi-Hsiang Chu: <a href="Monday.html#talk_049" style ="color: blue;">049</a><br />
 Chi-Wei Lai: <a href="Tuesday.html#talk_046" style ="color: blue;">046</a><br />
 Chihhao Chang: <a href="Thursday.html#talk_106" style ="color: blue;">106</a><br />
@@ -56,7 +55,6 @@ Chris Hansen: <a href="Wednesday.html#talk_050" style ="color: blue;">050</a><br
 Chris Price: <a href="Wednesday.html#talk_062" style ="color: blue;">062</a><br />
 Chris Wild: <a href="Thursday.html#talk_133" style ="color: blue;">133</a><br />
 Christopher Triggs: <a href="Monday.html#talk_038" style ="color: blue;">038</a>, <a href="Tuesday.html#talk_116" style ="color: blue;">116</a><br />
-Chu-Lan Kao: <a href="Tuesday.html#talk_086" style ="color: blue;">086</a><br />
 Chul Eung Kim: <a href="Wednesday.html#talk_178" style ="color: blue;">178</a><br />
 Ci-Ren Jiang: <a href="Tuesday.html#talk_184" style ="color: blue;">184</a><br />
 Ciprian Giurcaneanu: <a href="Monday.html#talk_038" style ="color: blue;">038</a><br />
