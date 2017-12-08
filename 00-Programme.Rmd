@@ -127,7 +127,7 @@
 <td class = "time">1510</td>
 <td class = "contributed"><a href="Monday.html#talk_146" style = "color: black;">Talk Data To Me<br/>Lisa Hall</a></td>
 <td class = "contributed"><a href="Monday.html#talk_052" style = "color: black;">Smooth Nonparametric Regression Under Shape Restrictions<br/>Hongbin Guo</a></td>
-<td class = "contributed"><a href="Monday.html#talk_130" style = "color: black;">Elastic-Band Transform: A New Approach To Multiscale Visualization<br/>Hee-Seok Oh</a></td>
+<td class = "contributed"><a href="Monday.html#talk_130" style = "color: black;">Elastic-Band Transform: A New Approach To Multiscale Visualization<br/>Guebin Choi</a></td>
 <td class = "contributed"><a href="Monday.html#talk_180" style = "color: black;">Meta-Analytic Principal Component Analysis In Integrative Omics Application<br/>Sunghwan Kim</a></td>
 <td class = "contributed"><a href="Monday.html#talk_081" style = "color: black;">Flight To Relative Safety: Learning From A No-Arbitrage Network Of Yield Curves Model Of The Euro Area<br/>Linlin Niu</a></td>
 <td class = "contributed"><a href="Monday.html#talk_NA" style = "color: black;"></a></td>
