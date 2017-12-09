@@ -1,11 +1,22 @@
+---
+output:
+  bookdown::gitbook:
+    includes:
+      in_header: tblsawinclude.html
+  ---
 # Programme At A Glance {-}
 ## Monday {#Monday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table style = "width: 4000px;">
+<table class="tablesaw" data-tablesaw-mode="swipe" data-tablesaw-minimap>
 <thead>
 <tr>
-<th class = "time">Time</th>
-<th class = "day">Monday 11<sup>th</sup></th>
+<th scope="col" data-tablesaw-priority="persist" class="time">Time</th>
+<th scope="col" data-tablesaw-priority="persist" class="day">Monday 11<sup>th</sup></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
 </tr>
 </thead>
 <tbody>
@@ -177,11 +188,16 @@
 </div>
 ## Tuesday {#Tuesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table style = "width: 4000px;">
+<table class="tablesaw" data-tablesaw-mode="swipe" data-tablesaw-minimap>
 <thead>
 <tr>
-<th class = "time">Time</th>
-<th class = "day">Tuesday 12<sup>th</sup></th>
+<th scope="col" data-tablesaw-priority="persist" class="time">Time</th>
+<th scope="col" data-tablesaw-priority="persist" class="day">Tuesday 12<sup>th</sup></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
 </tr>
 </thead>
 <tbody>
@@ -317,11 +333,16 @@
 </div>
 ## Wednesday {#Wednesday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table style = "width: 4000px;">
+<table class="tablesaw" data-tablesaw-mode="swipe" data-tablesaw-minimap>
 <thead>
 <tr>
-<th class = "time">Time</th>
-<th class = "day">Wednesday 13<sup>th</sup></th>
+<th scope="col" data-tablesaw-priority="persist" class="time">Time</th>
+<th scope="col" data-tablesaw-priority="persist" class="day">Wednesday 13<sup>th</sup></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
 </tr>
 </thead>
 <tbody>
@@ -489,11 +510,16 @@
 </div>
 ## Thursday {#Thursday-tbl .unnumbered}
 <div style = "overflow-x:auto;">
-<table style = "width: 4000px;">
+<table class="tablesaw" data-tablesaw-mode="swipe" data-tablesaw-minimap>
 <thead>
 <tr>
-<th class = "time">Time</th>
-<th class = "day">Thursday 14<sup>th</sup></th>
+<th scope="col" data-tablesaw-priority="persist" class="time">Time</th>
+<th scope="col" data-tablesaw-priority="persist" class="day">Thursday 14<sup>th</sup></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
+<th scope="col" class="day"></th>
 </tr>
 </thead>
 <tbody>
