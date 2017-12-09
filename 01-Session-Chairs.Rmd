@@ -126,7 +126,7 @@
 <td class = "contributed">Philip L.H. Yu</td>
 <td class = "contributed">Tianying Chu</td>
 <td class = "contributed">Rose Sisk</td>
-<td class = "contributed">Tanmay Kayal</td>
+<td class = "contributed"></td>
 </tr>
 </tbody>
 </table>
@@ -197,7 +197,7 @@
 <td class = "contributed">Thuong Nguyen</td>
 <td class = "contributed">Beatrix Jones</td>
 <td class = "contributed">Erniel Barrios</td>
-<td class = "contributed"></td>
+<td class = "contributed">Alan Bentley</td>
 </tr>
 </tbody>
 </table>

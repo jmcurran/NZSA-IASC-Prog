@@ -11,15 +11,13 @@
 <tr><td><a href = "Wednesday.html#talk_003">003</a></td><td><a href = "Wednesday.html#talk_003">Online Learning For Bayesian Nonparametrics: Weakly Conjugate Approximation</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_004">004</a></td><td><a href = "Wednesday.html#talk_004">The Joint Models For Nonlinear Longitudinal And Time-To-Event Data Using Penalized Splines: A Bayesian Approach</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_005">005</a></td><td><a href = "Wednesday.html#talk_005">Transfer Regression And Predictive Distributions</a></td></tr>
-<tr><td><a href = "Wednesday.html#talk_006">006</a></td><td><a href = "Wednesday.html#talk_006">Sparse Common Component Analysis</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_007">007</a></td><td><a href = "Wednesday.html#talk_007">Specification Of GARCH Model Under Asymmetric Error Innovations</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_008">008</a></td><td><a href = "Wednesday.html#talk_008">Lattice Polytope Samplers</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_009">009</a></td><td><a href = "Wednesday.html#talk_009">Promoting Your R Package</a></td></tr>
 <tr><td><a href = "Monday.html#talk_010">010</a></td><td><a href = "Monday.html#talk_010">Incorporating Genetic Networks Into Case-Control Association Studies With High-Dimensional DNA Methylation Data</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_011">011</a></td><td><a href = "Wednesday.html#talk_011">Presenting Flexi, A Statistical Program For Fitting Variance Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_012">012</a></td><td><a href = "Monday.html#talk_012">Calendar-Based Graphics For Visualising People's Daily Schedules</a></td></tr>
-<tr><td><a href = "Tuesday.html#talk_013">013</a></td><td><a href = "Tuesday.html#talk_013">Estimation And Prediction For A Distribution With Bathtub Shape Under Progressive First Failure Censoring</a></td></tr>
-<tr><td><a href = "Tuesday.html#talk_014">014</a></td><td><a href = "Tuesday.html#talk_014">Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_014">014</a></td><td><a href = "Wednesday.html#talk_014">Bayesian Optimum Warranty Length Under Type-II Unified Hybrid Censoring Scheme</a></td></tr>
 <tr><td><a href = "Monday.html#talk_015">015</a></td><td><a href = "Monday.html#talk_015">Adaptive Model Checking For Functional Single-Index Models</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_016">016</a></td><td><a href = "Tuesday.html#talk_016">An EWMA Chart For Monitoring Covariance Matrix Based On Dissimilarity Index</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_017">017</a></td><td><a href = "Tuesday.html#talk_017">Analysis Of Multivariate Binary Longitudinal Data: Metabolic Syndrome During Menopausal Transition</a></td></tr>
@@ -89,7 +87,6 @@
 <tr><td><a href = "Wednesday.html#talk_083">083</a></td><td><a href = "Wednesday.html#talk_083">Rolling Survival Extrapolation Algorithm For Estimating Life Years Lost Among Subjects Exposed To Long-Term Air Pollution</a></td></tr>
 <tr><td><a href = "Tuesday.html#talk_084">084</a></td><td><a href = "Tuesday.html#talk_084">Analysing Scientific Collaborations Of New Zealand Institutions Using Scopus Bibliometric Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_085">085</a></td><td><a href = "Monday.html#talk_085">Genetic Predictors Underlying Long-Term Cognitive Recovery Following Mild Traumatic Brain Injury</a></td></tr>
-<tr><td><a href = "Tuesday.html#talk_086">086</a></td><td><a href = "Tuesday.html#talk_086">Correlated Defaults With A Distance To Default</a></td></tr>
 <tr><td><a href = "Monday.html#talk_087">087</a></td><td><a href = "Monday.html#talk_087">Symbolic Data Analytical Approach To Unauthorized-Access Logs</a></td></tr>
 <tr><td><a href = "Monday.html#talk_088">088</a></td><td><a href = "Monday.html#talk_088">Bayesian Static Parameter Inference For Partially Observed Stochastic Systems</a></td></tr>
 <tr><td><a href = "Thursday.html#talk_089">089</a></td><td><a href = "Thursday.html#talk_089">Interactive Visualization Of Aggregated Symbolic Data</a></td></tr>
@@ -204,5 +201,8 @@
 <tr><td><a href = "Wednesday.html#talk_202">202</a></td><td><a href = "Wednesday.html#talk_202">A Bayesian Inference For Time Series Via Copula-Based Markov Chain Models</a></td></tr>
 <tr><td><a href = "Monday.html#talk_203">203</a></td><td><a href = "Monday.html#talk_203">Estimating Links Of A Network From Time To Event Data</a></td></tr>
 <tr><td><a href = "Monday.html#talk_204">204</a></td><td><a href = "Monday.html#talk_204">E-Learning Courses On Introductory Statistics Using Interactive Educational Tools</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_205">205</a></td><td><a href = "Wednesday.html#talk_205">Towards A Big Data CPI For New Zealand</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_206">206</a></td><td><a href = "Wednesday.html#talk_206">Investigating Methods To Produce Price Indexes From Big Data</a></td></tr>
+<tr><td><a href = "Wednesday.html#talk_207">207</a></td><td><a href = "Wednesday.html#talk_207">The Potential Of Web Scraping</a></td></tr>
 </tbody>
 </table>
