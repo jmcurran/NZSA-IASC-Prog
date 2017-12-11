@@ -204,5 +204,6 @@
 <tr><td><a href = "Wednesday.html#talk_205">205</a></td><td><a href = "Wednesday.html#talk_205">Towards A Big Data CPI For New Zealand</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_206">206</a></td><td><a href = "Wednesday.html#talk_206">Investigating Methods To Produce Price Indexes From Big Data</a></td></tr>
 <tr><td><a href = "Wednesday.html#talk_207">207</a></td><td><a href = "Wednesday.html#talk_207">The Potential Of Web Scraping</a></td></tr>
+<tr><td><a href = "Tuesday.html#talk_208">208</a></td><td><a href = "Tuesday.html#talk_208">Early Childhood Dental Decay</a></td></tr>
 </tbody>
 </table>

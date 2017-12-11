@@ -267,6 +267,7 @@ Sam Olivecrona: <a href="Wednesday.html#talk_206" style ="color: blue;">206</a>,
 Samin Aref: <a href="Tuesday.html#talk_084" style ="color: blue;">084</a><br />
 Sangwook Kang: <a href="Wednesday.html#talk_181" style ="color: blue;">181</a><br />
 Sarah Pirikahu: <a href="Tuesday.html#talk_115" style ="color: blue;">115</a><br />
+Sarah Sonal: <a href="Tuesday.html#talk_208" style ="color: blue;">208</a><br />
 Sarah Woodhall: <a href="Tuesday.html#talk_193" style ="color: blue;">193</a><br />
 Satoru Hiwa: <a href="Wednesday.html#talk_058" style ="color: blue;">058</a><br />
 Satoshi Goto: <a href="Monday.html#talk_101" style ="color: blue;">101</a><br />

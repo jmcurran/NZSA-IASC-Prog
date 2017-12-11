@@ -630,6 +630,23 @@ expansions, robust priors
 
 
 <p class="pagebreak"></p>
+<div id = "talk_208"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:10 Case Room 4 (260-009)</p></div>
+## Early Childhood Dental Decay {.unnumbered}
+<p style="text-align:center">
+Sarah Sonal<br />
+University of Canterbury<br />
+</p>
+<span>**Abstract:**</span> Our teeth are some of our most useful tools. They let us eat tasty food, take those plastic tags off new clothes and enhance our smiles to convey joy. They also have to last us a lifetime and need to be looked after. Teeth are a mutually supportive structure, even one extraction can destabilize the remaining teeth. Early intervention in oral health can prevent a lifetime of discomfort, embarrassment and expensive treatments. An issue that is facing Dentists in New Zealand and abroad are preschool children missing treatment appointments. These children have more dental issues in later childhood. 
+
+The research question I aim to answer is: Does early dental neglect increase dental issues in later childhood? My thesis will use traditional statistics along with datamining and machine learning techniques to investigate these anecdotal claims.
+
+Using the geographical information of the dataset I will be utilizing the Deprivation data from Statistics New Zealand to research if these children are from more deprived neighborhoods.
+
+<p style = "text-align: right">
+<a href = "programme-at-a-glance.html#Tuesday-tbl">Return to Programme</a><br/><br/></p>
+
+
+<p class="pagebreak"></p>
 <div id = "talk_067"><p class="contribBanner">Tuesday 12<sup>th</sup> 11:30 098 Lecture Theatre (260-098)</p></div>
 ## Geographically Weighted Principal Component Analysis For Spatio-Temporal Statistical Dataset {.unnumbered}
 <p style="text-align:center">

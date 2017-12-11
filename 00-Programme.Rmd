@@ -1,8 +1,8 @@
 ---
-output:
-  bookdown::gitbook:
-    includes:
-      in_header: tblsawinclude.html
+  output:
+    bookdown::gitbook:
+      includes:
+        in_header: tblsawinclude.html
   ---
 # Programme At A Glance {-}
 ## Monday {#Monday-tbl .unnumbered}
@@ -247,7 +247,7 @@ output:
 <td class = "contributed"><a href="Tuesday.html#talk_147" style = "color: black;">An Information Criterion For Prediction With Auxiliary Variables Under Covariate Shift<br/>Takahiro Ido</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_118" style = "color: black;">Analysis Of A Brief Telephone Intervention For Problem Gambling And Examining The Impact On Co-Existing Depression?<br/>Nick Garrett</a></td>
 <td class = "contributed"><a href="Tuesday.html#talk_175" style = "color: black;">Prior-Based Bayesian Information Criterion<br/>Woncheol Jang</a></td>
-<td class = "contributed"><a href="Tuesday.html#talk_NA" style = "color: black;"></a></td>
+<td class = "contributed"><a href="Tuesday.html#talk_208" style = "color: black;">Early Childhood Dental Decay<br/>Sarah Sonal</a></td>
 </tr>
 <tr>
 <td class = "time">1130</td>
