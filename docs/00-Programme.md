@@ -533,7 +533,7 @@
 </tr>
 <tr>
 <td class = "time">1000</td>
-<td class = "mealbreak" colspan = "6">Morning Tea (30 minutes)</td>
+<td class = "mealbreak" colspan = "6">Poster Session and Morning Tea (30 minutes)</td>
 </tr>
 <tr>
 <td class = "time"></td>
